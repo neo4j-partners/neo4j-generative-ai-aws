@@ -1,0 +1,1026 @@
+Sustainability Report 
+2020 | Changing tomorrow, together.
+Sustainability Report 
+2020 | Changing tomorrow, together.
+
+Altair Sustainability Report  /  2Overview Planet
+Practices
+People
+ProductsLetter from Our CEO
+Altair at a Glance
+Our Vision and Sustainability Impact
+Our Strategy and Commitments04
+05
+08
+1034
+36
+39
+40
+41
+4212
+13
+15
+1619
+20
+22
+25
+29
+30Altair Enlighten Award Toggled
+Data Security and Data Privacy
+Business Ethics and Integrity
+Human Rights Policy
+COVID-19 ResponseCultureOur ValuesDiversity and Inclusion
+Employee Resource Groups
+Community InvolvementProfessional Development
+All About the People
+Our Technology
+Research and DevelopmentOur Customers’ Use of Our TechnologyBy leveraging the convergence of simulation, HPC, and AI,  
+Altair helps bring safer and more sustainable products to 
+market faster, all while reducing costs, weight, and carbon 
+footprint. It’s through our core values that we are determined and committed to make the world a better place.
+Altair is changing tomorrow, together. Practices Overview People Products Planet
+Practices Overview People Products Planet
+Overview
+Practices Overview People Products Planet
+Overview:
+Altair Sustainability Report  /  4
+ Letter from Our CEO
+Letter from Our CEO
+When we founded Altair in 1985, we believed in creating a company to help our customers  
+be more competitive and also be a great place to work.
+Our culture and values have always supported a very diverse workforce, with flexible workplace 
+policies, and support for families and work-life balance. We have always worked hard to do the right things, which has created a unique workplace.  As a result of this approach, our attrition rates have always been very low.  
+We define Altair’s culture as one of innovation where we envision the future, communicate honestly 
+and broadly, seek technology and business “firsts,” and embrace diversity and risk taking. We achieved much success by staying true to who we are, and this has translated to success for our employees, customers, partners, and shareholders while also helping us contribute to a more sustainable future.
+Altair accepts the challenge to get better. We are at the most exciting time in our history for
+our technology, software products, and people. Our ability to have a positive impact on globalissues like sustainability, diversity, and increased opportunity for under-represented groups willcontinue to grow as we do. We are determined and committed to help the world be a better place.  
+Thank you for your support.
+James R. Scapa
+Founder, Chairman, and Chief Executive OfficerAltair accepts the challenge  
+to get better. We are at the  most exciting time in our history  for our technology, software  products, and people.
+Practices Overview People Products Planet
+Overview:
+Altair Sustainability Report  /  5
+ Altair at a GlanceAltair at a Glance 
+Transforming the Future with the Convergence of Simulation,  
+High-performance Computing, and Artificial Intelligence
+Altair (Nasdaq: ALTR) is a global technology 
+company that provides software and cloud 
+solutions in simulation, high-performance 
+computing (HPC), and artificial intelligence (AI). Altair enables organizations across broad 
+industry segments to compete more effectively 
+in a connected world while creating a more sustainable future.
+Our technologies are woven into the fabric of 
+everyday life. Wherever you are, and whatever 
+you are doing, Altair’s solutions surround you – 
+keeping you safer, more connected, and more productive. They can be found in big places and 
+small — on highways, hospitals, and hockey rinks, 
+in stadiums, skyscrapers, and subways, and in 
+banks, bikes, and boats.   
+ Our vision is to transform enterprise decision-making by leveraging the convergence of simulation, HPC, and AI. For more than 35 years, 
+Altair has helped companies in their digital 
+transformation efforts to make smarter decisions, save costs, reduce waste, accelerate time-to-
+market, improve business performance, and 
+evolve to a data-driven culture.
+By solving our customers’ toughest challenges 
+and delivering unparalleled service, we are helping the innovators innovate, make better 
+decisions, and turn today’s problems into 
+tomorrow’s opportunities.$469M 
+FY20 Revenue
+3,000+ 
+Engineers, Scientists, and Creative Thinkers
+12,000+ 
+Customers Globally
+86
+Offices in 25 Countries
+150+
+Altair and Partner Software Products
+Practices Overview People Products Planet
+Overview:
+Altair Sustainability Report  /  6
+COMPETITIVE ADVANTAGE:  
+BROAD PORTFOLIO OF COMPREHENSIVE SOLUTIONS
+The evolution toward a smart, connected 
+everything is changing the world and Altair  
+is leading this evolution. Our simulation and  
+AI-driven approach to innovation is powered by our broad portfolio of high-fidelity, physics-
+based solvers, best-in-class technology for 
+optimization and HPC, and end-to-end  platform for developing AI solutions.
+We believe in democratizing our technologies  
+to deliver more power to our customers through:
+• A flexible, patented units-based licensing 
+model, which lowers barriers to adoption  
+and increases technology utilization;
+• Anytime, anywhere access to Altair solutions;
+• Seamless integration with third-party 
+software applications at no incremental cost;
+• And our open architecture philosophy, which integrates with other software tools, including 
+those of our competitors.
+ Our scientists, engineers, and creative thinkers are the brains behind some of the world’s most 
+innovative breakthroughs. Our 1,000+ strong 
+software developers leverage their decades of 
+commercial software development expertise, which is unmatched in the market.
+Altair’s patented, flexible licensing model 
+revolutionized the way our customers use 
+software by lowering adoption barriers and 
+creating broad engagement. We see ourselvesas the Netflix of enterprise software, allowing 
+shared and on-demand access to our offerings, 
+along with partner products.
+Our growing list of partnerships – with 
+companies including NVIDIA, HPE, Intel,  
+Google, AWS, Oracle, and Microsoft – and 
+acquisitions of 30+ companies or strategic technologies gives us a differentiated,  
+open-architecture solution portfolio.
+Altair at a Glance
+Practices Overview People Products Planet
+Overview:
+Altair Sustainability Report  /  7
+OUR SOLUTIONS INCLUDE 
+Data Analytics and AI
+Market leading enterprise data preparation, 
+predictive analytics, and visualization solutions 
+that fuel business and engineering analytics.
+Design, Modeling and Visualization
+Modeling and visualization tools that allow 
+advanced physics attributes to be modeled  
+and rendered on top of object geometry in  
+high fidelity.
+Internet of Things (IoT)
+Connected products, including tools that 
+enable device enablement, data capture and management, edge computing, digital twins, data 
+visualization, and predictive/prescriptive analytics.
+Physics Simulation
+Mathematical software “solvers” that use 
+advanced computational algorithms to predict physical performance.HPC and Cloud Computing
+Maximizing the use of complex computing 
+resources and streamlining the workflow 
+management of computing-intensive tasks. Altair Partner Alliance
+Gives customers broader access to an extended 
+range of third-party software solutions using 
+existing Altair Units at no additional cost. Extends simulation and design capabilities even further  
+to create superior products faster.
+Altair at a GlanceLearn more about Altair’s Solutions
+Practices Overview People Products Planet
+Overview:
+Altair Sustainability Report  /  8
+Altair’s vision is to transform enterprise  
+decision making by leveraging the convergence 
+of simulation, high-performance computing,  
+and artificial intelligence.
+By applying our world-leading software, our 
+customers bring safer, more satisfying, and  more sustainable products to market faster. They 
+optimize material use and reduce cost, weight, 
+and carbon footprint. And by leveraging data analytics and HPC workload management they 
+bring the power of high-fidelity models, machine 
+learning, AI, and improved decision-making to industries ranging from engineering to finance.
+ We also conduct our business in a manner
+that manages environmental issues responsibly.
+We fulfill this commitment by:
+• Complying with local environmental 
+regulations across all our global offices
+• Conducting operations in an environmentally sound manner
+• Demanding appropriate environmental practices throughout our supply chainsOur Vision and Sustainability Impact
+Our Vision and Sustainability Impact20+ 
+Altair Products Contribute  
+to Sustainability
+Altair® OptiStruct® usage is  
+responsible for reducing many 
+millions  
+of tons 
+of CO2 emissions.
+Practices Overview People Products Planet
+Overview:
+Altair Sustainability Report  /  9
+SHARED INFRASTRUCTURE
+We offer cloud-based applications which allow 
+efficiently scaled and shared infrastructure to be used by multiple organizations, thus eliminating countless independent compute server installations and giving access to a broad range of applications 
+relevant to sustainable design.
+SUSTAINABLE DESIGN
+We enable structural optimization to inspire and refine product designs that minimize material 
+usage and maximize performance. Customers 
+can utilize simulation-driven innovation to rapidly develop products, processes, and experiences 
+in a virtual world without the carbon and waste 
+stream impact of multiple physical prototypes.OPERATIONAL EFFICIENCY
+We empower our HPC customers’ workload management to ensure efficiency of energy 
+usage and run time. Altair supports additive 
+manufacturing and other advanced manufacturing techniques to embody the most optimal designs 
+developed from simulation methodologies at the 
+lowest cost.
+MATERIAL EFFICIENCY
+Engineered plastics and laminate composites offer the design freedom to meet lightweighting 
+and cost requirements for complex parts. 
+High-quality plastic materials can be produced quickly and at high volume, but holistic simulation is needed to tailor materials to the individual product requirements. Altair offers a comprehensive set of engineering plastic 
+solutions to produce innovative plastic parts 
+quickly and reliably.
+Additive manufacturing (AM) isn’t just for rapid 
+prototyping, research projects, and advanced engineering teams. It is now a viable production 
+solution, and Altair provides a robust simulation 
+tool chain to support production designs created specifically for AM.
+Our Vision and Sustainability Impact
+Practices Overview People Products Planet
+Overview:
+Altair Sustainability Report  /  10
+Altair is committed to remaining responsible 
+worldwide. For decades, our employees and their 
+families have been almost evenly distributed 
+between APAC, EMEA, and the Americas. As a result, we emphasize a world view of humanity and 
+consider it our responsibility to be a positive actor 
+and voice for the health of people and the planet.
+Our core mission is to leverage technologies  
+that enable the convergence of simulation,  
+HPC, and AI to improve the efficiency, safety,  
+and health of the human experience. As we 
+continue investing in our software products,  
+we do so with the belief that we play an 
+essential role in reducing material usage,  
+energy consumption, and carbon emissions.
+We are committed to investing in these 
+technologies while improving our position  as a leader in global workforce diversity as  
+well. As a global company, we understand  
+how important it is to provide opportunities  for personal growth and achievement  
+regardless of gender, race, religion,  
+or socioeconomic background. We will continue tracking and reporting numbers that we feel are important to help us on our path, 
+and we look forward to our shared journey.Our Strategy and Commitments
+Corporate and Social Responsibility is Core to How Altair Operates
+Our Strategy and Commitments
+
+Practices Overview People Products Planet
+People
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  12
+When the most innovative minds and the
+best technology converge, anything is possible. 
+We believe that by bringing together the vast, 
+ever-evolving worlds of simulation, HPC, and AI, we’re not just helping redefine the way the world 
+creates – we’re redefining what’s possible.Culture
+Altair Fosters a Culture of  
+Global Diversity, Professional  and Personal Development,  and Innovation.
+From flex time to telecommuting, we believe 
+maintaining a healthy work / life balance  
+is critical.We envision the future and encourage an 
+entrepreneurial mindset and spirit with  
+the opportunity to communicate honestly,  
+and broadly across the organization.
+With access to the latest training, tools, 
+and technology, our work spans multiple 
+industries across the globe to aid your  
+career development. We provide a total rewards package that 
+includes salary, time off, holidays, insurance, 
+corporate discounts, incentives, and an 
+employee stock purchase program.Our collaborative environment fosters
+a culture of connectedness, sustainability,  
+and social responsibility worldwide.
+We offer a variety of wellness initiatives that  
+keep us moving forward. Across the globe we offer onsite and virtual health visits, yoga, 
+Pilates, stretching, and more.
+Culture
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  13
+ Our ValuesOur Values
+Change Tomorrow, Together.
+These values have been at Altair since the company was established  
+and are in our DNA. Our four values fuel the way we innovate, the way we 
+collaborate and problem solve, the way we communicate effectively, and the 
+way embrace diversity. We don’t just talk about our values, we live them.
+ENVISION THE FUTURE 
+We follow a long-term vision that transforms markets and creates new opportunities for a sustainable future without boundaries.
+ 
+COMMUNICATE HONESTLY AND BROADLY 
+We share information transparently to ensure broad awareness, 
+engagement, and collaboration. We believe sharing knowledge  
+is crucial for solving problems and fostering innovation.
+
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  14
+SEEK TECHNOLOGY AND BUSINESS “FIRSTS” 
+We solve our customers’ challenges by being “first” to deliver cutting-edge 
+technology and business solutions fueled by our innovation, market 
+strategy, and talent.
+EMBRACE DIVERSITY AND TAKE RISKS 
+Our employees’ diverse perspectives and experiences are a competitive 
+advantage for us, and help us innovate, problem-solve, and achieve  
+endless possibilities.
+Our Values
+Altair makes great products, but it is really the people 
+that make Altair such a rewarding place to work.  
+Their drive to solve the most challenging of problems  
+is really inspiring. I’m always learning something new  
+from the many creative and talented folks at Altair. 
+ 
+Greg Delbridge, Technical Director, Altair Canada 
+
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  15
+Diversity and Inclusion
+Diverse Culture Fosters Innovation
+At Altair, we don’t just talk about diversity, we aggressively work to  
+achieve it. I don’t just mean gender diversity, but religious, ethnic, and  cultural diversity. Since we founded Altair 34 years ago, I have worked alongside many leaders at Altair to create environments where smart  people from all walks of life can respectfully exchange ideas  and inspiration. A place where “a-ha” moments are born.”
+Jim Scapa, CEOAt Altair, we recruit top talent and invest in our global workforce to fuel diversity, professional  
+and personal growth, and innovation. With more than 3,000+ employees our retention rate  
+is well beyond the industry standard, and a testament to our engaging, inclusive culture.
+Diversity and Inclusion3,000+
+Employees
+2%
+EMEA Workforce  
+Covered by WC8+ years
+Average Tenure of  
+Current Workforce25
+Countries
+50
+Nationalities75+
+Languages  Spoken
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  16
+Employee Resource Groups
+We Believe that Empowering Each Individual  
+Authentic Voice Encourages an Entrepreneurial Mindset
+ALTAIR BLACK EMPLOYEE RESOURCE NETWORK (ABERN)
+The strength of the Altair brand and corporate culture is firmly rooted in diversity and inclusion.  
+Altair’s history demonstrates a belief that empowering each individual authentic voice reinforces  
+a culture that thrives because of the uniqueness among our team. ABERN is committed to actively 
+engaging Altairians to support this goal.From day one, diverse backgrounds and experiences have been essential to our long-term success and growth. We strive to create 
+a comfortable and safe working environment 
+for all people, regardless of gender, ethnicity, religion, age, political affiliation, sexual 
+orientation, or disability.
+Together we are on a path to make a 
+difference. Our employees take their work 
+seriously, and put their hearts and souls into developing unique, game-changing solutions 
+that improve our world.
+Employee Resource Groups
+Launched ABERN Book Club to Promote 
+Open-ended Culture Discussions
+Logged 130+
+hours of discussions among Altairians  
+around the globe. ABERN’s founding members.
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  17
+ALTAIR WOMEN IN TECHNOLOGY (W iT)
+Altair WiT was established to develop and empower women in technology, with an emphasis on 
+women at Altair. The unique perspectives, ideas, and experiences that women bring to Altair help 
+to establish a more diverse and inclusive workforce and ultimately thrive as one united, global 
+team working every day to impact our world one customer at a time.Altair gave me the opportunity  
+to work with a global team of  
+more than 100 engineers operating  
+from ten global offices. As the  
+VP of Altair’s Enterprise Solutions 
+Group, we strive to make work  
+more efficient by automating  
+and optimizing workflows, and by tailoring solutions to our customers’ individual needs.” 
+Karin Hirschberger, VP Enterprise Solution Group
+Employee Resource Groups20%
+OF EMPLOYEES 
+ARE WOMEN33%
+FEMALE CEO 
+DIRECT REPORTS29%
+WOMEN ON  
+ALTAIR’S BOARD  
+OF DIRECTORS 
+28%
+OF EXTERNAL 
+HIRING ARE  
+WOMEN30%
+OF INTERNS  
+ARE WOMEN
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  18
+Innovators of Tomorrow
+Internship Program
+Altair’s internship program is founded on three pillars: Technical, Professional, 
+and Social. Because of this, Altair offers a cutting-edge internship program  
+that fosters innovation, teaches leadership, and instills a passion for making  
+a difference. 1 in 3
+Students are  
+Female
+100%
+Intern Satisfaction14
+Countries Globally
+75
+Global Universities Represented
+Employee Resource Groups
+I got the chance to assimilate trends in software 
+development while interacting with customers and 
+consulting with internal teams. There are no limits  to learning and showcasing your talent at Altair.”
+Vibor Rajput, 2020 Intern
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  19
+Community Involvement 
+Partnerships that Promote Our Commitment to Our Communities
+Community InvolvementPartnerships in U.S.
+• AnitaB.org
+• Data Science for All (DS4A)/Empowerment
+• Detroit Area Pre-College Engineering 
+Program (DAPCEP)
+• FIRST Robotics Competition
+• Michigan Council of Women in Technology (MCWT)
+• National Society of Black Engineers (NSBE)
+• Society of Women Engineers  Partnerships in EMEA
+• Cash for Kids
+• Deutsche Krebshilfe
+• Mind
+• Rädda Barnen
+• Refuge
+• Round Table 182 Tubingen
+• Save the Children
+• Managers Without Borders
+• The Trussell Trust
+• unicef
+• Wasser Stiftung Water Foundation
+• Wings for Life World Run Partnerships in APAC
+• Green Umbrella Children’s Foundation 
+• IIT Madras
+• Karnataka State Council for Child Welfare
+• Parikrma Humanity Foundation
+• SayTreesAltair is proud to support and embrace the missions of these amazing organizations:
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  20
+Professional Development 
+Altair’s Culture Promotes Professional and Personal Growth
+FREEDOM TO DISCOVER & GROW
+• Opportunity to explore technical trends  
+and breakthrough technologies
+• Collaboration with universities in adopting  our technologies through joint research  
+and innovative projects
+• Cadence of performance reviews, global 
+mobility, global talent reviews, and mentoring
+ PROMOTE PERSONAL WELLBEING
+• Healthcare: medical, dental, vision, 
+prescription, disability, insurance
+• Family support benefits: flexible work environment, parental leave, holiday  and vacation programs
+• Wellness: employee assistance programs, onsite clinic, fitness facilities, yoga/meditation/Pilates programs, community involvement, charitable donation matching
+• Financial wellbeing: employee stock purchase program, pension retirement plans, financial planning and training, discount program,  
+and tuition reimbursementINTERNAL TRAINING OF  
+OUR TECHNOLOGIES
+• Altair technology and product suite training
+• Leadership and team competency training
+• Sales training on customer care and enterprise 
+sales skills
+
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  21
+Our Culture Fuels Innovation 
+Investing in our World-Class Workforce Drives Us Forward
+Our strongest assets are our 3,000+ global 
+innovators, scientists and creative thinkers. 
+At Altair, we put our heart and soul into 
+developing unique, game-changing solutions that solve our customers’ toughest challenges. 
+We are on a path to improve our world, our 
+future, and to make a difference.
+Our human capital strategy focuses on recruiting 
+the best and brightest, rewarding and celebrating success, and retaining top talent. “Altair has an open culture with 
+broad communication and high 
+collaboration. I was impressed from the beginning that every colleague was helpful at any time worldwide. I believe we are one of the most innovative companies and are ready for the future. If there is a problem we solve it quickly and proactively.”
+ Altair Emplo yee, Germany
+Professional Development72%
+TECHNICAL 
+EMPLOYEES
+6%
+TURNOVER  
+RATE14%
+WOMEN IN TECH
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  22
+All About the People
+Priorities in the Chaos of COVID-19
+Just two weeks into my new role as chief people 
+officer, I found myself mobilizing a team to 
+live up to my new title – to guide and protect 
+our global team during an unprecedented pandemic. Talk about a quick and steep 
+onboarding. When engulfed in a crisis, you 
+get to experience the true DNA of a company. Today, I am overwhelmed and humbled at how 
+our community of customers, partners, and 
+employees have come together.
+Envisioning the future has served as our true 
+north. Instead of focusing on short-term gains, we rejected rash decisions and continued to offer 
+innovations around new ways to work, partnered 
+with customers, and collaborated as one global team. As a result, our global workforce has 
+remained productive, engaged, and optimistic 
+about the future.Communicating honestly and broadly has been another important element. In assessing the risks 
+of COVID-19, our CEO Jim Scapa acted without 
+hesitation to deploy a work-from-home strategy to ensure our employees across 86 offices in 25 
+countries remained safe and connected. He was 
+ahead of the curve in taking drastic measures  to keep our team healthy and safe.
+Today, our global workforce 
+continues to come together to support each other in countless ways, whether it’s our internal medical team offering virtual  health and wellness programs...  
+All About the PeopleGilma Saravia, Chief People Officer
+
+Practices Overview People Products Planet
+People: 
+Altair Sustainability Report  /  23
+...(like Pilates, meditation, mental 
+health tips, and information sessions by medical professionals to educate and answer questions about COVID-19) or individual Altairians organically sharing healthy recipes and activities for children and families.” 
+ 
+And I am proud to say that one of our regional 
+offices was even able to procure masksfor all Altairians and their families.We are already thinking about what is next,  
+and of course, we will continue to adhere to  
+local governmental and regulatory guidelines.
+Right now, we are preparing for a safe and 
+responsible return to all our offices around the world. Part of the strategy includes holding site 
+training so employees are comfortable and aware 
+of new health and safety protocols that will  be implemented.
+We are also planning to allow employees to 
+continue to work from home, knowing they  
+will always have an office they can return  
+to when needed.97% 
+COVID-19 Response Satisfaction
+97% 
+Leadership Action in Response to COVID-19
+All About the People
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  24
+Practices Overview People Products Planet
+Products
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  25
+Our Technology
+Our software technology and consulting 
+services are key to designing a healthier  
+and more sustainable future for humanity. 
+Our efforts:
+• Enable structural optimization that inspires 
+and refines product designs that minimize 
+material usage and maximize performance
+• Conduct HPC workload management that 
+ensures energy usage and run time efficiency
+• Utilize simulation-driven innovation to rapidly develop products, processes, and 
+experiences in a virtual world without the 
+carbon and waste stream impact of multiple physical prototypes
+• Employ additive manufacturing and other advanced manufacturing techniques to embody 
+the most optimal designs developed from 
+simulation methodologies at the lowest cost   
+ • Offer cloud-based applications which allow 
+multiple organizations to use efficiently 
+scaled shared infrastructure, thus eliminating 
+countless independent compute server installations and giving access to a broad range 
+of applications relevant to sustainable design
+SUSTAINABILITY HIGHLIGHTS
+Altair® OptiStruct® usage increased tenfold 
+between 2013 and 2020. As the world’s leading 
+tool for material optimization and weight 
+reduction, this continuing trend bodes well  for targeted reductions of material usage,  
+fuel consumption, and CO2 emissions.
+  We believe OptiStruct is responsible for 
+reducing many millions of tons of CO2 
+emissions, and we look forward to accelerating this positive impact with continued growth  
+in optimization technology applications by 
+our customers.
+Our Technology
+
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  26
+The International Energy Agency (IEA)
+recently published two significant reports.  
+The first, from March 2019, is “Material Efficiency 
+in Clean Energy Transitions1.” The second, from 
+June 2021, is “Net Zero by 2050 – A Roadmap 
+for the Global Energy Sector2.” Altair is aligned 
+with the goals and milestones set by the IEA, an intergovernmental agency formed by the 
+Organization for Economic Co-operation  and Development (OECD).
+The IEA makes several things clear, including:
+• There is much work to do to achieve  
+a net-zero carbon footprint by 2050
+• Materials efficiency plays a key role in this transition across industries and technologies
+Our Technology1 March 2019. Material Efficiency in Clean Energy Transitions. IEA Publications. 
+https:/ /iea.blob.core.windows.net/assets/52cb5782-b6ed-4757-809f-928fd6c3384d/
+Material_Efficiency_in_Clean_Energy_Transitions.pdf
+2 June 2021. Net Zero by 2050. A Roadmap for the Global Energy Sector. IEA 
+Publications. https:/ /iea.blob.core.windows.net/assets/beceb956-0dcf-4d73-89fe-1310e3046d68/NetZeroby2050-ARoadmapfortheGlobalEnergySector_CORR.pdf
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  27
+ Our TechnologySustainability Goal Reduced Material 
+UsageRenewable Energy Electrification 
+and Advanced 
+CommunicationsWaste Stream 
+ReductionReduced Fuel  Consumption
+International 
+Energy Agency 
+(IEA) TargetPursuing material 
+efficiency strategies  
+to their practical limit in 
+the Material Efficiency variant reduces steel use by an additional 15% and 
+cement use by another 
+17% in 2060.Carbon emissions Net Zero by 2050.Almost 30% of the 170 Gt CO2 cumulative emissions 
+reductions from the use of 
+low emissions electricity in the NZE comes from technologies that are
+currently at prototype 
+or demonstration stage, such as electricity based primary steel production 
+or electric trucks.The goal also aims to 
+substantially reduce 
+waste generation through 
+prevention, reduction, recycling and reuse.A general rule is  that a 6-7% reduction  
+in specific fuel 
+consumption can be achieved for each 10% reduction in vehicle kerb 
+weight.
+Altair Products Altair® OptiStruct®, 
+Altair® Radioss®, Altair® 
+HyperMesh®, Altair 
+SimSolid®, Altair® SimLab®, Altair® DesignAI™, Altair® EDEM™Altair® OptiStruct®, Altair® Radioss®, Altair® 
+HyperMesh®, Altair 
+SimSolid®, Altair® SimLab®, Altair® DesignAI™, Altair® AcuSolve®, Altair® 
+ultraFluidX®Altair® Feko®, Altair® 
+Flux®, Altair FluxMotor®, 
+Altair Compose®, Altair 
+Activate®, Altair Embed®, Altair® Pollex™Altair® SmartWorks™, Altair® Knowledge Studio®, 
+Altair® Monarch®,  
+Altair® Panopticon™Altair® OptiStruct®, 
+Altair® Radioss®, Altair® 
+HyperMesh®, Altair 
+SimSolid®, Altair® SimLab®, Altair® DesignAI™, Altair® AcuSolve®, Altair® 
+ultraFluidX®
+Altair Solutions Structural Analysis and 
+OptimizationStructural Analysis, Optimization, and CFDElectromagnetics, Electronic System Design, 
+and Systems Modeling  AI, Data Analytics,  
+Data Streaming,  
+and VisualizationStructural Analysis, 
+Optimization, and CFDALTAIR CSR PRODUCTS
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  28
+ Our TechnologySOM Achieves Sustainability Objectives  
+Through Innovative Design
+Designers and engineers at Skidmore, Owings 
+& Merrill (SOM) are considerate of the materials 
+they use in projects and aim to create designs that use fewer materials so they can reduce cost 
+and environmental footprint. With this in mind,  
+a perfect addition to enhance their design 
+workflow was Altair® OptiStruct®.
+The structural design specialists at SOM used 
+OptiStruct to generate an ideal project plan that considered sustainable regulations and manufacturing constraints. With this unique design, SOM was able to minimize the weightof the building and use fewer materials, reducing cost for both the client and contractor. Specifically, the SOM team reduced the steel needed by 10 percent while improving the global 
+performance of the structural system.
+The building received LEED® Platinum certification 
+and reached the GSA’s 2020 energy objective. It has also won more than 35 awards for its creative 
+and timeless design.
+Read the full customer story here .
+
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  29
+ Research and DevelopmentResearch and Development
+R&D Propels Altair Forward
+Our R&D efforts enhance the functionality, breadth, and scalability of our software, address new use 
+cases, and develop additional innovative simulation technologies. Timely development of new products 
+maintains our competitive position, and we release new versions of our software on a regular basis.
+Customer feedback, combined with our roadmap, allows us to deliver long-term value and stay  
+ahead of market trends. The majority of the product enhancements and new capabilities added  
+to our offerings over the years have been developed internally, with acquisitions used to augment  our capabilities with strategic technology.
+Our R&D initiatives foster a culture of innovation within the organization, helping us attract and retain a 
+highly motivated team. Altair’s research and development team consists of approximately 1,200 people 
+worldwide. We maintain research and development centers with specific technical expertise in several 
+regions throughout the Americas, Asia-Pacific, Europe, the Middle East, and Africa.
+ 
+$126M
+Spent in 2020
+27% 
+of Revenues on R&D
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  30
+Our Customers’ Use of Our Technology
+Schiebel Group
+Our Customers’ Use of Our TechnologyFLY HIGH WITH OPTIMIZATION
+Optimizing Camcopter® S-100 Design at Schiebel with Altair Solutions
+“Altair solutions helped us create a topologically optimized engine part for 
+our CAMCOPTER S-100 and an efficient design that meets all demands. Using 
+simulation enabled us to leverage the full potential of additive manufacturing 
+and allowed us to accelerate our time to market. Thanks to Altair’s technology expertise and support, we are able to realize significant time and cost savings 
+and offer our customers exceptional cost-benefit ratio.”
+Dominik Kohl, head of additive manufacturing, Schiebel Group
+Read full case study here.
+50% 
+Weight Reduction15% 
+Cost Savings
+
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  31
+Our Customers’ Use of Our Technology
+Our Customers’ Use of Our Technology“To us, Altair SimSolid means efficiency. 
+While the software quickly provides accurate 
+simulation and optimization in one step it 
+does not require any expert knowledge. No expertise in analysis is necessary and especially 
+no meshing is required. Also, SimSolid helps 
+our designer to shape chassis components with confidence based on the SimSolid simulation.”
+Anthony Reullier, Digital Simulation  
+Specialist and CAE Leader, Renault
+“PollEx PCB verification solution was initially 
+adopted to reduce manufacturing defects and human errors of engineers, and thanks to it we 
+could significantly reduce development and 
+manufacturing costs.” 
+JungWon Lee, Chief Researcher, Samsung SDI “Altair’s license-first approach to scheduling 
+enabled Annapurna Labs to enhance its 
+resource management. It not only gave us  
+more control over resource usage and cost,  
+we dramatically improved productivity and time-to-product through the Continuous-
+Integration development flow.” 
+Nafea Bshara, Annapurna Labs
+“Radioss clearly represents an alternative  
+crash analysis process with compelling benefits. 
+It will help accelerate research and development 
+process at NIAR, and significantly shorten design cycle time in the aerospace industry. 
+Radioss performs brilliantly on Oracle’s high 
+performance cloud infrastructure.”
+Rafael Leite, Research Associate, National 
+Institute for Aviation Research, NIARThe adoption of Inspire and 
+SimSolid in our workflow has been transformational. We could reduce the entire design cycle of 40% and realize three validation analyses in less than 90 minutes, allowing us to design lighter and safer support structures. Thanks to Altair’s solutions, we could quickly find the optimal design layout for our NINFA models with Inspire and then verify the rationalized geometry with SimSolid. In addition, we can leverage SimSolid for the nonlinear analyses for our complex structural assembly of more than 1000 parts.” 
+Gabriele Romagnoli, Head of Structural 
+Engineering, Farone
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  32
+Our Customers’ Use of Our Technology
+Etteplan
+Our Customers’ Use of Our TechnologyBETTER PRESS TOOLS WITH ADDITIVE MANUFACTURING
+Innovative Design, Less Material and Guaranteed Successful Manufacture
+“Etteplan’s AM press tool met Wärtsilä’s objectives with its fast turn-round, 
+cost, and the fact it reduced material waste with its self-supporting design. 
+Our team of talented experts, armed with Altair’s integrated design and 
+analysis tools, used topology optimization and Amphyon’s print process simulation to come up with a print-ready design in 1 week.”
+Erin Koml, AM Specialist, EtteplanRead the full customer story here.
+
+Practices Overview People Products Planet
+Products: 
+Altair Sustainability Report  /  33
+Practices Overview People Products Planet
+Planet
+Practices Overview People Products Planet
+Planet: 
+Altair Sustainability Report  /  34
+Altair Enlighten Award
+Dedicated to Lightweighting and Sustainability
+Altair Enlighten AwardThe Altair Enlighten Award is the automotive 
+industry’s only award dedicated to lightweighting 
+and sustainability. Established in 2013 with the 
+Center for Automotive Research, it was created to highlight innovations in vehicle lightweighting.
+The Altair Enlighten Award honors the greatest 
+sustainability and lightweighting advancements 
+that commit to reducing the carbon footprint, 
+mitigating water and energy consumption, as well as successful efforts in material reuse 
+and recycling. Sparking interest from industry, 
+engineering, policymakers, educators, students, and the public alike, this annual award showcases 
+the latest technology innovations dedicated  
+to sustainability.• Sustainable Product – Emissions, lightweighting, and safety advances in a 
+production vehicle or major system module
+• Sustainable Process – Material reuse / 
+recycling and water conservation advances  
+in manufacturing
+• Module Lightweighting – Mass reduction of  
+a vehicle module, subsystem, or component
+• Lightweighting Enabling Technology – Technology advancement that enables 
+vehicle lightweighting, including a material, 
+production process, design method,  
+or joining technology
+• Future of Lightweighting – Process, material, or technology not in production, but has 
+significant potential to advance vehicle 
+lightweightingSustainable Product
+Module  
+Lightweighting
+Future of  
+LightweightingSustainable Process
+Lightweighting  
+Enabling Technology
+Practices Overview People Products Planet
+Planet: 
+Altair Sustainability Report  /  35
+Altair Enlighten Award
+Customer Successes
+Altair Enlighten Award“We are immensely proud of the work we did  
+on the one-of-a-kind Jeep Wrangler. We are also 
+grateful to Altair for recognizing engineering 
+achievement, in general. Thoughtful, disciplined engineering unlocks innovation. And innovation 
+moves the world forward.” 
+Rob Wichman, Interim, Head of Product 
+Development, FCA North America
+“I really like it (the Enlighten Award).  
+We are a small company compared to the  
+mega companies, and also the OEMs - for us it’s a big effect on the marketing side - to get our 
+technologies, and capablities in the discussion, 
+and the way we think in our company.” 
+Dr. Stefan Herrmann, csi Group“We’re very honored to receive the (Enlighten) 
+Award from Altair because we used many of 
+Altair’s analytical products to deliver this  
+thing quickly. We developed our software  
+using Altair Embed, we use many of their  
+other packages to engineer those parts  
+before we build the prototypes.”
+Craig Renneker, Vice President, Driveline  
+Product Engineering, American Axle  
+and Manufacturing (AAM)  
+In reference to their 2021 winning entry  
+AAM Next Generation Electric Drive
+Hear more from the Enlighten Award 
+Winners on sustainability
+Practices Overview People Products Planet
+Planet: 
+Altair Sustainability Report  /  36
+As a leading technology company, our vision is 
+to improve the way the world works and people 
+live. Developing intelligent building management 
+solutions, as well as attainable and user-friendly LED lighting, drives us forward. We strive to 
+develop the future of smart building technology 
+and bring it to market.
+TOGGLED
+Toggled® products can save businesses and 
+homeowners between 40 percent – 70 percent 
+on monthly energy costs compared to traditional 
+fluorescent systems. Rated for 50,000 hours and backed by a best-in-class warranty, the lifespan 
+of Toggled LED tubes is 16 years vs. eight with 
+the average fluorescent tube. Also, no Toggled products contain mercury, unlike traditional 
+fluorescent products.Toggled
+Intelligent Building Management Solutions
+Toggled
+Practices Overview People Products Planet
+Planet: 
+Altair Sustainability Report  /  37
+ ToggledTOGGLED IQ
+Leveraging the design and engineering
+strength of parent company Altair, Toggled iQ® is 
+dedicated to improving the way the world works 
+and how people live. Developing attainable and 
+user-friendly intelligent building advancements is 
+a driving force in bringing next-generation smart 
+technology to market.
+Starting with lighting, Toggled iQ has become 
+a complete building ecosystem. Now you can 
+control, monitor, and improve a building’s 
+environment with high-end electronics  
+and cutting-edge software.
+Toggled’s expertise in lighting technology, 
+multidisciplinary systems-level thinking, and our 
+deep understanding of the IoT value chain – from 
+product design and data visualization to AI and 
+machine learning – has produced an intelligent, 
+holistic, intelligent building solution.
+Practices Overview People Products Planet
+Planet: 
+Altair Sustainability Report  /  38
+Practices Overview People Products Planet
+Practices
+Practices Overview People Products Planet
+Practices: 
+Altair Sustainability Report  /  39
+Data Security and Data Privacy
+Altair’s Privacy Policy can be found here:  
+www.altair.com/privacy-policy.  
+The introduction to our Privacy Policy reads  
+as follows: This Privacy Policy describes how Altair Engineering, Inc. collects and uses 
+Personal Information about you through the use 
+of our websites and our products and services.
+Altair Engineering, Inc., its subsidiaries,  
+and affiliates (“Altair” or “We”) respect your privacy and are committed to protecting  
+it through our compliance with this policy.
+This Privacy Policy (our “Privacy Policy”) 
+describes the types of information we may 
+collect from you or that you may provide when you use our remotely accessed software or 
+when you visit our websites, including, but not 
+limited to www.altair.com, www.altairenlighten.com, www.altairhyperworks.com, insider.
+altairhyperworks.com, www.pbsworks.com,  www.solidthinking.com, login.solidthinking.com, blog.altair.com, 365.altair.com, www.toggled.com, connect.altair.com, www.altairsmartworks.com, 
+www.altairuniversity.com, www.pbs.org,  
+www.pbscloud.io , www.openmatrix.org, 
+www.altairatc.com, www.efatigue.com and  
+other websites owned or operated by Altair, 
+including local websites in your country, such  as www.altair.it, www.altair.de , and www.altair.
+se (collectively, our “websites”) or provide us information at a trade show, marketing event, or through an agreement entered into between 
+Altair and you and/or your employer and our 
+practices for collecting, using, maintaining, protecting, and disclosing that information.
+ 
+This policy applies to information we collect: on our websites, including but not limited to 
+comments and forums on our websites; in email, 
+text, and other electronic messages between you and Altair, including on or through our websites;
+that you provide at marketing, trade shows, 
+training registrations, and other similar events; and that you or your employer provides as part of an agreement between you or your employer 
+and Altair for our products and services.
+It does not apply to information collected by: any 
+third party, including through any application or 
+content (including advertising) that may link to or be accessible from or on the websites.
+Please read this policy carefully to understand 
+our policies and practices regarding your 
+information and how we will treat it. If you do 
+not agree with our policies and practices, your choice is not to use our websites or our products 
+and services. By accessing or using our websites, 
+you agree to this Privacy Policy. This Privacy Policy may change from time to time (see 
+Changes to Our Privacy Policy). Your continued 
+use of our websites or our products and services after we make changes is deemed to be 
+acceptance of those changes, so please check 
+this Privacy Policy periodically for updates. 
+ Data Security and Data Privacy
+Practices Overview People Products Planet
+Practices: 
+Altair Sustainability Report  /  40
+Business Ethics and Integrity
+Altair’s Code of Conduct is posted here. 
+Its introduction reads as follows:
+This Code of Business Conduct and Ethics (the “Code”) is designed to deter wrongdoingand to promote:
+• Honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships;
+• Full, fair, accurate, timely and understandable disclosure in reports and documents we file with or submit to the U.S. Securities and Exchange Commission and in our other public communications;
+• Compliance with applicable laws, rules and regulations;
+• The prompt internal reporting of violations of this Code; and
+• Accountability for adherence to this Code. 
+This Code applies to all directors, officers and employees of Altair Engineering Inc. and its subsidiaries (“Altair”), who, unless otherwise specified, will be referred to jointly as employees. Agents and contractors of Altair are also expected to read, understand and abide by this Code.
+ Business Ethics and Integrity
+
+Practices Overview People Products Planet
+Practices: 
+Altair Sustainability Report  /  41
+Altair’s Code of Conduct, available here, includes the following statements regarding Human Rights:
+SELECTING SUPPLIERS
+Altair’s policy is to select suppliers based on the merits of their products, services, and business 
+practices and to purchase supplies based on need, quality, service, price, and other terms and 
+conditions of sale. Altair does not establish a business relationship with any supplier if we know  
+that its business practices violate applicable laws.
+Altair believes that it has a role in promoting sustainable practices, and as such encourages supplier 
+selection to consider supplier commitment to health, safety, and sustainability issues including air quality, child labor and young workers, energy consumption and greenhouse emissions, forced or 
+compulsory labor and human trafficking, human rights, natural resources management and waste 
+reduction, responsible chemical management, wages and benefits, water quality and consumption,  and working conditions.
+ Human Rights PolicyHuman Rights Policy
+
+Practices Overview People Products Planet
+Practices: 
+Altair Sustainability Report  /  42
+Altair is committed to and capable of continuing 
+to provide the same excellent level of service 
+and technical support to which customers have 
+become accustomed. Our team is comfortable and familiar with remote work, as it is a normal 
+part of our everyday life.
+Our systems are fortified to provide the highest level 
+of technical support and service for customers, and 
+our IT team is always responsive and focused on ensuring Altairians globally have the connectivity 
+and access to do their jobs from anywhere. 
+To address issues related to remote working such 
+as maxing out corporate VPNs, cost, security 
+issues, and productivity loss, customers can move existing licenses seamlessly from on-prem 
+servers to hosted servers utilizing Altair Hosted 
+HyperWorks Units (HHWUs). HHWUs are an existing Altair solution used by many customers 
+globally for several years, proven to be safe, 
+robust, and provides the following benefits:• Enable employees to work from anywhere without overloading corporate VPN servers or 
+drilling a hole into the firewall for license access
+• Data remains secure with prevailing security 
+policies on the device of choice as the 
+software is only requesting a license on  
+a secure network channel
+• Reduce IT overhead of maintaining  on-premises license servers (reduced  
+cost of hardware) and supporting them
+• Ease of access and execution of Altair 
+software from anywhere/everywhere  
+and on public cloud infrastructure
+Link to full article here.COVID-19 Response
+ Covid-19 Responses
+
+Practices Overview People Products Planet
+Practices: 
+Altair Sustainability Report  /  43
+Appendix
+Practices Overview People Products Planet
+Altair Sustainability Report  /  44Altair Sustainability Report  /  44ALTAIR BY THE NUMBERS
+*Altair Numbers as of December 31, 2020General • Total Employees (excludes temp, contractors, students)
+• Countries
+• Offices/Locations
+• Technical Employees
+• Total Hires
+• Early Career Hires
+• Average Tenure of Current Workforce (excludes temp employees)
+• Average Tenure of Voluntary Attrition (excludes temp employees)• 3,000+
+• 25
+• 86 offices
+• 72%
+• 194
+• 33%
+• 8.1 years
+• 5 years
+Turnover • Voluntary Turnover Rate
+• Total Turnover Rate• 4%
+• 6%
+Diversity Gender • Percentage of Women
+• Percentage of Women in Tech
+• Women Reporting Directly to CEO
+• Women Serving on Board of Directors
+• Intern Women Percentage
+• External Percentage of Hiring that are Women• 20%
+• 14%
+• 33%
+• 29%
+• 30%
+• 28%
+Other Diversity 
+Measures• Diversity of Direct Reports to CEO
+• Diversity in Directors Serving on Board• 16%
+• 34%
+Work Council/Union Rep • EMEA Workforce Covered by Works Council or Other Collective Bargaining Agreement • 2%
+COVID-19 Response • COVID-19 Response Satisfaction
+• Leadership Action in Response to COVID-19• 97%
+• 97%
+Appendix
+#ONLYFORWARD © Altair Engineering, Inc. All Rights Reserved.  /  altair.com  /  Nasdaq: ALTR 

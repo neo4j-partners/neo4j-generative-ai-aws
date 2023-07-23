@@ -1,0 +1,1387 @@
+GENUINE PARTS COMPANY
+SUSTAINABILITY 
+REPORT UPDATE2021
+2
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+TABLE OF CONTENTS
+03OVERVIEW
+3
+4
+5
+6 
+7 
+8
+8About This Report
+CEO Message
+Our Business
+Culture, Mission and Vision 
+Sustainability Principles and 
+Material Issues
+Stakeholder Engagement
+International Progress
+09SUSTAINABILITY 
+HIGHLIGHTS
+10PEOPLE
+10
+10
+11 
+12Sustaining Our Workforce
+Employee Wellbeing
+Diversity, Equity and 
+Inclusion (DE&I)
+Supplier Diversity13PLANET
+13
+14
+14
+14
+15Energy and Emissions
+Buildings
+Fleet
+Employee and Team Travel
+Water Consumption
+16PURPOSE
+16Sustaining Our Community
+18GOVERNANCE
+18
+19Our Board
+Related Policies and Governance 
+Documents
+20APPENDICES
+20
+22Genuine Parts Company 
+2020 SASB Index
+Genuine Parts Company 
+2020 TCFD Index
+GPC recommends viewing this report online versus printing.
+3
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+OVERVIEW
+ABOUT THIS REPORT
+Genuine Parts Company (GPC) publishes a biennial Corporate Sustainability 
+Report. This 2021 Sustainability Report Update is an interim report that 
+highlights our initiatives and activities from January 1 to December 31, 2020, 
+specifically our progress in promoting diversity, equity and inclusion (DE&I) and 
+reducing our greenhouse gas (GHG) emissions. 
+This report is prepared in accordance with the reporting standards of the 
+Sustainability Accounting Standards Board (SASB) and the Task Force on 
+Climate-Related Disclosures (TCFD). SASB and TCFD information is found 
+throughout this report and summarized in the indices on pages 20-23. Unless 
+otherwise noted, data in this report is for our United States locations. You can 
+learn more about our Company, our sustainability initiatives and related news 
+at www.genpt.com. 
+Some of the photos contained in this report were taken prior to the onset of 
+COVID 19 pandemic and do not represent GPC protocols with respect to the 
+pandemic, such as social distancing and the use of masks.
+FORWARD-LOOKING STATEMENTS 
+Some of the information contained in this report constitutes forward-looking statements that are subject to the safe harbor 
+provisions of the Private Securities Litigation Reform Act of 1995. All statements in the future tense and all statements 
+accompanied by words such as “expect,” “likely,” “outlook,” “forecast,” “preliminary,” “would,” “could,” “should,” “position, ” 
+“will,” “project,” “intend,” “plan,” “on track,” “anticipate,” “to come,” “may,” “possible,” “assume” or similar expressions are 
+intended to identify such forward-looking statements. The Company cautions that all forward-looking statements involve 
+risks and uncertainties, and while we believe that our expectations for the future are reasonable in view of currently available 
+information, you are cautioned not to place undue reliance on our forward-looking statements. Actual results or events may differ 
+materially from those indicated as a result of various important factors, including, among other things, the extent and duration 
+of the disruption to our business operations caused by the global health crisis associated with the COVID-19 pandemic and the 
+other risks and uncertainties discussed in the Company’s latest SEC filings. The statements speak only as of the date they are 
+made, and the Company undertakes no duty to update any forward-looking statements made in this report except as required 
+by law. Actual results may vary materially and, as such, you are cautioned not to place undue reliance on these forward-looking 
+statements. Please see GPC’s latest Form 10-K and subsequent SEC filings for a discussion of risk factors as they relate to 
+forward-looking statements. 
+MATERIALITY
+The statements and data we discuss in this report are being provided because we believe they may be material sustainability 
+topics for our stakeholders. Such statements and data are not necessarily material for financial reporting or regulatory 
+reporting purposes.
+
+4
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+CEO MESSAGE
+DEAR STAKEHOLDERS,
+With more than 18 years at Genuine Parts Company (GPC), I have witnessed the continued 
+success of our global Company. However, 2020 tested us with one of the biggest challenges ever. 
+The COVID-19 pandemic has caused tremendous pain and suffering, shutting down our lives 
+for an extended period. As we transition to a new normal, we can look back and reflect on the 
+adversities we overcame. The challenges we faced in the past year have provided opportunities 
+for growth and unity, and we have become more adaptive to change.
+Operating as a responsible corporate citizen has always been ingrained in our culture, and this past 
+year accentuated the importance of supporting our people and our communities. We have focused 
+on the safety and wellbeing of our teammates throughout transitions to working remotely and 
+back to the office. Our legacy of giving back took on a new form through virtual volunteering and 
+donations to communities and causes that truly make a difference.
+We are proud of our teammates for their resilience and contributions to furthering our sustainability 
+goals. We are taking steps to reduce the environmental footprint of our operations by reducing 
+energy and emissions while increasing recycling opportunities across the globe. This past year, we 
+also took further steps to move towards an even more equitable and diverse workplace with the 
+hiring of a new Diversity, Equity and Inclusion (DE&I) Director and the formation of a DE&I Council.
+We are proud of the progress we continue to make. For example, we have:
+ ▶Reduced our greenhouse gas emissions from utilities 36% from 2018 to 2020.
+ ▶Enforced sustainable supply chain policies among our vendors and continued to monitor their 
+compliance with our social supply chain expectations.
+ ▶Continued our legacy of giving back by donating masks, gloves and more to communities and 
+making monetary contributions to worthy causes.
+Every day we strive to protect our people and the environment on our continued sustainability 
+journey. We want to learn from our stakeholders and encourage your feedback on this 
+sustainability update. Please email sustainability@genpt.com to share your ideas and help us 
+advance our sustainability progress to make a genuine difference.“Operating as a responsible  
+corporate citizen has always been 
+ingrained in our culture, and this  
+past year accentuated the  
+importance of supporting  
+our people and our communities.  
+We are proud of our teammates for  
+their resilience  
+and contributions  
+to furthering our  
+sustainability goals.”
+PAUL DONAHUE 
+CHAIRMAN AND CHIEF 
+EXECUTIVE OFFICER
+5
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+OUR BUSINESS
+Genuine Parts Company (GPC) is a leading global 
+distributor of automotive and industrial replacement 
+parts. Founded in 1928, GPC’s rich history and 
+commitment to excellent service and quality products 
+have made the Company a critical partner in our 
+customers’ success.
+The Company’s Automotive Parts Group represents 
+67% of GPC’s total net sales and is the largest auto 
+parts network across the globe. The automotive 
+business distributes automotive replacement 
+parts, accessories and service items throughout 
+North America, Europe and Australasia from a 
+product offering of more than 560,000 parts. These 
+parts are sold primarily under the NAPA brand 
+name to both Commercial (DIFM) and Retail (DIY) 
+automotive aftermarket customers. 
+The Industrial Parts Group represents 33% of GPC’s 
+total net sales and includes Motion Industries in 
+North America and Mi Asia Pac in Australasia. As 
+a leading industrial distributor, this business offers 
+access to more than 10 million industrial replacement 
+parts and related supplies over 170,000 MRO 
+(maintenance, repair and operations) and OEM (original 
+equipment manufacturer) customers in all types of 
+industries across North America and Australasia. 
+NORTH 
+AMERICA EUROPE AUSTRALASIA
+74% 15% 11%GPC BY THE NUMBERS*
+COUNTRIES SERVED EMPLOYEES ANNUAL REVENUES
+15 52,000 $17.9B
+LOCATIONS WAREHOUSES DISTRIBUTION FACILITIES RETAIL (OWNED/INDEPENDENT)
+10,538 878 189 9,471
+REVENUE BY REGION
+* As of June 30, 2021
+6
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+CULTURE, MISSION 
+AND VISION
+CULTUREMISSION
+VISION
+One Team and Culture 
+ ▶Disciplined People, Plans 
+and Performance
+ ▶Focused on the most 
+critical initiatives
+ ▶Working Together as  
+One GPC TeamOne GPC Team  
+Working Together to Create 
+Stakeholder Value ▶Employer of Choice
+ ▶Supplier of Choice
+ ▶Valued Customer
+ ▶Good Corporate Citizen
+ ▶Investment of Choice
+7
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+SUSTAINABILITY PRINCIPLES  
+AND MATERIAL ISSUES
+At GPC, we are making strides on our journey to positively impact our shared Earth. 
+In the past year, we have continued to execute our Roadmap to Sustainability 
+strategic plan so we can meet the needs of our customers, attract talent to our 
+business, benefit the communities in which we work and serve our shareholders – 
+all while doing our best to help the environment. We prioritize lowering our carbon 
+footprint, giving back to communities, and ensuring equality, equity and fair treatment 
+for our employees, suppliers and customers.
+SUSTAINING OUR 
+LIVING ENVIRONMENTSUSTAINING OUR 
+DIVERSE AND INCLUSIVE 
+WORKFORCESUSTAINING OUR 
+GIVING COMMUNITY
+ ▶Reduction of 
+greenhouse gas (GHG) 
+emissions, energy and 
+water use, and waste
+ ▶Pilot program testing 
+electric vehicle (EV) 
+technology in certain 
+markets.
+ ▶Integration of 
+sustainability principles 
+and best practices by 
+our executives, sales 
+teams, distribution 
+centers, stores, 
+vendors and supply 
+chain ▶Weaving Diversity, 
+Equity , and Inclusion 
+strategies into the 
+fabric of the Company
+ ▶Recruiting talent 
+representative of the 
+communities we serve
+ ▶Retaining and 
+developing 
+diverse talent
+ ▶Advancing pay equity 
+ ▶Mitigating unconscious 
+bias and modeling 
+inclusive behaviors ▶Building and uplifting 
+our communities
+ ▶Helping to close 
+the education 
+achievement gap 
+in under-resourced 
+communities
+ ▶Supporting hospitals, 
+health centers, first 
+responders and 
+healthcare workers
+
+8
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+STAKEHOLDER ENGAGEMENT
+Our stakeholders consist of many individuals and 
+groups across our value chain and beyond who are 
+touched by our activities. We actively engage with 
+internal and external stakeholders through a variety 
+of channels to help us achieve our goal to be a 
+world-class service organization.
+We strongly believe that the continued success 
+of our sustainability programs requires being 
+responsive to the feedback from our employees, 
+investors, suppliers, partners, communities 
+and customers. To jumpstart our sustainability 
+programs, we created a comprehensive list of 
+potential material topics and included them in 
+discussions with key internal stakeholders to get 
+feedback on focus areas. We then discussed the 
+prioritized topics with GPC management and 
+conducted an internal assessment to structure our 
+sustainability programs.
+To further our sustainability progress in 2020, we 
+surveyed our stakeholders to understand their 
+perspectives and incorporate their feedback into 
+our ESG strategy and decision-making. We used 
+their feedback to improve existing programs and 
+develop new initiatives. For example, although we 
+have upheld human rights since our founding, in 
+2020 we formalized our practice and procedures 
+into a Human Rights Policy in response to feedback 
+from our stakeholders. Additionally, we created and 
+shared a formal policy on political contributions. 
+To engage with employees, we use the Company’s 
+bimonthly newsletter, Aspire, to educate and inform 
+them on a wide range of sustainability issues and 
+practices.
+CUSTOMERSEMPLOYEES
+INVESTORS/
+SHAREHOLDERS
+COMMUNITIES SUPPLIERSGPC
+STAKEHOLDERS
+• Primary
+• SecondaryPOLICY MAKERS COMPETITORS
+MEDIA
+SPECIAL INTEREST GROUPSNGOs / PHILANTHROPIES
+INTERNATIONAL PROGRESS
+GPC Asia Pacific is the largest automotive 
+aftermarket parts and accessories supplier in 
+Australia and New Zealand, operating under 
+Repco and NAPA brands. With hundreds of stores, 
+12 advanced distribution centers and 6,200 
+employees, GPC Asia Pacific made significant 
+sustainability progress in 2020. In addition to 
+publishing its ESG  Charter , GPC Asia Pacific 
+continued to focus on its Equal Opportunity Policy, 
+which ensures all employees have equal opportunity 
+in recruitment, promotion, transfer, training,  and 
+development. GPC Asia Pacific also developed 
+strong ethical sourcing practices focused on 
+assessing the risk of modern slavery in the supply 
+chain and preventing human rights abuses. In 
+addition to requiring that suppliers meet social 
+responsibility standards and take corrective action 
+when non-compliances are identified, they also have an independent reporting hotline and web 
+portal for the anonymous reporting of employee and 
+customer concerns. Finally, in 2020 GPC Asia Pacific 
+established the GPC Asia Pacific Foundation to play 
+a more active role in caring for employee teammates 
+and the communities in which they operate. The new 
+foundation reflects the strong fundraising and charity 
+support of GPC Asia Pacific employees. 
+Alliance Automotive Group (AAG), GPC’s automotive 
+business in Europe, also made progress in 2020 in the 
+ESG areas . With a focus on employee wellbeing, the 
+team implemented a number of new initiatives across 
+its operations, including a work from home policy to 
+accommodate a more flexible work schedule, financial 
+wellness training, a partnership with fitness clubs 
+for employees to exercise at a reduced cost, and a 
+smoking cessation program. Additionally, in response 
+to the recent catastrophic flooding in Germany, AAG 
+teammates raised essential funds and volunteered 
+their time to assist with relief efforts.
+GPC SUSTAINABILITY AMBASSADORS
+Designed to advance sustainability throughout 
+the Company and oversee on-the-ground 
+management of GPC’s sustainability program,  
+the Sustainability Ambassadors include: 
+ ▶EVP & Chief Human Resources Officer (CHRO)
+ ▶SVP of Investor Relations
+ ▶VP Compliance and Corporate Secretary
+ ▶VP Safety and Sustainability
+ ▶Director of Diversity, Equity and Inclusion
+ ▶Director of Risk Management
+ ▶Director of Community Relations
+ ▶Director of Safety, Environmental and OSHA
+ ▶Director of Safety, U.S. Automotive Group (USAG)
+9
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+SUSTAINABILITY HIGHLIGHTS*
+$514 million
+SPEND
+by Motion with small, disadvantaged or Historically 
+Underutilized (HUBZone), and veteran, women or 
+minority-owned businesses32%
+INCREASE
+from 201935%
+REDUCTION
+in electricity consumption 
+since 201836%
+of U.S. electricity 
+generation from 
+renewable sources 
+since 2018
+38%
+REDUCTION
+in overall water 
+consumption since 20186,035
+TONS
+of recycled materials, 
+the equivalent of 
+preventing the release 
+of 19 metric tons of 
+greenhouse gases9%
+REDUCTION
+in fuel consumption 
+since 2018
+40%
+REDUCTION
+in natural gas consumption 
+since 201862%
+REDUCTION
+in GHG emissions per 
+reporting site since 201836%
+REDUCTION
+in GHG emissions 
+from utilities 
+since 2018
+*  We recognize that some of the decreases in our GHG emissions and energy and water usage over the course of 2020 likely reflect the 
+impacts of COVID-19, including travel restrictions, populations working from home, and variable utilization of some of our facilities.
+10
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+SUSTAINING OUR WORKFORCE
+GPC is a global Company with a rich blend of people, products and 
+services coming together to make a difference in the lives of customers all 
+over the world. More than ever before, we rely on the skills of our talented 
+and diverse workforce as we pursue our growth objectives, expand our 
+offerings and reach our sustainability goals.
+EMPLOYEE WELLBEING
+GPC promotes a healthy lifestyle and encourages our teammates to 
+prioritize their physical, financial and emotional wellbeing. In 2021, we 
+expanded our employee wellbeing program to include social wellbeing as 
+we look for new and creative ways to connect with each other and support 
+our communities. Our program design recognizes that everyone has 
+different life goals and there is no one size fits all for total wellbeing. As a 
+result, the 2021 program also provided our teammates the ability to select 
+from a variety of activities including the ability to make a blood donation, 
+complete a financial wellness assessment and enroll in the Livongo® 
+Diabetes Management Program so that they could succeed in the areas 
+that matter most to them. All employees have access to the wellbeing 
+program and a variety of other resources on our GPC wellbeing website.PEOPLE
+COVID-19 PROTOCOLS 
+We have seen the impact of the COVID-19 global pandemic firsthand 
+and are committed to the health and wellbeing of our teammates. As the 
+pandemic continues to impact our lives, our dedication to the health and 
+safety of our employees, customers and communities has not wavered. 
+We continuously monitor and follow guidance from the Centers for 
+Disease Control (CDC) and enforce enhanced cleaning procedures and 
+screening protocols. We provide protective equipment for our teammates  
+and regularly employ our emergency relief fund to help those employees 
+impacted by COVID-19. Teammates affected by COVID-19 are eligible to 
+receive leaves of absence, as well as other forms of aid as support.
+
+11
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+GPC’s ongoing and future DE&I initiatives include:
+ ▶Increase the recruitment 
+of diverse talent including 
+expanding relationships with 
+Historically Black Colleges and 
+Universities (HBCU)
+ ▶Development, retention 
+and succession planning of 
+employees
+ ▶Unconscious bias training to 300 
+executive and senior leaders and 
+an additional 2,500 managers and 
+supervisors
+ ▶$1,500 scholarships to 
+dependents of GPC employees 
+with HBCU students strongly 
+encouraged to apply ▶Alignment of corporate giving with 
+DE&I principles and goals
+ ▶Collaboration with organizations that 
+support women
+ ▶Recruitment and engagement 
+of more women as owners of 
+NAPA stores
+ ▶Company-wide supplier diversity 
+program
+ ▶Monthly speaker series that highlights 
+women’s history, Asian history, autism 
+awareness, and lesbian, gay, bisexual, 
+transgender, and queer-plus history, 
+among others
+ ▶Formation of Business Resource 
+Groups
+PEOPLE OF COLOR 
+REPRESENTATION AT GPC*FEMALE REPRESENTATION 
+AT GPC*MILITARY REPRESENTATION  
+AT GPC
+21.5%
+of U.S. Managers19.9%
+of U.S. Managers 4.2%
+of U.S. Workforce
+32.1%
+of U.S. Non-Managers 21.3%
+of U.S. Non-Managers
+15.4%
+of the Board of  
+Directors30.8%
+of the Board of  
+Directors *  From 2019 EEO-1 ReportDIVERSITY, EQUITY AND INCLUSION (DE&I)
+GPC is and has always been committed to diversity, equity and inclusion (DE&I) 
+throughout all levels of the organization. Our teammates around the world 
+reflect the communities and cultures we serve. We aim to proactively engage, 
+understand and draw on a variety of perspectives from individuals. We believe 
+in a work environment built on respect, dignity and fairness towards everyone; 
+where people feel a sense of belonging, and all voices are welcome and valued. 
+We denounce racism and bigotry wherever it exists and support those who 
+peacefully further the ideals of inclusiveness, non-violence and equal treatment.
+To advance our commitment to DE&I, in 2021 we established a formal Director 
+of DE&I position and strengthened our equal employment opportunity policies. 
+In addition, we transitioned our DE&I Committee into a formal DE&I Leadership 
+Council comprised of representatives from throughout the organization and 
+tasked with promoting and advancing qualified individuals of all backgrounds 
+and experiences. Going forward, our goal is to increase diversity at all levels, 
+from the Board of Directors through management and non-management 
+positions, using internal advancement and promotion as well as external 
+recruitment, hiring and retention of qualified females and minorities. To attract 
+and engage with the next generation of leaders from underrepresented 
+groups, we have increased our support for the United Way’s African American 
+Partnership (AAP) and Young Professional Leaders (YPL) programs.
+“At Genuine Parts Company, we are committed to building the 
+highest-performing teams through the power of diversity and inclusion 
+while providing equitable growth opportunities to our colleagues 
+around the world.
+Our integrated approach to diversity, equity and inclusion across 
+our key stakeholder group of employees, customers, suppliers, 
+shareholders and the communities where we live and work will allow 
+us to harness the dynamics of different backgrounds, perspectives and 
+shared experiences.”
+LETTY ASHWORTH  
+GPC DIRECTOR OF DIVERSITY,  
+EQUITY AND INCLUSION
+
+12
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+SUPPLIER DIVERSITY
+At GPC, one of our key diversity initiatives is to use diverse suppliers whenever possible. 
+For example, our Motion Industries business unit has more than 8,100 active diverse suppliers. 
+By the end of 2020, Motion had spent $514 million with small, disadvantaged or Historically 
+Underutilized (HUBZone), and veteran, women or minority-owned businesses—an increase of 
+32% from 2019. 
+$514
+Million8,100+
+Active Diverse Suppliers286
+Active Certified by National Minority 
+Supplier Development Council 
+(NMSDC) and Women’ s Business 
+Enterprise National Council (WBENC)
+MOTION SUPPLIER DIVERSITY PROGRAM SPEND BY  
+DIVERSE SUPPLIER CATEGORY EOY 2020
+$47,720,000
+Veteran/Woman/
+Minority$69,130,000
+HUBZone
+Disadvantaged/
+Hub Zone Business$397,130,000
+Small Business
+Veteran/Woman/
+MinoritySmall Business
+MOTION SUPPLIER DIVERSITY PROGRAM SPEND  
+IN 2020 VS 2019
+'2019'2019
+20202019 $388,597,857
++32%$514,409,978GPC DIVERSITY, EQUITY & INCLUSION 
+(DE&I) LEADERSHIP COUNCIL 
+MEMBERS
+ ▶EVP & CHRO as Executive Sponsor
+ ▶SVP Employee Experience as Advisor
+ ▶SVP Finance & Chief Accounting Officer
+ ▶VP Compliance and Corporate Secretary
+ ▶VP HR Field Operations (NAPA AUTO PARTS)
+ ▶VP Marketing (NAPA AUTO PARTS)
+ ▶VP Information Technology
+ ▶VP Safety and Sustainability
+ ▶Sr. Director Strategic Communications
+ ▶Sr. Director Talent Management
+ ▶Sr. Director Human Resources
+ ▶Director Diversity, Equity and Inclusion
+ ▶Director Strategic Business Transformation
+ ▶Sr. Manager Risk, Compliance 
+and Benefits (Motion Industries)
+13
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+ENERGY AND EMISSIONS
+At GPC, we recognize that our global operational footprint comes with 
+tremendous responsibility and opportunity to make a difference. We are 
+constantly striving to find new ways to conduct business in a manner that 
+protects the environment, conserves natural resources, and complies with 
+the laws and regulations that protect our planet.
+In 2020, we took further steps to address our two major impact areas— 
+energy and fuel consumption. W e recognize that some of the decreases 
+in our GHG emissions and energy and water usage over the course of 
+2020 likely reflect the impacts of COVID-19 (including travel restrictions, 
+populations working from home, and variable utilization of some of our 
+facilities). W e have also made strides towards reducing our GHG emissions 
+by conserving water and energy resources, reducing waste, and sourcing 
+responsibly with vendors that are as equally committed to the protection 
+of the environment as we are. In the past three years, we have decreased 
+our total GHG emissions from utilities by 36% overall and the emissions 
+per reporting site by 62%. Our electricity consumption is down 35% since 
+2018, and our gas consumption is down 40%. We are proud to share that 
+36% of GPC’s U.S. electricity generation is from renewable energy sources. 
+An estimated 10,126,240 pounds of greenhouse gas emissions have been 
+avoided since the first solar installation at our North American facilities.PLANET
+Alliance Automotive Group - Benelux generates 
+sustainable energy from wind turbines to power its 
+distribution center.
+Looking ahead, we are developing more in-depth reporting 
+and emission reduction plans. We recognize that climate 
+change is an existential threat globally and are working to 
+formalize our approach to reducing carbon emissions. By 
+developing a formal emissions reduction plan and climate 
+risk management strategy, we aim to set science-based 
+reduction targets for carbon emissions.ELECTRICITY CONSUMPTION 
+(kWh)GAS CONSUMPTION 
+(THERMS)
+2018
+2019
+2020212,445,871
+209,262,012
+138,531,0972018
+2019
+20207,461,341
+7,887,909
+4,455,080
+TOTAL GHG EMISSIONS FROM 
+UTILITIES (LBS CO 2)TOTAL CO 2 EMISSIONS FROM 
+UTILITIES (LBS CO 2/SITE)
+2018
+2019
+2020349,144,941
+350,373,082
+222,745,9612018
+2019
+2020464,406
+455,186
+177,614ENERGY SOURCES IN 2020
+GAS
+36%COAL
+27%NUCLEAR
+19%
+HYDRO
+8%WIND
+5%
+OIL
+1%BIOMASS
+2%
+SOLAR
+2%
+
+14
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+BUILDINGS
+Because GPC facilities account for the vast majority of 
+our annual energy usage, we aggressively seek solutions 
+to improve energy efficiency in every building we 
+operate, with a particular focus on our larger buildings 
+like distribution centers and corporate campuses.
+As a result of the installation of heating, ventilation and air 
+conditioning (HVAC) controls in our stores and distribution 
+centers since 2017, we saved 3.92 kilowatt hours (kWh)  
+and have prevented the release of 6.18 pounds (lbs) 
+of GHG emissions. Light emitting diode (LED) lighting 
+retrofits have saved an additional 33.75 kWh and 
+55.38 lbs. of GHG emissions. In addition, we utilized 
+motion-sensing lighting in our corporate headquarters to 
+eliminate unwarranted energy usage.FLEET
+Almost three years ago, we began the process of 
+developing an electric vehicle (EV) pilot program 
+within our automotive business by installing charging 
+stations, and officially launched the program in 2020 
+with all-electric Chevy Bolts. The Chevy Bolt EV travels 
+259 miles per charge, making it an optimal vehicle for 
+low-carbon product delivery. Since the inception of this 
+program, we have avoided 5,783 lbs of GHG emissions, 
+the equivalent of planting 67 trees and letting them 
+grow for ten years. Our EV pilot program also provides a 
+deeper understanding of the electric vehicle market so 
+that our business model can adapt and expand to serve 
+new customers.EMPLOYEE AND TEAM TRAVEL
+We have begun estimating the emissions associated 
+with employee and team travel. With travel limited in 
+2020 due to COVID-19, travel-related GHG emissions 
+decreased 96%. We hope to maintain a diminished 
+travel footprint going forward by using virtual meetings 
+and other online technologies for team, supplier, and 
+customer collaboration. 
+% CHANGE FROM 2018 TO 2020†
+-36%
+Total CO 2 Emissions from  
+Utilities (lbs CO 2)-40%
+CO 2 Emissions  
+from Gas (lbs CO 2)-35%
+CO 2 Emissions from  
+Electricity (lbs CO 2)
+-62%
+Total CO 2 Emissions from  
+Utilities (lbs CO 2/site)-83%
+CO 2 Emissions 
+from Gas (lbs CO 2/site)-80%
+CO 2 Emissions from 
+Electricity (lbs CO 2/site)
+† We recognize that some of the decreases in our GHG emissions and energy and water usage over the course 
+of 2020 likely reflect the impacts of COVID-19, including travel restrictions, populations working from home and 
+variable utilization of some of our facilities.CARBON FOOTPRINT FROM TRAVEL (IN CARBON DIOXIDE (CO 2) TONS)
+2,216.24
+1,240.851,330.7
+869.69
+96.78 96.98 110.171,165.61
+2020 Q4 2020 Q3 2020 Q2 2020 Q1 2019 Q4 2019 Q3 2019 Q2 2019 Q167 trees
+planted and grown for 10 yearsEV PILOT PROGRAM GHG EMISSIONS REDUCTION
+5,783 lbs
+of GHG emissions=
+15
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+WATER CONSUMPTION
+GPC is taking steps to do our part to conserve and limit our consumption of 
+water. We are proud to share that our water consumption has decreased 
+by 38% and gallon per site used has decreased by 67% since 2018, 
+thanks to the implementation of water conservation measures. Many of 
+our facilities have been updated with low-flow devices and motion-sensing 
+fixtures to automatically shut off faucets in kitchens, breakrooms and 
+restrooms. We also conduct regular inspections of water lines to identify and 
+repair pipe leakage, as well as calibrate our sprinkler usage according to 
+rainfall, season and soil type.
+WATER GALLONS BY SITE
+WATER CONSUMPTION 
+(GALLONS)
+ 38%
+since 20182018
+2019
+2020109,854,229
+112,683,588
+67,590,214
+GALLONS OF WATER/SITE
+ 67%
+gallons per site2018
+2019
+2020240,537
+178,250
+79,465
+16
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+PURPOSE
+SUSTAINING OUR  
+COMMUNITY“Beginning in 1928 with our founder, Carlyle Fraser, GPC has 
+always been a huge advocate for giving back to the communities 
+we serve. He used to say, ‘if you’re not giving back to the 
+community, you’re not doing it right.’ We have continued to honor 
+this philosophy over the years through our long-standing tradition 
+of community service and active engagement.”
+VENITIA SMITH
+DIRECTOR OF EMPLOYEE AND 
+COMMUNITY RELATIONS
+NAPA AUTO PARTS SUPPORTS 
+NATIONAL CHILDHOOD 
+CANCER MONTH
+In September 2021, NAPA Auto Parts, Children’s 
+Healthcare of Atlanta, Hendrick Motorsports and the 
+Chase Elliott Foundation brought the seven winners 
+of the DESI9N TO DRIVE campaign, also courageous 
+childhood cancer fighters — including Mary Frances 
+Webb, pictured here with GPC Board member and 
+President & CEO of Children’s Healthcare of Atlanta 
+Donna Hyland —  to see an Atlanta Braves game with 
+Nascar legends Jeff Gordon, Bill Elliot, Rick Hendrick 
+and Chase Elliott. Joined by GPC Chairman and 
+CEO Paul Donahue and EVP and CFO Carol Yancey , 
+the patients and their families were able to see 
+special race team gloves, helmets and suits they had 
+designed in action. Learn more via this video.
+RELATIONSHIP 
+BUILDING
+AWARENESS AND 
+EDUCATIONDIRECT 
+SERVICEECONOMIC 
+DEVELOPMENT
+COMMUNITY 
+REJUVENATION
+As the world continues to battle and recover through the COVID-19 pandemic, 
+we are doing our part to help those not only impacted by this pandemic but 
+also those community-based organizations with their boots on the ground. 
+We continue to maximize our impact through ongoing awareness education, 
+fundraising and volunteer opportunities.
+In 2020, we introduced YourCause + Blackbaud, a service provider to connect 
+our teammates with volunteer and fundraising opportunities wherever they 
+are located. Through this portal, teammates can make a one-time or recurring 
+donation via payroll deduction or credit card to their favorite GPC charity or 
+an organization of their preference. YourCause has provided our teammates 
+with an easy and efficient way to continually live our mission by supporting 
+our communities.
+17
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+AMERICAN HEART ASSOCIATION
+Each February, GPC supports the American 
+Heart Association with our Go Red campaign. 
+Teammates across the Company are 
+encouraged to share photos of themselves 
+wearing red, participate in fundraising 
+activities and learn more about ways to 
+prevent heart disease.
+CAPTAIN PLANET FOUNDATION
+GPC is proud to support the Atlanta-based 
+Captain Planet Foundation, which engages and 
+empowers young people to be problem solvers 
+for the planet thr ough programs focused on  
+gardening and cooking, ocean conservation, 
+endangered species protection and more. GPC 
+is a sponsor of the Captain Planet Foundation 
+30th Year Gala in November 2021 and hopes to 
+partner with the organization to improve recycling 
+in the Company’ s Georgia-based stor es.
+COAT DRIVE
+Every January , GPC’s corporate headquarters 
+organizes a coat drive in partnership with a local 
+nonprofit that provides housing for homeless 
+teenagers and children and those who have 
+been abused, neglected, and abandoned.
+EARTH DAY
+GPC celebrates Earth Day every year with 
+events at offices and retail locations across 
+the country. Many U.S. locations plant trees or 
+small gardens  to mark the day. In addition, GPC 
+has also collected cell phones, computers, 
+tablets and other electronics to securely wipe 
+and then donate to low-income families, school 
+children or U.S. military service members.
+EDUCATION OUTREACH
+Every February, GPC corporate headquarters 
+hosts a volunteer day with Junior Achievement, 
+inviting teammates to speak to fifth and sixth 
+grade students about finance, budgeting and 
+the importance of a good education. GPC also 
+partners with Big Brothers, Big Sisters to provide 
+mentorship to third, fourth and fifth grade students.
+INTREPID FALLEN HEROES FUND
+Since 2018, GPC has supported the Intrepid Fallen 
+Heroes Fund, which provides care for military 
+personnel suffering from traumatic brain injury, post-
+traumatic stress disorder, and amputations. During 
+June and July, NAPA customers can donate via 
+their local store, and employees can also contribute 
+by purchasing t-shirts or hats or by making a direct 
+donation to the Fund.
+INTERNATIONAL RED CROSS
+GPC continues its long-standing partnership 
+with the International Red Cross by facilitating 
+blood drives at stores and other locations 
+around the world, including on the corporate 
+headquarters campus. Over the course of 2020 
+and mid-2021, GPC held over 180 blood drives 
+in North America and Australasia.CITY OF REFUGE – NAPA AUTO SKILLS 
+TRAINING CENTER
+The NAPA Auto Skills Training Center, located in the 
+heart of Atlanta, GA, provides a 15-week full-service 
+auto mechanic training program for individuals who 
+face obstacles to employment, providing instruction 
+in ten different areas of auto mechanics and assisting  
+graduates with job placement. In 2015, the NAPA Auto 
+Skills Training Center revved up at City of Refuge, a 
+non-profit organization that partners with individuals 
+and families in crisis to clear a path out of poverty 
+into a thriving community. The accomplishments of 
+this incredible group of newly trained automotive 
+technicians include the CDX Auto certification, multiple 
+SP2 certifications, MAC609 and the entry MLR ASE 
+certification. Class #14 graduated during the s ummer 
+of 2021,  and all graduates secured employment at 
+independent shops, metro Atlanta dealerships, or other 
+partner employers seeking qualified team members.
+COVID-19 OUTREACH
+During the past year, GPC has supported those 
+communities hardest hit by the COVID-19 
+pandemic, including healthcare workers, first 
+responders and frontline workers. We have donated 
+food, care packages, cleaning supplies, automotive 
+services, NAPA-brand product discounts, and 
+financial support to individuals and organizations in 
+need. Our stores across the country also donated 
+thousands of masks and gloves to Atlanta-area 
+medical organizations such as Campbell County 
+Memorial Hospital, Bryan Health facilities, the 
+Kosciusko County Health Department, and others.
+
+18
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+GOVERNANCE
+BOARD SNAPSHOT
+DIVERSE INDEPENDENT AVERAGE BOARD TENURE
+46% 6 OUT OF 13 
+DIRECTORS 
+ARE DIVERSE*85% 11 OUT OF 13 
+DIRECTORS ARE 
+INDEPENDENT7.5 
+YEARS
+6 6-10 years4 0-5 years 3 11+ years 31% 5 YEARS 
+OR LESS
+FEMALE AVERAGE AGE
+31% 4 OUT OF 13 
+DIRECTORS 
+ARE WOMEN62 
+YEARS3 DIRECTORS ARE 
+IN THEIR 50s AND  
+10 DIRECTORS 
+ARE IN THEIR 60s
+* Gender, race/ethnicity, and/or nationalityOUR BOARD
+ELIZABETH 
+CAMP 
+President & CEO, 
+DF Management, 
+Inc.
+RICHARD COX, 
+JR. 
+Chief Information 
+Officer, Cox 
+Enterprises
+PAUL DONAHUE  
+Chairman & CEO, 
+Genuine Parts 
+Company
+GARY FAYARD  
+Retired CFO,  
+The Coca-Cola  
+Company
+P . RUSSELL 
+HARDIN 
+President, Robert 
+W. Woodruff 
+Foundation
+JOHN HOLDER 
+Chairman & CEO, 
+Holder Properties
+DONNA HYLAND 
+President & CEO,  
+Children’s 
+Healthcare  
+of Atlanta
+JOHN JOHNS 
+Retired Chairman  
+& CEO, Protective  
+Life Corporation
+JEAN-JACQUES 
+LAFONT  
+Co-Founder 
+& Executive 
+Chairman, 
+Alliance 
+Automotive
+ROBERT 
+LOUDERMILK, 
+JR 
+President & CEO,  
+The Loudermilk 
+Companies
+WENDY 
+NEEDHAM 
+Retired Managing 
+Director, Global 
+Auto Research, 
+Credit Suisse First 
+Boston
+JULIETTE PRYOR 
+General Counsel 
+& Corporate 
+Secretary , 
+Albertsons 
+Companies
+E. JENNER 
+WOOD 
+Retired Executive 
+Vice President, 
+SunTrust Banks, 
+Inc.
+19
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+The GPC Board of Directors exercises oversight of the Company and 
+is committed to strong corporate governance. Three new directors 
+were added during 2020 and 2021 to further diversify our expertise 
+and perspectives.
+Our most recent addition, Juliette Pryor, joins with extensive experience as 
+a general counsel and corporate secretary in the grocery retail industry. Ms. 
+Pryor brings an extraordinary combination of skills and experience that will 
+serve the Board, GPC, and our stakeholders well. These recent additions 
+bring the total number of directors to 13, 11 of whom are independent, four 
+of whom are women, and almost half are diverse.
+The Board of Directors receives an ESG update at every Board meeting. 
+The Company continues to integrate corporate responsibility and 
+environmental stewardship principles, business ethics, and community 
+values into our corporate strategy, policies, practices, and procedures.
+In 2020, the charter of the Board’s Compensation, Nominating and 
+Governance Committee was changed to oversee and guide the strategy 
+of the Company’s ESG initiatives, including talent management programs 
+and processes. The Committee periodically reviews the Company’s DE&I 
+initiatives and assesses GPC’s corporate culture.RELATED POLICIES AND GOVERNANCE DOCUMENTS:
+Integrity at Work
+Code of Conduct
+ 
+GENUINE PARTS COMPANY
+October 2019
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GENUINE PARTS COMPANY  
+ 
+CODE OF CONDUCT  
+ 
+FOR SENIOR FINANCIAL OFFICERS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ February  2021  
+ 
+GENUINE PARTS COMPANY  
+COMPENSATION, NOMINATING AND  
+GOVERNANCE COMMITTEE  
+ 
+CHARTER  
+ 
+Under a delegation of authority from the Board of Directors, the Compensation, Nominating 
+and Governance Committee (the “Committee”) shall be responsible for the following:  
+ 
+A. Discharging the Board of Director’s responsibilities relating to compensation 
+of the Corporation’s executive officers and other key employees.  
+B. Identifying and evaluating potential nominees for election to the Board of 
+Directors of the Corporation, consistent with criteria approved by the Board of Directors, and 
+recommending the candidates for consideration by the full Board of Directors or shareh olders 
+of the Corporation in accordance with the Corporation’s articles of incorporation and by -laws 
+and with Georgia law.  
+ 
+C.  Succession planning for the CEO role and other key managers.  
+ 
+D. Oversight of the Company’s environmental, social, and governance (“ESG”) 
+initiatives, including oversight of talent management  and diversity and inclusion . 
+ 
+E. Developing and recommending to the Board of Directors a set of corporate 
+governance principles applicable to the Corporation and overseeing the evalua tion of the Board 
+of Directors and management.  
+ 
+Composition of the Committee  
+ 
+The members of the Committee shall be nonaffiliated, independent directors, as such term is 
+defined by the New York Stock Exchange (the “NYSE”), shall be appointed by the Board  of 
+Directors, and shall not be officers or employees of the Corporation or have an immediate 
+family member who is an executive officer of the Corporation (or be former officers or 
+employees or have an immediate family member who is a former executive offi cer of the 
+Corporation until three years after the employment relationship has ended). At least two of the 
+directors appointed to serve on the Committee shall be “non -employee directors” (within the 
+meaning of Rule 16b -3 promulgated under the Securities Ex change Act of 1934, as amended) 
+and “outside directors” (within the meaning of Section 162(m) of the Internal Revenue Code 
+of 1986, as amended, and the regulations thereunder). The Chairman of the Committee shall 
+be designated by the Board of Directors.  
+ 
+The Board of Directors, in selecting the members of the Committee, shall make an affirmative 
+determination that each member is independent and that no member has a material relationship 
+with the Corporation (either directly or as a partner, shareholder or officer of an organization 
+that has a material relationship with the Corporation).   In addition, in affirmatively determining 
+the independence of any director who will serve on the Committee , the Board of Directors must 
+CODE OF CONDUCT CODE OF CONDUCT 
+FOR SENIOR FINANCIAL 
+OFFICERSCOMPENSATION, 
+NOMINATING, AND 
+GOVERNANCE COMMITTEE 
+CHARTER
+ 
+ 1 February 20 21 
+ 
+GENUINE PARTS COMPANY  
+AUDIT COMMITTEE  
+CHARTER  
+The primary purpose of the Audit Committee is to oversee Genuine Parts Company’s (the 
+“Company ”) financial reporting process on behalf of the Board of Directors (the “Board ”) and 
+report the resul ts of their activities to the Board. Under a delegation of authority from the 
+Board, the Audit Committee (the “Committee ”) of the Company shall be responsible for the 
+following:  
+A. Assisting the Board in fulfilling it s fiduciary responsibilities with  respect to 
+oversight of (i) the integrity of the Company’s financial statements; (ii) the Company’s 
+compliance with legal and regulatory requirements ; (iii) the independent auditor’s 
+qualifications and independence; and (iv) the performance of the Company ’s intern al audit 
+function and independent auditors; and   
+B. Preparing any disclosure required by law to be prepared by the Committee, 
+including the disclosure required by Item 407(d)(3)(i) of the Securities and Exchange 
+Commission’s (the “ SEC”) Regulation S -K to be i ncluded in the Company’s proxy statement 
+relating to its annual meeting of shareholders.   
+Composition  
+The Committee shall consist of no fewer than three members. Each member of the Committee  
+shall meet the independence, experience and financial li teracy re quirements of the New 
+York Stock Exchange (the “ NYSE ”), Section 10A(m)(3) of the Securities Exchange Act of 1934 
+(the “Exchange Act ”) and the rules and regulations of the SEC  thereunder . At least one member of the 
+Committee shall be an “audit comm ittee fin ancial expert” as defined by the SEC. Committee 
+members shall not simultaneously serve on the audit committees of more than two other public 
+companies, unless the Board determines that such simultaneous service on such other audit 
+committees does not impai r the ability of such member to effectively serve on the Company's 
+Audit Committee. The members of the Committee shall be appointed by the Board. Committee 
+members may be removed, with or without cause, at any time upon majority vote of the Board.  
+Authority 
+In carrying out its purposes, the Committee shall have and may exercise all the powers and 
+authority of the Board to the extent permitted under Section 14 -2-825 of the Georgia Business 
+Corporation Code.  
+The Committee shall have the authority to investiga te any financial matter brought to its 
+attention with full access to all books, records, facilities and personnel of the Company, and 
+shall have the authority to retain, at the Company’s expense, outside legal, accounting or 
+other professional adv isors to advise the Committee.  
+The Committee shall have the sole authority to: (1) appoint, retain, compensate, evaluate , 
+1 
+   February  2021 
+GENUINE PARTS COMPANY  
+CORPORATE GOVERNANCE GUIDELINES  
+A. THE ROLE AND RESPONSIBILITES OF THE BOARD OF DIRECTORS  
+1) Direct the Affairs of GPC for the Benefit of Its Shareholders  
+The Board of Directors of Genuine Parts Company (“GPC”) represents the shareholders’ 
+interest in perpetuating and increasing the value of the business enterprise, including optimizing 
+long-term financial returns. The Board believes that the primary responsibility of directors is to 
+oversee the affairs of GPC fo r the benefit of its shareholders. The Board agrees that day -to-day 
+management of GPC is the responsibility of GPC’s executive officers and that the role of the Board 
+is to oversee management’s performance of that function. The responsibility of each direc tor is to 
+exercise his or her business judgment to act in what he or she reasonably believes to be in the best 
+interests of GPC and its shareholders.  
+2) Review of Financial Goals and Performance  
+The Board approves the annual operating plan at the start of the  fiscal year and reviews 
+financial performance periodically during the year, including actual  performance  and performance  
+in comparison to the plan.  
+GPC’s management, under the oversight of the Board and its Audit Committee, has the 
+responsibility to produ ce financial statements that fairly present GPC’s consolidated financial 
+position, results of operations and cash flows. The Audit Committee has the responsibility to 
+engage an independent accounting firm, which will audit the financial statements prepared  by 
+management and issue an opinion on those statements based on Generally Accepted 
+Accounting Principles. The Board, the Audit Committee, and management must be vigilant to 
+ensure that no actions are taken by GPC or its employees that compromise the indep endence 
+of the independent auditors.  
+3) Ethical Business Environment  
+The Board believes that GPC’s long -term success is dependent upon the maintenance of an 
+ethical business environment that focuses on adherence to both the letter and the spirit of regulatory 
+and legal mandates, as well as GPC’s Code of Conduct and Ethics. The Board expects management 
+to conduct operations in an ethical manner consistent with applicable laws, rules and regulations 
+and GPC’s Code of Conduct and Ethics.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Since its founding in 1928, Genuine Parts Company (GPC) has set a high standard for ethics and 
+values  in all of our divisions, subsidiaries, and affiliates . These ethics and values  underscore  GPC’s  
+ongoing  commitment to respect  Human Rights  as set forth in this Human Rights Policy . GPC 
+commits to respect  the fundamental principles of Human Rights as defined by  the Universal 
+Declaration of Human Rights.   
+ 
+Scope  of Policy  
+ 
+GPC’s approach to Human Rights begins with understanding how our activities, and the activities 
+of our business partners, may impact, either positively or negatively, our stakeholders. These 
+stakeholders include our customers, employees, suppliers, supply chain workers, local 
+communities, and our s ociety as a whole.   GPC  also expect s its suppliers, partners, and affiliates  
+to respect Human Rights . 
+ 
+GPC’s commitment to respecting  Human Rights begins with an affirmative commitment to non -
+discrimination. In line with this commitment, GPC opposes all fo rms of discrimination, 
+harassment, and retaliation based on protected status or activity. Whether an individual is an 
+applicant, employee, customer,  partner, affiliate, or guest, GPC will not tolerate any mistreatment 
+based on sex, race, ethnicity, creed, color, religion, marital status, national origin, citizenship 
+status, age, pregnancy, sexual orientation, gender identity or expression, genetic information, 
+disability, military status, status as a veteran, participation in union activities  such as collec tive 
+bargaining , or any other protected characteristic  or activity under applicable law.   
+ 
+Our People 
+ 
+As part of GPC’s commitment to equal treatment, the Company  strives to provide an inclusive , 
+safe, and rewarding work environment for all of its employees . In every market and region that 
+GPC serves, the Company is committed to recruiting and retaining a diverse and talented 
+workforce and to providing a  healthy and  safety -driven work environment. All ne w hires are 
+expected to review and acknowledge the Company’s anti -discrimination and anti -harassment 
+policies, as well as the Company’s Code of Conduct.  In addition, current e mployees receive 
+regular anti -discrimination and anti -harassment training and regularly  verify compliance with 
+GPC’s Code of Conduct.   Every year all employees either review and  verify the Code of Conduct  
+or they are required to participate in interactive training on various matters within the Code of 
+Conduct  to ensure understanding o f the expectations detailed therein. Both GPC and its employees 
+adhere to the Code of Conduct , which outlines GPC’s commitment to providing a discrimination 
+and harassment -free workplace. GPC ’s Code of Conduct also requires honesty  and integrity by 
+GPC and  its employees in all aspects of GPC’s business .  
+ 
+At GPC, the protection and promotion of our employees’ health and safety is also a top priority. 
+GPC complies with all applicable employee protection and safety legislation. In line with 
+applicable legisla tion, the managers responsible for safety issues take their duties very seriously. 
+AUDIT COMMITTEE 
+CHARTERCORPORATE GOVERNANCE 
+GUIDELINESHUMAN RIGHTS POLICY
+ 
+POLITICAL CONTRIBUTIONS  
+ 
+Genuine Parts Company encourages its employees to be civically minded and active concerning 
+issues and causes  that are important to them . Included within this range of activities is participation 
+in our democratic process. We encourage all our employees to vote and endorse those candidates and 
+causes that they support. That said, Genuine Parts Company, as an organization, has a longstanding 
+policy of not supporting individual candidates or making donations to political parties.  Additionally, 
+Genuine Parts Company does not have a Political Action Committee (PAC), nor does it donate to 
+any PAC.  
+ 
+Genuine Parts Company respects the fact and acknowledges that employees will have differing 
+political affiliations and beliefs. However, the Company prohibits employees from acting  or making 
+comments of a political nature that explicitly state or imply that their activity or comments are made 
+on behalf of the Company. In this regard, employees may not use GPC funds, facilities, or other in -
+kind resources to benefit political entities or candidates.  Employees are additionally required to 
+refrain from posting politically related material in personal workspaces or common areas in and 
+around the workplace  and may not use GPC email to communicat e politically -related messages . 
+ 
+To the extent that any employees have questions regarding the applicability or scope of this Policy, 
+they can feel free to contact Human Resources. We appreciate the respect our employees show their 
+co-workers by adhering t o this Policy.  
+ 
+2021 Proxy Statement
+Notice of Annual
+Meeting of Shareholders
+2020 ANNUAL REPORT
+POLITICAL 
+CONTRIBUTIONS POLICYPROXY STATEMENT ANNUAL REPORT
+20
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+GENUINE PARTS COMPANY 2020 SASB INDEX
+MULTILINE AND SPECIALTY RETAILERS & DISTRIBUTORS STANDARD
+SASB CODE ACCOUNTING METRIC CATEGORY UNIT OF MEASURE ANSWER, CROSS-REFERENCE, OMISSIONS, AND EXPLANATIONS
+Energy Management in Retail & Distribution
+CG-MR-130a.1 (1) Total energy consumed, (2) percentage 
+grid electricity, (3) percentage renewableQuantitative Gigajoules (GJ),
+Percentage (%)GPC 2020-2021 Sustainability Report, Planet, Energy and 
+Emissions, pp. 13: GPC used approximately 498,712 GJ 
+in 2020. 36% of GPC’s U.S. electricity generation is from 
+renewable sources.
+Data Security
+CG-MR-230a.1 Description of approach to identifying and 
+addressing data security risksDiscussion and
+Analysisn/a GPC 2019-2020 Corporate Sustainability Report, Data Privacy 
+and Cyber Security, pp.10 
+2021 Proxy Statement: Board Oversight of Risk, pp. 16-17
+CG-MR-230a.2 (1) Number of data breaches, (2) percentage 
+involving personally identifiable information 
+(PII), (3) number of customers affectedQuantitative Number,
+Percentage (%)GPC did not experience a reportable data breach during the 
+reporting period. Our cyber incident response plan provides the 
+framework for incident identification, assessment, management 
+and impact mitigation.
+Labor Practices
+CG-MR-310a.1 (1) Average hourly wage and (2) percentage 
+of in-store employees earning minimum 
+wage, by regionQuantitative Reporting
+currency,
+Percentage (%)GPC is not disclosing average hourly wage because we 
+consider it sensitive competitive data. 100% of our in-store 
+employees earn at least minimum wage (Federal/State/
+Municipal) in every U.S. region.
+CG-MR-310a.2 (1) Voluntary and (2) involuntary turnover 
+rate for in-store employeesQuantitative Rate2020 TURNOVER RATES1
+Total Turnover Rate 42.8%
+Voluntary Turnover 32.6%
+Involuntary Turnover 5.9%
+Turnover Due to Job Elimination 3.2%
+CG-MR-310a.3 Total amount of monetary losses as a result 
+of legal proceedings associated with labor 
+law violationsQuantitative Reporting
+currencyMonetary losses as a result of legal proceedings associated 
+with labor law violations during the reporting period were an 
+immaterial amount.APPENDICES
+1 Data is accurate as of June 1, 2020 and covers the retail employees of our U.S. Automotive Parts Group.
+21
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+SASB CODE ACCOUNTING METRIC CATEGORY UNIT OF MEASURE ANSWER, CROSS-REFERENCE, OMISSIONS, AND EXPLANATIONS
+Workforce Diversity & Inclusion
+CG-MR-330a.1 Percentage of gender and racial/ethnic 
+group representation for (1) management 
+and (2) all other employeesQuantitative Percentage (%) GPC 2020-2021 Sustainability Report: People, pp. 11
+CG-MR-330a.2 Total amount of monetary losses as a 
+result of legal proceedings associated with 
+employment discriminationQuantitative Reporting
+currencyMonetary losses as a result of legal proceedings associated 
+with employment discrimination during the reporting period 
+were an immaterial amount.
+Product Sourcing, Packaging & Marketing
+CG-MR-410a.1 Revenue from products third-party certified 
+to environmental and/or social sustainability 
+standardsQuantitative Reporting
+currencyGPC does not disclose this.
+CG-MR-410a.2 Discussion of processes to assess and 
+manage risks and/or hazards associated 
+with chemicals in productsDiscussion and
+Analysisn/a 2019-2020 GPC Corporate Sustainability Report, Planet, pp. 21 
+CG-MR-410a.3 Discussion of strategies to reduce the 
+environmental impact of packagingDiscussion and
+Analysisn/a 2019-2020 GPC Corporate Sustainability Report, Planet, pp. 20
+SASB CODE ACTIVITY METRIC CATEGORY UNIT OF MEASURE ANSWER, CROSS-REFERENCE, OMISSIONS, AND EXPLANATIONS
+CG-MR-000.A Number of: (1) retail locations and  
+(2) distribution centersQuantitative Number Branch and Store Locations ~ 1,429
+Distribution Centers ~  69
+CG-MR-000.B Total area of: (1) retail space and  
+(2) distribution centersQuantitative Square meters
+(m²)Retail and Branch ~ 13,805,582
+Distribution Center ~ 6,310,444
+22
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+GENUINE PARTS COMPANY 2020 TCFD INDEX
+We are committed to providing transparency on our climate change risk management and governance. The Task Force on Climate-related Financial Disclosures 
+(TCFD) has developed voluntary, consistent climate-related financial risk disclosures for use by companies in providing information to stakeholders. A summary 
+of our response to the TCFD-recommended disclosures is below, with references to where related information can be found in either this report or in other 
+public documents.
+TOPIC DISCLOSURE ANSWER, CROSS-REFERENCE, OMISSIONS, AND EXPLANATIONS
+Governance: Disclose the 
+organization’s governance 
+around climate-related risks and 
+opportunities.Our Board, guided the Genuine Parts Company Corporate Governance 
+Guidelines, is responsible for the strategic direction to the Company and 
+the management of risk to the Company. This includes Environmental, 
+Social, and Governance (ESG) oversight by the Compensation, Nominating, 
+and Governance (CNG), Committee of the Board of Directors, which 
+is comprised of all independent Directors. At each meeting, the CNG 
+Committee is provided a full update on the Company's ESG initiatives, 
+risks, and opportunities including those related to the environment and 
+climate change. The full Board also receives an update on climate-related 
+risk and opportunities from the Chair of the CNG Committee at each 
+Board meeting as well as from management. Learn more about our Board 
+governance in our 2021 Proxy Statement and in our Committee Charters 
+available on our Investor Relations website.GPC 2020-2021 Sustainability Report, Governance, pp. 18-19; 
+2021 Proxy Statement Page 17-19; GPC 2019-2020 Corporate 
+Sustainability Report; Corporate Governance Guidelines; 
+Committee Charters
+The Company's management team engages its stakeholders each year to 
+assess what is important to each of them as it relates to all areas of ESG, 
+including climate-related risk. The Sustainability Committee, an internal 
+Committee comprised of senior leadership including the Chief Human 
+Resources Officer, the Vice President of Safety and Sustainability, and the 
+Vice President - Compliance and Corporate Secretary, provides strategic 
+direction and oversight of the Company's ESG and sustainability initiatives. 
+The Sustainability Committee meets quarterly and updates the CNG 
+Committee and the Board on a regular basis. The Company is currently 
+formalizing its plans to reduce carbon emissions and engage experts in the 
+area to help systematically measure and reduce such emissions. 
+23
+2021 Genuine Parts Company Sustainability Report UpdateOVERVIEW SUSTAINABILITY HIGHLIGHTS PEOPLE PLANET PURPOSE GOVERNANCE APPENDICES
+TOPIC DISCLOSURE ANSWER, CROSS-REFERENCE, OMISSIONS, AND EXPLANATIONS
+Strategy: Disclose the actual 
+and potential impacts of climate-
+related risks and opportunities 
+on the organization’s businesses, 
+strategy, and financial planning 
+where such information is 
+material.Genuine Parts Company's Sustainability Committee completed the GPC 
+Sustainability Roadmap in 2017, consulting Global Reporting Initiative 
+(GRI) sustainability reporting standards and the Sustainability Accounting 
+Standards Board (SASB) standards to determine the material focus areas 
+for GPC’s sustainability program. The Company’s commitment to its people, 
+the planet, and giving back are the framework of the sustainability focus 
+areas. Our risks and opportunities are detailed in our 2020 Sustainability 
+Report, this 2021 Sustainability Report Update, and the risk-factors section 
+of our 2020 Annual Report. GPC 2020-2021 Sustainability Report, Sustainable Principles 
+and Material Issues, pp. 7; 2020 Annual Report
+Risk Management: Disclose 
+how the organization identifies, 
+assesses, and manages climate-
+related risks.Genuine Parts Company's Internal Audit team facilitates the use of the 
+Company’s Enterprise Risk Management Framework (RMF) to define, 
+measure, and monitor risk across the organization. The RMF establishes 
+a common language and methodology to measure and prioritize risks 
+and opportunities and define a process for monitoring risk. As part of this 
+framework, there is an enterprise risk rating scale that provides guidelines 
+for risk scoring/magnitude. The Board has overall responsibility for risk 
+oversight, with the Audit Committee assisting the Board in performing 
+this function. The Board’s role is to oversee the Company’s enterprise 
+risk management (ERM) programs, including risk assessment and risk 
+management processes and policies used to identify, assess, monitor and 
+address potential financial, compensation, operational, strategic and legal 
+risks on an enterprise-wide basis. Our 2021 Sustainability Report Update 
+outlines our proactive approach to reduce climate-related impacts across 
+our business. This includes information about our efforts to improve energy 
+efficiency in all of our operations, reduce our carbon footprint, and embed 
+sustainability into our operations and value chain.  
+Metrics and Targets: Disclose 
+the metrics and targets 
+used to assess and manage 
+relevant climate-related risks 
+and opportunities where such 
+information is material.The Company is in the beginning stages of measuring, assessing, and 
+analyzing its global carbon emissions and plans to set science based 
+targets in 2022.
+GENUINE PARTS COMPANY
+Genuine Parts Company
+2999 Wildwood Pkwy
+Atlanta, GA 30339

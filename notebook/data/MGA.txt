@@ -1,0 +1,1470 @@
+FY2021
+ Sustainability
+ Report
+Magna International Inc.
+
+61 Sustainability Metrics39 Non-Climate Elements of Sustainability 27 Climate-Related Risks and Risk Mitigation 14 Climate-Related Opportunities 9  Sustainability Governance 5  Introduction4  Summary Sustainability MetricsTable of Contents
+2Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Our Sustainability Vision
+By doing the right things today to ensure a better planet for current and future generations, Magna embraces its ongoing commitment to sustainability. With innovative 
+products and energy-conscious manufacturing, we are fighting climate change and reducing our global carbon footprint. Through teamwork and perseverance, we are 
+making a difference for our company, our communities and our planet.
+WHERE WE ARE  
+14%
+Global electricity buy  
+is renewable electricity
+29
+Divisions use 
+renewable electricity 
+9
+Divisions are  
+CO 2 neutral 
+5
+Divisions have on-site 
+solar generationWHERE WE ARE GOING
+35%
+Expected by 2025  
+>120
+Divisions  
+expected by 2025 
+110
+Divisions  
+expected by 2025 
+>20
+Divisions currently 
+investigating
+TOPIC SASB CODE METRIC UNIT OF MEASURE MAGNA 2021 DATA (1)CHANGE FROM 2019 BASELINE (2)
+— Scope 1 & 2 emissions Metric Tons (t) CO2e 1,613,922 t  24.1%
+Energy 
+ManagementTR-AP-130a.1 Aggregate amount of energy consumed Gigajoules (GJ) MegaWatt hours (MWh) 19,493,920 GJ / 5,414,978 MWh  15.3%
+% of energy consumed supplied from electrical grid Percentage (%) 57.5%  2 bps
+% of energy consumed that is renewable energy Percentage (%) 8.2% —
+— Energy intensity MegaWatt hours (MWh) / Sales (USDm) 149 MWh / USDm  8.0%
+Energy intensity reduction MegaWatt hours (MWh) / Sales (USDm) Target: ≥2% p.a. / Actual: 4% 2021 —
+Waste ManagementTR-AP-150a.1 Aggregate amount of waste generated from manufacturing operationsMetric Tons (t) 1,144,018 t —
+% of waste generated that is hazardous Percentage (%) 7.0% —
+% of waste generated that was recycled Percentage (%) 88.4% —
+— % hazardous waste diverted from landfill Percentage (%) 91.0% —
+Waste diversion from landfill target Percentage (%) ≥95% p.a. —
+Water Management— Annual water withdrawals Megalitres (ML) 6,922 ML
+ 9.2%
+Water reduction target Percentage (%) 1.5% p.a. 15% by 2030 (vs. 2019) —
+Environmental Management— Annual remediation expenses Reporting Currency (USD) <$1.0m No Change
+Aggregate remediation balance for known events Reporting Currency (USD) $14.1 m
+ 4.5%
+Competitive BehaviourTR-AP-520a.1 Total amount of monetary losses incurred as a result of legal proceedings associated with  anti-competitive behaviour regulationsReporting Currency (USD) NIL NIL
+Health and Safety— Accident frequency rate 1.0 = 1 injury / illness per 100 employees working 40 hours/week, 50 weeks/year0.49
+ 52.9%
+Accident severity rate 10.0 = 10 lost work days / 100 employees working 40 hours/week, 50 weeks/year12.80
+ 3.6%
+Gender Diversity— % of employees who are women
+ (3)Percentage (%) 27% —
+% Women in Critical Positions Percentage (%) 16% —
+% Women on the Board of Magna Percentage (%) 42% (4) 9 bps
+Notes:
+(1) 2021 data with respect to Water Withdrawals, Emissions, Energy Management, and Waste Management is preliminary.
+(2) Items indicated by a dash were not tracked in 2019.(3) Wholly-owned operations only.
+(4) As of May 3, 2022, the percentage of women on the Board will be 36%, assuming election of all nominees for Magna’s annual and special meeting of shareholders.
+4Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Introduction
+5Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+MAGNA’S CLIMATE CHANGE COMMITTMENT
+We recognize the reality of climate change and its impact on the planet. As a result, we 
+are focused on doing the right things today so that our corporate interests do not come at the expense of the viability of life for the generations that follow. Although combating climate change requires a collective global response, Magna is determined to play its part in addressing this existential threat to our planet. We took a significant step in 2021, targeting carbon neutrality (Scope 1 and Scope 2 emissions) in our European operations by 2025 and in our global operations by 2030. To date, nine of our Divisions globally have achieved carbon neutrality.
+We believe our ambitious commitment makes us an industry leader in North America and 
+aligns us with industry leaders in Europe. Moreover, we are focused on a science-based approach aligned with the objectives of the Paris Climate Agreement and intend to submit our emission reduction targets for official validation by the Science-based Targets initiative (SBTi) by the second quarter of 2023.
+Our progress to date with respect to carbon neutrality is detailed in this Sustainability Report.At Magna we are committed to making a 
+difference through our products and processes, as well as care and concern for our people and the communities in which they live.Introduction
+6Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+APPROACH TO SUSTAINABLE VALUE 
+CREATION
+Overall, our approach to 
+sustainable value creation involves:
+ ·designing, engineering, manufacturing and delivering 
+innovative product solutions for our customers, which achieve shared goals of reduced weight, lower fuel consumption and reduced carbon emissions;
+ ·optimizing and innovating our manufacturing processes for resource and input efficiency, as well as product quality;
+ ·enhancing the energy efficiency of our plants to reduce Scope 1 greenhouse gas emissions;
+ ·working on a roadmap for the transition to 100% renewable energy to reduce our Scope 2 emissions;
+ ·continuing to work on a roadmap for engaging with our supply chain regarding Scope 3 emissions;
+ ·treating our employees fairly and looking out for their health, safety and general well-being; and
+ ·serving as a good community partner, particularly in the communities in which our employees live and work.This Sustainability Report aims to provide our stakeholders with a better understanding of how we approach the creation of sustainable, long-term value and our management of sustainability-related risks. The report has been structured to align with the Task Force on Climate-related Financial Disclosures (“TCFD”) framework, as well as the Sustainability Accounting Standards Board’s (“SASB”) Auto Parts accounting standard, where possible. While this report may not currently provide stakeholders with all of the information sought through the TCFD and SASB frameworks, we continue to evolve and enhance our disclosure as our collection and validation of the applicable data improves. While the TCFD and SASB Auto Parts frameworks primarily address climate-related factors, this Sustainability Report aims to go beyond such items to give stakeholders a better understanding of the broad range of initiatives that define our approach to sustainable value creation.METRICS  
+AND TARGETSRISK  
+MANAGEMENTSTRATEGYGOVERNANCE
+7Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Eco-Conscious Employees Across the Globe
+Magna’s Polycon Industries division in  
+Guelph, Ontario  implemented over 3,000  
+“green” suggestions from employees 
+in the past five years, including an on-site garden that provides vegetables to a local 
+food bank.  Magna divisions in Sanand, India  use 
+recycled wastewater to grow guava, pomegranates and eggplant in on-site 
+gardens.  Magna Sonora Forming Technologies in Hermosillo, Mexico hosts an annual summer camp for kids, where they learn how to compost and plant trees and why it’s important to take care of the planet.SUSTAINABILITY SPOTLIGHT
+8Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Sustainability 
+Governance
+9Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+1.1 Board Oversight
+Magna’s Board of Directors is the company’s highest decision-making body, except to the extent 
+certain rights have been reserved for shareholders under applicable law or Magna’s articles of incorporation or by-laws. As such, the Board is responsible for the overall stewardship of the company by: supervising the management of the business and affairs of Magna in accordance with the legal requirements set out in applicable company law ( Business Corporations Act  
+(Ontario)), as well as other applicable law; and, jointly with Management, seeking to create long-term shareholder value. The Board operates under a written Board Charter, in addition to applicable law, our articles of incorporation and by-laws. The Board Charter, which has been filed on SEDAR, and is available in the Leadership & Governance section of Magna’s website  
+(
+ www.magna.com ), delineates Board oversight responsibilities including with respect to a 
+number of areas relevant to sustainability such as: corporate culture; corporate governance; strategy; risk; shareholder engagement and fundamental corporate actions.
+The Board takes an integrated and  
+coordinated approach to oversight (including 
+climate-related issues). 
+This includes oversight of the Company’s corporate culture, as well as its overall approach to 
+corporate governance; capital allocation; major corporate policies; enterprise risk management, including sustainability risks; and shareholder engagement. Climate-related and other sustainability issues are typically considered by the Board at least annually through the Board’s strategic planning process. Typically, Magna’s Chief Technology Officer identifies material “megatrends” impacting the automotive industry, including automotive and mobility trends arising from climate-related issues. Significant opportunities and risks are then addressed by the CTO at the annual Board strategy meeting, while Operating Group Presidents address the opportunities and risks applicable to their respective business units at the annual business planning meeting. Guidance, feedback and other outputs from the strategy meeting are incorporated and integrated into business unit business plans for the next business planning meeting. Sustainability issues may also arise before the Board in connection with its oversight of fundamental corporate actions such as review/approval of material acquisitions/divestitures, three-year business plans and capital expenditures. Additionally, the Board annually monitors our progress in reducing our carbon footprint and reviews/approves the company’s material public disclosures, including our Annual Information Form / Annual Report on Form 40-F incorporating this Sustainability Report. In 2021, we announced our carbon neutrality targets, discussed above.
+1.1.1 CGCNC ROLE
+The Board carries out its duties in part through standing committees composed solely of independent directors. One such committee, the Corporate Governance, Compensation and Nominating Committee (“CGCNC”), supports the Board’s oversight of the company’s approach to sustainability and climate change issues, including by assessing Magna’s overall approach to reduce its carbon footprint, environmental compliance, occupational health and safety, as well as 
+10Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Magna’s actions to identify, monitor and mitigate any material 
+risk exposures relating to such areas.
+Like the Board, the CGCNC maintains a written charter 
+which outlines its specific roles and responsibilities. The CGCNC Charter has been filed on SEDAR and is available in the Leadership & Governance section of Magna’s website (
+ www.magna.com ). Matters under the CGCNC’s 
+responsibility include: corporate governance, sustainability, talent management and other matters. The scope of the CGCNC’s oversight role with respect to sustainability includes climate-related issues generally, as well as related elements such as environmental management and compliance. As Magna defines “sustainability” in a broad and inclusive manner to include areas that go beyond climate-related issues, the CGCNC’s role also extends to matters such as occupational health and safety, diversity and inclusion, as well as corporate social responsibility. The CGCNC periodically reviews Magna’s policies, practices and public disclosures relating to sustainability topics, and makes recommendations to the Board regarding such items. During 2021, the CGCNC received updates on Magna’s evolving sustainability strategy. The Committee also reviewed, provided input into and approved the organization’s Sustainability Report and presented its recommendations to the Board regarding the Board’s approval of the Sustainability Report. Additionally, the CGCNC received semi-annual reporting relating to the performance of Magna’s environmental compliance and management program.
+1.1.2 OTHER BOARD COMMITTEES
+In addition to the CGCNC, the Board maintains two other standing committees – the Audit Committee and the Technology Committee. While neither of these committees have specific sustainability responsibilities, each may have a role with respect to sustainability risks and opportunities that arise indirectly out of the committee’s primary role and responsibilities.
+Magna’s Audit Committee supports the Board through its 
+oversight of financial and audit-related matters, including financial risks and disclosures. To the extent that climate-related or other sustainability risks are or could be financially material, the Audit Committee would be involved through its consideration of the financial statement or other disclosure of the nature and scale of the risk.
+The Technology Committee supports the Board’s overisight 
+duties by advising it on technology trends, related opportunities and risks, R&D and innovation, and technology-focused acquisitions, as well as the alignment between the company’s technology and its strategic priorities. As such, the scope of the Technology Committee’s role includes products and processes that seek to realize opportunities created by climate-related challenges.
+Making An Impact
+A Magna Mirrors plant in Shanghai, 
+China improved its waste gas 
+treatment in 2021, resulting in 
+improved air quality that exceeds 
+national regulations.
+11Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+1.2 M anagement
+Climate-related issues are part of the CEO’s responsibility. As Magna’s highest-ranking 
+member of management, the CEO guides and directs Executive Management and Operating Group Presidents with respect to product portfolio and strategic planning, business planning, capital expenditures, innovation/R&D, manufacturing productivity and efficiency, as well as other critical areas, including the setting of the carbon neutrality targets (Scope 1 & Scope 2) announced by Magna in 2021. The CEO is also the highest executive responsible for customer management, shareholder engagement/investor relations, as well as talent management. The criticality of climate sustainability to the future of the automotive industry generally means that climate-related issues are interwoven through all of the foregoing areas of the CEO’s responsibilities. At the same time, the importance of making demonstrable progress with climate sustainability goals requires CEO-level engagement and direction to ensure organizational alignment.
+To assist our CEO, Magna has designated one of its Operating Group presidents as 
+an executive “champion” for climate-related sustainability matters (the “Sustainability Champion”). The Sustainability Champion reports directly to Magna’s CEO on sustainability matters and helps coordinate and align sustainability priorities across the company’s other Operating Groups. Operating Group management is responsible for development of product strategies to address megatrends, industry trends, and business opportunities and risks, including those which arise due to climate-related challenges.
+We also have a bottom-up sustainability structure with respresentatives at each of our three 
+main management levels (Divisional, Operating Group and Corporate).  Approximately 95% of our manufacturing Divisions have an energy management champion who works with members of our Global Energy Team to identify and implement high-priority energy management projects. The Global Energy Team functions across all of our Divisions and Operating Groups to share energy efficiency/management case studies and best practices. Each Operating Group has a sustainability team comprised of a range of product, process and functional skillsets, coordinated through a Group “lead”. Operating Group sustainability leads participate in a sustainability steering committee headed by the Sustainability Champion, which consists of cross-functional corporate leaders representing operational improvement, environmental, purchasing, energy, real estate, R&D, legal/ corporate secretarial and finance, with other functions as needed. In connection with our evolving sustainability strategy and our commitment to achieving the carbon neutrality targets set in 2021, our energy reduction progress and initiatives are reported to our Sustainability Champion, helping to increase the visibility of these initiatives across our Operating Groups through the Sustainability Champion’s regular interaction with other Operating Group Presidents.
+A number of initiatives intended to help us achieve our carbon neutrality targets are well 
+underway, including energy optimization initiatives at most of our operating Divisions and a phased-in transition to renewable electricity globally. For us, carbon offsets are a last resort to offset Scope 1 emissions that cannot be displaced by other methods, not a primary means of achieving our targets.
+12Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Our energy optimization 
+activities are described in further detail in Section 2.4  
+of this Sustainability Report.
+Aspects of sustainability beyond climate-change concerns 
+are typically managed through a matrix structure in which corporate-wide functions support initiatives implemented or managed by Operating Groups and Divisions. Examples of functional areas managed in this manner include: environmental management and compliance; occupational health and safety; quality and operational improvement; talent management, including diversity and inclusion; cybersecurity; data privacy; as well as supply chain.Carbon 
+Neutrality Priorities
+3
+CARBON  
+OFFSET  
+(SCOPE 1)
+Purchase of clean carbon offsets 
+as a last resort to address Scope 1 
+emissions that cannot be displaced2
+RENEWABLE 
+ENERGY  
+(SCOPE 2)
+A regional portfolio approach to 
+renewable energy including: Power 
+Purchase Agreements (PPAs), 
+Renewable Energy Certificates 
+(RECs) and self generationENERGY 
+OPTIMIZATION 
+(SCOPE 1 & 2)1
+Energy reductions through our 
+Global Energy Team (GET)
+13Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Climate-
+Related 
+Opportunities 
+14Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+The automotive industry is being defined by a number of global megatrends that have 
+shaped our long-term strategy, including:We have distilled the impacts of the global megatrends into four long-term strategic factors 
+which we see defining the “Car of the Future” – electrification, autonomy, new mobility and connectivity. We believe we are well-positioned to capitalize on opportunities in each area:
+Electrification | We possess an enhanced e-Powertrain portfolio with a range of products that addresses the roadmap for the transition to Electric Vehicles allowing us to win new EV business.
+Autonomy | We possess full ADAS capability and complete ADAS system 
+expertise. We take a systems level approach in developing ADAS building blocks for OEM customers with a focus up to level 2+/3 ADAS capabilities.
+New Mobility | We have expanded our collaboration ecosystem, continue 
+to look for opportunities to leverage new business models, and are a key enabler of OEM customers and new entrants in the New Mobility space.
+Connectivity | We possess software-enabled functionality in our 
+electronic control unit-related products. This functionality helps optimize performance and efficiency in connected products, such as our connected powertrains, which can obtain route and other information through cloud connectivity to identify optimal routes to avoid traffic and increase fuel savings.MEGATREND IMPACT ON AUTOMOTIVE
+Society Demographic Change  
+& IndividualismProduct design will be influenced by aging population and growing individualization.
+Digital Transformation Connectivity and digitization impact both product and process. New vehicle architectures that connect the subsystems along with software functionality creates additional value to products. Process is also impacted due to increased digitization, driven by increased requirements for productivity and quality.
+Health & Well-Being ADAS and autonomy take rates will be driven both by consumer preferences as well as regulatory requirements tied to increased safety.
+Mobility Urbanization Continued growth in urban population will lead to changes in mobility as a result of increased density and congestion with an increase in electric vehicle adoption and new transport modalities.
+New Mobility Emerging new mobility eco-system offers a range of potential opportunities for new products and services.
+Economy Natural Resources,  Energy & EnvironmentalIncreased focus on the environment and climate change will drive growth rates for electrification.2.1 Corporate Strategy 
+15Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+We have developed our 
+corporate strategy to realize the opportunities from these trends. Key elements of such strategy include: 
+Increasing Capital Deployment Toward High-
+Growth Areas Aligned with the “Car of the Future”
+We are proactively managing our portfolio and evolving our 
+product mix based on alignment with the Car of the Future. We seek to grow our business and capabilities in areas which are positively impacted by the megatrends discussed earlier. Examples of such areas include powertrain electrification, ADAS systems and battery enclosures, as well as our contract vehicle manufacturing operations. As illustrated in the graphic to the right, we believe that a substantial proportion of our product areas are not adversely impacted by the global megatrends, including our body, chassis, lighting, active aerodynamics, dual clutch transmissions, mirrors, mechatronics and seating products. The strong returns and cash flow from these product areas enable us to fund the R&D and capital investments required to realize the opportunities in high-growth products which are benefiting directly from the global megatrends.Lastly, there are elements of our product portfolio which are negatively impacted by the global megatrends and are expected to be less directly relevant to the Car of the Future. Examples of such products include manual transmissions, mechanical AWD/4WD systems and fuel tank systems. Despite their declining long-term strategic importance, our assets and expertise associated with these products remain relevant to, and can be redeployed for, growing product areas aligned with the Car of the Future.
+Driving Operational Excellence
+We are committed to manufacturing excellence. We continue to elevate our approach to manufacturing by implementing “factory of the future” initiatives including: enhanced use of big data and analytics; advanced robotics, additive manufacturing and augmented reality. The ultimate goal is to achieve greater profitability through further enhanced quality, production efficiency, reduction of floor space and improved return on investments. Critical elements of our approach to operational excellence include our World Class Manufacturing initiatives and MAFACT operating system, which are discussed in “Section 6 – Description of the Business – Manufacturing & Engineering” in our Annual Information Form (‘AIF’). Additionally, our sustainability strategy dovetails with our efforts around operational excellence, due to the focus on energy optimization and minimization of both water withdrawals, as well as waste streams to landfill.Aligned
+Negative 
+Impact
+Magna Sales Over TimePositive Impact ·eDrives
+ ·Battery Enclosures 
+ ·ADAS
+ ·Contract Vehicle Manufacturing 
+ ·New Business Models
+ ·Lighting
+ ·Active Aerodynamics
+ ·Body & Chassis
+ ·Dual Clutch Transmissions 
+ ·Mirrors
+ ·Mechatronics 
+ ·Seating
+ ·Manual Transmissions 4WD/AWD
+ ·Fuel TanksImpact of Megatrends
+Today Future
+16Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Unlocking New Business Models and Markets
+The new mobility landscape, which is generally urban, electrified, autonomous and 
+connected, is creating new business models and markets. We believe that our systems and complete vehicle knowledge, including elements of our portfolio such as electric vehicle ADAS platforms, provide us with an advantage in pursuing such opportunities. In addition, our ability to use capital efficiently, launch programs reliably and help speed products to market, makes Magna a key enabler of new entrants, as demonstrated by our arrangements with Fisker.
+Our long-term strategy is well-aligned with climate change-related trends impacting the 
+automotive industry, including vehicle electrification, operational efficiency to minimize manufacturing inputs and waste outputs, as well as the pursuit of new mobility business models. We cannot determine for certain how quickly the market for the declining products in our portfolio may deteriorate, but products such as AWD/4WD systems appear to have continuing relevance for the next decade. However, we believe that our physical assets, human capital and know-how related to the mechanical solutions can be repurposed as vehicle development plans migrate toward electrified AWD/4WD solutions. We currently offer multiple alternatives to manual transmissions, including efficient dual-clutch, hybrid dual-clutch and dedicated hybrid transmissions, as well as complete e-drive systems, and expect to be able to continue growing our market share in the drivetrain market. Fuel tank systems are not a material part of our business, but also have continuing relevance for a number of years to come. The physical assets, human capital and know-how related to fuel tank systems could be repurposed for adjacent product areas such as vehicle hydrogen storage tank systems.
+Making An Impact
+The Magna Craiova division in 
+Romania launched a “Lend a hand to 
+the environment, plant good deeds!” 
+campaign, which included the planting 
+of 10,000 oak and ash trees by 
+volunteers.
+17Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+2.2 Products and Services
+Consistent with the above long-term strategy, 
+key climate change-relevant themes in our product portfolio include:
+We continue to support our OEM customers by offering solutions which enable them 
+to deliver lighter vehicles, improved/optimized powertrain efficiency and enhanced aerodynamics, including:
+ ·Lightweight Products & Materials:  OEMs are focused on reducing vehicle mass in 
+order to: downsize engines, thereby reducing fuel consumption and tailpipe emissions for vehicles powered by internal combustion engines; and minimize power consumption/ maximize driving range for EVs. We believe that the breadth of our engineering capabilities across all major sections of the vehicle, together with our full vehicle capabilities, provide us a competitive advantage in addressing OEMs’ lightweighting needs “holistically”. Moreover, our financial strength has enabled us to fund continuous innovation related to advanced materials, multi-material joining processes, manufacturing processes and lightweight products. ·Efficient Transmissions/e-Drive Systems:  Irrespective of a vehicle’s power source 
+– gas or diesel, hybrid or fully electric (battery or hydrogen fuel cell) – power needs to be transferred to the wheels through a transmission or e-drive system. Through our powertrain business, we offer customers a range of efficient dual-clutch transmissions (“DCTs”), including traditional DCTs for vehicles with an Internal Combustion Engine (“ICE”), hybrid DCTs featuring an integrated electric motor for start/stop or plug-in hybrid applications and dedicated hybrid transmissions used in applications with an electric motor. Additionally, we offer e-drive systems for fully electrified powertrains.
+ ·Pure EVs:  Pure EVs share many components with vehicles powered by an ICE. At the 
+same time, there are many elements which are new or which need to be engineered differently for EVs. Multiple Magna Operating Groups are pursuing opportunities related to pure EVs, including:
+ ·e-Drive systems, as discussed above, including through our Hasco joint venture in China that commenced high-volume serial production of integrated e-Drive systems in 2022, and our newly established joint venture with LG Electronics.
+ ·Lightweight seat structures optimized to accommodate EV chassis.
+ ·Battery enclosures.
+ ·EV complete vehicle engineering, including integration, validation and testing, as well as assembly.Optimizing Vehicle Weight, Powertrain Efficiency 
+and Aerodynamics
+18Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+ ·Active Aerodynamics: Redirecting airflow to reduce air drag on vehicles assists in 
+reducing fuel consumption and thus CO2 emissions. Magna offers a growing range of 
+active aerodynamics innovations, including active grille shutters, active air dams, active front deflectors, active liftgate spoilers and active tailgate, as well as underbody panels.
+ ·Innovative, Lightweight, Energy-efficient Lighting: OEMs continue to seek innovative 
+forward and rear-lighting solutions that allow increased styling flexibility, reduced weight compared to traditional lighting systems and energy efficiency. We continue to grow our lighting business – organically, as well as through joint ventures and acquisitions.
+New mobility solutions involve the convergence of electrification and vehicle autonomy trends. Over the medium- to long-term, new mobility solutions are expected to be lightweight zero/low emission (“ZLEV”) vehicles with leading-edge ADAS features. We possess broad capabilities to support new mobility, including through:
+ ·Magna’s Powertrain and Complete Vehicles Operating Groups, which have significant expertise in alternative energy propulsion and storage systems, respectively;
+ ·electronics/ADAS features;
+ ·our complete EV engineering, integration and testing capabilities;
+ ·our ability to offer new mobility OEM customers such as Fisker an EV platform, electrical/electronic architecture, complete vehicle engineering and manufacturing, as well as a complete ADAS system and other products; and
+ ·our ability to offer customers a versatile test environment for highly automated vehicles, 
+including the entire test “chain” from virtual simulation to test rigs to trial runs on public roads.New mobility solutions may enable us to take 
+advantage of our complete systems knowledge and draw-in expertise from across our entire product range, including:
+Body Exteriors & Structures:
+ ·chassis architectures requiring leading-edge materials know-how;
+ ·battery enclosures for EVs and hybrid-EVs;
+ ·lightweight thermoplastic body panels and liftgates; and
+ ·seamless sensor integration into the vehicle body.
+Power & Vision Systems:
+ ·highly integrated e-drive systems; and
+ ·full suite of sensing technologies, together with domain controllers.
+Seating Systems:
+ ·reconfigurable seating solutions that address automated, connected, 
+electric and shared vehicle solutions.
+Complete Vehicles:
+ ·non-OEM branded (“white-label”) vehicles, engineered and assembled by Magna.Incorporating Full Breadth of Magna Capabilities into 
+New Mobility Solutions
+For a complete discussion of our product portfolio, including the ways in which it addresses 
+these areas, see “Section 6 – Description of the Business” in our AIF.
+19Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Thinking Beyond Boundaries for our Communities
+Magna is bringing  lightweight micro 
+LEDs into vehicle exteriors at our 
+Holly plant in Grand Blanc, Michigan  
+– but that’s just one piece of the facility’s sustainability initiative.
+The employees at Magna Electronics  
+Holly think beyond the boundaries of  their division to the wider community.   
+In 2022, all employees are being given trees/saplings to plant in the community  and their own backyards. 
+The attitude here is “never stop learning about sustainability.” While the state-of-the-art facility is designed to conserve energy, upgrades are always on the to-do list.  New optimization software that controls compressors based on usage  was recently added to the 
+building management system. The plant’s philosophy: “The more you can do locally, the less impact there will be on the environment.”
+SPOTLIGHT ON  PLANET-FRIENDLY OPERATIONS 
+20Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+2.3 Markets
+The transition to a lower-carbon economy has provided, and is expected to continue 
+to provide, opportunities to enter new product and service markets. Some recent new products developed to take advantage of opportunities from such transition include:
+EtelligentCommandTM
+EtelligentCommand is a PHEV/HEV system featuring a Dedicated Hybrid Drive DHD Plus at the front and an eDrive Mid+ with torque vectoring at the rear, combined with advanced software and controls. Various driving modes are available on command to enhance performance and drivability and provide greater power handling and control. The Dedicated Hybrid Drive DHD Duo is a two e-motor single or multi-speed system suitable for HEV application delivering greater performance, drivability and comfort even when driving in congested traffic. Additional efficiency increases are available through an optional voltage booster and innovative e-coupling technology for ICE disconnection.EtelligentForceTM
+Magna’s EtelligentForce, is a battery electric 4WD powertrain system for pickup trucks and light commercial vehicles. The product features Magna’s eDrive technology at the front of the vehicle and its eBeam electric axle drive system in the rear. The system is designed to deliver the environmental benefits of an electric powertrain, while maintaining full vehicle capabilities without compromising payload or towing capacities of pickup trucks and light commercial vehicles. The system is designed for high-payload vehicles, capable of towing up to 14,500 pounds – on par with its ICE counterparts in this truck segment. It can provide a total peak power of up to 430kW – 250kW from the rear eBeam and 180kW from the front eDrive. The solution also eliminates the need for architectural changes to the vehicle and is totally customizable for automakers to prioritize key performance attributes. 
+21Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Magna’s eBeam replaces traditional beam axles, accommodating existing suspension and 
+brake systems, and avoiding the need for expensive redesign of existing truck platforms. 
+These benefits help automakers simplify the transition toward electrification of these vehicle segments.
+In addition, with fewer moving parts than a traditional ICE powertrain, the EtelligentForce 
+requires less maintenance – a direct benefit to truck owners over the life of the vehicle. The EtelligentForce, which is targeted for production in 2025, will be prepared for launch by a specialized team at Magna’s new EV centre in Troy, Michigan.
+EtelligentReachTM
+Magna’s all-electric connected powertrain, the EtelligentReach, is the latest innovation set to debut on a new entrant vehicle in 2022. The complete system is comprised of two electric motors, inverters and gearboxes, and leverages advanced software to maximize vehicle range and driving dynamics. eDrive technology advancements and the holistic vehicle development approach of the EtelligentReach achieve a range increase of up to 145 km/90 miles or 30% compared to certain production BEV vehicles in this segment, which reduces range anxiety, and is a key differentiator in the growing electrification space. Magna’s approach optimizes the interaction of individual eDrive components and the entire vehicle with a software package that manages multiple vehicle functions. On the new entrant vehicle, for example, EtelligentReach utilizes a functional, modular control unit that integrates various powertrain and chassis functions. This includes a vehicle dynamics controller with a disconnect system which increases efficiency while reducing CO
+2 emissions, and a 
+longitudinal torque vectoring function that can improve the safety margin by up to 10% by controlling each axle individually in all road conditions, as well as significantly reduce steering effort during dynamic cornering. Drivers can select from several distinctive driving modes –  further enhancing the driving experience. Additional efficiency gains are achieved using silicon carbide within the inverter.
+Battery Enclosures
+Magna’s battery enclosures will debut in 2022 on the all-electric Ford F-150 Lightning and GMC Hummer EV, illustrating our ability to expand structural product opportunities as electrification grows. The enclosures, which all electric vehicles require, house high-voltage batteries, electrical components, sensors and connectors, contributing to the structural and safety aspects of a vehicle’s frame and protecting critical components from potential impact, heat and water. In addition, the use of lightweight aluminum helps minimize added mass from the vehicle’s battery.
+22Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Innovating with the Planet in Mind Leading Electrification Solutions
+Our battery enclosures for EVs  are a great example of this smart 
+approach to sustainability. Battery enclosures can be developed 
+in steel, aluminum, and multi-material configurations,  i ncluding 
+lightweight composites, to meet the individual needs of each 
+customer. The enclosures protect the EV’s important power source and can help minimize added mass in the battery pack. This Magna innovation is now on some of the most exciting new EVs, including the all-electric 2022 Ford F-150 Lightning pickup truck and the 2022 GMC Hummer EV SUV.Global automakers and startups are turning to Magna for everything from e-drives for entry-level vehicles to our EtelligentReach , a 
+complete electric powertrain package, which reduces greenhouse gas emissions by up to 38% and boosts range by up to 30%.  With our EtelligentForce , which combines Magna’s eBeam 
+electrified axle and our Mid+ electric drive, automakers will finally be able to produce a wider range of electric trucks and light commercial vehicles.SUSTAINABILITY SPOTLIGHT
+23Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+2.4 Re source Efficiency
+2.4.1  ENERGY
+Our aggregate global energy spend in 2021 amounted to approximately $419 million broken down by type as follows:
+As part of our sustainability and operational efficiency efforts, we are focused on optimizing 
+energy use, which may result in savings in overall energy costs. However, as we continue to forecast growth in Sales and number of facilities over the medium-term, we anticipate that our aggregate energy consumption may increase. Accordingly, we are focused on becoming more energy efficient (measured by energy consumption relative to Sales) so that, at minimum, our rate of increase in energy consumption slows. In connection with our efforts to promote energy efficiency, we developed interim 2021 energy reduction targets for each of our Operating Groups, which aggregated to approximately 2% of our annual energy purchase based on MWh per USD of sales. We reduced our MWh per USD of sales by 4% in 2021 (compared to 2020). For 2022, each Operating Group has established new energy reduction targets for 2022 that range from 2% to 3.5% compared to the prior year.
+Approximately 95% of our Divisions have active energy teams pursuing energy efficiency 
+measures in their respective Divisions. These teams are supported at the corporate level by a Global Energy Team which helps identify and promote energy reduction initiatives, including through: training courses designed to promote strategies for reduced energy use; regional benchmarking sessions; regular communication through newsletters; an internal energy savings collaboration site; and best practice sharing.
+Some of the incremental changes made by our Divisions to their facilities and processes to 
+reduce our energy consumption and improve energy efficiency include:
+ ·Installation of LED lighting;
+ ·Equipment start-up/shut-down/idling procedures to achieve energy-savings during production downtimes;
+ ·Compressed air leak identification and repair initiatives;
+ ·Use of ceiling fans to blend air temperatures evenly within our operations;
+ ·Computer-controlled utility and HVAC systems to allow for improved performance and energy reduction;Electricity: approximately 
+$346 millionNatural Gas: approximately 
+$56 millionOther (Propane; Liquid Petrol; Diesel; District Heat; Steam):
+$17 million
+24Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+ ·Installation of energy metering and monitoring systems;
+ ·Door and dock seal repairs to reduce heat loss;
+ ·High efficiency chiller and compressor upgrades;
+ ·Integration of air economizers and heat recovery units into HVAC systems;
+ ·Software-managed and occupancy-sensor-controlled lighting and energy efficient lighting 
+retrofits;
+ ·Use of solar panels at certain facilities;
+ ·Recovery of waste heat from certain processes for use in other areas;
+ ·Installation of variable frequency drives on motors and pumps; and
+ ·Participation in energy savings and incentives programs offered by utilities providers in some jurisdictions in which we operate.
+Our efforts to reduce energy consumption and operate facilities on a more energy efficient basis forms part of our formal MAFACT system – the primary operational assessment audit tool used to support our World Class Manufacturing initiative. The MAFACT system establishes World Class standards for achieving operational efficiencies, identifies benchmarks and promotes best practice sharing among Divisions in Magna. The integration of energy management elements into a core operational assessment tool such as MAFACT is intended to reinforce the importance of energy management throughout the organization and help realize potential cost savings. In 2021, we completed energy projects across all of our Operating Groups which resulted in approximately 33,000 tons of CO
+2 equivalent in 
+annual savings. Given the importance of energy optimization in meeting our carbon neutrality targets and to further incentivize our Divisions, we have established a separate approval category for energy efficiency and sustainability-related capital improvements. We have also developed a phased-in renewable energy strategy focused on Europe and the U.S. first, followed by the other markets in which we operate. In 2021, 100% of our energy purchase in Austria was from renewable energy sources and evidenced by renewable energy certificates. In the near-and medium-terms, adoption of renewable energy may increase our energy costs, but we are working to offset the impact of such increases through energy use reductions. While we currently have a few examples of renewable energy self-generation at certain of our facilities, self-generation is not a significant opportunity for us primarily since the vast majority of our facilities are leased.
+2.4.2 WATER
+We have implemented a 1.5% per year water reduction target, with the aim of reducing water use 15% by 2030, in each case referencing 2019 as the baseline year. While we are not a significant water user, achievement of water reductions would be expected to result in cost savings, potentially by offsetting (in whole or in part) any increase in the rates charged by applicable water utilities. Overall, we do not anticipate that any savings will be material.
+2.4.3 WASTE
+We have also implemented a zero waste to landfill (“ZWTL ”) target, with the aim of eliminating landfill-bound waste by 2022. Waste sent to landfill bears both an economic cost borne by us and an environmental cost borne by society as a whole. Although achievement of our ZWTL target will help reduce or eliminate the economic cost, we do not anticipate any such savings will be material.
+25Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+2.5 Resilience
+The automotive industry as a 
+whole is investing in innovations aimed at adapting mobility products and service solutions to a lower carbon economy. 
+The risk mitigation factors below in “Section 3 – Climate-
+Related Risks and Risk Mitigation” and initiatives to realize opportunities discussed in this Section of the Sustainability Report, together with factors addressed in “Section 4 – Our Business & Strategy” of our AIF, are expected to promote our ability to adapt and succeed in a lower carbon economy.
+26Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Climate-
+Related Risks 
+and Risk Mitigation 
+Magna maintains both top-down and bottom-up processes for 
+identifying and assessing sustainability-related risks within the governance structure described in “Section 1 – Sustainability Governance at Magna” of this Sustainability Report. In order to fully understand the risks set out below, you should also carefully consider the risk factors set out in “Section 5 – Risk Factors” in our AIF.
+27Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+3.1 Transition Risks and Risk Mitigation
+3.1.1 REGULATORY POLICY ACTIONS
+Applicable near-term policy actions related to 
+climate change generally fall into one of the following categories, each of which may have an indirect effect on Magna:
+Average Fleet Emissions or Fuel Efficiency Regulations:  governments in key auto 
+producing regions have set challenging average vehicle fleet emissions or fuel efficiency 
+targets which OEMs must meet, including the European Union, China and the U.S., as detailed below. We regularly monitor changes in regulation relating to emissions and fuel efficiency as part of our strategic planning processes:
+ ·European Union: E.U. regulations generally require OEMs to have achieved E.U. fleet-wide 
+average emissions of 95g CO2/km by 2021, which corresponds to 4.1 litres/100 km of gas 
+or 3.6 litres/100 km of diesel. Commencing in 2021, vehicle manufacturers with an average fleet economy in excess of the target must pay an excess emissions penalty for each vehicle registered within the E.U. The 2021 average emissions level forms the baseline for a further 15% fleet-wide average emissions reduction from 2025 onwards; and 37 .5% from 2030 onwards. In addition, the E.U. is planning to aggressively increase such targets to a 55% reduction by 2030 and a 100% reduction by 2035, with the relevant (Euro 7) legislation currently expected to be passed in July 2022, with an implementation date of 2025. Penalties levied on non-compliant OEMs may be passed on to vehicle-buying consumers, which could impact demand for such vehicles and thus demand for Magna products supplied for such programs. Additionally, E.U. regulations contain incentives aimed at promoting the development of ZLEVs. The CO
+2 emissions targets applying to any particular 
+OEM will be relaxed if its share of ZLEVs registered within the E.U. in any year exceeds 15% from 2025 onwards, and 35% from 2030 onwards.
+ ·China:  In China, effective July 1, 2021, stringent China VI emissions regulations 
+addressing particulate emissions were implemented, which could affect consumer demand for vehicles, or powertrain options for vehicles, that do meet the new emissions standard. For example, in 2019, one of our equity-accounted joint ventures in China experienced a significant drop in demand for one transmission model supplied to a Chinese OEM. One of the factors underlying the drop in demand was the fact that the transmission would not have met the China VI standard, had it been in effect at that time.
+ ·United States:  In the U.S., the current administration issued an executive order with 
+a non-binding target of 50% of all new vehicles sold in 2030 to be zero-emission vehicles, including battery electric, plug-in hybrid electric, or fuel cell electric vehicles. Subsequently, the U.S. Environmental Protection Agency (EPA) finalized new vehicle emissions standards for passenger cars and light-duty trucks with model years 2023-2026 which increase in stringency through that period, and would result in a fleetwide average fuel economy of approximately 40 mpg in 2026. More stringent emissions standards for model years 2027-2030 are expected to be introduced by the EPA in the 
+28Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+near term. In addition, the U.S. National Highway Traffic Safety Administration (NHTSA) 
+issued new corporate Average Fuel Economy (CAFE) standards – regulating how far our vehicles must travel on a gallon of fuel. The new CAFE standards for passenger cars and light trucks manufactured in model years 2024-2026, would increase fuel efficiency requirements by 8% annually (compared to 1.5% annually under previous standards) for model years 2024-2026 and increase the estimated fleetwide average fuel economy by 12 miles per gallon for model year 2026 vehicles, relative to model year 2021. The tightening emissions standards in the European Union, China and the U.S. are intended to promote the transition to ZLEVs. OEMs have been spending significant sums in R&D in order to meet the higher regulatory standards. Although production of ZLEVs is accelerating due to regulatory requirements, to the extent that ZLEVs do not sell at the levels expected, production volumes may need to be reduced. Lower than forecast production poses a risk to our ability to recover pre-production expenses amortized in the piece-price of our product, as discussed above.
+Phase-Out of New ICE Vehicles: In addition to more stringent fleet emissions and fuel efficiency standards, the number of national and subnational jurisdictions committing to, or accelerating existing commitments to, phase-out of the sale or registration of new ICE engines is growing. Several countries in Europe have set target dates by which only zero-emission passenger vehicle sales or registrations would be permitted, including:
+ ·2025:  Netherlands; Norway
+ ·2030:  Denmark; Iceland; Ireland; Germany; Slovenia
+ ·2035:  Italy
+ ·2040:  France; Spain
+Moreover, once implemented, the new Euro 7 emissions standards discussed above, which would require 100% reduction in CO
+2 emissions would effectively ban the sale of new 
+gasoline and diesel fueled vehicles in EU member countries by 2035.The United Kingdom has accelerated its plans to phase out ICE passenger cars and vans, with all vehicles required to have a significant zero emissions capability (e.g. plug-in and full hybrids) from 2030, and be 100% zero emissions from 2035. Similarly, Canada has accelerated its mandatory phase out of ICE and diesel-powered vehicles through a new regulation that requires all new sales of vehicles and light-duty trucks to be zero emissions by 2035; with interim targets for 2025 and 2030 expected to be introduced as well.
+Given the long lead times for vehicle development such proposals and emerging regulation 
+are expected to increasingly impact OEM and automotive supplier product planning and development this decade.
+Vehicle Restrictions in Congested Urban Centres:  Municipal governments in a number 
+of cities around the world have introduced restrictions on personal-use vehicles in congested 
+urban centres, in an effort to reduce CO
+2 emissions and improve urban air quality. Examples 
+of the types of restrictions include: car-free zones; toll charges; and use restrictions by licence plate. Continued expansion of such initiatives could reduce the demand for personal-use vehicles, which could affect our profitability. As a result of measurable air quality improvements in many cities during COVID-19-related mandatory lockdowns/stay-at-home orders, an expansion of restrictions on personal-use vehicles in urban centres is likely.
+We attempt to mitigate applicable policy risks relating to climate change-related regulation in 
+a number of ways, including:
+ ·monitoring and evaluating global regulatory developments;
+ ·early-stage interaction with our OEM customers to understand their product priorities and regulatory compliance requirements;
+ ·in-house R&D, combined with investment strategies in technological start-ups; and
+ ·strategic planning processes at both Operating Group and Corporate levels, including Board oversight of strategic plans.
+29Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+In terms of direct policy actions affecting our operations, we anticipate continued 
+strengthening of environmental regulations related to industrial emissions and discharge of pollutants to air, water and ground. We currently face strict environmental regulations in the countries where we operate and have developed a global environmental management program in order to comply with or exceed regulatory standards. Our environmental management program is regularly updated to address changing environmental laws and regulations. Refer to “Section 4.1 – Environmental Stewardship” in this Sustainability Report for a description of the program.
+In considering the potential impact of the above or other climate-related policy actions, 
+readers are encouraged to review the following risk factors in “Section 5 – Risk Factors” in our AIF:
+ ·Regional Volume Declines
+ ·Consumer Take Rate Shifts
+ ·Impairments
+ ·Changes in Laws
+ ·Market Shifts3.1.2  CUSTOMER-DRIVEN POLICY ACTIONS 
+A number of our OEM customers have set carbon-neutrality targets and are challenging Tier 1 Suppliers to support such targets. Some such OEM targets and expectations are more aggressive than our own carbon neutrality targets. In some cases, we are being asked to quote the supply of future programs based on 100% renewable energy use for production. Although we expect to meet or exceed our customers’ expectations, the inability to do so within the timeframes expected could result in the loss of some future business.
+3.1.3  CLIMATE-RELATED LITIGATION 
+We do not currently believe that climate-change related litigation represents a significant legal risk for us. However, if OEMs are adversely impacted by climate-change litigation, there is a possibility that Tier 1 automotive suppliers like Magna could face additional pricing pressure. Readers are encouraged to review the “Customer Pricing Pressure” risk factor in “Section 5 – Risk Factors” in our AIF.
+3.1.4  T ECHNOLOGY 
+Investments in automotive technologies that support the transition to ZLEVs can be significant, particularly in product areas such as battery systems for hybrid and EVs. While our product strategy does not currently include battery systems or other components which generate or store energy for ZLEVs, we have been awarded several battery enclosure programs and currently offer a range of electrified drivetrain products, hybrid dual-clutch transmissions (“HDTs”), dedicated hybrid transmissions (“DHTs”), as well as complete electric-drive (“e-Drive”) systems. We have also expanded our product offering into other areas relevant to ZLEVs, – for example, in conjunction with a joint venture partner, we can  ·Customer Purchase Orders
+ ·Customer Pricing Pressure/Contractual Arrangements
+ ·Environmental Compliance
+Over the medium- to long-term, carbon pricing initiatives may present a risk to our profitability. According to the World Bank, in 2021 there were 65 carbon pricing initiatives implemented or scheduled for implementation in 45 countries and 34 sub-national jurisdictions, which would cover emissions representing 21.5% of global GHG emissions.  We are pursuing energy reduction measures and developing carbon neutrality strategies for our manufacturing facilities. However, over the medium- to long-term, carbon pricing initiatives could affect our profitability to the extent we are unable to implement cost-saving or energy reduction measures within a timeframe and/or at a cost which enables us to offset or avoid the cost of carbon pricing initiatives.
+30Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+offer customers a complete EV platform. Our R&D spending for electrification solutions 
+has been significant over the last few years and could continue to be in coming years as electrification-related technologies continue to evolve. Additionally, our OEM customers are making significant investments in the development of ZLEVs, which is impacting their profitability and could lead to increased pricing pressure on us. As ZLEVs increase their proportion of the overall vehicle market over the medium- to long-term, we expect our sales of manual transmissions and traditional DCTs to decline, and sales of HDTs, DHTs and e-Drive systems to increase. The increasing adoption of electrified drivetrain solutions adversely impacts our AWD and 4WD businesses over the long-term, since it is possible to achieve AWD through the use of electric motors in hybrid or fully-electrified drivetrains. However, OEM product plans show mechanical AWD and 4WD programs extending out for approximately the next decade. We seek to offset displacement of mechanical AWD and 4WD systems through increased sales of electrified product offerings such as e-Drive systems. Overall, we believe that the range of products we offer our OEM customers provides us with a competitive advantage and an effective hedge against the market uncertainties associated with the transition to ZLEVs. As illustrated below, a substantial majority of our products are “agnostic” with respect to the type of vehicle propulsion system used, and therefore remain relevant to ZLEVs:
+Power Electronics – 
+EV, HV Hybrid
+TransmissionInterior Systems  
+and Seating
+Body Exterior (incl. Lighting and Mirrors)Driving Systems (incl. chassis)Electronics – Other Thermal ManagementComplete 
+Vehicle Engineering and ManufacturingBody Structure Sensors (ADAS) ECUs/DCUsE-Drivetrain
+Engine SystemsBattery Pack
+Exhaust Regulation ComponentsEV Powertrain-agnostic ICEIncluded in Magna’s portfolio
+31Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+In the case of drivetrain products, we view the know-how gained from our mechanical 
+drivetrain expertise as being critical to our ability to deliver innovative electrified solutions that meet our customers’ needs. In addition to continuing to offer a range of mechanical and electrified drivetrain products, we aim to mitigate technology transition risks through: 
+ ·early-stage interaction with our OEM customers to understand their product priorities and regulatory compliance requirements;
+ ·in-house R&D, combined with investment strategies in technological start-ups; and
+ ·strategic planning processes at both Operating Group and Corporate levels, including Board oversight of strategic plans.
+In considering the potential impact of the above or other climate-related policy actions, readers are encouraged to review the following risk factors in “Section 5 – Risk Factors”  
+in our AIF:
+ ·Intense Competition
+ ·Consumer Take Rate Shifts
+ ·Emergence of Potentially-disruptive  EV OEMs
+ ·Customer Purchase Orders
+ ·Restructuring Costs
+ ·Technology and Innovation
+ ·Changes in Lawssolutions such as ride hailing and ride sharing. To date, such shared mobility solutions have not had a material impact on the demand for new vehicles and no such adverse effect is expected in the near- to medium-term. In any event, our own strategy related to new mobility seeks to mitigate risks to our business and realize opportunities based on the breadth of capabilities we can offer new mobility customers.
+Additionally, in order to enhance our understanding of potential shifts in consumer behaviour, 
+we conduct our own analysis of various factors that are expected to drive future personal and shared mobility trends, including through:
+ ·monitoring and analysis of social, digital, demographic, regulatory, industry, geopolitical and other trends which may create demand for and drive development of new automotive and mobility technologies;
+ ·review of academic research;
+ ·collection and screening of ideas submitted through innovation programs; and
+ ·early-stage interaction with our OEM customers and new mobility market entrants to understand their product priorities.
+We do not currently anticipate long-term supply constraints on key commodities required by us in our business, including steel, aluminum or resin. However, production processes for steel and aluminum are carbon intensive, with relatively scarce supply of low-carbon alternatives. As the entire industry’s carbon-neutrality efforts increase, the price of low-carbon steel and aluminum may increase in the near- and medium-terms until the supply of low-carbon product is sufficient to meet growing demand. In the near- and medium-term, the increasing production of ZLEVs may also strain supplies of the rare earth minerals and other metals required for vehicle battery systems, which we do not supply, including nickel, cobalt and lithium used in EV batteries, copper for EV charging infrastructure and rare earth metals for EV motor magnets. However, such supply constraints could help spur the development of alternative battery technologies or low carbon fuels and/or promote  ·Market Shifts
+ ·Dependence on Outsourcing
+ ·Impairments
+ ·Customer Pricing Pressure/Contractual Arrangements
+ ·Investments in Technology Companies
+ ·Intellectual Property Risks
+3.1.5  M ARKET
+Some of the risks impacting the market for our products in the transition to a lower carbon economy are described above under “Section 3.1.1 – Regulatory Policy Actions” and “Section 3.1.4 – Technology”. Additionally, there are potential risks to the demand for personal mobility vehicles, and thus for our products, from technology-driven shared mobility 
+32Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+technological breakthroughs that could facilitate market penetration of hydrogen fuel cell or 
+other technologies. We intend to continue developing and offering solutions such as e-Drive systems which are neutral as to electric power source (battery or hydrogen fuel cell stack) in order to mitigate potential risks related to supply constraints of rare earth minerals or other commodities needed for current ZLEV power source technologies.
+In considering the potential impact of market risks, readers are encouraged to review the 
+following risk factors in “Section 5 – Risk Factors” in our AIF:
+ ·Intense Competition
+ ·Consumer Take Rate Shifts
+ ·Supply Disruptions
+ ·Quote/Pricing Assumptions
+ ·Commodity Price Volatility
+ ·Technology and Innovationin sustainability. However, OEMs and Tier 1 Suppliers have been proactively adapting to climate change and transitioning to a lower carbon economy, as evidenced by the significant spending on R&D and technological innovation to reduce CO
+2 emissions, particularly 
+through electrification and powertrain efficiency, as well as the setting of carbon neutrality targets in their own operations. At the same time, particular OEMs may be viewed as more or less sustainable based on their sustainability strategies and commitment to transitioning to a lower-carbon economy. Equally, particular vehicle models or even entire vehicle segments may be perceived to be more or less sustainable. As a supplier of a broad range of systems to all major OEMs, we do not anticipate any consequences to our reputation by virtue of the fact that we may supply to any particular OEM, vehicle or vehicle segment. In any event, we believe that our R&D and technological innovation, which is focused on lightweighting, improved fuel economy and lower emissions, together with our sustainability strategy, including our carbon neutrality commitments, serve to mitigate potential reputational risks.
+ ·Market Shifts
+ ·Dependence on Outsourcing
+ ·Customer Pricing Pressure/Contractual Arrangements
+ ·Investments in Technology Companies
+3.1.6   REPUTATION
+Since light vehicles are contributors to global GHG emissions, Tier 1 suppliers like Magna may face reputational risks from participation in the automotive industry. Examples of such risk types include potential loss of business from sustainability-focused customers, reduced investor demand for our shares, and challenges attracting talent. A number of our OEM customers are embedding sustainability criteria in their sourcing decisions and could reduce purchases from us if they perceive Magna to lag other suppliers with respect to sustainability. Stakeholders, including investors and employees, as well as prospective employees are increasingly focused on companies’ sustainability efforts. Investors may sell shares of investee companies perceived to be less sustainable. In addition, millennial and other components of the workforce want to work in companies they perceive as sustainable, making it difficult for companies to attract such talent if the company is perceived as lagging 
+33Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+3.2 P hysical Risks and Risk Mitigation
+3.2.1 ACUTE 
+With the increased frequency and severity of extreme weather events associated with 
+climate change, including floods, windstorms, wildfires, tornados, tsunamis, hailstorms and other natural weather hazards, we face the risk that such an event could cause significant damage to one or more of our facilities or those of our customers and/or sub-suppliers. While our primary concern in an acute climate event affecting one of our facilities would be the safety and well-being of our employees, property damage and business interruption would represent the primary financial risk.
+An acute climate event that significantly damages one of our facilities, could disrupt our 
+production and/or prevent us from supplying products to our customers. Such an event could lead to us incurring a number of costs, many of which may be unrecoverable, including: costs related to the physical repair of any damage to our facility; costs related to premium freight or re-sourcing of supply; penalties or business interruption claims by our customers; loss of future business and reputational damage; and higher insurance costs going forward.
+Extreme climate events could also disrupt supply chains for the entire industry over the  
+near-, medium- and long-term. For example, a rare and extreme storm impacted the U.S. state of Texas in February 2021 disrupting oil production and thus supplies of resins and materials required for automotive seating. Such events can cause shortages of critical materials, which in turn drives prices higher. Efforts to mitigate the impact of such events often result in higher near-term costs until disruption of the affected material has been resolved, due to factors such as premium freight costs for substitute materials. As the frequency of such events increases, we may be forced to maintain higher inventories of various materials and components required for production, to minimize potential disruptions.
+We maintain a global property risk control program to support our efforts to mitigate risks 
+to our employees’ safety, physical property risks and potential for business interruption due to extreme weather events, including hurricanes, tornadoes, flooding and earthquakes. The program, which includes risk engineering with support from a third party property risk engineering consulting firm, includes the following elements to promote the physical resiliency of our facilities and minimize the risk of disruption to our operations: pre-screening of facility site selection; acquisition risk assessments; periodic facility inspections; facility construction design review and recommendations; and training and education. In certain circumstances, the program extends the risk assessment to our direct suppliers by identifying and evaluating potential exposures to our direct supply chain (including natural hazards) which could disrupt business operations. Where such supply chain exposures are identified, a more detailed assessment may be performed to better understand the supply chain risk, including further on-site assessment, where practicable.
+In considering the potential impact of acute physical risks, readers are encouraged to review 
+the following risk factors in “Section 5 – Risk Factors” in our AIF:
+ ·Supply Disruptions
+ ·Regional Energy Shortages ·Climate Change Risks
+34Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+3.2.2 CHRONIC
+As part of our property risk control program, we have retained an advisor to map our global 
+footprint against identified earthquake zones, wind exposed/hurricane zones, flood exposed zones, wildfire zones and areas with low water security, in order to assist us with footprint planning, as well as our understanding of, and efforts to address, potential risks associated with such types of natural catastrophes. 
+This footprint mapping exercise provides the 
+following conclusions:
+ ·Property Risk Concentrations:  There are ten geographic regions (in Austria, Canada, 
+Germany, Mexico and the U.S.) in which we have concentrations of property/asset risk, 
+meaning multiple locations within a 35 km radius, and comprising approximately 45% of the total insured value (“TIV”) under our property risk program. All of the regions of concentrated property/asset value are considered to be “Low” seismic hazard zones and are not exposed to tropical cyclones.
+ ·Seismic Zones: We have operations in Austria, Germany, Slovenia, Slovak Republic, Morocco, India, Turkey, Japan, Italy, U.S., Romania, China and Mexico comprising 5.85% of the TIV under our property risk program, which are located in regions of “Moderately High” or greater seismic hazard. None of our operations are in regions where the seismic hazard is considered “Extreme”. ·Tropical Cyclone Zones: Operations in certain parts of Mexico, Japan, China, India, 
+Korea and the U.S. comprising 7 .0% of the TIV under our property risk program are located in hurricane risk Zone 1 to Zone 5, as per Munich Re’s Natural Hazards Assessment Network (NATHAN) categorization. TIV by Tropical Cyclone Zones are as follows:
+ ·Flood Zones:  Flood risk is typically categorized as 50-year, 100-year, 200-year and  
+500-year flood risks. Definitions of these categories based on Swiss Re’s CatNet Global Flood Zone (GFZ) categorization and the proportion by TIV of our facilities that fall within  a five kilometre radius for each category are as follows:MUNICH RE (NATHAN) TROPICAL CYCLONE ZONE PROPORTION OF TIV
+Zone 5:  > 300 km/h NIL
+Zone 4:  252-300 km/h <0.01%
+Zone 3:  213-251 km/h 0.40%
+Zone 2:  185-212 km/h 0.40%
+Zone 1: 142-184 km/h 2.4%
+Zone 0:  76-141 km/h 22.3%
+No hazard 74.3%
+CATEGORY FLOOD PROBABILITY PROPORTION OF TIV WITHIN  
+5 KM RADIUS
+50-year 1 in 50 (2%) chance of occurring in a year 1.6%
+100-year 1 in 100 (1%) chance of occurring in a year 4.4%
+200-year 1 in 200 (0.5%) chance of occurring in a year 4.1%
+500-year 1 in 500 (0.2%) chance of occurring in a year 4.8%
+35Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Climate change is associated with a rise in sea levels, which places properties located within 
+a five kilometre radius of the current coastline at risk of coastal flooding. A total of 13 of our Divisions are located five kilometres or closer to a coastline and thus may be at higher risk from the effects of climate-change related sea rise:WATER SECURITY 
+Water scarcity is a chronic condition in a number of regions of the world, and it is expected to be amplified due to the effects of climate change. As part of our PRM program we conducted an assessment of water security risk in 2021. Water security suggests the reliability/security of an acceptable quantity and quality of water, since water is a critical input in many production processes as well as the lifeblood of sprinkler protection systems. A reduction or failure of water supply could cause a significant impact on operations in the affected region. The methodology for determining water security exposure was based on the “Baseline Water Stress” 4 of the World Resources Institute (WRI) Aqueduct Global Maps 3.0, that measures the ratio of water withdrawals to available renewable surface and groundwater at the catchment scale. Water withdrawals include domestic, industrial, irrigation, and livestock consumptive and non-consumptive uses. Available renewable water supplies include the impact of upstream consumptive water users and large dams on downstream water availability. The indicator used is calculated by inverting the “Baseline Water Stress” scores and converted to a 0-100 scale to represent “Water Availability” as a percentage. Low values represent water stressed areas, due to either high water withdrawals or low water supplies. 
+NUMBER OF DIVISIONS LOCATION(S) BODY OF WATER
+2 Michigan, U.S. Lake Michigan
+1 Ohio, U.S. Lake Erie
+1 Ontario, Canada Lake Ontario
+1 Liverpool, U.K. River Mersey
+1 Bordeaux, France Garonne River
+1 Livorno, Italy Ligurian Sea
+1 Bari, Italy Adriatic Sea
+1 Golcuk Izmit, Turkey Lake Sapanca
+1 Tangier, Morocco Atlantic Ocean
+1 Guangzhou, China Huangou River
+1 Hangzhou, China East China Sea
+1 Taizhou, China East China Sea
+ ·Wildfires: Only 2% of our Divisions (located in Argentina, Brazil, Mexico, Serbia and Spain), representing approximately 1% of TIV, are considered as being exposed to significant wildfire risk due to reduced precipitation (drought) conditions.
+36Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Making An Impact
+Nine Magna divisions around the 
+world have achieved carbon neutrality 
+as of 2021 by maximizing energy 
+efficiency and incorporating renewable 
+energy into their operations.  Our assessment showed that we have 61 locations in regions deemed to have “low” 
+water security, comprising approximately 14% of TIV. The assessment indicated exposure locations in China, Germany, India, Italy, Mexico, Spain and the United States. However, Mexico represents the most significant region for us in terms of exposure to water security risk as 29 of the 61 locations (48%) are located in Mexico, representing approximately 70% of the TIV in low water security regions. While we currently attempt to mitigate the impact of water scarcity risks through water reduction and re-use activities, including the use of treated waste water for irrigation of green areas on a site, the water security analysis will be used for additional discussions with our risk engineering consultant, including potential additional recommendations for action plans to mitigate water security risks in the affected regions.
+In considering the potential impact of chronic physical risks, readers are encouraged to 
+review the following risk factors in “Section 5 – Risk Factors” in our AIF:
+ ·Supply Disruptions
+ ·Climate Change Risks
+37Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+On the Road to Achieving Carbon Neutrality
+The Magna Steyr complete vehicle assembly facility in Graz, 
+Austria  goes well beyond producing environmentally friendly 
+vehicles, such as the all-electric Fisker Ocean SUV and Jaguar 
+I-Pace. It is on track to achieve carbon neutrality in 2022 and has already reduced its CO
+2 emissions by 12,000 tons over the 
+past eight years.
+ The facility uses geothermal heating and cooling , and electricity 
+that is 100% renewable . In 2021, the division started Project 
+Cycle Champ, which promotes riding bicycles to work by providing charging stations for e-bikes, a self-repair station and parking slots for 900 bikes. There’s also a wildflower meadow at the test track, and beehives for pollinators. Everywhere employees and customers look, they are aware of Magna’s sustainability efforts and goals.SPOTLIGHT ON  PLANET-FRIENDLY OPERATIONS 
+38Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Non-Climate 
+Elements of 
+Sustainability
+39Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.1 Environmental Stewardship
+Magna strives to be an industry 
+leader in health, safety and environmental practices in all operations through technological innovation and process efficiencies to minimize the impact of our operations on the environment and to provide safe and healthful working conditions. 
+In furtherance of this objective, Magna’s Health, Safety and 
+Environmental Policy (“HSE Policy”) commits to, among other things:
+ ·complying with, and exceeding where reasonably possible, all applicable health, safety and environmental laws, regulations and conforming with our internal Facilities ISO  
+14001 Certified 250+ 
+Facilities ISO  
+50001 Certified25+ standards based on generally accepted environmental practices and industry codes of practice;
+ ·regularly evaluating and monitoring past and present business activities impacting health, safety and environmental matters;
+ ·improving the efficient use of natural resources, including energy and water;
+ ·minimizing waste streams and emissions;
+ ·implementing environmental sustainability targets as defined in the Magna Environmental Principles;
+ ·utilizing innovative design and engineering to reduce the environmental impact of our products during vehicle operation and at end of life;
+ ·ensuring that a systematic review program is implemented and monitored at all times for each of our operations, with a goal of continuous improvement in health, safety and environmental matters; and reporting to the Board at least annually. 
+The full text of the HSE Policy is located on Magna’s website (
+ www.magna.com ).
+40Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.1.1 E NVIRONMENTAL COMPLIANCE
+Magna is subject to a wide range of environmental laws and regulations relating to 
+emissions, soil and ground water quality, wastewater discharge, waste management and storage of hazardous substances. Magna maintains a global environmental program which 
+Audits & Inspections Risk Assessment & Action Plan
+ ·Each finding identified in an audit or inspection is assigned a risk score, with the risk scores of all findings combined to establish an overall environmental performance rating for the Division
+ ·The Division is provided a report containing recommendations which are prioritized based on the level of risk identified in the risk assessment
+ ·The Division is required to develop a corrective action plan to address the identified riskOversight, Performance Tracking & Reporting
+ ·Magna’s Environmental Department provides ongoing assistance to Division personnel in resolving action plan items, including by reviewing and approving action plans that have been submitted to close-out identified risks
+ ·Audit/Inspection findings are also communicated to our Operating Group management to enhance oversight and commitment to resolving action items
+ ·A performance review takes place quarterly with Operating Group management
+ ·An escalation process is in place to deal with findings that are not being resolved on a timely basis, with additional environmental risk awareness training provided to the relevant Division, where necessary
+ ·Magna’s Environmental Department presents periodic environmental compliance updates to the CGCNCconsists of both internal and third party audits and inspections of our facilities for compliance with local regulations, internal corporate environmental requirements and industry best practices as detailed below:
+41Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+General environmental awareness 
+training is provided to employees by Division management as well as Magna’s Environmental Department as part of ISO 14001 certification compliance. 
+In addition, Magna’s Environmental Department holds 
+regular conferences for representatives of our manufacturing facilities in order to:
+ ·reinforce Magna’s commitment to environmental responsibility;
+ ·communicate changes in local and regional regulations; and
+ ·share best practices with respect to environmental protection, compliance and sustainability initiatives.4.1.2 HAZARDOUS WASTE AND 
+INDUSTRIAL EMISSIONS
+We operate a number of manufacturing facilities that 
+use environmentally-sensitive processes and hazardous materials. We believe that all of these operations meet, in all material respects, applicable governmental standards for management of hazardous waste and industrial emissions. Occasionally our operations may receive a notice of violation or similar communication from local regulators during routine reviews. We have in the past and will continue in the future to address any such notices promptly. Based on our preliminary data, approximately 7% of the aggregate waste generated by Magna in 2021 was hazardous. We attempt to reduce the amount of hazardous waste that ends up in secure landfills through: recycling, reuse or energy recovery initiatives. Approximately 90.5% of the hazardous waste generated by Magna in 2021 was diverted from secure landfills through such initiatives.
+Making An Impact
+Magna’s transmission plant in 
+Modugno, Italy installed 1,300 
+photovoltaic solar panels on top 
+of the shelters in the parking lot to 
+keep employees warm.
+42Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.2 F airness and Concern for Employees
+4.2.1  O UR COMMITMENT TO MAGNA EMPLOYEES
+ to help protect their job security. To assist employees Magna will provide job counselling, 
+training and employee assistance programs.
+ ·A Safe & Healthful Workplace – Magna is committed to providing employees with a 
+working environment which is safe and healthful.
+ ·Fair Treatment – Magna offers equal opportunities based on an individual’s qualifications and performance, free from discrimination or favouritism.
+ ·Competitive Wages & Benefits – Magna will provide employees with information which 
+enables them to compare their total compensation, including wages and benefits, with those earned by employees of their direct competitors and local companies their Division competes with for people. If total compensation is found not to be competitive, it will be adjusted.
+ ·Employee Equity & Profit Participation – Magna believes that every employee should share in the financial success of the company.
+ ·Communication & Information – Through regular monthly meetings between management and employees, continuous improvement meetings and through various publications and videos, we keep our employees informed about company and industry developments. We also conduct regular employee opinion surveys to help facilitate employee engagement and to receive valuable feedback from employees to help drive continuous improvement.
+ ·The Hotline – Should an employee have a problem, or feel the above principles are not being met, we encourage them to contact the Hotline to register their complaint(s). Those using the Hotline do not have to give their name, but if they choose to do so, it will be held in strict confidence. Hotline Investigators will respond to those using the Hotline. We are committed to an operating philosophy based on fairness and concern for people. This philosophy is part of our “Fair Enterprise” culture in which employees and management share in the responsibility of 
+ensuring our company’s success. Our Employee’s Charter, a foundational document in our 
+business, sets out this philosophy through the following principles:
+ ·Job Security – Being competitive by making a better product for a better price is the best way to enhance job security. Magna is committed to working together with employees GERMANY 
+43Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+The Hotline is committed to investigating and resolving all concerns or complaints and 
+must report the outcome to Magna’s Global Human Resources Department. We also maintain a confidential and anonymous whistle-blower hotline for employees and other stakeholders that is overseen by our Audit Committee. See “Section 4.5 – Corporate Ethics and Compliance” below for further details.
+We also maintain a Global Labour Standards Policy, which codifies our existing practices consistent with our Fair Enterprise culture. This Policy provides a framework for our commitment to fundamental human rights and international standards that help support positive labour relations. In particular, the Global Labour Standards Policy sets out key commitments with regard to:
+ ·maintaining respectful work environments where our employees feel safe and welcome, with opportunities for personal and professional growth;
+ ·promoting the importance of diversity, inclusion and respect for one another, regardless of personal differences;
+ ·not tolerating harassment of any kind, including physical, sexual, psychological or  verbal abuse;
+ ·ensuring employees do not face discrimination in accordance with the protections afforded by applicable law, including discrimination based on race, nationality or social origin, colour, sex, religion, gender identity, disability or sexual orientation;
+ ·condemning child labour;
+ ·rejecting forced or compulsory labour;
+ ·maintaining safe and healthy workplaces; and
+ ·providing employees with appropriate rest and leisure time.
+We publish a Slavery and Human Trafficking Statement setting out the steps Magna has taken to address the risk of slavery and human trafficking in our operations and supply chain. The statement can be found in the “Financial Reports & Public Filings” section of our website, at 
+ www.magna.com .
+Our commitment to our employees continued to garner recognition, including:
+ ·U.S.:  Forbes – Best Employers
+ ·Germany:  Financial Times – Diversity Leader
+ ·Canada:  Universum – Most Attractive Employers
+ ·China: 51job – Top 100 Excellence Employer of China
+4.2.2  A CTIONS TO PROTECT EMPLOYEE ECONOMIC  
+WELL-BEING IN RESPONSE TO COVID-19
+COVID-19 continued to disrupt production in 2021, through increased absenteeism and occasional temporary layoffs of employees. To minimize the economic impact felt by our employees, we took a number of steps, including:
+ ·maintaining employee benefits coverages through the temporary layoff period;
+ ·providing additional flexibility regarding compensated days available to employees during periods of downtime through utilization of accrued vacation days, and other types of paid leave, where possible;
+ ·temporarily modifying our existing disability and sick leave plans to help provide coverage during periods of required quarantine, isolation and contact tracing;
+ ·providing free access to rapid COVID-19 testing; and
+ ·providing regular communication to employees, including with respect to Company programs to support their physical and mental health needs.
+44Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.2.3 COLLECTIVE RIGHTS
+We are committed to providing workplace environments that promote the dignified, ethical 
+and respectful treatment of our employees, as reflected in the standards contained in our Global Labour Standards Policy and our Code of Conduct and Ethics (“Code”).
+Our Global Labour Standards Policy articulates our respect for employees’ right to associate 
+freely and to choose for themselves whether or not they wish to be represented by a third party in accordance with local laws. Employees at: four of our Canadian Divisions are covered by collective agreements between Magna and Unifor; seven of our Divisions in the United States are represented by the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW); a number of our Divisions in China, India, Mexico and the United Kingdom are currently covered by collective bargaining agreements with various unions in these jurisdictions; and employees in a number of our Divisions across continental Europe are covered by national industry-wide tariff agreements relating to compensation and employment conditions and are also members of in-house employee associations, works councils and/or trade unions.
+4.2.4 FAIRNESS COMMITTEES AND EMPLOYEE ADVOCATES
+As a further example of our Employee’s Charter principle of Fair Treatment, we maintain Fairness Committees in many of our North American and European manufacturing facilities, as well as at various manufacturing facilities in India and China. These Fairness Committees enable employees to have many of their concerns resolved by a peer review committee comprised of both management and fellow employees. Most of our North American manufacturing facilities also have an Employee Advocate who works with our employees and management to help ensure that any concerns that arise in the workplace are addressed quickly and in accordance with our Employee’s Charter, Global Labour Standards Policy and Operational Principles.
+4.2.5  L EADERSHIP DEVELOPMENT/TALENT MANAGEMENT
+We have implemented, and continue to enhance, our Leadership Development System to help identify, train and develop future leaders with the skills and expertise needed to manage a complex, global business. We have also based our talent management strategy on our current business objectives and strategy and our understanding of the transformation taking place in the automotive industry. Given that an effective workforce will increasingly be required to be lean and digitally adept, we are focused on building such a workforce through attraction and recruitment, professional development, succession planning, promoting diversity and inclusion and preservation of our Fair Enterprise culture. 
+2021 was a year marked by the seamless transition of Magna’s leadership from Donald 
+J. Walker to Seetarama S. Kotagiri. During 2021, Magna’s leadership development and succession planning processes were also drawn upon to facilitate other significant senior leadership role successions, such as the promotion of Vincent J. Galifi from Chief Financial Officer to President, Patrick W.D. McCann from Senior Vice-President, Finance to Chief Financial Officer, as well as Anton Mayer from Executive Vice-President, Research & Development to Chief Technology Officer, all effective as of January 1, 2022.
+45Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Magna is committed to attracting, retaining and developing under-represented talent 
+across the globe. In order to pursue this commitment, Magna’s identified strategic pillars for 
+Diversity and Inclusion (“D&I”) success are reviewed by our Executive Management with the Chairs of our Diversity and Inclusion (DI) Council.
+Periodic updates are provided to the Board of 
+Directors about how the company is progressing the D&I strategy. Our key D&I priorities are as follows:
+4.3.1  C REATING AN INCLUSIVE WORKPLACE
+Our employees are critical stakeholders in our business. We believe the principle of Fair 
+Treatment, outlined in our Employee’s Charter – one which we reinforce through employee meetings, training and communications – has been a key element in fostering an inclusive workplace at Magna. Any employee who feels that we are not living up to the principles of the Charter can seek redress through the Magna Hotline. 
+We seek to abide by all applicable labour and employment laws, including those prohibiting 
+discrimination and harassment and those providing for the reasonable accommodation of 4.3 D iversity and Inclusion in our Workplaces
+differences. We are committed to providing equal employment and career advancement opportunities, without discrimination based on sex, race, ethnic background, religion, disability or any other personal characteristic protected by law. This is addressed in our Code documentation and training, which all Magna employees must complete.
+4.3.2  P ROMOTING AWARENESS
+Our Executive Management continues to reinforce the importance of an inclusive and diverse organization. We continue to roll out facilitated workshops to all leadership levels to better equip leaders with tools and resources to drive inclusive behaviour. We also initiated “listening sessions” to understand racial barriers and issues faced by diverse employees. We promote and embed diversity through our talent attraction and management processes. We have also implemented diversity and inclusion training for certain employees and have made various D&I tools and resources available for all employees. To further advance our D&I progress, we have implemented three employee-led, volunteer resource communities: Race & Ethnicity (EDGE); LGBQT+ and Allies (PRIDE); and the Women’s eXchange. These communities support the execution of Magna’s D&I strategy, raise awareness and help foster a more inclusive environment. By the end of 2022, a fourth employee resource community will be launched focusing on young professionals. The employee resource communities provide, among other things, opportunities for mentoring and career development.
+46Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.3.3  L EVERAGING STRATEGIC PARTNERSHIPS
+We continue to enhance our capabilities by working with diversity and inclusion thought 
+leaders, associations and non-profit organizations dedicated to the advancement of women, racial minorities and employees of diverse backgrounds; promotion of inclusive work cultures; as well as strategies and actions to address the needs of a diverse workforce. These partnerships also help us to benchmark our activities and progress, as well as provide insight into best practices and emerging topics for our D&I agenda. Recognizing the importance of improving gender diversity within key technical career streams and to support the development of the next generation of the talent in science, technology, engineering and mathematics (STEM), we have formed strategic partnerships with a number of organizations that promote gender diversity in technical career streams. Our current strategic partnerships include: Build a Dream; Centre for Automotive Diversity, Inclusion & Advancement (CADIA); Catalyst; Engineers Canada; FIRST Robotics – Girls in STEM; Gartner, Inc.; her Career; Institute of Electrical and Electronic Engineers (IEEE); Inforum; KnowledgeStart; Ontario Society of Professional Engineers; Society of Automotive Engineers (SAE) International; The Art of Leadership for Women; The Knowledge Society; Women in Automotive; Women in Manufacturing; and Women’s Executive Network (WXN). We also participate in various automotive advisory groups to ensure the focus on Diversity and Inclusion in the industry remains strong.
+4.3.4  G ENDER DIVERSITY
+We are continuing to progress our agenda to increase the number of women in Magna. On a global basis, approximately 27% of the employees in our wholly-owned operations are women. A total of approximately 4,300 employees in our wholly-owned operations occupy critical roles with 705 of such employees, or 16%, being women. Both the percentage of women in our wholly-owned operations, and the percentage of women in critical roles increased slightly from the previous year. Underrepresentation of women in our workforce is most pronounced in IT, operations and product engineering career streams, which is a consistent trend throughout the automotive industry. We recognize that there are improvements to be made and we are pursuing strategies to accelerate the progression of women, in director and managerial level roles, and in our most critical operational and technical roles, where there is the greatest level of underrepresentation.
+As part of our succession planning program we continue to identify high-potential, 
+diverse talent candidates and implement accelerated development plans to support their progression to advanced roles. During talent and succession discussions, there is an increased level of focus on the number of women and diverse candidates nominated into each of our succession pools. In addition, the Board as a whole continues to advocate for improved gender representation and other diversity in leadership and other critical roles, as well as STEM career streams. In addition to their strong advocacy, the female directors of the Board, currently representing 38% of our Board of Directors, have also sought opportunities to mentor and share their experiences with the company’s high-performing female employees. Recognizing the important example set by the Board with respect to its own composition, the Board has adopted a Board Diversity Policy (located in the Board Charter) targeting gender parity by December 31, 2023, subject to a minimum of not less than 30% female director prior to that time. Consistent with the recommendations of the Canadian Coalition for Good Governance, gender parity will be achieved if the balance between male and female directors ranges between 40% and 60% over a rolling three-year timeframe.
+47Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.4 O ccupational Health and Safety
+4.4.1  A CTIONS TO PROTECT EMPLOYEE HEALTH AND SAFETY   
+IN RESPONSE TO COVID-19
+In response to COVID-19, we developed and implemented COVID-19 protocols, assessment 
+tools and guidance documents to support our objective of responsibly managing the health and safety of our employees. In 2020, we developed and implemented a “Smart Start Playbook”, a guide which includes a streamlined set of checklists and practical recommendations based on guidelines from the Centers for Disease Control and Prevention, as well as the World Health Organization. Our medical and health and safety staff continue to comply with applicable legal requirements and coordinate with public health authorities, as well as the medical directors of our OEM customers. Lessons learned, insights gained and best practices developed continue to assist us in managing the evolution of the COVID-19 pandemic, including the emergence of newer and more highly transmissible variants. In 2021, the development and availability of vaccines and testing became a key element of the Playbook, which included significant efforts to communicate with employees regarding the benefits of vaccination to minimize transmission, facilitate a safe work environment, and protect employees and the communities in which they live. In many of our operating jurisdictions, we established vaccination clinics, taking into account country specific requirements to provide employees and their family members accessibility to vaccines.4.4.2  HE ALTH AND SAFETY STANDARDS AND COMPLIANCE
+Our commitment to providing a safe and healthful work environment is fulfilled through a regular program of health and safety audits and inspections of our global facilities. These audits and inspections cover health, safety, industrial-hygiene, industrial ergonomics and emergency preparedness policies and action plans. Audits are designed to address documentation requirements, while inspections assess physical hazards. Audits and inspections are conducted on-site and followed with a report requiring the facility to develop an action plan to address deficiencies or best practices. The action plans are reviewed quarterly by senior Operating Group management.
+The compliance program incorporates international and regional standards, including: ISO 
+45001, Canadian Standards Association (CSA), American National Standards Institute (ANSI), Conformité Européenne (CE), as well as country-specific standards. Audits and inspections are conducted by specialists with knowledge of Magna’s standards and country-specific requirements. Legislative changes, accident trends and changes to industry standards are incorporated into the program as part of the annual review of the program and updates of audit requirements are conducted every three years. 
+48Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Audits & Inspections Risk Assessment & Action Plan
+ ·Each action item identified in an audit or inspection 
+is assigned a risk score, with the risk scores of all action items combined to establish an overall health and safety performance rating for the Division
+ ·The Division is provided a report containing recommendations which are prioritized based on the level of risk identified in the risk assessment
+ ·The Division is required to develop a corrective action plan to address the identified riskOversight, Performance Tracking & Reporting
+ ·Magna’s Health and Safety Department provides ongoing assistance to Division personnel in resolving action plan items and also reviewing action items that have been submitted for closure from Divisions
+ ·Audit/Inspection findings are also communicated to our Operating Group management to enhance oversight and commitment to resolving action items
+ ·A performance review takes place quarterly with Operating Group management
+ ·An escalation process is in place to deal with action items that are not being resolved on a timely basis, with additional health and safety risk awareness training provided to the relevant Division, where necessary
+ ·Magna’s Health and Safety Department presents periodic health and safety compliance updates to the CGCNC
+Our Health and Safety Department holds regular conferences with representatives of our Divisions to reinforce our commitment to providing a safe and healthful work environment, as well as to share best practices with respect to occupational health and safety. An employee who believes we have not fulfilled our promise to provide a safe and healthful working environment can seek redress through the Magna Hotline. 4.4.3  E RGONOMICS PROGRAM
+A key program for supporting employee well-being is our ergonomics program which aims to reduce the risk of musculoskeletal injuries. Managed by each Division’s ergonomic committee and with the support and guidance of corporate ergonomists, the program regularly evaluates Division performance against a set of established criteria.The key elements of the program are detailed below:
+49Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.5 C orporate Ethics and Compliance
+4.5.1  C ODE OF CONDUCT AND ETHICS
+We are committed to conducting business in a legal and ethical manner globally. Our Code, 
+which applies equally to all of our directors, executive officers and employees, articulates our compliance-oriented values and expectations. The principles of the Code have been and continue to be reinforced by our Chief Executive Officer, Executive Management, Operating Group management and the Board.
+The Code addresses standards of conduct  
+in a number of specific areas, including:
+ ·how to report suspected violations of the Code, and prohibiting retaliation against employees who report such violations in good faith;
+ ·respect for human rights, diversity and inclusion;
+ ·conducting business with integrity, fairness and respect;
+ ·giving and receiving gifts and entertainment;
+ ·complying with all laws and regulations, including anti-corruption/bribery and antitrust/competition laws;
+ ·lobbying and political contributions;
+ ·full, accurate and timely public disclosures, including financial reporting;
+ ·prohibiting insider trading; ·environmental responsibility;
+ ·occupational health and safety;
+ ·managing conflicts of interest;
+ ·careful communication, and protecting confidential and personal information; and
+ ·compliance with related corporate policies.
+The Code, which is disclosed on the corporate governance section of our website  (
+ www.magna.com ) and posted on our employee intranet in 26 different languages, is 
+reviewed regularly with all amendments approved by the Board. We have also supplemented the requirements of the Code through the adoption of policies covering specific topics, including: bribery and improper payments, tooling practices, gifts and entertainment,  anti-retaliation, careful communication, conflicts of interest, sanctions and trade embargoes, antitrust and competition, and the conduct of internal ethics investigations (all of which are also available on our website (
+ www.magna.com )).
+4.5.2  E THICS AND LEGAL COMPLIANCE PROGRAM
+In order to help our employees understand the values, standards and principles underlying our Code, we have implemented an ethics and legal compliance (“ELC”) program overseen by the Audit Committee, which includes training of employees (both web-based training and live through an online 
+50Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+classroom platform). We have also developed specialized compliance training modules 
+which target specific functional audiences and high-risk regions. In addition to providing training on ELC topics generally, these specialized programs are designed to be interactive and incorporate real-life scenarios and exercises, which we believe amplify our compliance expectations and resonate more powerfully with participants.
+The global implementation of the ELC program is supervised by the Magna Compliance 
+Council (“Compliance Council”), a body that includes key corporate officers representing our finance, legal, human resources, operations, internal audit, sales and marketing, IT and ELC functions. The Compliance Council is tasked with, among other things, providing overall direction for our compliance program, approving key initiatives and ensuring that the required elements of our compliance program are being carried out globally by our cross-functional Operating Group Compliance Committees.
+In March 2022, Magna was selected as a 2022 World’s Most Ethical Companies honoree by 
+Ethisphere, a global leader in defining and advancing standards of ethical business practice.4.5.3  M AGNA HOTLINE
+The Magna Hotline is a whistle-blower hotline. The Hotline is confidential and reporters can remain anonymous (except where local law requires disclosure of a reporter’s identity), and is available for employees and other stakeholders such as customers and suppliers to make submissions by phone or online at any time in 27 languages. Submissions are received and tracked by an independent third party service provider. Non-HR submissions to the Magna Hotline are reviewed by our Internal Audit Department and, when appropriate, an investigation is conducted in accordance with our Policy on Internal Ethics Investigations. Investigations are conducted by Magna’s Internal Audit Department, Corporate Security team, In-House lawyers and/or external counsel (where applicable). We maintain an Investigations Oversight Committee, a sub-committee of the Compliance Council, which meets quarterly (and on an ad hoc basis, as needed) to review such investigations to ensure consistency of discipline and promote early awareness and oversight. The Audit Committee receives quarterly presentations from the Vice-President, Internal Audit regarding Magna Hotline activity and details of ELC, fraud, financial reporting and other non-HR-related reports.
+35,500
+employees completed 
+annual Code of Conduct 
+e-learning in 2021100%
+of customer-facing 
+employees completed 
+antitrust training since 2015204K
+new employees have 
+received compliance 
+onboarding since 2015
+51Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.6 Da ta and Cybersecurity/Privacy
+4.6.1  EN TERPRISE CYBERSECURITY
+Our enterprise cybersecurity strategy was developed by our Information Security, Risk and Compliance Department (“ISRC”) 
+which ultimately reports to our EVP and Chief Digital and Information Officer. The strategy has been designed using guiding principles from our Code as well as enterprise risk considerations and aligns with industry standards including the National Institute of Standards and Technology, relevant ISO standards, and applicable customer requirements. Our Board has risk oversight responsibility for Magna’s enterprise IT/information security systems and cybersecurity program and receives reports regarding the program at periodic meetings.We are committed to working with our customers and other stakeholders to ensure that appropriate cybersecurity standards and requirements are continually monitored and implemented as required. In addition, we ensure that we comply with all governmental rules and regulations regarding cybersecurity or privacy regulations (such as GDPR as defined and detailed below), which directly affect cybersecurity requirements. Our selection process for third party (e.g. Cloud-based) services includes a due diligence approach that ensures that such services are evaluated using industry standard security assurance approaches to assess and address the risks associated with third party technology services and aligns with our overall approach to cybersecurity.
+We regularly evaluate and adjust our information security 
+management strategy based on a variety of considerations including risk assessments, continuous monitoring and periodic independent cybersecurity maturity evaluations. This enables the ISRC to identify and prioritize responses to residual risk arising from changes to our business or the ever-changing threat landscape. Magna has developed and 
+Our cybersecurity initiatives are based on five key considerations:
+Identify
+Develop an organizational 
+understanding of cybersecurity risk to 
+systems, people, assets, 
+data, and capabilitiesProtect
+Develop and implement 
+appropriate safeguards to ensure against 
+cybersecurity risk and 
+continue to deliver critical servicesDetect  
+Internal and external 24 × 7 monitoring of all information traffic for 
+cyberattacks, including 
+ransomware and other malwareRespond  
+Our Security Operations Centre has appropriate incident response plans/
+processes and the 
+necessary resources and expertise to respond to 
+detected threatsRecover  
+Our Security Operations 
+Centre works with IT operations to recover 
+as quickly as possible 
+by rebuilding affected systems and restoring 
+data back-ups
+52Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+implemented centralized enterprise cybersecurity policies, compliance measures, as well 
+as training and awareness programs designed to ensure that our cybersecurity strategy is executed to minimize our exposure.
+Governance of cybersecurity over our shared global telecommunications and computer 
+infrastructure is centralized under the ISRC. The ISRC facilitates identification of our risk exposures and mandates the implementation of appropriate security controls. We have processes in place to ensure that our IT systems receive appropriate upgrades, including patching and other protective measures, in a timely manner.
+4.6.2  P RODUCT-EMBEDDED AND SOLUTION SOFTWARE 
+CYBERSECURITY
+In addition to the above centralized initiatives, our decentralized operating model assigns cybersecurity accountability to our Operating Groups with respect to risk/security issues inherent in products. However, the ISRC provides various standards-based approaches to assist our Operating Groups in assessing their respective product cybersecurity risk and maturity. From this assessment, our Divisions and Operating Groups are then able to determine appropriate cyber solutions that may be required. Our Technology Committee supports the Board through the committee’s risk oversight responsibility for Magna’s product-embedded or solution software cybersecurity.
+4.6.3  PRIVACY
+Magna is committed to preserving the privacy of our stakeholders in accordance with applicable laws. Our Code articulates our approach to the privacy of our employees and protection of their personal information. We only collect, use and disclose personal information for legitimate business or employment purposes, as required by law, or with an individual’s consent. In addition, like any other asset, confidential information which includes trade secrets and proprietary information is a valuable part of our business and we aim to safeguard it. 
+Magna has established a data privacy organization and program in our divisions in the 
+European Union, as well as Brazil, Thailand and China. The program includes the issuance of policies and procedures, employee training, gap assessments and the implementation of a data privacy management system.
+In addition to our general privacy and confidentiality commitments, our Global Data Privacy 
+Policy (the “Privacy Policy”) has been established. The Privacy Policy is designed to guide our compliance with, among others, the EU General Data Protection Regulation (“GDPR”), China’s Personal Information Protection Law (“PIPL ”), the Brazilian General Data Protection Law (“LGPD”) and Thailand’s Personal Data Protection Act (“PDPA”).
+The Privacy Policy sets out general data protection principles, responsibilities of data 
+controllers and processors, circumstances under which personal data can be transferred, rights of data subjects and actions that must be taken in case of data breach, as well as addressing data retention periods. The Privacy Policy is accompanied by a variety of formal and comprehensive procedures, developed and overseen by our Compliance Council.
+A training program has been implemented to address general data privacy awareness for all 
+employees and provide more specific rules for those employees who are handling personal data as part of their daily work. Finally, those employees across our organization responsible for handling privacy requests by data subjects or for addressing data breaches have been provided with the tailored training and resources to carry out such responsibilities.
+Furthermore, Magna continues to monitor legislative and regulatory developments in the 
+fast-changing data privacy landscape in other regions with Magna operations.
+53Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.7 S upply Chain Responsibility
+4.7.1 SUP PLIER CODE OF CONDUCT
+We have introduced a Supplier Code of Conduct and Ethics (“Supplier Code”) which outlines 
+the principles we apply internally at Magna through our Code, as well as expectations we have for every company that supplies goods or services to Magna, relating to, among other things:
+ ·ethical business conduct, such as compliance with antitrust/competition, anti-corruption/bribery and export controls laws; conflict minerals reporting; avoidance and reporting of conflicts of interest; and protection of Magna intellectual property and confidential information;
+ ·employee rights, including those rights set out in our Employee’s Charter, Global Working Conditions and Global Labour Standards Policy; and
+ ·environmental responsibility and compliance.
+The Supplier Code forms an integral part of our overall contractual relationship with our suppliers. We expect the standards set out in the Supplier Code to be met by our suppliers, even in jurisdictions where meeting such standards may not be considered part of the usual business culture and a failure to do so can result in the termination by Magna of the supply relationship. The full text of our Supplier Code is available on our website (
+ www.magna.com ).
+We continue to support and participate in industry efforts to develop common standards relating to business ethics, environmental standards, working conditions and employee rights. We will continue to engage with our suppliers to raise awareness of the importance of sustainability in our supply chain.4.7.2  G LOBAL WORKING CONDITIONS IN OUR SUPPLY CHAIN
+We expect that our supply chain will adhere to our Global Working Conditions and our Supplier Code, which prohibit the use of child, underage, slave or forced labour. Our Global Working Conditions are an integral part of our supplier package that emphasize the importance of maintaining global working conditions and standards that result in dignified and respectful treatment of all employees within all our global operating locations, as well as those of our supply chain. A failure by any of our suppliers to comply with its terms can result in the termination by Magna of the supply relationship.
+4.7.3  SUP PLY CHAIN MANAGEMENT
+4.7.3.1  G eneral
+Magna’s supply chain management group focuses on a number of elements that we believe are integral to world class supply chain management, such as: standardized supplier quality and delivery performance ratings; specific roles and responsibilities; processes and standards; global training; and risk management. The supplier quality and delivery performance ratings have been established to help optimize business award decisions. We use cross-functional sourcing teams to help ensure compliance with our internal standards when we place new business within our supply base. In order to promote awareness of the key elements of our supply chain risk management program, including the requirements in our Supplier Code, we provide a global training program on an ongoing basis to 
+54Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+internal purchasing employees. We continue to increase digitization of our supply chain 
+management, including focusing on spend analytics and online transportation risk tracking, as well as electronic tagging and tracing of certain assets. 
+As part of our strategy to improve sustainability performance across our supply chain, 
+we intend to introduce an ESG component into our program award criteria. We are in the process of evaluating the relevant key performance indicators (KPIs) that will form part of the ratings, but expect that such KPIs will, at a minimum, include a suppliers CDP and SAQ (discussed below) scores, as well as selected HSE certificates.
+4.7.3.2  E nhancing Transparency into Our Supply Chain
+In order to enhance transparency into our supply chain, we have introduced two key supplier engagement initiatives with respect to our supply chain:
+ ·We participate in the CDP Supply Chain Program for Climate Change, engaging key suppliers to report on their energy usage and emissions – a critical step in better understanding our Scope 3 emissions with a view to establishing Science-based  Scope 3 emissions targets; and
+ ·We have recently engaged, for the first time on a global basis, key suppliers to respond to self-assessment questionnaires through NQC, a third party supply chain management organization who will be responsible for data collection and analysis via their SupplierAssurance platform. The self-assessment questionnaires (currently SAQ 4.0) which is a standard automotive industry sustainability questionnaire developed by global OEMs. The SAQ 4.0, which Magna completes for requesting OEM customers annually, requires information, including documentation, relating to several topics, including, among other things: sustainability management; working conditions and human rights; health and safety; business ethics; environmental compliance; supplier management; and responsible sourcing of raw materials.We are also monitoring emerging supply chain regulation, including the German Supply Chain Due Diligence (Lieferkettensorgfaltspflichtengesetz (LkSG)) (the “German Act”) which is set to come into force January 1, 2023, and which imposes a duty on companies to make reasonable due diligence efforts to determine if there are violations of human rights or violations of environmental obligations in their own business operations or in the their supply chain. We have established a cross-functional working group that includes representatives from our compliance, legal and purchasing functions and meets regularly to analyze and provide guidance on the coming requirements of the German Act. The working group has established a project plan for compliance with the German Act based on a completed gap-analysis of Magna’s relevant processes and policies. The working group reports its activities and progress to a Steering Committee comprised of members of Magna senior leadership led by Magna’s Global Vice President, Procurement.
+In addition, Magna is monitoring developments related to the publication, in February 2022, 
+of a draft E.U. Corporate Sustainability Due Diligence regulation that, like the German Act, would mandate supply chain due diligence relating to human rights and environmental matters.
+4.7.3.3  S upplier Reviews
+We review production suppliers in order to assess their overall quality, performance and financial health. We use a scorecard to provide ongoing monitoring and assessment of suppliers, which tracks (among other things) whether suppliers have certain industry-recognized environmental and health and safety certifications, such as ISO 14001 and  
+ISO 18001. No suppliers were terminated in 2021 as a result of a violation of working conditions or human rights.
+55Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.7.3.4  P hytosanitation Program
+We maintain a phytosanitation program aimed at preventing the introduction and spread of 
+plant diseases (i.e., pests and mold) through the cross-border import/export process. Our phytosanitation policy which applies to suppliers and shippers aligns with the International Plant Protection Convention (IPPC) standard for treatment of wood packaging material (e.g., wooden pallets), and includes the requirements of ISPM-15 (International Standards for Phytosanitary Measures). Our phytosanitation program includes training sessions for internal employees and suppliers, as well as reviews aimed at confirming compliance with our policy.
+4.7.3.5  S upplier Diversity
+To support the supplier diversity efforts which form part of our supply chain management program, we participate as a corporate member of several industry-recognized supplier diversity organizations, including the National Minority Supplier Development Council (NMSDC), Michigan Minority Supplier Development Council (MMSDC), Great Lakes Women’s Business Council (GL -WBC), the Canadian Aboriginal and Minority Supplier Council (CAMSC), National Veteran Business Development Council (NVBDC), Women’s Business Enterprise National Council (WBENC), Women Business Enterprises Canada Council (WBE Canada), the National LGBT Chamber of Commerce (NGLCC), Disability: IN and WEConnect International. In addition, we are supporters of the Michigan Hispanic Chamber of Commerce (MHCC), the Asian Pacific American Chamber of Commerce (APACC), the Detroit LGBT Chamber of Commerce, and The National Business League. We are also involved with a number of supplier diversity advocacy events, conferences, and procurement fairs, including many organized by our OEM customers, such as GM Supplier Connections, Stellantis MatchMaker, BMW Supplier Diversity Conference, Toyota Opportunity Exchange and Honda Network Partnership. We are proud to have received several customer awards for our supplier diversity efforts from GM and also received a diversty award from supplier diversity leader WBE Canada.
+4.7.3.6  C onflict Minerals Reporting
+Consistent with the approach taken by our customers, suppliers and other fellow members of the Automotive Industry Action Group with respect to “conflict minerals”, we are engaged in an annual process of determining whether any products which we make or buy contain such “conflict minerals”. Our latest conflict minerals report is available on our website  
+ www.magna.com  and on the SEC’s EDGAR website (  www.sec.gov/edgar ). We 
+continue to engage with our suppliers to increase awareness, and accuracy, of “conflict minerals” reporting requirements and, through our membership in the Responsible Minerals Initiative (RMI), support continuing cross-industry efforts to identify and validate conflict-free smelters and refiners. We also report to requesting OEM customers with respect to Cobalt and Mica.
+56Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Lighting the Way with a Sustainable Mindset
+Solar panels on the roof and environmentally-
+friendly transport trucks in the driveway 
+are just a few signs of the commitment to sustainability at Magna’s new paint plant in Hoce-Slivnica, Slovenia . 
+The solar-cell system on top of the  
+plant’s power supply centre provides  100% of the electricity  for lighting offices 
+and technology rooms.  The plant reduces emissions by using new alternative-fuel trucks that transport body shells from Graz, Austria to Hoce-Slivnica. The new trucks are equipped with special superstructures that can carry 50% more car bodies, resulting in fewer trips back and forth. The result of this step: a 96% reduction in particulate matter,  70% nitrogen savings, a 20% CO
+2 
+reduction and 50% noise containment .
+For 2022 and beyond, the plant intends to expand its use of solar. But most importantly, cultivating a sustainability mindset among employees is the biggest goal. SPOTLIGHT ON  PLANET-FRIENDLY OPERATIONS 
+57Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+4.8 C ontributing to Communities in Which we Operate
+4.8.1  C OMMITMENT TO COMMUNITIES AND SOCIETY
+Magna recognizes the importance of giving back to society. We have a long history of supporting many global social and charitable causes, primarily in the communities around the world in 
+which our employees live and work. While much of our corporate giving is to general philanthropic causes, we have identified seven United Nations Sustainable Development Goals that most directly relate to our business. Examples of Magna’s activities and accomplishments with respect to each relevant Development Goal is as follows:
+Ensure healthy lives and promote well-being for all at all ages 
+ S ince 2017 , more than $1M has been raised through employee 
+donations and Magna’s matching program through annual participation in the World Vision Global 6K for Water, which aims to bring  life-changing clean water to communities in need. In October 2021, The Suppliers Partnership for the Environment (SP) – an association of global automakers and their suppliers working together to advance environmental sustainability through the automotive supply chain – awarded Magna SP’s Community Impact Award for our support of the Global 6K for Water challenge
+ Du ring 2020, Magna and its employees around the world mobilized 
+to fight against COVID-19. Many manufacturing sites quickly pivoted to produce much-needed PPE, such as face masks, face shields and medical gowns. Others contributed parts for ventilator carts and one plant in China fulfilled an emergency request to build 1,700 ambulance transmissions in just eight days. In all, nearly half a million items of PPE were produced and distributed by Magna to governments, medical facilities and communities impacted by COVID-19
+ M agna’s corporate wellness initiatives help support the ongoing physical and mental 
+health of employees globally
+ M agna has contributed over $25M toward medical infrastructure and over $1M to the Red 
+Cross and other organizations to aid with global disaster relief efforts. Magna’s Employee Disaster Relief Fund provides financial assistance to eligible employees and their families in the event they are victims of a disaster. In 2021, the program helped 18 employees in Canada, China, Czech Republic, Mexico, Russia, and the United States
+ M agna locations around the globe organize food drives and fundraisers to support local 
+foodbanks and to address food security
+58Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+ M agna sponsors and actively participates in FIRST 
+Robotics globally to encourage students to consider 
+careers in science, technology and engineering. FIRST organizes mentor-based programs that help participants build science, engineering and technology skills while also fostering self confidence, communication skills and leadership
+ M agna embraces a culture of learning, including a pilot 
+program that pays for employees to pursue job-related certificate programs and university degrees
+ E mployees can access Magna-sponsored scholarships 
+for their children to pursue university degrees
+ W e have partnerships in several countries with 
+universities and technical institutions to develop a talent pipeline and help promote skilled trades development
+ M agna sponsors several regional and international skills 
+competitions through WorldSkills to enhance technical trades development and growth opportunities for students M agna’s Women’s eXchange Employee Resource 
+Community strives to empower, develop and recognize its female employees and encourage students to pursue  STEM careers
+ M agna’s Board has adopted a Board Diversity Policy 
+targeting gender parity by December 31, 2023, subject to a minimum of not less than 30% female directors prior to that time
+ S ince 2016, Magna has invested more than $1.5 billion 
+with women-owned businesses as part of its overall supplier diversity program
+ M agna celebrates and honours the many contributions of 
+women around the world, including annually celebrating International Women’s Day through live global events for employees to connect with and honour outstanding women in the company M agna completed hundreds of energy/sustainability 
+projects in 2021, resulting in significant and ongoing energy, emission, and costs savings throughout its global operations. Some examples of sustainable projects in our company are:
+ ·Magna’s paint plant in Hoce-Slivnica, Slovenia, uses solar panels on the roof and environmentally-friendly transport trucks
+ ·Magna Steyr’s full vehicle manufacturing facility in Graz, Austria uses geothermal heating and cooling that uses groundwater to provide heating in the winter and cooling in the summer
+ ·Approximately 1.3 million gallons of rainwater are recycled and used at Magna’s Powertrain office in Untergruppenbach, Germany to run restroom facilities and to maintain as a reserve in the event of a fire
+Build resilient infrastructure, 
+promote inclusive and sustainable 
+industrialization and foster 
+innovationEnsure inclusive and equitable 
+quality education and promote 
+lifelong learning opportunities 
+for allAchieve gender equality and empower all women and girls
+59Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+ M agna’s race- and ethnicity-focused employee resource 
+community supports employee-led learning opportunities 
+to foster open dialogue and understanding
+ U nconscious bias training is required for all managers 
+and available to any Magna employee
+ M agna partners with various United Way agencies 
+in North America to support a broad number of organizations that are delivering community-based solutions to address poverty and inequalities
+ M agna has partnered with other industry leaders to 
+support a variety of poverty-reduction efforts in the Greater Detroit Area, including support for Pope Francis Center, an organization that provides vital services to the city’s homeless population W e have implemented a zero waste to landfill target, with 
+the aim of eliminating landfill bound waste by 2022. More than 88% of total waste outputs from operations in 2021 were recycled or diverted from landfills, rising to over 91% if energy recovery is included
+ I n 2021, about 14% of our global electricity buy was from 
+renewable electricity sources (8% of our global energy purchase was renewable)
+ M agna’s complete vehicle manufacturing facility in  
+Graz, Austria will achieve carbon neutrality in 2022, and has already reduced CO
+2 emissions by 12,000 tons  
+since 2013
+ M agna is pursuing several packaging and logistics 
+initiatives and aligning with industry partners to limit the overall use of materials and to increase transportation efficiency across the supply chain M agna is committed to carbon neutrality (Scope 1 and 
+Scope 2) by 2025 in its European operations and by 2030 in its global operations
+ M agna has committed to setting Science-based Targets 
+by 2023, further reinforcing its commitment to achieving carbon neutrality by 2030
+ N ine of our divisions have already achieved carbon neutrality
+ I n addition to pursuing energy reduction efforts and 
+purchasing green energy, Magna is investing in clean carbon offset programs to counterbalance Scope 1 emissions that cannot be mitigated in its operations
+ M agna invested in a geothermal power plant in Turkey in 
+order to offset 6,862 metric tons of CO2 emissions and 
+the plant will generate about 51 GWh of clean energy and avoid 32,000 tons of CO
+2 per year
+ M agna is a financial sponsor of the Technical Office of 
+the newly-formed International Sustainability Standards Board (ISSB) that will establish a comprehensive global baseline of climate change-related disclosure standardsTake urgent action to combat 
+climate change and its impactsReduce inequality within and 
+among countriesEnsure sustainable consumption and production patterns
+60Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Sustainability 
+Metrics
+61Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+In this Sustainability Report we report according to the 
+SASB framework. SASB establishes and maintains  industry-specific standards that assist companies in disclosing sustainability information to investors. SASB metrics indicated below are identified by the relevant SASB Auto Parts Sustainability Accounting Standard code. We caution readers that our processes to collect and validate the energy, emissions and water data shown below are not as mature as those related to financial data, but we are committed to enhancing both the data collection/validation processes and thus the quality of the data, in the  coming years.
+Readers are cautioned that COVID-19 significantly 
+impacted our operations during 2020, including temporary suspension of production at our manufacturing facilities at different times during 2020 and implementation of work-from-home arrangements for employees globally. As a result, many of the 2020 metrics that follow are not reflective of a typical operational year for Magna and the extent of any improvement in such metrics from prior years is not necessarily indicative of expected performance in such metrics in future years.
+62Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Energy Saving Process Innovations  
+Magna’s Vehtek Systems in Bowling 
+Green, Ohio  is one of 15 global Magna 
+divisions using hot stamping  to create 
+stronger and lighter parts, helping to conserve fuel and reduce vehicle emissions.Hot stamping is a manufacturing process to create stronger, lighter components, which in turn improves fuel efficiency and safety in vehicles. The hot-stamping process enables us to form relatively complex parts in an energy-saving single step.Our stamping plant in Shanghai, China 
+came up with another way to protect the planet. The facility developed an innovative approach to providing the cooling water required to run a new diecasting machine. The result: significant energy savings.SUSTAINABILITY SPOTLIGHT
+63Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+5.1 Energy Management 
+and Emissions
+5.1.1 ENERGY
+Energy management data is set out below.
+Energy intensity relative to Sales is as follows:
+In connection with our efforts to promote energy efficiency, each of our Operating Groups 
+developed interim 2021 energy intensity reduction targets. On a consolidated basis, such targets amounted to approximately 2% of our energy intensity (MWh/Sales) per year.  Notes:
+1 P reliminary data.
+2 D ata for 2020 may not be indicative of current energy levels due to COVID-19-related production shutdowns impacting our facilities in 2020.
+3 N ot tracked prior to 2020.
+4 T he percentage of renewable electricity purchased in 2021 was 14% (11.9% in 2020).
+Notes:
+1 P reliminary data.
+2 D ata for 2020 may not be indicative of current emissions levels due to COVID-19-related production shutdowns impacting our facilities in 2020.SASB ACCOUNTING METRIC (TR-AP-130A.1) 2021(1)2020(2)2019
+Aggregate amount of energy consumed by Magna 19,493,920 GJ  
+5,414,978 MWh18,169,048 GJ  
+5,045,958 MWh23,020,389 GJ  
+6,394,553 MWh
+Percentage of energy consumed by Magna that 
+was supplied from grid electricity58% 59% 55%
+Percentage of energy consumed by Magna that is renewable energy8.2%
+(4)7.1%(4)NT(3) 2021 2020(2)2019
+Scope 1 & 2 emissions (metric tons) 1,613,922 (1)1,620,090 2,126,678
+Sales (USD, millions) 36,242 32,647 39,431
+Sales Intensity (CO2 metric tons/$ Sales) 0.0000445 0.0000496 0.0000539
+Employees 158,000 158,000 165,000
+Employee Intensity (metric tons/employee) 10.21 10.25 12.89
+Square Footage (million sq. ft) 83.5 83.8 86.6
+Square Footage Intensity (metric tons/sq. ft.) 0.0193 0.0193 0.02462021 2020 2019
+Energy Intensity (MWh/Sales (USDm)) 149 MWh/USDm155 MWh/USDm162 MWh/USDmIn 2021, we lowered our energy intensity by 6 MWh/USDm compared to 2020, a 4% 
+reduction, despite increased levels of production from the prior year that had been heavily impacted by COVID-19 related shutdowns.
+5.1.2  EMISSIONS
+Energy consumed can be converted to CO2 emissions based on regional conversion 
+factors. In order to help us and our stakeholders better assess trends related to the emissions we generate, we track emissions “intensity” on the basis of total sales, employee headcount and aggregate square footage of our facilities and offices. These intensity metrics assist us in determining whether we are becoming more efficient by normalizing emissions on a per dollar of sales, per employee and per square footage basis. The raw data for Scope 1 & 2 emissions, together with intensity metrics are set out below.
+64Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+5.2 W ater and Waste 
+Management
+5.2.1  WATER
+We have implemented a 1.5% per year water reduction target, with the aim of reducing 
+water use 15% by 2030, in each case referencing 2019 as the baseline year.
+5.2.2  WASTE MANAGEMENT
+Waste reduction and scrap elimination are important considerations in our manufacturing activities, including as part of our efforts to achieve World Class Manufacturing objectives in our facilities globally. We have implemented a zero waste to landfill target, with the aim of eliminating landfill-bound waste by 2022.Notes:
+(1) P reliminary data.
+(2) D ata for 2020 may not be indicative of current water usage levels due to COVID-19-related production shutdowns impacting our facilities in 2020.DESCRIPTION 2021(1)2020(2)2019
+Water withdrawals (ML) 6,922 6,351 7,621SASB ACCOUNTING METRIC (TR-AP-150A.1) 2021(1)2020(2)
+Aggregate amount of waste generated from manufacturing by Magna 1,144,018 t 965,677 t
+Percentage of waste generated by Magna that is hazardous 7.0%(3)4.9%(3)
+Percentage of waste generated by Magna that was recycled 88.4%(4)91.5%(4)
+Notes:
+(1) P reliminary data.
+(2) D ata for 2020 may not be indicative of current waste generation levels due to COVID-19-related production shutdowns impacting our facilities in 2020.
+(3) A pproximately 91% of such hazardous waste was diverted from secure landfills through recycling, reuse, or energy recovery initiatives in 2021 (84% in 2020).
+(4) F or 2021, this figure would be 91.2% if energy recovery was also included as a category of recycled waste (94.8% in 2020).Waste data is set out below:  
+5.3 Environmental 
+Remediation
+The aggregate costs incurred in complying with environmental laws and regulations, including the costs of clean-up and remediation, have not had a material adverse effect on Magna to date and are set out below.
+DESCRIPTION 2021 2020 2019
+Annual remediation expenses <$1.0m <$1.0m <$1.0m
+Aggregate remediation balance for known events $14.1 $10.8m $13.4m
+65Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+5.4 Product Safety
+Magna is at risk for product warranty, product liability and recall costs, and is currently 
+experiencing increased customer pressure to assume greater warranty responsibility. Certain customers seek to impose partial responsibility for warranty costs where the underlying root cause of a product or system failure cannot be determined. For most types of products, we only account for existing or probable product warranty claims. However, for certain complete vehicle assembly, powertrain systems and electronics contracts, Magna also records an estimate of future warranty-related costs based on the terms of the specific customer agreements and/or Magna’s warranty experience. Product liability and recall provisions are established based on Magna’s best estimate of the amounts necessary to settle existing claims, which typically take into account: the number of units that may be returned; the cost of the product being replaced; labour to remove and replace the defective part; and the customer’s administrative costs relating to the recall. Where applicable, such provisions are booked net of recoveries from sub-suppliers and along with related insurance recoveries. Due to the uncertain nature of the net costs, actual product liability costs could be materially different from our best estimates of future costs. In 2021, our warranty accrual decreased by $37 million compared to 2020. See Note 14 of our consolidated financial statements for the year ended December 31, 2021, which have been filed on SEDAR and are on Magna’s website (
+ www.magna.com ).5.5 Fuel Efficiency
+Our product strategy, which is discussed in “Section 4 – Our Business & Strategy – Our Corporate Strategy” of our AIF, includes as a core element the supply of product solutions which support our customers’ objectives of increased fuel efficiency and reduced vehicle CO
+2 emissions. We do not currently track total revenue from products designed to increase 
+fuel efficiency and/or reduce emissions.
+5.6 Materials Sourcing
+The SASB Auto Parts Standard identifies critical materials as defined by the U.S. National Research Council (NRC) of which cobalt, magnesium, tantalum and tungsten are most relevant to our products. We do not purchase such materials in their raw form, however, they may be present in components and sub-assemblies that we purchase. Our key purchased raw materials are steel, resin and aluminum, and our key purchased components include: stampings, electronics, chips, molded parts, die casting, forging, coverstock, and wire harnesses. See the discussion in “Section 6 – Description of the Business – Manufacturing & Engineering – Key Commodities and Raw Materials” of our AIF. We address strategic risks regarding critical materials with more limited supply and key commodities/raw materials in a number of ways, including: diversification of suppliers; carrying excess inventory, where appropriate; and designing and engineering our products to minimize the use of scarce/limited materials, where not constrained by customer specifications.  
+66Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+SASB ACCOUNTING METRIC (TR-AP-520A.1) 2021 2020 2019
+Total amount of monetary losses incurred as a 
+result of legal proceedings associated with anti-
+competitive behaviour regulationsNil Nil Nil5.8 H ealth & Safety
+We are committed to providing a safe and healthful workplace for our employees. This 
+commitment is fulfilled through a regular program of health and safety audits and inspections of our global facilities. In connection with our health and safety program we track the frequency and severity of workplace accidents and conduct post-accident reviews to develop action plans to reduce/eliminate similar accidents in the future.
+The occurrence of injuries and fatalities is a matter of significant concern for both 
+management and the Board. The CGCNC reviews the circumstances related to significant injuries and all fatalities of employees or third parties on Magna properties and reports same to the Board. Unfortunately, one member of the Magna family lost his life in an industrial accident at one of our Ontario facilities in 2021. There was one employee fatality at a Magna facility in 2020, and no employee fatalities at a Magna facility in 2019.DESCRIPTION 2021 2020(4)2019
+Accident Frequency Rate(1)(3)0.49 0.42 1.04
+Accident Severity Rate(2)(3)12.80 5.11 12.35
+Notes:
+(1) F requency 1.0 translates to 1 injury or illness per 100 employees working 40 hours/week, 50 weeks/year.
+(2) S everity 10.0 translates to 10 lost work days per 100 employees working 40 hours/week, 50 weeks/year.
+(3) G lobal production facilities and certain engineering locations.
+(4) D ata for 2020 may not be indicative of current accident frequency and severity rates due to COVID-19-related production shutdowns impacting our facilities in 2020.The current shortage of semiconductors is discussed in greater detail in “Section 4 – Our Business & Strategy – Macroeconomic, Political and Other Trends” and “Section 5 – Risk Factors” of our AIF. With respect to reputational risk related to critical materials, we maintain a conflict minerals program, including an annual process of determining whether any of our products contain conflict minerals, and through our membership in the responsible mineral initiative (RMI) supporting continuing cross-industry efforts to identify conflict-free smelters and refiners. We also report to requesting OEM customers with respect to Cobalt and Mica.
+5.7 Competitive Behaviour
+Magna’s policy is to comply with all applicable laws, including antitrust and competition laws. Our Corporate Ethics and Compliance Program is described in “Section 4.5 − Corporate Ethics and Compliance” of this Sustainability Report.
+We previously completed a global review focused on antitrust risk and do not currently 
+anticipate any material liabilities in connection with the review. See “Section 10 – Legal Proceedings” of this AIF with respect to our anti-trust investigation being conducted by the Brazilian Federal Competition Authority.
+67Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+5.9 Diversity
+Diversity within our employee population is important to us and we strive to create an 
+inclusive work environment throughout our company. As part of our efforts to promote an inclusive workplace, we track metrics relating to gender diversity in our workforce.5.10 Reporting
+In addition to this Sustainability Report, we participate in CDP (formerly Carbon Disclosure Project), a not-for-profit project designed to provide investors with information relating to corporate GHG emissions, water use and perceived corporate risk due to climate change. Our current CDP submission is available on our website at 
+ www.magna.com . We also 
+file a conflict minerals report, available on  www.sec.gov/edgar , in accordance with SEC 
+requirements, and publish a slavery and human trafficking statement on our website, at  
+ www.magna.com . Magna also provides sustainability reporting directly to our 
+customers. These assessments are supplier requirements and typically follow common reporting templates approved by automotive industry associations in North America (Automotive Industry Action Group) and Europe (CSR Europe/Drive Sustainability).
+We also continue to monitor the acceleration 
+of climate/sustainability reporting initiatives by regulators and standard setters, including:
+ ·the European Union’s Corporate Sustainability Reporting Directive (CSRD);
+ ·the International Sustainability Board (ISSB) publication of a climate-related disclosures 
+prototype; and
+ ·initiatives by securities law regulators to mandate climate disclosure, including a recent proposal from Canadian securities regulators, and proposed rule changes from the U.S. SEC.DESCRIPTION 2021 2020
+Percentage of global employees who are women (wholly-
+owned operations)27% 26%
+Women in critical roles 16%(1)15%
+Women on the Board of Magna 42%(2)36%
+Notes:
+(1) 7 05 women in critical roles out of 4,300 such roles.
+(2) A s of May 3, 2022, the percentage of women on the Board will be 36%, assuming election of all nominees for Magna’s annual and special meeting of shareholders.
+68Sustainability  
+MetricsNon-Climate Elements  
+of SustainabilityClimate-Related Risks  
+and Risk MitigationClimate-Related 
+OpportunitiesSustainability 
+GovernanceIntroductionSummary  
+Sustainability Metrics
+Magna International Inc.
+337 Magna Drive
+Aurora, OntarioCanada  L4G 7K1Telephone: (905) 726-2462
+magna.com/sustainability

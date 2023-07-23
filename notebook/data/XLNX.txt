@@ -1,0 +1,688 @@
+FISCAL YEAR 2019
+CORPORATE 
+RESPONSIBILITY  
+REPORT
+Adaptable.  Intelligent.
+1
+Corporate Responsibility Report 2019    | MESSAGE FROM OUR 
+PRESIDENT AND CEO
+Today, being an active, responsible, global corporate citizen is paramount.
+As we transition to a platform company whose mission is Building the Adaptable, Intelligent World, our powerful 
+products will be accessible to more developers accelerating innovation across multiple industries. This year,  
+after four years of development by 1,500+ talented engineers, we unveiled Versal, the world’s first Adaptive Compute Acceleration Platform (ACAP). Versal empowers innovators around the planet to create sustainable solutions to problems that improve and even save lives.
+Products based on Xilinx adaptable platforms are being deployed in disruptive applications like Autonomous 
+Driving, 5G Communications Infrastructure, Artificial Intelligence, Data Analytics, Industrial IoT, Genomics, Fintech, and more. To foster rapid innovation, inclusion of diverse thinking is a top priority at Xilinx. We are driving diversity in our workforce by finding talent from across a broad range of backgrounds, perspectives, experiences, genders, and ethnicities. We invest in programs to ensure that our employees feel challenged, fulfilled by their work, and part of a meaningful mission.
+We also care deeply about giving back to our local communities and conserving our beautiful planet. We work 
+with communities around the world to understand their challenges—and to leave them with a positive imprint. Additionally, our priority is to create an Environment, Health and Safety Management System that permeates all aspects of what we do. We are committed to protecting the environment and maintaining a safe and healthy workplace. As a result, we have taken great strides to minimize overall environmental impact, consistent with global climate change efforts.
+Thank you for supporting us by reading this Corporate Responsibility Report. I am extremely proud of our efforts 
+to enrich our employees—and our local and global communities.
+Victor Peng 
+President and CEO 
+Xilinx, Inc.  
+
+ 2
+Corporate Responsibility Report 2019    | 
+ABOUT THIS REPORT  
+This report covers our fiscal year 2019 (April 1, 2018 to March 30, 2019, unless otherwise noted)  
+and contains Standard Disclosures from the GRI Sustainability Reporting Guidelines.
+The statements in this Report that are forward-looking, within the meaning of the U.S. Private Securities Litigation Reform Act of 1995, involve numerous risks 
+and uncertainties and are based on current expectations. The reader should not place undue reliance on these forward-looking statements. Our actual results 
+could differ materially from those anticipated in these forward-looking statements for many reasons. Often, forward-looking statements can be identified by  
+the use of forward-looking words, such as “may,” “will,” “could,” “should,” “expect,” “believe,” “anticipate,” “estimate,” “continue,” “plan,” “intend,” “project” and 
+other similar terminology, or the negative of such terms. We disclaim any responsibility to update or revise any forward-looking statement provided in this  
+Report for any reason.
+© Copyright 2019 Xilinx, Inc. Xilinx, the Xilinx logo, Alveo, Artix, Kintex, Spartan, Versal, Virtex, Vivado, Zynq, and other designated brands included herein  
+are trademarks of Xilinx in the United States and other countries. All other trademarks are the property of their respective owners.
+3
+Corporate Responsibility Report 2019    | ABOUT XILINX  
+Xilinx is the inventor of the FPGA, programmable SoCs, and now, the ACAP . Our highly-flexible, programmable silicon, 
+enabled by a suite of advanced software and tools, drives rapid innovation across a wide span of industries and technologies—from consumer to cars to the cloud. Xilinx delivers the most dynamic processing technology in  the industry, enabling rapid innovation with our adaptable, intelligent computing.
+~4,400
+Employees Worldwide60,000+
+Customers60+
+Industry Firsts4000+
+Patents
+
+ 4
+Corporate Responsibility Report 2019    | XILINX GIVES GLOBALLY AND ACTS LOCALLY
+ 
+XilinxGives develops local community relations through funding and involvement that encourages participation, 
+teamwork, and volunteerism. We give globally and act locally to make a difference in communities where our 
+employees work, live, and play.  
+Our efforts include various global programs and services which help:
+• Support underrepresented groups 
+• Advance medical research 
+• Educate and inspire students in STEAM education – Science, Technology, Engineering, Arts, and Math
+• Aid those affected by disasters
+XILINX GIVES
+
+5
+Corporate Responsibility Report 2019    | OUR EMPLOYEES
+At a Glance
+Our global workforce embodies employees who are passionate, innovative, competitive, and collaborative.  
+We believe diversity is essential to fostering a culture of innovation and creativity that can change the world. To that end, we are committed to providing equal opportunities to all employees and applicants. Our policies and practices support our core beliefs and goals to make Xilinx a place for our employees to do their best work. We support our workforce with competitive compensation, opportunities for local engagement, and outstanding benefits. We invest in the health and well-being of our employees by offering a wide array of benefits and perks that meet the diverse needs of our global workforce and their families. Employees also benefit from our Learning and Development strategy that offers the opportunity and resources to tap into an ecosystem of learning, and engages in a social and collaborative learning environment that supports their career growth and goals. 
+Read more about the programs and policies Xilinx has implemented to support and develop its workforce: 
+•Careers at Xilinx
+•Diversity and Inclusion
+•University Program
+Employees in  
+22 countries worldwide~4,400
+
+ 6
+Corporate Responsibility Report 2019    | DIVERSITY AND INCLUSION  
+Having a diverse workforce is vital to our mission of Building the Adaptable, Intelligent World. We foster a culture 
+that embraces differences by searching for candidates, at all levels, from a wide range of backgrounds, ethnicities, 
+abilities, and experiences. In addition, we also strive to create an environment where employees feel accepted, 
+respected, and empowered.  
+To achieve this, we offer employee programs that reinforce our values and provide opportunities for open 
+participation and collaboration. We believe that all voices matter and encourage the sharing of different ideas  
+and listening to perspectives as fuel for creativity, innovation, and belonging. Through regular surveys on our 
+global employees’ experience, we leverage insights to build meaningful development and HR programs to foster 
+an inclusive environment. Senior management hosts quarterly all-hands meetings to share business results and 
+achievements where employees are encouraged to actively engage with questions and feedback. We empower our 
+workforce to be curious, creative, and collaborative as part of our global LearnX program. Through this program,  
+we offer numerous professional and personal development opportunities, including a self-directed learning 
+platform with course offerings including career coaching, career planning, affirmative action, equal employment 
+awareness, and unconscious bias training.  
+In 2019, we further enhanced our commitment to workforce diversity when we launched our Women in Technology 
+initiative. This initiative includes women’s development programs dedicated to increasing women’s representation 
+in leadership positions, strategic partnerships with universities, and memberships in professional groups such 
+as Watermark and AnitaB.org to further the advancement of women in technology. We encourage and support 
+the development of our global Xilinx Women’s Groups, which are committed to the engagement, education, and 
+empowerment of women in technology at Xilinx. We also pursue a diverse pool of future candidates by engaging in 
+diversity outreach activities and seek to expand that pool by supporting various educational programs, including 
+curriculum development in local high schools and universities.
+At Xilinx, we proudly hire, develop, attract, and retain people of all backgrounds, beliefs, cultures, abilities,  
+genders, sexual orientation, and veteran status. We take pride in and celebrate what makes our workforce  
+different and unique.  
+The following statistics represent the demographics of our workforce.
+
+ 7
+Corporate Responsibility Report 2019    | EMPLOYEE TYPE
+Definitions
+Employee  
+Includes Exempt and Non-Exempt  
+Full Time EmployeesFY18 Employee Type
+Employee Type Employee Type
+Exempt Exempt
+Non-Exempt Non-Exempt
+Contractor Contractor
+Intern Intern
+Total Total# of Employees # of Employees
+3843 4261
+171 172
+113 108
+69 89
+4196 4630% of Employees % of Employees
+91.6% 92%
+4.1% 3.7%
+2.7% 2.3%
+1.6% 1.9%
+100% 100%FY19 Employee Type
+Contractors  
+Includes Temporary Workers, Independent 
+Contractors, and Interim Temporary WorkersInterns  
+Includes Interns and  
+Visiting Scholars
+*Represents Worldwide Data
+ 8
+Corporate Responsibility Report 2019    | EMPLOYEE LEVEL TYPE
+Definitions - Employees by Level*
+Employee  
+Includes Exempt and Non-Exempt  
+Full Time Employees
+*Represents Worldwide DataFY18 Employee Level
+Employee  
+Level TypeEmployee  
+Level Type
+Individual  
+ContributorIndividual  
+Contributor
+Management Management
+Executive Executive
+Total Total# of Employees # of Employees
+3170 3553
+790 819
+54 61
+4014 4433% of Employees % of Employees
+79% 80.1%
+19.7% 18.5%
+1.3% 1.4%
+100% 100%FY19 Employee Level
+Executives  
+Includes any employee that  
+is a VP or above 
+Individual Contributors  
+Includes any employees  
+who are not Executives or 
+ManagementManagement  
+Includes any employee  
+that is not an Executive  
+who is a people manager
+
+ 9
+Corporate Responsibility Report 2019    | NEW HIRES BY AGE
+Definitions - Hires by Age*
+New Hires  
+Includes Exempt and Non-Exempt Full Time  
+Employees hired within the Fiscal Year
+*Represents Worldwide DataFY18 New Hires by Age
+Age Band Age Band
+20-30 20-30
+31-50 31-50
+50+ 50+
+Total Total# of Employees # of Employees
+181 345
+286 358
+50 53
+517 756% of Employees % of Employees
+35% 45.6%
+55.3% 47.4%
+9.7% 7. 0 %
+100% 100%FY19 New Hires by Age
+
+ 10
+Corporate Responsibility Report 2019    | NEW HIRES BY GENDER
+Definitions - New Hires by Gender*
+New Hires by Gender  
+Includes Exempt and Non-Exempt Full Time  
+Employees hired within the Fiscal Year
+*Represents Worldwide DataFY18 New Hires by Gender
+Gender Gender
+M M
+F F
+Total Total# of Employees # of Employees
+419 594
+98 162
+517 756% of Employees % of Employees
+81% 78.6%
+19% 21.4%
+100% 100%FY19 New Hires by Gender
+
+ 11
+Corporate Responsibility Report 2019    | NEW HIRES BY REGION
+Definitions - New Hires by Region*
+New Hires  
+Includes Exempt and Non-Exempt Full Time  
+Employees hired within the Fiscal YearFY18 New Hires by Region
+North America North America
+India India
+Europe Europe
+APAC APAC
+Total Total# of Employees # of Employees
+221 282
+157 187
+53 58
+86 229
+517 756% of Employees % of Employees
+42.7% 3 7. 3 %
+30.4% 24.7%
+10.3% 7. 7 %
+16.6% 30.3%
+100% 100%FY19 New Hires by Region
+*Represents Worldwide DataHeadcount  
+LocationHeadcount  
+Location
+ 12
+Corporate Responsibility Report 2019    | POSITIONS HELD BY GENDER
+Definitions - Positions Held by Gender*
+Global Workforce  
+Includes only Exempt and Non-Exempt Full Time Employees
+Individual Contributors  
+Includes only Exempt and Non-Exempt Full Time Employees who are not people managers
+Managers  
+Includes any employee that is a people manager
+Leaders  
+Includes any employee that is a VP or above
+Executives  
+Includes any C-Suite EmployeesFY18 Positions Held by Gender
+FY19 Positions Held by Gender
+F
+MGlobal Workforce Gender
+22.6%
+7 7.4%Individual Contributors Managers Leaders Executive Officers
+23.9% 1 7.4% 14.8% 18.2%
+76.1% 82.6% 85.2% 81.8%
+*Represents Worldwide DataF
+MGlobal Workforce Gender
+22.7%
+7 7. 3 %Individual Contributors Managers Leaders Executive Officers
+24.1% 1 7. 5 % 14.8% 18.2%
+75.9% 82.5% 85.2% 81.8%
+ 13
+Corporate Responsibility Report 2019    | EMPLOYEES BY RACE AND ETHNICITY
+Definitions - Employees by Race and Ethnicity*
+Global Workforce  
+Includes only Exempt and Non-Exempt Full Time 
+Employees
+Individual Contributors  
+Includes only Exempt and Non-Exempt Full Time 
+Employees who are not people managersFY18 Employees by Race and Ethnicity
+FY19 Employees by Race and EthnicityAmerican Indian or Alaskan Native
+American Indian or Alaskan NativeAsian
+AsianBlack or African American
+Black or African AmericanHispanic or Latino of Any Race
+Hispanic or Latino of Any RaceNative Hawaiian or Other Pacific
+Native Hawaiian or Other PacificTwo or More Races
+Two or More RacesWhite
+WhiteGlobal Workforce
+Global WorkforceEthnicity
+Ethnicity0.1%
+0.1%53.0%
+53.6%0.4%
+0.4%3.3%
+4%0.7%
+0.6%0.8%
+1%41.8%
+40.3%Individual 
+Contributors
+Individual 
+ContributorsManagers
+ManagersLeaders
+LeadersExecutive 
+Officers
+Executive 
+Officers53.7%
+54.5%0.3%
+0.3%3.5%
+4.4%0.7%
+0.7%1%
+1.3%40.8%
+38.8%0.4%
+0.4%50.4%
+50.4%0.7%
+0.6%2.7%
+2.8%0.4%
+0.4%
+0.2%45.3%
+45.1%3 7. 0 %
+3 7. 7 %2.2%
+1.9%4.3%
+3.8%56.5%
+56.6%11.1%
+20%11.1%
+10%11.1%
+20%66.7%
+50%
+*Employees self-identify based on EEO-1 race and ethnicity categories.  
+Reflects United States race and ethnicity data only.Managers  
+Includes any employee that is a people manager
+Leaders  
+Includes any employee that is a VP or above 
+Executives  
+Includes any C-Suite Employees
+ 14
+Corporate Responsibility Report 2019    | ENVIRONMENT HEALTH AND SAFETY  
+For over a decade, Xilinx has been third-party-certified to the ISO 14001 and OHSAS 18001 standards at our key 
+operational sites which helps us continually improve our Environment, Health and Safety (EHS) Management System.
+Our EHS Policy describes Xilinx’s strong culture of protecting the environment, and promoting a safe and healthy 
+workplace. Our EHS culture is behind all of our environmentally-responsible corporate decisions and heightened 
+awareness of climate change and water conservation concerns. Our leadership team is committed to ensuring the EHS 
+Management System is embedded in the company’s One Xilinx culture and applied at all levels of the organization.
+Our Employees Embrace Earth Day
+More employees than ever are partnering with Xilinx in Earth Day events, making a difference in our workplace 
+and communities. The annual events are celebrated globally to show support for protecting our environment 
+and raising sustainability awareness. The growing amount of electronic waste produced each year has led  
+to Xilinx Earth Day e-waste collections and recycling events. This year, almost 11,000 pounds (5,000 kgs)  
+of e-waste was collected for recycling.
+
+ 15
+Corporate Responsibility Report 2019    | 
+GLOBAL SUSTAINABLE BUILDING INITIATIVES
+Our conservation efforts over the years have resulted in significant environmental design awards as well as industry 
+and governmental certifications. These awards and certifications demonstrate our strong commitment to the 
+environment and communities within which we conduct our business. Below are some highlights of our initiatives:  
+Xilinx—Singapore
+• In 2007 , the award-winning Xilinx Asia Pacific Headquarters became  
+the first privately-owned industrial building in Singapore to be awarded  
+the BCA Green Mark Platinum Award —the highest green building  
+accolade by the Building and Construction Authority (BCA).
+Xilinx—Colorado
+• In 2002, our Colorado office was awarded the Colorado Renewable  
+  Energy Society Award of Merit from the Architecture Institute of America.
+• The design of the entire project inside and out, utilized concepts  
+of sustainable architecture responsive to the area’s quality of life  
+and employed energy conservation, use of “green” products,  
+local materials, and water management. An indigenous habitat for  
+wildlife was also enhanced for the existing prairie dog community.
+Xilinx—San Jose (Corporate Headquarters)
+• In 2007 , received the Leadership in Energy and  
+   Environmental Design (LEED) Award for the  
+   renovation of a 72,000 sq ft building.
+• In 2016, completed the renovation of a 113,000 sq ft 
+building with design focused on energy efficiency  
+and sustainability which has allowed net zero  
+energy levels to be achieved in 100% of the  
+building’s office spaces.
+
+ 16
+Corporate Responsibility Report 2019    | Global Energy Efficiency in Design and Construction of Xilinx Buildings
+• Passive architectural features
+• Reflective roofing systems 
+• Adaptive climate control systems 
+• Ambient air cooling systems 
+• High efficiency lighting 
+Renewable and Onsite Energy Generation Projects (Corporate Headquarters)
+• 2012 —Bloom Energy Fuel Cells (1mW)
+• 2016 —Rooftop Solar System (600kW)
+• 2018 —Bloom 4th Generation Energy Fuel Cell Upgrade (1mW)
+• 40% of the electricity used by the San Jose campus is generated by onsite sources (as of CY2018)
+Electric Vehicle Charging Stations (since 2012)
+• 20 total (globally)
+• 16 additional to be added in 2019
+Upcoming Solar Project in 2019 (Corporate Headquarters)
+• Solar Parking and Energy Storage Project (1.4mW Solar System and 1mWh Battery Storage)  
+   will increase the overall self-generated energy capability from 40% to 60% on the San Jose campus
+
+ 17
+Corporate Responsibility Report 2019    | Climate Change Efforts
+Emission data is tracked for our major sites, including our corporate headquarters 
+in San Jose, Colorado, Ireland, Singapore, and Hyderabad. We have set a Carbon 
+Reduction Goal of 10% by end of CY2019, beginning with our baseline of CY2014. 
+Currently, we have exceeded this goal and are at 27% carbon reduction per 
+headcount (normalized data).
+Xilinx has been a member of the EPA ’s Green Power Partner list since 2005, 
+helping to support the development of renewable energy while also helping 
+protect the environment. In addition, Xilinx purchases renewable energy 
+certificates (RECs) in the U.S. On average, 3,073 mWh is purchased every year. For 
+every kilowatt hour of RECs purchased by Xilinx, an equal amount of electricity 
+from renewable resources is being delivered to the electricity grid, helping to 
+offset the generation of electricity from other more polluting sources such as oil, 
+natural gas, and coal.
+Energy Management
+We undertake a variety of actions, including energy conservation projects, sustainable 
+building initiatives, and renewable energy use to achieve green house gas emission 
+reduction results. As a fabless semiconductor company, the sustainable operation of 
+our office buildings accounts for the majority of our environmental impact, therefore 
+Xilinx consistently reviews the latest technologies while tracking data trends from an 
+energy reduction and water management perspective for improved results.
+Energy reduction efforts include:
+Intelligent Energy-Effi cient Cooling Systems  
+• Ambient air cooling systems used to reduce and  
+  offset energy use in Data Centers and Lab environments
+• Dynamic controls that adjust set points based on outside  
+  weather conditions optimize comfort and energy usage   
+   for office environments
+• Control systems monitor and notify when out-of-tolerance  
+   conditions could cause run-away energy consumption
+Passive Energy-Efficient Building Features
+• Reflective roofing systems reflect up to 88% of the sun’s energy, allowing for less mechanical cooling  
+energy to be consumed
+• Rooftop solar hot water collectors offset water heating energy (Singapore Office)
+• Architectural features such as awnings and trellis works to minimize solar gain into buildings
+• Semi-external building areas used for informal meeting and gathering areas use natural ventilation  
+in lieu of traditional cooling systems
+Energy-Saving Technologies  
+• High efficiency critical power protection equipment (San Jose Campus)
+• Environmentally-friendly TL5 and LED lamps and controls for scheduling 
+• Occupancy sensors in meeting rooms, restrooms, and copy rooms
+• High efficiency electrical transformers
+• Energy monitoring/management software that helps identify and quantify potential energy saving opportunities
+CY2016 CY2017 CY2018
+61,657 mWh 60,340 mWh 59,762 mWh
+18
+Corporate Responsibility Report 2019    | 
+Water Management 
+As a fabless semiconductor company, we are not a major water consumer, but we 
+still believe every little bit of conservation helps in our target of demonstrating a yearly reduction trend even with increasing headcount.
+Water Conservation Projects 
+• Weather-based irrigation controls
+• H2O Utilization Awareness Program
+• Strategic abandonment of landscape irrigation due to drought conditions
+• Low-flow fixture retrofits
+Waste Management 
+As part of our ongoing efforts to be responsible eco-citizens, we implemented 
+a waste reduction program to reduce waste from our daily operations sent to landfills and encourage global employee engagement in recycling activities. Overall, waste reduction efforts at our major sites have resulted in significant improvements for recycled and compost waste versus landfill wastes and we are 
+on target for a continued trend of yearly reduction with increasing headcount. 
+Employee Safety Management
+To prevent workplace injuries, we provide initial and ongoing health- and safety-related training, in addition to ergonomic evaluations, that meet global regulatory requirements and internal best management practices aimed 
+to protect the health and well-being of our employees.
+Xilinx uses the Total Recordable Injury Rate (TRIR)  
+calculation to measure the number of Occupational  
+Safety and Health Administration (OSHA) workplace  
+injuries that occur each calendar yea r. Due to our  
+focused initiatives on managing risk, we have a low  
+injury rate as shown in the chart with our target being 
+well below the Semiconductor Manufacturing injury  
+rate as published by the US Department of Labor.
+Hazardous Waste
+As a fabless semiconductor company we generate minimal  
+hazardous waste stemming from R&D efforts at Xilinx facilities. Hazardous waste disposal at our Corporate Headquarters in  San Jose is well below the EPA requirements for Conditionally  Exempt Small Quantity Generators (accumulate less than 2,200 pounds (1,000 kgs) at any one time).
+ 19
+Corporate Responsibility Report 2019    | 
+XILINX UNIVERSITY PROGRAM (XUP)
+ 
+Xilinx devices are used extensively for teaching and research in universities and colleges all over the world. In 
+Electrical and Computer Engineering, Computer Science and Physics, especially, our products are used for best-
+in-class teaching, state-of-the-art research, and in diverse start-ups. The use of Xilinx integrated circuits is so 
+widespread in engineering and science education that, as one expert commented, “They might have been designed 
+for education rather than for industry.” 
+Each year, XUP team members in North America, Europe, and Asia empower thousands of professors and hundreds 
+of thousands of students worldwide. We provide access to our latest hardware and software technologies; training 
+and workshops; design contests and hackathons. 
+An excellent example of this industry-academia collaboration is the newly released book  
+“Exploring Zynq MPSoC With PYNQ and Machine Learning Applications,” which was  
+co-authored by a team led by Prof. Bob Stewart and Dr. Louise Crockett, at the University  
+of Strathclyde in Glasgow, Scotland ( https://www.zynq-mpsoc-book.com ). As Xilinx  
+continues to pioneer new systems-on-chips and software-defined technologies, we will  
+also continue to empower professors and their students to innovate and realize ever  
+more ambitious dreams. This synergy between academia and industry is essential to  
+ensuring that new graduates are equipped with the most relevant, up-to-date education  
+and that postgraduates can continue to pursue groundbreaking research.
+In this post Moore’s Law era, XUP is at the forefront of introducing heterogenous  
+computing in academia. New board level solutions, such as Alveo, are powering  
+cloud-based and on-premise compute acceleration, with tools designed for  
+software developers. 
+XUP actively champions multiple Women in Technology initiatives in partnership with Xilinx’ Human Resources 
+department. Further details on the Xilinx University Program are available at www.xilinx.com/xup , and you can  
+reach us at xup@xilinx.com
+
+ 20
+Corporate Responsibility Report 2019    | PRODUCT RESPONSIBILITY
+ 
+Supply Chain Materials and Responsibility
+Xilinx is committed to ensuring high levels of compliance across the many standards that govern different industry 
+management systems. 
+Additional information and disclosures can be accessed from the links below:
+Our Supplier Ethics and Compliance Policy outlines the basic tenets required of our suppliers. The policy requires 
+supplier compliance with all applicable laws, regulations, and Xilinx policies. These include the maintenance 
+of a management system, upholding the human rights of workers, maintaining a safe and healthy workplace, 
+prohibitions against bribes, kickbacks, conflicts of interest, unfair business practices, illegal insider trading and 
+political contributions or lobbying on behalf of Xilinx, as well as respect for intellectual property rights. 
+Xilinx is committed to the eradication of the practice of slavery or human trafficking, and firmly supports those 
+efforts embodied in the California Transparency in Supply Chains Act of 2010 and the United Kingdom Modern 
+Slavery Act of 2015 to eradicate these activities, see our Statement .RoHS, WEEE and ELV      REACH Position Statement
+RoHS  3       Device Reliability Report
+China RoHS       Conflict MineralsPRODUCT QUALITY
+ 
+Our top management focus on customer feedback and flawless results continues to drive positive results  
+and satisfied customers. 
+Xilinx Product Quality certifications include:
+TL9000/ISO9001 Certification
+ISO/TS16949  
+For more information see Quality and Reliability .QML per MIL -PRF-38535
+STACK Certification
+
+ 21
+Corporate Responsibility Report 2019    | CRR 2019 FISCAL YEAR 
+Organizational Profile
+GRI 
+Content 
+IndexPerformance Indicators Data & Website links
+G4-3 Company name Xilinx, Inc. 
+G4-4 Primary brands, products and services About Xilinx  
+G4-5 Location of Company’s Headquarters San Jose, California
+G4-6 Main Countries of Operation Business & Sales Offices Main offices   |  Business and Sales Offices
+G4-7 Nature of Ownership and legal form Form 10-K
+G4-8 Markets served (e.g. sectors, customers) Form 10-K
+G4-9Total Revenue (In thousands USD except per 
+share amounts)FY 2019
+$3,059,040FY2018
+$2,467 ,023
+Operating Income $956,799 $686,022
+Net Income $889,750 $463,981
+Diluted Earnings Per Share $3.47 $1.80
+Cash Dividends Per Share $1.44 $1.40
+Revenue by End Market
+Data Center & TME 20%
+Automotive, Broadcast, & Consumer 15%
+Communications 36%
+Industrial, Aerospace & Defense 28%
+Channel 1%
+Percent of Revenue by Region
+North America 28%
+Asia Pacific 45%
+Europe 19%
+Japan 8%
+G4-13 Significant changes during reporting Period NONE 
+G4-14 Cautionary Approach Corporate Governance  
+G4-16 Membership & Associations
+• Avnu Alliance                                                                 
+• Corporate Executive Board (CEB) 
+• San Jose Silicon Valley Chamber of Commerce      
+• Council for Global Immigration
+• Silicon Valley Community Foundation                        
+• Society for Human Resource Management (SHRM)
+• Global Semiconductor Alliance (GSA)                        
+• Joint Electronic Device Engineering Council (JEDEC)
+• Innovation Value Institute (IVI)                                   
+• Institute of Electrical and Electronics Engineers (IEEE)
+• Industrial Internet Consortium (IIC)                           
+• Embedded Vision Alliance (EVA)• U.S. Commerce Department Information Systems Technical  
+Advisory Committee (ISTAC)       
+• U.S. Environmental Protection Agency Green Power Partnership                                                       
+ • Forum of Incident Response and Security Teams (FIRST)
+• U.S. Customs-Trade Partnership Against Terrorism (C-TPAT)      
+• EU Authorized Economic Operator (AEO)                                                 
+• Singapore Strategic Trade Partnership (STP)
+• Responsible Business Alliance
+• Carbon Disclosure Project (CDP)
+• OpenPOWER Foundation 
+• Semiconductor Industry Association
+ 22
+Corporate Responsibility Report 2019    | AwardsLearning Elite Gold Organization 2018
+Linley Group Analysts Choice Award: Best Networking Chip Category (2018)
+Vision Product of the Year Award, Best Cloud Technology at the Embedded Vision Summit (2018)
+SC18, HPCwire 2018 Awards – Readers’ and Editors’ Choice , Best Use of HPC in Financial Services 
+“Best in Show” Award at Embedded World (2018)
+2018 ASPENCORE World Electronics Achievement Awards (WEAA)
+China Electronic Market (CEM) Magazine’s 2019 Editors’ Choice Award 
+Grand Prix of “Semiconductor of the Year” (2018)
+Electronics Industry Awards, Embedded Solution Product of the Year (2018)
+2018 Electrons d’Or, Digital Circuits (2018)
+BEEAs, Best Product of the Year (2018)
+2018 Barron’s 100 Most Sustainable Companies (#66)
+2019 Barron’s 100 Most Sustainable Companies (#82)
+Total Patents 4000+
+G4-28 Reporting Period Fiscal Year 2019 (April 1, 2018 to March 30, 2019)
+G4-29 Date of previous report August 2017
+G4-32 In-accordance option chosen GRI Standard Disclosures
+Governance
+G4-LA12Diversity of governance bodies and 
+employeesBoard of Directors   
+Board of Directors Committee Composition   
+Diversity and Inclusion
+G4-38 Independent Audit Committee Independent Audit Committee  
+Nominating and Governance Committee Nominating and Governance Committee  
+Compensation Committee Compensation Committee  
+G4-26 Stockholder Communications 2019 Proxy Statement
+Code of Conduct Xilinx Code of Conduct  
+Annual Code of Conduct TrainingMandatory for all regular employees and all interns.  
+FY2019 100% completion rate.
+Anonymous Reporting PolicyAccessible by employees from Xilinx intranet as well as at Xilinx 
+Corporate Governance webpage in Xilinx Code of Conduct  page 21: 
+Reporting Policy
+G4-39 Separate CEO and Board ChairmanPresident and CEO: Victor Peng  
+Chairman of the Board: Dennis Segers
+G4-51 Board Compensation Reporting 2019 Proxy Statement
+G4-56 Privacy Policy Privacy
+Employee Profile, Labor Practices 
+G4-9 Worldwide Employees~4400 Regular Full & Part-Time Employees in 21 countries  
+10.4% employee increase from fiscal year 2018  
+Global Intern conversion to employment 30%
+North America 45.57 % 
+Asia Pacific 18.99%
+India 23.14%
+Europe 11.08%
+Japan 1.22%
+G4-10 Life at Xilinx Life at Xilinx
+G4-LA1 Worldwide Employee turnover rate 5.8%
+ 23
+Corporate Responsibility Report 2019    | G4-LA2 Employee benefitsBenefits & Rewards  
+Some non-compensation benefits include: 
+Health & wellbeing; Generous Leave and Time 
+Off Programs with income protection that 
+exceed government regulations; Access to 
+health & wellness resources; On-site gyms and 
+subsidized gym membership; Tax advantage 
+benefit programs; Retirement savings and 
+pension plans. 
+Xilinx Employee Stock Purchase Plan: 85% 
+participation 
+G4-LA6 Injuries and work related fatalities CY2018Worldwide Recordable Injuries: 2  
+No fatalities
+G4-LA9 Employee training Engaging in a Learning Culture
+G4-LA10 Employee skills and learningXilinx employees engage in average of 4,500+ 
+hours of learning per month (average of 1.4 
+hours of learning per employee per month at 
+3,300+ employees)
+G4-LA11 Employee performance reviews Twice annually
+G4-LA12 Diversity of Governance Bodies and Employees Diversity and Inclusion
+Community Giving
+G4-S01 Community Giving Community Engagement  
+G4-S02 FY2019 Giving Impact Global Impact   
+Environment and Sustainability
+Environment and Health & Safety Management 
+certificationsISO 14001  and OHSAS 18001
+Environmental Health and Safety Xilinx EHS 
+POLICYExecutive Management’s commitment  
+to Environment, Health & Safety  
+Global Sq. Footage at Main Sites1,431,034 (San Jose, CA USA;  
+Longmont, CO USA; Dublin, Ireland;  
+Singapore; Hyderbad, India)
+G4-EN3 Energy Consumption within Company 59762 MWh (CY2018)
+G4-EN6Reduction of Energy Consumption1% global energy reduction in CY2018 from  
+CY2017 with a 5% increase in global population
+Purchase of RECs CY2018 3,073 MWh
+G4-EN8 Water withdrawal 112 Mega Liters Global Water Usage (CY2018)
+G4-EN15 Scope 1 Direct GHG Emissions 1663 Metric Tonnes CO2e
+G4-EN16 Scope 2 Indirect GHG Emissions 23103 Metric Tonnes CO2e
+G4-EN19 Carbon Reduction GoalReduction Goal of 10% by CY2019 beginning 
+with baseline CY2014.
+Currently at 27% carbon reduction per 
+headcount 
+ 24
+Corporate Responsibility Report 2019    | G4-EN23 Waste ReductionMaintained 74% recycled/compost waste 
+versus 26% landfill waste in CY2018 and  
+CY2017 with 5% increase in global population 
+G4-EN24 Significant Spills None
+G4-EN29Environmental Fines and Sanctions for 
+noncompliance with lawsNone
+Company’s Supply Chain
+G4-12 Supplier Ethics and Compliance Policy Supplier Ethics
+Anti-Slavery Anti-Slavery Statement
+Conflict Minerals Policy Conflict Minerals Policy
+Conflict Minerals Report Conflict Minerals Report
+C-TPAT (U.S.)  
+STP+ (Singapore) Certification  
+AEO (Europe) Customs Trade Partnership Against Terrorism 
+Secure Trade Partnership Plus  
+Authorized Economic Operator
+Product Responsibility & Quality
+Quality & Reliability Quality
+Pb-Free and RoHS Pb-Free & RoHS  
+REACH Position Statement Reach Position Statement  
+RoHS, WEEE and ELV Statement RoHS, WEEE & ELV
+RoHS 3 RoHS 3 
+China RoHS China RoHS  
+Quality Certifications Quality Certifications  
+ 25
+Corporate Responsibility Report 2019    | 
+Xilinx, Inc.  
+2100 Logic Drive  
+San Jose, California 95124  
+United States   
+www.xilinx.com
+© Copyright 2019 Xilinx, Inc. Xilinx, the Xilinx logo, Alveo, Artix, Kintex, Spartan, Versal, Virtex, Vivado, Zynq,  
+and other designated brands included herein are trademarks of Xilinx in the United States and other countries.  
+All other trademarks are the property of their respective owners.

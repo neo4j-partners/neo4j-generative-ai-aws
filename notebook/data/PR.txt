@@ -1,0 +1,2226 @@
+CORPORATE SUSTAINABILITY
+2021 Corporate 
+Sustainability Report
+Corporate Sustainability | Introduction | Page 2
+Table of Contents 
+ 
+Introduction  
+Letter from Our CEO .............................................................................................................. 3
+Energy: A Necessity in Today’s Evolving World ................................................................... 5
+Data Tear Sheet..................................................................................................................... 7
+About Centennial................................................................................................................ 10
+About This Report ................................................................................................................ 10
+Centennial’s ESG Mission Statement ................................................................................. 1 1
+Board and Management Oversight .................................................................................. 12
+Climate Change ................................................................................................................. 14
+Environment  
+How We Operate ................................................................................................................ 1 5
+Air Quality Management .................................................................................................... 17
+Water Management ........................................................................................................... 21
+Land Stewardship and Biodiversity .................................................................................... 2 5
+Seismicity .............................................................................................................................. 28
+Spill Management and Prevention .................................................................................... 29
+Health & Safety  
+Overview .............................................................................................................................. 31
+Environmental, Health and Safety Performance .............................................................. 31
+Emergency Preparedness and Response ......................................................................... 32
+Environmental, Health and Safety Training ....................................................................... 34
+Response to COVID-19 ....................................................................................................... 3 5
+Social 
+Human Capital .................................................................................................................... 36
+Training and Development................................................................................................. 37
+Diversity and Inclusion ......................................................................................................... 38
+Benefits ................................................................................................................................. 39
+Charitable Giving ................................................................................................................ 40
+Governance & Ethics  
+Overall Governance ........................................................................................................... 42
+Board of Directors ................................................................................................................ 42
+Executive Compensation ................................................................................................... 44
+Security, Human Rights and Community Relations .......................................................... 4 5
+Business Ethics ...................................................................................................................... 4 5
+Cybersecurity ....................................................................................................................... 47
+Government Relations ........................................................................................................ 48
+Appendix  
+Board Matrix ......................................................................................................................... 49
+Content Index to Reporting Standards ............................................................................. 5 0
+Forward Looking Statements and Disclosures ................................................................... 5 5
+ 
+Corporate Sustainability | Introduction | Page 3
+Letter from Our CEO
+Dear Stakeholder:
+On behalf of our employees and Board of Directors, I am pleased to
+present Centennial’s 2021 Corporate Sustainability Report. As an oil and
+natural gas company, Centennial is a proud supplier of vital and efficient
+energy sources, and we are especially proud of the responsible way in
+which we achieve that objective. Our employees are highly skilled
+professionals who are committed to excellence and continuous
+improvement toward the goal of responsibly delivering long-term value to
+our stakeholders. That commitment extends throughout our operations and
+includes a dedication to superior performance with respect to
+environmental,social and governance(“ESG”) matters.
+The disruptions and tragedies resulting from the COVID-19 pandemic and
+the OPEC+ price war remind us that the future is uncertain, and our plans
+and operations must be built on a resilient foundation. Centennial’s
+perseverance through these events is a testament to the strong principles
+upon which we were founded and the strength of our organization. Like
+many of our peers, our operations ground to a halt during the late spring
+and early summer of 2020. We used that time to take stock, evolve and
+improve. We reduced costs, increased cash flow, enhanced capital
+efficiency and emerged from the worst crisis in recent memory stronger
+than ever. An important element of that evolution was the implementation
+and continued refinement of an ESG program designed to improve,
+measure and demonstrate our performance in the areas of corporate
+governance, environmental compliance, the safety and well-being of our
+employees, community impacts and ultimately the sustainability of
+Centennial. This report is the result of that effort, and its contents further
+demonstrate Centennial’s values, strengths, resiliency and ability to deliver
+long-term valueto our stakeholders.
+While this is our first year to report on our ESG performance, the efforts to
+build our ESG program provided an opportunity to reflect on this
+performance beginning with the public listing of Centennial in October of
+2016. That review revealed a continual dedication to the improvement of
+our systems, processes, practices and policies that contribute to
+Centennial’s growth and success. The examination also made evident the
+importance of our original principles and values which have provided the
+firm foundation upon which the growth and sustainability of our company
+was made possible – top-tier talent, ethics and integrity, high quality assets
+and our commitment to operationalexcellence,safety and execution.
+
+Corporate Sustainability | Introduction | Page 4
+These valuesunderpinour ESG commitments, some examplesof which include:
+•Corporate Governance: In the spring of 2020, we separated the roles of our CEO and
+Chairman of the Board and appointed an independent chairman. In October of 2020, we
+expanded the Board’s Nominating and Corporate Governance Committee duties to
+include oversight and guidance on ESG matters and renamed the committee the
+Nominating, Environmental, Social and Governance Committee. Through this committee,
+the Board reviews and monitors our policies, controls and systems relating to ESG matters
+and monitors broaderESG trends.
+•Health and Safety: During 2020, we developed a comprehensive Health, Safety and
+Environmental Management System that we will fully implement in 2021, and that is
+designedto improve our health, safety and environmental performance.
+•Environmental Integrity: We joined The Environmental Partnership as part of our
+commitment to environmental best practices and improvement. Additionally, we made
+significant progress toward implementing new processes to better track and reduce our
+greenhouse gas emissions and increased our year-over-year gas capture, achieving a flare
+rate of 0.5% of total gas volumes producedduringthe fourth quarterof 2020.
+•Our Greatest Asset, Our People: We continued our comprehensive training programs and
+implemented a vigorous COVID-19 response plan which successfully protected the health
+and well-being of our workforce. Also, we formed a Diversity & Inclusion Committee and
+initiatedrelatedtraining for our employees.
+•Our Communities: For many of our employees, the communities where we operate are
+the communities where they live. For the rest of us, they are our second home. We are
+proud to have organized and engaged in numerous community outreach activities in
+Midland, Pecos, Hobbs and Denver and look forward to continuing to expand our positive
+impact on these communities in the yearsto come.
+Thank you for taking the time to review our inaugural Corporate Sustainability Report. We are
+very proud of our company, our people and our success in providing critical energy resources
+to society in an efficient, responsible and sustainable way. The following pages illustrate our
+performance and commitment toward that objective.
+Sincerely,
+Sean R. Smith
+Chief ExecutiveOfficer
+
+Corporate Sustainability | Introduction | Page 5
+Energy: A Necessity in Today’s Evolving World
+Centennial is proud to be a part of the oil and natural gas industry
+that produces affordable and reliable energy to fuel society. The
+oil and gas industry contributes billions of dollars to local and state
+economies, it provides high paying jobs for the communities in
+which operations occur and it will continue to be a major
+contributor to the global energy mix for decades to come.
+Centennial is proud to be a member of the communities in which
+we operate and to contribute, both socially and economically, to
+the greateroil and natural gas industryin Texasand NewMexico.
+In 2019, the Texas oil and natural gas industry paid more than $16
+billion in state and local taxes and royalties to the state. The
+industry’s 2019 economic contribution to New Mexico through
+state and local taxes and royalties, including payments derived
+from industry activities on federal lands, totaled $2.8 billion and
+represented 31% of New Mexico’s 2019 state budget. In Texas and
+New Mexico combined, the oil and gas industry contributed the
+equivalent of approximately $50 million each day that directly
+funds schools, universities, roads, first responders and other
+important governmental initiatives. The total industry contribution
+between 2007 and 2019 is over $149 billion in Texas and another
+$10 billion in New Mexico. Moreover, in 2019 and 2020,
+Centennial’s individual contribution to the state governments of
+Texas and New Mexico through the payment of taxes and royalties
+was almost $200 million.
+In addition to the substantial economic impact that our industry
+provides, oil, natural gas and natural gas liquids touch almost
+everything that constitute the necessities and conveniences of
+modern life. Regardless of where someone might live, the oil and
+gas industry plays an enormous role in everything an individual
+does and consumes. It provides not just fuel for cars, trucks and
+airplanes, but it is one of the primary components in the
+manufacturing of plastics for cell phones, TV’s, cameras,
+computers, medicine, lifesaving devices and much more. Other
+everyday products made from petroleum include many forms of
+clothing, tires, kayaks and other boats, fertilizers, heart valves and
+other medical products, golf balls and golf bags and personal
+care products such as hair coloring, lipstick, denture adhesive,
+shampoo, shaving cream and toothpaste, among many others. It
+is difficult to imagine modern life without many of these items.
+Corporate Sustainability | Introduction | Page 6
+Besides the substantial role that oil and gas
+play in our modern and developing world, it
+will continue to do so well into the future.
+While efforts to address the risks associated
+with climate change include the increased
+use of alternative energy sources to meet
+the world’s expanding energy needs, under
+most third-party scenarios that meet the
+global average temperature reduction
+goals of the 2015 Paris Agreement of the
+United Nations Framework Convention on
+Climate Change, oil and natural gas will
+continue to play a significant role for
+decades in meeting the increasing energy
+demand of a growing and more prosperous
+global population. Between now and 2040,
+the global population is expected to
+increase from 7.5 billion to over 9 billion
+people. Also, during that time global Gross
+Domestic Product is expected to double.
+The energy needs to support this
+advancement will be substantial andrequire growing contributions from all
+energy sources, including oil and gas.
+Access to affordable energy is an important
+underpinning of continued economic
+growth and security worldwide. Centennial
+is committed to providing reliable and
+affordable oil and gas to support the
+growing prosperity and population of the
+world while implementing systems and
+procedures to continually improve and
+reduce the environmental impact of our
+operations, improve our social impact in the
+communities where we operate and
+continually increase the long-term
+sustainabilityof our enterprise.
+OPERATIONS Metric 2018 2019 2020
+Total Net Production1MBoe/d 61.1              76.1              67.2              
+Producing Wells (Gross Operated)2# 285               381               413               
+Completions (Gross Operated) # 80                 84                 31                 
+Avg. Lateral Length (Gross Operated) Ft. 7,400            7,700            7,500            
+ENVIRONMENTAL Metric 2018 2019 2020
+Air Emissions:3
+Direct GHG Emissions mt CO ₂e 389,341        466,936         423,777         
+By Constituent
+Carbon Dioxide mt CO ₂e 308,392        369,664         334,211         
+Methane mt CO ₂e 80,726          97,131           89,381           
+% Methane % 21% 21% 21%
+Nitrous Oxide mt CO ₂e 223              141               185               
+By Source
+Flaring mt CO ₂e ND 261,472         248,640         
+Combustion mt CO ₂e 71,515          73,679           80,565           
+Vented Emissions mt CO ₂e 137,101        12,566           25,951           
+Fugitive Emissions mt CO ₂e 7,590           8,810            9,207            
+GHG Emissions Intensity mt CO ₂e/MBoe 15.8 14.2 14.2              
+Methane Emissions Intensity mt CO ₂e/MBoe 3.3 3.0 3.0                
+Flared Gas:
+Flared Gas (% of Gas Produced) % 4.7% 7.1% 4.4%
+CDEV consistently reduced its percentage of flared gas throughout 2020 and flared 0.5% of gas in Q4'20
+CDEV has set a target to reduce its percentage of flared gas to 1% in 2021
+Water Usage:
+Total Sourced Water Usage MMBbls 39.6              35.3              8.4                
+Total Recycled Produced Water Usage MMBbls -                  3.0                4.8                
+Total Water Usage (Sourced + Recycled) MMBbls 39.6              38.3              13.2              
+Sourced
+Fresh Water (Water with < 1,000 ppm TDS) MMBbls 6.8                5.4                0.5                
+Non-Fresh Water ( > 1,000 ppm TDS & < 10,000 ppm TDS) MMBbls 32.8              29.9              7.9                
+Loss Due to Evaporation4MMBbls 4.0                3.5                0.8                
+Water Usage Intensity (Bbls sourced water / Boe produced) Bbls/Boe 1.61              1.08              0.28              
+Produced
+Total Produced Water5MMBbls 59.8              85.5              68.2              
+Disposed Produced Water - Third-Party Systems6% 51% 55% 47%
+Injected Produced Water7% 47% 38% 44%
+Recycled Produced Water % 0% 4% 7%
+Discharged % 0% 0% 0%Corporate Sustainability | Introduction | Page 7
+Data Tear Sheet:
+Corporate Sustainability | Introduction | Page 8
+Data Tear Sheet ,continued :
+Spill Prevention and Management: Metric 2018 2019 2020
+Oil Spill Events (> 1 Bbl) # 29                 72                 85                 
+Oil Spill Volumes (> 1 Bbl) Bbls 172               452               562               
+Oil Spill Rate (Spilled / Produced) % 0.001% 0.002% 0.003%
+Recovered Oil Bbls 105               303               336               
+Produced Water Spill Events (> 1 Bbl) # 63                 117               68                 
+Produced Water Spill Volumes (> 1 Bbl) Bbls 11,774           9,928            9,711            
+Produced Water Spill Rate (Spilled / Produced) % 0.020% 0.012% 0.014%
+Recovered Produced Water Bbls 10,611           7,841            4,261            
+Recovered volumes are attributed to rapid spill response and recovery operations
+HEALTH & SAFETY Metric 2018 2019 2020
+Incident Rates:
+Total Recordable Incident Rate (TRIR) – incidents per 200,000 work hours
+    Employee # -                -                -                
+    Contractor # 0.51              0.58              0.60              
+    Total Workforce # 0.47              0.53              0.50              
+Lost Time Incident Rate (LTIR) – incidents per 200,000 work hours
+    Employee # -                -                -                
+    Contractor # 0.10              0.10              0.36              
+    Total Workforce # 0.09              0.09              0.30              
+Near Miss Frequency Rate (NMFR) – incidents per 200,000 work hours # ND ND 0.69              
+SOCIAL2Metric 2018 2019 2020
+Employees # 178               195               151               
+Total Female Employees % 43% 41% 38%
+Female Supervisors and Managers % 29% 34% 34%
+Total Ethnic Minority Employees % 19% 25% 24%
+Ethnic Minority Supervisors and Managers % 2% 9% 11%
+Employee Voluntary Turnover % 8% 7% 5%
+ECONOMIC IMPACT Metric 2019 2020
+Severance Taxes8
+Texas $MM $32.1 $15.0
+New Mexico $MM $13.9 $13.1
+Ad Valorem Taxes8
+Texas $MM $16.9 $11.1
+New Mexico $MM $0.3 $0.2
+Royalties
+Texas $MM $23.0 $13.0
+New Mexico $MM $20.8 $32.4
+Federal $MM $4.5 $2.3
+Corporate Sustainability | Introduction | Page 9
+Data Tear Sheet ,continued :
+Footnotes:
+1) Represents total net equivalent production, which includes operated and non-operated volumes; unless noted
+otherwise, the remainingcalculationsin thisDataTear Sheet represent gross, operatedfigures
+2) Dataas of year-end; all other remainingdata representativeof the full year
+3) Represents emissions data reported to the Environmental Protection Agency (“EPA”) on an annual basis according
+to EPA regulation
+4) Water lost due to evaporationand storage was not used downhole but is includedin our totalsourced water usage
+5) Includes disposed, injected and recycled produced water volumes, in addition to produced water that remains in
+Company storage;as a result,the sub-categoriesbelow may not sum to 100%
+6) Disposedof through third-partysources; unknown if injectedor sold for recyclingpurposes by third-party
+7) Injected via CDEV owned / operated Class II Injection wells; does not account for produced water disposed of
+through thirdparty sources
+8) Represents net dollar amounts paid in severance & ad valorem taxes
+Other Notes:
+The metrics in this data tear sheet have been calculated using the best available information at the time of preparation
+of this data tear sheet. The data utilized in calculating such metrics is subject to certain reporting rules, regulatory
+reviews, definitions, calculation methodologies, adjustments and other factors. As a result, these metrics are subject to
+change if updated data or other information becomes available. Accordingly, certain metrics in this data tear sheet in
+respect to prior years may be revisedfrom timeto time to reflect updated dataand other information.
+mt CO2e = “Metric tons of carbon dioxide equivalent”
+ND = “Not disclosed”
+Please refer to our Annual Report on Form 10-K for a list of additional abbreviations and definitions of certain terms used
+in this report.
+
+Corporate Sustainability | Introduction | Page 10
+About Centennial
+Centennial Resource Development, Inc. (“Centennial,” “we,”
+“us” or “our”) (NASDAQ: CDEV) is an independent oil and
+natural gas company focused on the development of
+unconventional oil and associated liquids-rich natural gas
+reserves in the Delaware Basin, a sub-basin of the Permian
+Basin. Since our formation in 2016, Centennial has successfully
+grown its asset base through the efficient development of its
+properties and the cost-efficient acquisition of oil and gas
+leases in highly productive areas. Currently, Centennial’s
+properties consist of approximately 81,700 net acres, located
+primarily in Reeves and Ward Counties, Texas and in Lea
+County, New Mexico.
+We believe the Delaware Basin represents one of the most
+attractive operating areas in the United States due to its
+favorable regulatory environment, rural setting, low operating
+costs, stacked pay potential, high oil content, historically high
+drilling success rates, extensive infrastructure base and
+significant service provider network. Centennial is
+headquartered in Denver, Colorado and has additional offices
+in Midland, Pecos and Sugar Land, Texas; and Hobbs, New
+Mexico. As of December 31, 2020, Centennial had 151 full-time
+employees. For additional information about Centennial,
+pleasevisit www.cdevinc.com.
+About This Report
+This 2021 Corporate Sustainability Report (the “Report”) reflects
+an evolution from our initial Corporate Responsibility Report
+published in 2018, represents Centennial’s inaugural
+Environmental, Social and Environmental (“ESG”) report and
+covers our performance in areas such as environmental
+stewardship; regulatory compliance; health and safety;
+corporate governance; ethics; security; workforce diversity,
+development and well-being; and community engagement
+and involvement. The focus areas of this Report reflect a
+combination of internal research, peer benchmarking and
+feedback from stakeholders to determine a materiality profile
+relevant to our business through which to report our
+sustainability performance. That investigation led to our
+adoption of the materiality profile developed by Sustainability
+Accounting Standards Board (“SASB”) for independent oil and
+gas exploration and production companies as the structure
+Corporate Sustainability | Introduction | Page 11
+with which to guide our reporting of sustainability performance. We have also adopted
+selected Global Reporting Initiative (“GRI”) disclosures to guide an expansion of the Report’s
+coverage to certain governance and workforce related matters. Both the SASB and GRI
+standards and disclosures include topics, quantitative accounting and qualitative activity
+metrics and technical protocols. This Report includes information we believe is important and
+informative to our stakeholders. We plan to publish a corporate sustainability report annually
+and will strive to be consistent with the way data is reported. We acknowledge the potential
+to include additional or different information, data and disclosures as ESG trends and
+reportingstandardsevolve.
+The information, data and disclosures included in this Report cover our operations and other
+activities during calendar year 2020, unless noted otherwise. Additionally, the Company
+desires to continue to improve its ESG reporting, transparency and performance and will be
+interested in receiving feedback on this Report so that we might continue these
+improvements. Comments, suggestions and questions about this Report may be submitted
+to:
+Centennial Resource Development, Inc.
+Attn: Investor Relations
+1001 17th Street, Suite 1800
+Denver, Colorado 80202
+or: 
+ir@cdevinc.com
+(832) 240-3265
+– Centennial’s ESG Mission Statement  –
+Centennial is committed to producing oil and natural gas in a way that creates
+long-term value for our stakeholders, which includes the commitment to do so in
+an ethical, inclusive, pragmatic and environmentally and socially responsible
+way. The core mission of Centennial’s ESG effort is to identify, implement,
+manage, evolve and improve procedures, systems and policies that continually
+advance Centennial’s ESG performance and long-term sustainability and to
+report that performance to our stakeholders in a clear, transparent and
+measurable way.
+Board and Management Oversight
+We believe strong ESG leadership starts at the top, and that is
+why our Board of Directors engages frequently in matters
+specifically related to the Company’s ESG initiatives,
+performance and reporting. Our Board believes that
+corporate responsibility is fundamental to Centennial’s
+business strategy and long-term success and, therefore, is
+actively involved in ESG matters. In addition to frequently
+discussing ESG topics, the Board receives routine updates
+from the Company on a variety of sustainability issues,
+including, but not limited to, health and safety, environmental
+compliance, greenhouse gas (“GHG") emissions, water
+management, workplace diversity, talent retention,
+cybersecurity, risk management and operating and other
+costs. The management of Centennial believes that proper
+oversight and governance are key to sustainability and work
+in partnership with our Board in order to achieve our
+sustainabilitygoals.
+The Board’s Nominating, Environmental, Social and
+Governance (“NESG”) Committee oversees the Company’s
+overall ESG initiatives and reports on these issues to the
+remainder of the Board. The NESG Committee’s duties and
+responsibilitiesspecificallyrelatedto ESG matters include:
+•Reviewing and monitoring Centennial’s policies, controls
+and systems relating to ESG and making recommendations
+to the Boardon ESG matters
+•Monitoring and receiving reports on ESG laws, regulations,
+decisions, protocols, trends, risks and other ESG-related
+developments
+•Receiving reports from Company management regarding
+ESG performance and strategies and initiatives with
+respectto ESG matters
+•Monitoring the effectiveness of the Company’s ESG
+policies,controls and systems
+•Reviewing with, and making recommendations to, the
+Board and management regarding Centennial’s ESG
+policies, practices and metrics, as well as public disclosure
+of ESG mattersCorporate Sustainability | Introduction | Page 12
+
+Corporate Sustainability | Introduction | Page 13
+Board of Directors 
+Executive 
+Management
+ESG Committee
+(Senior Team)
+Financial 
+ReportingHS&EInformation & 
+TechnologyRegulatoryNominating, 
+Environmental, Social and 
+Governance Committee
+To assist the NESG Committee and the Board with ESG oversight and strategy, the Company
+established an ESG Committee in early 2020, which reports directly to members of
+Centennial’s senior management team. The ESG Committee provides a quarterly update to
+the Board regarding the Company’s ESG performance, strategy, emerging ESG trends and
+stakeholder feedback, as well as the Company’s progress towards certain ESG-related goals.
+Our ESG Committee is comprised of senior level and front-line employees from many
+disciplines with various skillsets and includes representatives from our Financial Reporting,
+Government Relations, Health, Safety and Environmental (“HS&E”), Human Resources,
+Information Technology, Investor Relations, Land, Legal, Operations and Regulatory
+departments. This broad representation provides a dynamic, unique and broad perspective
+and allows us to develop multifaceted strategies in order to tackle a wide range of
+sustainability matters. We believe that including team members from various levels and
+disciplines within the Company is key to accurate and comprehensive ESG reporting and
+promotes of sense of ownership throughout the organization.
+The ESG Committee’s responsibilitiesincludethe following functions:
+•Supportingthe Board with generalESG strategy,includingprovidingregularupdates
+•Assisting senior management to establishESG goals and targets
+•Collectingdata and confirming the accuracyof collecteddata
+•Ensuring that industry-recognized technologies and best practices are utilized, especially
+relatedto our efforts to reduceGHG emissions
+•Reinforcingthe importance of ESG issuesthroughout all levelsof the organization
+•Publishingmaterial ESG data in a clear and easilyunderstood manner for stakeholders
+Corporate Sustainability | Introduction | Page 14
+Climate Change
+Climate change is an important priority to Centennial and its stakeholders. We support the
+global initiatives to reduce emissions to manage the effects of climate change, and we are
+prepared and committed to adapt to the associated impacts on the oil and gas industry.
+We recognize the need to reduce GHG emissions and to limit routine flaring. While legal and
+regulatory efforts are quickly emerging to address these issues and may include new
+challenges to our business, our commitment to best practices and operational excellence
+ensures that our systems remain on the leading edge of the changing regulatory
+environment, and we believe that we are well prepared to adapt to the anticipated
+changes. Our overall strategy is to manage our environmental footprint in a proactive
+manner and take steps to limit our methane and other GHG emissions. We are committed to
+working with our industry partners, regulators and the communities in which we operate to
+address and minimize our impacts on the environment while ensuring a supply of sustainable,
+abundantand affordable energy.
+[Too much blank space, or OK?]
+
+EnvironmentCorporate Sustainability | Environment | Page 15
+How We Operate
+Environmental Overview
+Centennial operates in West Texas and Southeast New Mexico. This area enjoys
+multiple land uses and is home to a diverse ecosystem including mountain, desert
+and semi-desert habitats, precious water resources, native grasslands and shrublands
+and many indigenous wildlife species, including some that are threatened or
+endangered. The area is also home to small communities where many of our
+employees, contractors and other team members reside. At the heart of this region
+lies the Delaware Basin, a sub-basin of the broader Permian Basin, one of the most
+prolific oil and gas fields in the country. As a Delaware Basin operator, Centennial
+recognizes its responsibility to protect the unique natural and human resources of this
+region as we seek to develop our oil and natural gas reserves. Centennial is
+committed to protecting the environment and the health and safety of employees,
+contractors and others impacted by our operations. To achieve these goals, we have
+developed a Health, Safety and Environmental Management System (“HSEMS”), a
+program that provides training and includes policies, practices and procedures
+designed to protect the environment, as well as to keep our employees, contractors
+and communities safe.
+Our commitment to operational excellence includes Centennial’s focus on
+environmental excellence and stewardship. Effectively managing our environmental
+responsibilities reduces risks and minimizes the potential of adverse environmental
+impacts and contributes to our sustainability and growth. We are committed to
+maintain compliance with all local, state and federal laws, rules and regulations that
+govern our operations and activities. We also endeavor to be leaders in our industry
+and continually aim to go above and beyond these threshold requirements which
+serve to extend our commitment to the evolving best practices for the upstream oil
+and gas industry. Among our foundational values are ethics, integrity and
+operational excellence, and we firmly believe that the right thing to do is to protect
+the air,water,land and flora and fauna in the areaswhere we operateand live.
+A Managed Approach to Protectingthe Environment
+In order to achieve our goals of operational and environmental excellence,
+Centennial utilizes a strategically organized approach to comply with environmental
+and other regulatory responsibilities. Our teams work together to reduce risk, minimize
+our environmental footprint and prevent or minimize environmental incidents. Over
+the course of 2020, we developed and began implementing our HSEMS program to
+further our commitment to health, safety, compliance and risk management, and we
+Corporate Sustainability | Environment| Page 16
+plan to fully implement the HSEMS systems in 2021. HSEMS includes key safety and
+environmental programs such as Air Quality Compliance, Hazard Assessment and
+Communication Program, Emergency Response Plan and Spill Prevention and Waste
+Management Programs, among many others and is further detailed in the Health & Safety
+section of this Report.
+Planning to Ensure Success
+During the early stages of field development and prior to initiating our operations, Centennial
+engages in a rigorous planning process to reduce risk and ensure that we meet our
+environmental responsibilities. This planning process is designed to discover and assess risks
+and potential hazards and enables us to identify, evaluate, select and implement solutions to
+mitigate our impact. Operations are commenced only after the planning process is
+complete. Where feasible, we utilize a multi-pad development process which further
+minimizes our environmental footprint, consolidates our facilities into more localized and
+manageablelocations and isolates our development from environmentallysensitiveareas.
+We design our operations with a focus on the following principlesand goals:
+•We design our wellbores, wellheads and facilities 
+using a prevention through design methodology 
+to avoid unplanned environmental releasesQuality Design
+•We aim to reduce or eliminate routine flaring 
+events where feasible and set targets regarding 
+flaring reductionsElimination of Routine 
+Flaring
+•We utilize the best available control technology 
+to manage and limit excess and fugitive emissionsUtilization of the Best 
+Equipment
+•We continue to increase the amount of recycled 
+produced water used in our drilling and 
+completions operationsIncreased Water 
+Recycling
+•We utilize pipelines, whenever possible, to 
+transport our oil, natural gas and associated 
+waterUtilization of Pipelines
+Corporate Sustainability | Environment | Page 17
+Air Quality Management
+Centennial recognizes the potential
+environmental risks and impacts associated
+with emissions from oil and gas operations. In
+addition to the environmental air quality laws
+and regulations applicable to our operations as
+discussed above and in our Annual Report on
+Form 10-K, we also continually strive to identify
+opportunities to innovate and find new
+solutions to reduce our air quality impact.
+Examples of our initiatives include our
+participation in The Environmental Partnership
+and the Texas Methane and Flaring Coalition.
+Some specific examples of additional efforts
+include:
+•Monitoring and increasing inspections of our
+facilitiesand potential flaring activities
+•Managing the volume of emissions of volatile
+organic compounds (“VOC”) and other
+GHGs and hazardousair pollutants
+•Instituting best available control technologies
+to limit the release and impact of air
+pollutants associatedwith our operations
+•Installing and monitoring tank pressure
+gauges
+•Transporting produced water and oil from
+our drilling sites by pipeline rather than truck,
+which reduces emissions, including VOCs,
+from open tank vents and carbon monoxide
+(“CO”) from trucktraffic
+•Installing load-out controls on our production
+locations to minimize VOC emissions resulting
+from oil tank unloading
+•Connecting many of our facilities to our
+electrical grid to eliminate the need for fuel-
+fired generators, which reduces VOC, CO
+and nitrous oxide (“NOx”) emissions– CASE STUDY –
+Electric Substation Build-Out
+In early 2019, Centennial undertook an
+initiative to reduce its dependence
+upon natural gas and diesel fueled
+generators by connecting its well-sites in
+Reeves County, Texas to the electric
+grid. During the second half of 2019,
+Centennial began constructing a
+proprietary electric substation to
+accomplish this objective. Upon
+completion of the substation in late
+2020, the Company was able to reduce
+the number of generators in the field
+from approximately 135 to 10. We
+expanded the effort by also converting
+numerous VRUs from combustion
+engines to electrical power. These
+efforts not only increased field
+productivity and reduced operating
+costs but also removed approximately
+165 combustion engines related to
+generators and VRUs from our
+operations. As a result of this initiative,
+Centennial expects to realize a year-
+over-year reduction in GHG emissions,
+including VOCs, CO and NOx. Our
+operations team continues to look for
+additional ways to utilize our electrical
+system in order to further reduce both
+emissions and costs.
+Corporate Sustainability | Environment | Page 18
+•Routinelyconducting audio, visual and olfactory (“AVO”) inspections of our facilities
+•Implementing a Leak Detection and Repair (“LDAR”) program along with a “Find it and Fix
+it” approach
+•Installingvapor recoveryunits (“VRUs”) at high-volumeproduction sites to limit emissions
+•Implementing dual-fuel technology in our drilling and completion operations to reduce
+emissions and associatedcosts
+•Replacinghigh-bleedpneumaticdeviceswith no- or low-bleedcontrollers
+•Convertingour control devicesto use compressedair
+Centennial recognizes the need to effectively monitor and track air emissions from our
+operations and views such monitoring and tracking as an essential first step in identifying and
+implementing cost-effective measures to reduce such existing emissions and set future
+emissions reduction goals. We have implemented a program to track and monitor our GHG
+emissions and as a result have been able to realize a reduction in our emissions intensity over
+time relative to the growth in our production volumes. We submit our Scope 1 (direct) GHG
+emissions data annually to the Environmental Protection Agency (“EPA”) pursuant to the New
+SourcePerformance Standards(NSPS) regulatoryrequirements.
+Our HSEMS program directs all of Centennial’s HS&E, field personnel and contractors to
+receive frequent and regular training in air quality laws and regulations, industry standards
+and best practices and air quality practices and procedures specific to Centennial and its
+operations. Our Air Quality Compliance and Assurance program identifies specific
+compliance, testing, documentation and reporting requirements, as well as control methods
+and devices, applicable to our different operating areas. Additionally, it guides our efforts to
+identify, mitigate, eliminate and reportair qualityincidents.
+– CASE STUDY –
+Utilizing Dual-Fuel Drilling Rigs & Completions Frac Crews
+In late 2020, Centennial’s operations team began exploring the possibility of utilizing dual-fuel
+capabilities for its drilling and completion operations. As of March 2021, all of Centennial’s
+contracted drilling rigs and completion equipment have dual-fuel capabilities and are able to
+supplement diesel with compressed natural gas (“CNG”). This allows a drilling rig or completion
+equipment to be powered with either 100% diesel fuel or a mixture of CNG and diesel. The option
+to utilize locally sourced natural gas produces fewer emissions and is more cost efficient than diesel.
+We estimate that a typical completions operation equipped with dual-fuel capabilities consumes
+65% less diesel during the stimulation of a typical well. This not only lowers costs but also further
+reduces GHG emissions. In the future, Centennial plans to exclusively utilize drilling rigs and
+completions crews with dual-fuel capabilities.
+Corporate Sustainability | Environment | Page 19
+Focus on Flared Gas
+One of the highest ESG priorities of Centennial’s
+Board of Directors, executive management
+and operational team is reducing the volume
+of flared natural gas from our operations. We
+recognize that natural gas flaring results in GHG
+emissions and is economically wasteful. While
+flaring may be unavoidable during emergency
+or upset conditions, we strive to avoid routine
+flaring to the greatest extent possible. Routine
+flaring may occur for numerous reasons,
+including the unavailability of gas gathering
+and processing infrastructure when wells
+achieve initial production, undersized gas
+pipelines to downstream facilities, downstream
+market interruptions and lack of natural gas
+capture during completion operations. We
+attempt to recognize and predict these
+common causes of routine flaring, and we are
+committed to mitigating their occurrence with
+adequate infrastructure planning and gas
+takeawayoptionality.
+The development plans for our well pads are
+structured to ensure the availability of gas
+gathering and takeaway infrastructure at the
+beginning of production, and we partner with
+our midstream providers to ensure such
+infrastructure is in place. This reduces the need
+for flaring and preserves the ability to deliver
+the gas to market for sale. Our marketing team
+has secured firm sales and transportation
+agreements for a majority of our expected
+natural gas volumes, as well as multiple
+interruptible sales and transportation
+agreements covering the balance of our
+expected production. The result is that our
+natural gas can be transported to end-markets
+for consumers through multiple takeaway
+options, unconstrained by a lack of pipeline
+capacity.7.1%9.5%
+4.8%
+2.3%
+0.5%
+2019 Q1'20 Q2'20 Q3'20 Q4'20% of Natural Gas Flared
+– CASE STUDY –
+New Mexico Infrastructure Build-
+Out
+Centennial recently partnered with one
+of its midstream providers to develop a
+creative solution to reduce natural gas
+flaring on its New Mexico properties.
+During the third quarter of 2020,
+Centennial invested approximately $1
+million to construct five miles of larger
+diameter pipeline which increased gas
+takeaway capacity on a portion of its
+New Mexico acreage. This
+infrastructure project, coupled with
+additional compression provided by the
+midstream provider, resulted in a
+significant increase to the company’s
+gas capture rate and a corresponding
+reduction in flared volumes.
+Corporate Sustainability | Environment | Page 20
+In mid-2020, Centennial set an internal short-term flaring target of
+two percent or less of our total gross gas volumes produced.
+Through the initiatives described above, a heightened corporate
+focus and infrastructure expansion on our properties, Centennial
+has meaningfully reduced its year-over-year volumes of flared gas.
+Moreover, during the fourth quarter of 2020, our natural gas flaring
+rate was 0.5% of total gross gas volumes produced, an
+accomplishment of which we are exceedingly proud. For 2021,
+the Company has set a flaring target of 1% and will continually
+work to minimize flaring outside of routine maintenance to near
+zero.
+LDAR Program
+Tracking and reporting emissions from our facilities is a critical step
+toward improving our emissions reduction performance.
+Centennial employs a Leak Detection and Repair (“LDAR”)
+program to identify and monitor fugitive emissions from our
+operations. As part of this program, we utilize Optical Gas Imaging
+(“OGI”) cameras to identify methane leaks from our facilities. The
+facilities which are subject to these inspections include wellheads,
+heaters and treaters, separators, tanks, flowlines and related
+components including valves, connectors, pressure relief devices
+and flanges. If any leaks are detected, our operations team
+immediately generates a report and promptly repairs the leak
+onsite using a “Find it and Fix it” approach. We identify and record
+the leaks by source and component type, and the incident is
+immediatelyreportedto our HS&E and operations teams.
+To supplement the OGI surveys, our field personnel conduct daily
+inspections of our facilities, and our field operators perform
+monthly audio, visual and olfactory (“AVO”) regulatory surveys, as
+well as inspections on all applicable closed vent systems and
+facilities in accordance with EPA air quality regulations. These
+mandatory efforts are supplemented with voluntary surveys of
+unregulated locations and facilities, including older, non-
+applicable facilities to identify potential emission issues throughout
+all of our operations. This includes repair or replacement of
+identified leaking components and, where feasible, upgrading
+components, such as control mechanisms, valves and hatches,
+with newer and more effective technologies. Finally, we track and
+record the results of our inspections in our Incident Management
+System in accordance with our Air Quality Compliance and
+AssuranceProgram.
+Corporate Sustainability | Environment | Page 21
+Water Management
+Centennial recognizes that, while water is a
+necessity for our drilling and completion
+operations, freshwater is a limited resource that
+is vital to the communities in which we operate.
+Our objective is to be mindful and responsible
+stewards of these local water resources. We
+operate in areas with medium to extremely
+high-water risk, as defined by the World
+Resources Institute’s Water Risk Atlas, and we
+strive to limit the amount of freshwater used in
+our operations. This commitment is reflected in
+our water management strategies which
+include using water as efficiently as possible,
+utilizing appropriate drilling techniques and
+equipment, limiting our freshwater use,
+increasing our use of recycled water and
+disposing of produced water in an
+environmentallyresponsiblemanner.
+Water Sourcing
+Our drilling and completion activities require a
+significant amount of water. Given our
+objective to be good environmental stewards,
+we actively seek to source and maximize
+alternatives to freshwater in our operations,
+such as brackish water and recycled produced
+water. As shown in the chart, we have
+consistently decreased the use of freshwater in
+our operations by utilizing alternatives. This
+helps ensure the preservation of freshwater for
+local municipalities and other end users. In
+2020, 94% of our operational water use was
+non-freshwater, limiting our freshwater use to
+only 6% of the total water volumes.83% 85%94%17% 15%6%
+2018 2019 2020Sourced Water (%)
+Non-Fresh Fresh
+Corporate Sustainability | Environment | Page 22
+Water Recycling
+In 2018, Centennial formed a project team to
+develop comprehensive water sourcing,
+disposal and recycling solutions with the goal of
+reducing freshwater usage in our operations. In
+2019, we began implementing the team’s
+water recycling solutions in New Mexico,
+subsequently expanding the effort into our
+Texas operations in early2020.
+During the recycling process, we utilize mobile
+treatment facilities to treat flowback and
+produced water to a quality that can be re-
+used in downhole operations. After treatment,
+recycled water is stored in above ground
+storage tanks, which are double-lined and
+routinely inspected and monitored to ensure
+environmental safety and leak avoidance. We
+recycled 4.8 million barrels of flowback and
+produced water in 2020, representing an
+approximate 60% increase compared to 2019.
+Centennial’s water recycling program has
+reduced our volumes of freshwater
+consumption and produced water disposal, as
+well as associated costs. We plan to continue
+to increase the use of recycled water in our
+operations wheneverpossible.-3.0 4.8 
+2018 2019 2020Recycled Water Volumes 
+(MM Bbls)
+Samples of Water Taken at Various Times 
+During the Recycling Process
+
+Corporate Sustainability | Environment | Page 23
+Water Infrastructure
+Water infrastructure is an integral part of
+Centennial’s water management strategy.
+Since inception, we have continued to invest in
+the expansion of our water disposal system,
+which consists of approximately 300 miles of
+Centennial owned and operated water
+infrastructure pipeline and associated disposal
+wells. While we have significantly increased the
+amount of recycled water utilized in our drilling
+and completion operations, a portion of our
+produced water volumes continues to be
+injected into saltwater disposal (“SWD”) wells.
+As a result of increased water recycling and
+reduced activity, in 2020, excluding volumes
+delivered to third-party water gatherers,
+Centennial decreased injected produced
+water volumes into Company-owned and
+operatedSWD wells by 8% comparedto 2019.
+Continued optimization and expansion of our
+water disposal infrastructure, combined with
+the piped solutions utilized by our third-party
+water disposal service providers, have
+significantly reduced our dependency on trucks
+that transport flowback water to disposal sites.
+Today, over 99% of our disposal water volumes
+are transported via pipeline. Combined, these
+efforts have reduced trucking-related emissions,
+improved road safety, minimized the potential
+for spills and reduced the physical impact on
+local roads while also reducing our operating
+costs.39%
+11%
+1%
+2018 2019 2020Trucked Produced Water 
+(% of Total)
+
+Corporate Sustainability | Environment | Page 24
+Hydraulic Fracturingand Fluid Disclosure
+The majority of Centennial’s water use occurs
+when we hydraulically fracture and complete our
+oil and natural gas wells. Hydraulic fracturing, or
+fracking, is a proven drilling process used for
+extracting oil and natural gas from deep
+underground, typically, in the case of
+Centennial’s wells, more than 10,000 feet below
+the earth’s surface. The process has been safely
+used since 1947, and more than 1.7 million wells in
+the United States have been completed using the
+procedure. Fracking involves injecting pressurized
+fluids consisting of water, sand and other materials
+into underground shale rock reservoirs. This
+creates tiny fractures or pathways in the rock that
+safely release crude oil and natural gas molecules
+allowing them to flow from the reservoir into the
+well casingand up to surfacegatheringpipelines.
+The fluid mixture utilized in fracking is typically
+more than 99% water and sand. Less than 1% is
+composed of chemical additives that are highly
+diluted and commonly found in various household
+products, such as laundry detergents, cleaners
+and beauty products. Regulating agencies, such
+as the EPA, and other reputable organizations,
+including the Ground Water Protection Council
+and the Interstate Oil and Gas Compact
+Commission, have established through rigorous
+studies that fracking is a safe practice and does
+not threaten human health or underground
+sourcesof fresh or potable water.
+Centennial’s operational practices include the
+transparent disclosure of the chemical additives
+that we utilize in our fracking operations. We
+publicly report our use of those materials through
+FracFocus, the national hydraulic fracturing
+chemical registry. FracFocus.org is hosted by the
+Ground Water Protection Council and Interstate
+Oil and Gas Compact Commission. The
+FracFocus.org website provides data for all
+chemicals used in every hydraulically fractured
+Centennial well.Water
+88%Sand
+11%Chemicals
+<1%Typical Well Completion Fluid 
+Composition
+100%% of Well Completions Which CDEV 
+Submits Chemical Ingredient Data to 
+the FracFocus.org Database
+Corporate Sustainability | Environment | Page 25
+Protecting Integrity of Groundwater
+Centennial takes great care to protect the groundwater resources where we operate. While
+hydraulic fracturing occurs thousands of feet below freshwater aquifers, the integrity of the
+wellbore that traverses the subsurface is critical to ensure that groundwater is protected. We
+plan our wells utilizing best-in-class casing and cementing programs designed to achieve that
+objective. We also comply with all regulatory standards on depth requirements throughout
+the well construction process. During drilling, we continually evaluate the wellbore to ensure
+a safe barrier between our drilling operation and the underground formations that we
+penetrate. This protects not only the groundwater aquifers but also all of the other geologic
+formations intersectedby the wellbore.
+During the completion phase, we rely on established policies and procedures designed to
+protect the wellbore from over-pressurization. We conduct pressure tests to ensure casing and
+cement integrity and set pressure limitations to ensure that we do not exceed maximum
+allowable annular pressures, and we continually monitor the wellbore’s pressure throughout
+the entire drilling,completion and production process.
+Land Stewardship and Biodiversity
+Our Commitment
+Centennial recognizes the unique value of the natural environment in which we operate.
+Maintaining the environment’s integrity for current and future generations is a priority for
+Centennial, and we are committed to the conservation of the biodiversity and natural
+resources in our areas of operation. Not only do many Centennial employees and their
+families live and work in communities near these areas, but the responsible stewardship of
+these natural resources is simply another expression of our foundational commitment to
+operational excellence,bestpracticesand sustainability.
+Planning
+Effective land stewardship begins with robust operational planning. That process prioritizes
+collaboration with the affected stakeholders, including surface landowners, our neighbors
+and off-set operators, as well as federal, state and local regulators. We also conduct pre-
+drilling evaluations of potential drilling locations to identify any issues created by topography,
+local flora and fauna, existing surface facilities and other infrastructure or other items that
+may pose operational obstacles. Through careful design and comprehensive planning, we
+identify and avoid or minimize surface disturbance and the impacts of our activities to the
+surrounding environment, including any environmentally sensitive areas, sensitive species and
+their habitat and sensitive water resources. This process also helps avoid operational delays
+associatedwith surfaceissues.
+Corporate Sustainability | Environment | Page 26
+Implementation
+To reduce the extent and scope of our
+surface disturbance and provide other
+operational efficiencies, we have
+successfully expanded use of multi-well pad
+development, longer horizontal wells,
+centralized tank batteries and consolidated
+utility corridors. Increasing the horizontal
+length of our wells means that we access
+and produce more of our oil and natural gas
+reserves with fewer wells which reduces the
+amount of land surface necessary to do so.
+Increasing the number of wells that we drill
+on each well pad further reduces that
+impact. Centennial’s goal is to locate and
+drill a minimum of three wells on each well
+pad. This objective reduces our total land
+use per well by 62% by avoiding more than
+eight acres of surface use for every three
+wells we drill.
+Our impact on the land and environment is
+further reduced by combining the facilities
+and infrastructure that are necessary to
+service and produce our wells. By maximizing
+the use of centralized tank batteries and
+designing our operations to utilize
+consolidated utility corridors, we limit the
+number of roadways, pipelines, overhead
+electric lines and production facilities that
+are necessary for our operations, thus
+reducing our operational impact and
+preserving the integrity of the land and the
+environment.1.71.92.32.4
+2017 2018 2019 2020Average Wells Per Pad Site
+5,7007,4007,7007,5008,800
+2017 2018 2019 2020 2021EAverage Lateral Length (Ft.)
+Corporate Sustainability | Environment | Page 27
+Good Neighbors
+Centennial is committed to being a good neighbor during the life of our operations. Whether
+that requires repairing a landowner’s fence, maintaining or replacing cattle guards, keeping
+our operating locations clean and free of debris or working with the surface owner to properly
+reclaim and restore the land to its original condition when our operations end, our intention is
+to respect the land and its owners. Our experienced surface management personnel strive to
+maintain good relationships with surface landowners, manage Centennial’s impact on the
+local environment and enhance the ecology of the surface on which we operate. Our
+surface land team is responsible for developing and implementing procedures to protect
+ecologically sensitive areas, including those with significant biodiversity or hydrological
+significance, to remove unused oilfield facilities and to clean, restore, reseed and reclaim
+disturbed areas. We take pride in our relationships with surface owners, our reputation as
+good stewards of the land and the preservation of the environmental quality of the areas
+where we operate.
+Always Improving
+At Centennial we are always seeking ways to improve our operational practices as they
+relate to land stewardship and biodiversity. As part of this effort, we are exploring
+opportunities to participate in certain voluntary programs administered by the U.S. Fish and
+Wildlife Service designed to mitigate impacts to potential at-risk species and their habitats in
+our operating areas. We are also evaluating partnerships with other agencies, landowners
+and non-governmental organizations engaged in habitat preservation and remediation
+efforts. We also continually seek to identify and participate in volunteer and sponsorship
+opportunities in an effort to create positive and direct impacts on the land, environment and
+communities in which we operate.
+Seismicity
+Seismic activity is a natural, geological phenomenon. In recent years, attention has focused
+on seismic events that occur in oil and natural gas producing areas. It is believed that some
+of these events may be the result of localized oil and gas operations, and specifically the
+underground injection and disposal of water that is produced in association with oil and
+natural gas. When the underground injection of water causes seismic events, the
+phenomena is referred to as induced seismicity. To best understand our potential operational
+impacts and to mitigate the risks of induced seismicity, Centennial’s planning processes for
+drilling, completion, production and water disposal and injection operations incorporate the
+use of various technical data, including 3D seismic surveys and other geologic data compiled
+by government agencies including United States Geological Survey and TexNet. We believe
+the areas in which we operate pose low induced seismicity risks. However, as a prudent
+operator, we incorporate subsurface seismicity risk assessment as a standard part of our
+operational planning, and we ensure that all regulatory requirements necessary to permit and
+operate our disposal wells are met or exceeded. As part of a continuing effort to develop our
+scientific knowledge and skills, we participate in seismic workgroups composed of our
+Delaware Basin industry peers and organized by trade associations, and we have voluntarily
+agreed to adhere to shared practices developed by those workgroups for injection and
+disposalactivities.Corporate Sustainability | Environment | Page 28
+
+Corporate Sustainability | Environment | Page 29
+Spill Management and Prevention
+Spill management and prevention is a high
+priority for Centennial. Our HSEMS program sets
+forth the responsibilities, policies and
+procedures to follow for avoiding, or
+responding to and mitigating any active spill
+events. We also adhere to applicable local,
+state and federal regulations when addressing,
+reporting and remediating spill events resulting
+from our operations.
+We ensure that all employees and direct
+contractors are adequately trained and aware
+of their individual responsibilities in connection
+with spill prevention, reporting and remediation
+activities. Our team focuses on prevention
+through design and regular maintenance, and
+we make every effort to inspect our facilities
+daily and look for signs of fatigue, corrosion or
+otherwise impacted equipment. When a spill
+event occurs, regardless of the magnitude, we
+prepare and deliver internal reports according
+to Centennial policy, in addition to external
+reports to state agencies as required by
+applicable law and regulation. This is followed
+by a Centennial incident investigation to
+determine the root cause of the incident and
+identify any failure so that we may prevent
+similar occurrencesin the future.
+All newly constructed production facilities are
+equipped with a walled and lined spill
+prevention structure to prevent liquids from
+reaching the earth. Our tank facilities and flare
+scrubbers are equipped with high level sensing
+alarms, which notify our field operators when a
+vessel approaches overflow status. Should this
+occur, our operators respond quickly to
+mitigate the issue and return the facility to
+normal operating conditions. Where feasible,
+we retrofit our older facilities with updated
+technologies to ensure maximum protection
+and continually look for new technologies that
+will advanceour spill prevention efforts.67149226172452562
+2018 2019 2020Oil Spill Volumes (Bbls)
+Unrecovered Recovered
+0.001%0.002%0.003%
+2018 2019 2020Oil Spill Rate
+Corporate Sustainability | Environment | Page 30
+We report and track every spill volume in our
+Incident Management System which is designed
+to help identify the sources of spills. The system
+has contributed to significantly reduced spilled
+water volumes since 2018, even as the amount
+of produced water increased during that time.
+None of our spills during 2018 through 2020
+impacted any bodies of water. Effectively
+managing spilled oil and water is a company
+priority, and our compensation is directly tied to
+maintaining spill rates below specificthresholds.
+Centennial’s response to spills has reduced our
+overall environmental impact. Although we
+would prefer to avoid all spills, we have been
+largely successful in our Spill Prevention, Control
+and Countermeasure plans and the associated
+rapid deployment of personnel and equipment
+to effectively capture standing fluids before they
+absorbinto the soil.
+Our Waste Management Program ensures that
+we responsibly handle and dispose of wastes
+arising from our operations, such as drill cuttings,
+produced water, equipment impacted by
+Naturally Occurring Radioactive Material and
+contaminated soils resulting from spills and
+remediation activities. Though sometimes
+permitted, Centennial attempts to avoid
+transporting materials to offsite landfills when
+feasible. We comply with applicable
+environmental law and regulation pertaining to
+the prevention, handling and disposal of any
+hazardous and other wastes associated with our
+operations. Our field employees and contractors
+are trained in Hazard Assessment and
+Communication and the use of Safety Data
+Sheets (“SDS”). Additionally, they have real time
+access to the proper SDS information and utilize
+the SDS to identify spilled chemicals in order to
+determine the appropriate cleanup and
+disposal method in accordance with current
+regulationsand the requisiteSDS information.1,1632,0875,45011,774
+9,9289,711
+2018 2019 2020Water Spill Volumes (Bbls)
+Unrecovered Recovered
+0.020%
+0.012%0.014%
+2018 2019 2020Water Spill Rate
+Health & Safety Corporate Sustainability | Health & Safety | Page 31
+Overview
+The primary goal of our health, safety and environmental (“HS&E”) team is to partner
+with our operational teams in a collaborative effort to educate, coach, guide,
+innovate and encourage growth and development regarding HS&E matters. We
+believe that we can never stop driving the message of safety, responsibility and
+accountability. The effectiveness of Centennial’s health and safety initiatives is a
+product of a joint effort requiring training, contribution, ownership and commitment
+from all of our employees and contractors. Centennial promotes and is committed to
+a safe and healthy working environment with a focus on protecting our employees,
+contractors, the public and the environment. We identify operational risks, develop
+measured risk mitigation plans, use innovation and technology to our advantage and
+operate in a manner to minimize health and safety risks. Our HS&E professionals
+provide expertise, training and support to our operations. The team also supports and
+adopts best management practices, utilizes the best available technology and
+continually strives for excellence, professionalism and constant improvement in
+everything we do. While operational excellence, safety and execution are
+foundational Centennial values,we also do this becausewe care.
+Our senior leadership team considers HS&E a core value at Centennial. Safety and
+environmental performance and practices, including identifying trends and
+comparisons within the industry, are reviewed by Centennial’s senior management
+team regularly throughout the year and with the Board of Directors at least annually.
+Key HS&E performance indicators are also considered by our Board’s Compensation
+Committee when making compensation decisions.
+Environmental, Health and Safety Performance
+Since our founding in 2016, Centennial has excelled in HS&E performance,
+maintaining zero employee recordable incidents due to illnesses or injuries at the
+workplace. This success is due largely to the commitment of our employees and their
+focus on safety and health. We believe that we are among the best in the industry
+regarding our Total Recordable Incident Rate (“TRIR”), Lost Time Incident Rate (“LTIR”)
+and Near Miss Frequency Rate. In addition to these metrics, we focus on more real-
+time data, such as Near Misses, High Potential Incidents (“HPI”), Stop Work Actions and
+Observations. These leading indicators often signal the effectiveness of a Health and
+Safety Management System. While we investigate all health and safety incidents, in
+cases of recordable injuries, Near Misses and HPI events, we conduct a Root Cause
+Analysis focused on determining the outlying risks, missed opportunities and ultimately
+the primary cause of the incident. This analysis is conducted jointly by our HS&E and
+operations teams and is primarily intended to prevent future incidents. During this process,
+corrective actions are identified and assigned for completion by appropriate personnel.
+Lessons learned are shared with other groups within our organization as well as our
+contractorsduringquarterlycontractor safety meetings.
+We track our incident statistics weekly and report these to senior management. We also
+generate annual reports in accordance with Occupational Safety and Health Administration
+(“OSHA”) requirements and measure our statistics and performance against our industry
+peers.Our team sets realisticimprovementtargets focusedon zeroinjuriesor incidents.Corporate Sustainability | Health & Safety | Page 32
+Emergency Preparedness 
+and Response
+Health, Safety & Environmental 
+Management Systems
+Centennial has developed a
+comprehensive Health, Safety and
+Environmental Management System
+(“HSEMS”) in accordance with industry
+best practices, including those
+established by the American Petroleum
+Institute (API) and the International
+Standards Organization (ISO). The
+individual programs within this system
+are designed and implemented to
+identify risks, assess probabilities, apply
+mitigation strategies and prevent
+incidents. The core focus is keeping our
+employees and contractorssafe.Key Safety and Environmental 
+Programs include:
+•Environmental Management
+•Risk Management
+•Respiratory Protection
+•Hazard Communication
+•Emergency Response Management
+•Infectious Disease Management
+•Hearing Conservation
+•Incident Management
+•Job Safety Analysis Program
+•Personal Protective Equipment 
+Management
+•Stop Work Authority
+•Contractor ManagementIncident Rates: 2018 2019 2020
+TRIR (Centennial Employees) 0.00 0.00 0.00
+TRIR (Centennial Employees & Contractors) 0.47 0.53 0.50
+LTIR (Centennial Employees) 0.00 0.00 0.00
+LTIR (Centennial Employees & Contractors) 0.09 0.09 0.30
+In addition to the programs detailed on the previous page, Centennial has adopted our Life
+Saving Rules Programs, which are consistent with those promulgated by the International
+Association of Oil and Gas Producers (IOGP). These are an essential part of our safety
+initiatives,also designedto protect our employees and contractors,and include:
+•BypassingCritical Safety Controls Management
+•EnergyIsolation Management
+•Hot Work Management
+•Confined SpaceManagement
+•Mechanical Lifting Management
+•Ground DisturbanceManagement
+•Walking / Working Surfaces& Working from Height Management
+•Hydrogen Sulfide Safety Management
+As part of our field training requirements, we educate our employees and contractors
+regarding safe work practices, hazard identification and mitigation strategies, all of which are
+aimed at incident prevention and response. Centennial utilizes specific tools to assist our field
+operations personnel while performing daily tasks. In a dynamic work environment, tasks
+change frequently, and these tools focus on risk analysis, hazard identification, mitigation and
+utilizing the proper strategy to either eliminate the hazard or reduce the overall risk to a
+manageablelevel. Below are some of the key tools we utilize at Centennial:
+BE AWARE. The BE AWARE tool highlights various potential hazards associated with our oil and
+gas operations and is designed to help our employees and contractors (i) identify hazards, (ii)
+assess the risk tolerance and (iii) identify the proper control mechanism to utilize to make the
+job safe.This tool can be usedfor safety and environmental decision-making.
+Safe-Start. Safe-Start focuses on the mental acuity of our employees and contractors and is a
+program designed to identify different mental states and mistakes that personnel make which
+can lead to incidents. This tool assists employees and contractors in recognizing various
+hazardsand providinga level of awarenessthat leads to incident and injuryprevention.Corporate Sustainability | Health & Safety | Page 33
+
+Corporate Sustainability | Health & Safety | Page 34
+Emergency Response
+Centennial utilizes a systematic approach in accordance with our Emergency Response Plans
+to react appropriately to potential emergency situations. For potential operational upsets,
+well control incidents, spills and injuries, we have an emergency response plan tailored to
+address and respond to the situation. Through our planning framework and guidelines, our
+emergency response teams (“ERT”) and incident management teams (“IMT”) are properly
+trained and prepared to respond safely and efficiently to manage potential emergencies
+which could impact our operations, the surrounding public and/or the environment.
+Centennial has identified specific resources which can quickly respond to mitigate any
+incident resulting in an unplanned release or event that could endanger public safety or the
+environment. Our ERT, IMT and selected contractors receive annual emergency response
+training to ensure that we remain on the leading edge of response preparedness and can
+manage a wide varietyof emergencysituations.
+Environmental, Health and Safety Training
+Centennial employees and certain contractors are required to take numerous safety and
+environmental training programs on an annual basis in order to ensure a safe operating
+environment. These programs assist our employees and contractors in recognizing unsafe
+working conditions and hazards, taking appropriate steps to mitigate hazards in the field and
+responding appropriately in emergency situations. Centennial utilizes a multi-pronged
+approach to our HS&E training. Our office and field level employees complete a training
+matrix comprised of numerous computer-based training (CBT) modules. We also conduct
+monthly safety meetings on relevant HS&E topics. In 2020, our field employees and selected
+contractors each received 40+ hours of training on a range of subjects including hazard
+communication, emergency response, hazardous materials, energy isolation, hot work,
+confined space, hydrogen sulfide awareness and respiratory protection. Our core training
+matrix consists of 29 annual OSHA training courses, along with monthly safety trainings on
+specificfield-relatedsubjects.
+Corporate Sustainability | Health & Safety | Page 35
+Response to COVID-19
+The COVID-19 virus has had a significant impact on the oil and gas industry. Centennial
+quickly recognized the potential impacts of the virus and swiftly reacted to the pandemic in
+order to keep our employees and their families safe. Utilizing our Emergency Response and
+Preparedness Plan, we developed a response specifically aimed at preventing the spread as
+well protecting our employees and contractors. We adopted and followed federal, state and
+local guidelines and incorporated these into our operating philosophy. Our response actions
+includedthe following:
+•Established firm policies and procedures aimed at stopping and/or preventing the spread
+of the virus,while protectingour employeesand contractors
+•Procured KN-95 masks for our employees and direct contractors under an Emergency Use
+Authorization (EUA)
+•Conducted Qualitative FIT tests to ensure proper mask fitting on all employees and direct
+contractorsin accordancewith our RespiratoryProtection Program
+•Required wearing the KN-95 masks while conducting work in common office spaces and
+duringin-personmeetings
+•Established alternating work schedules and allowed remote work for office employees and
+directcontractors
+•Required the completion of daily health screenings for all employees and contractors who
+utilize Centennial office spaces
+•Communicated the associated health hazards of the virus via specific trainings for all
+employees
+•Communicated clear and concise expectations to our contract service providers and
+establishedreportingresponsibilities
+•Implemented self-quarantining for any employees or contractors with signs or symptoms of
+COVID-19(regardlessof whether suchperson has been confirmedto be infected)
+•Imposed social distancing requirements on work sites and at our offices in accordance with
+the guidelines released by the Center for Disease Control (“CDC”) as well as local and
+state authorities
+•Worked quickly to identify and remove suspected positive cases from our work
+environment, conducted non-invasive contract tracing and out of an abundance of
+caution, required employees or contractors who were potentially exposed, whether
+directly or indirectly, to quarantine while working from home in accordance with CDC
+guidelines
+•Communicated effectively with employees when a case was confirmed, whether work
+relatedor not, and advisedon precautionsto take in the future
+To date, we have not had any cases associated with the virus that were deemed work
+related, and we have not experienced any operational disruptions (including disruptions from
+our suppliersand serviceproviders)as a resultof the COVID-19outbreak.
+SocialCorporate Sustainability | Social | Page 36
+Human Capital
+The employees of Centennial are our most
+valuable asset. They are the basis of our
+success and keep our operations running, even
+amidst a global pandemic. As of December
+31, 2020, the Company employed
+approximately 151 team members based in
+three states, Colorado (57%), Texas (40%) and
+New Mexico (3%). We are dedicated to our
+employees and focus on attracting,
+developing and retaining top-tier talent, while
+promoting a diverse and inclusive workforce.
+We strive to offer a work environment which
+promotes creativity, so we can continue to be
+innovators within our industry. We rely on our
+employees’ passion and technical acumen to
+drive results in a team-based, collaborative and
+enjoyable work environment.
+In order to cultivate an exceptional company
+culture, Centennial continually monitors
+employee satisfaction and solicits employee
+feedback. We conduct annual surveys to
+gauge employee satisfaction and facilitate an
+open discussion to understand the
+effectiveness of our employee programs. These
+surveys are designed to provide employees an
+avenue to submit anonymous and candid
+feedback to our officers, managers and other
+leaders on their management skills, corporate
+culture, communication and transparency,
+allowing Centennial to construct plans for
+further improvement and refinement. We care
+deeply about our employees’ feedback and
+review these survey results with our
+management team, as well as with members of
+our Board. We believe that our positive
+company culture is supported by our low
+voluntary turnover rate, which has declined
+over the past three years.8%
+7%
+5%
+2018 2019 2020Employee Voluntary 
+Turnover10%
+48%23%14%4%1%Average Employee Age
+20-29 30-39 40-49
+50-59 60-69 70+
+Training and Development
+In order to retain and attract the best talent, Centennial recognizes it must invest substantially
+in every employee. We offer a wide array of programs and opportunities to help our
+employees grow. Our managers coach employees and engage in frequent discussions to
+promote personal development. We provide annual employee reviews and follow-up
+frequently to ensure employees have all the tools necessary to succeed professionally, both
+inside and outside of Centennial. In addition, we provide coaching and personalized
+developmentplans to further enhance our employees’leadershipskills.
+We encourage our employees to participate in a variety of educational and personal
+development courses, many offered by Centennial and some by third-party professionals. A
+sample of recentdevelopment coursesoffered by Centennial include:
+•2020 Change Management Series: Providing resources and educational materials to
+supportemployees in navigatingadversechangesto their professionaland personallives
+•Creating a Culture of Feedback: Fostering an environment where feedback is practiced
+and celebratedat all levelsof the organization
+•Delegation 101: Providing leaders with the tools to effectively manage work on their teams
+and developindividual contributors
+•DISC Communication Training: A model to develop effective communicators within the
+organization
+•EffectiveInterviewing: To effectivelyrecruitthe industry’stop talent for our organization
+•Employment Law 101: Ensuring our leaders are prepared for the complexities of today’s
+work environment
+•Franklin Covey Solutions: includes 5 Steps to Extraordinary Productivity, Leading at the
+Speedof Trust,Multipliers,Project Management and The 7 Habitsof Highly EffectivePeople
+•Microsoft Suite Training: Providing practical trainingfor everydayapplications
+•Power Presentations: To support technical teams in refining and showcasing their
+knowledge and contributions
+Centennial maintains an Educational Assistance Program that is designed to encourage and
+support an employee’s decision to continue his or her education. Under this program,
+employees may be reimbursed up to $10,000 and $15,000 per year for qualifying
+undergraduateand graduateprograms,respectively.Corporate Sustainability | Social | Page 37
+Corporate Sustainability | Social | Page 38
+Diversity and Inclusion
+We believe employees with different
+backgrounds, experiences, interests and skillsets
+drive superior results. As a result, we are
+committed to diversity and inclusion throughout
+our organization, including within our hiring,
+promotinganddevelopmentof employees.
+As of December 31, 2020, approximately 38% of
+our employees identified as female and
+approximately 24% of our employees identified as
+non-white. Among our supervisors and managers,
+approximately 34% identified as females, and
+approximately 11% identified as ethnic minorities.
+Centennial is committed to continuing our efforts
+to recruit and develop a diverse workforce to
+ensure we remainan employerof choice.
+In support of this commitment, in 2020 Centennial
+established a Diversity and Inclusion (“D&I”)
+Committee and D&I training program, which is
+required for all employees. Our D&I training
+focuses on identifying biases inherent in every
+individual, recognizing these biases and
+modifying those that may be limiting or damaging
+to others. In addition, we encourage our
+employees to spend time cultivating connections
+with one another by acknowledging our
+similarities while welcoming our different
+perspectives. Thus far, we are extremely pleased
+with the feedback that we have received
+regarding our D&I initiatives and will continue to
+build upon them in the future.
+At the Board level, the Nominating,
+Environmental, Social and Governance
+Committee charter explicitly states the Board’s
+commitment to considering candidates for the
+Board regardless of gender, race, ethnicity and
+national origin, as well as its policy of requesting
+any search firm it retains to present a diverse pool
+of candidates, including qualified women and
+minoritycandidates.76%20%2%1%1%Racial Diversity
+White Hispanic or Latino
+Black or African American Asian
+Two or More Races
+2%9%11%19%25% 24%
+2018 2019 2020Ethnic Minority Employees 
+& Managers
+Minority Supervisors & Managers
+Minority Employees
+29%34% 34%43%41%38%
+2018 2019 2020Female Employees & 
+Managers
+Female Supervisors & Managers
+Female Employees
+Corporate Sustainability | Social | Page 39
+Benefits
+Centennial provides a comprehensive
+benefits package designed to meet the
+needs of our employees and their families.
+We believe a competitive compensation and
+benefits package helps our employees
+remain healthy, provide mental well-being
+and achieve their financial and retirement
+goals.
+Centennial offers its employees multiple
+medical plan options to choose from, while
+also providing dental, vision, flexible spending
+accounts, health savings accounts, short and
+long-term disability benefits, and life and
+accident insurance. Centennial also offers
+specialty benefits including fully paid
+maternity leave for twelve weeks, two weeks
+of fully paid paternity leave and
+reimbursement of up to $10,000 for qualified
+adoption-related expenses. We also ensure
+benefits remain affordable for all employees;
+therefore, Centennial pays the vast majority of
+premiums associated with our health plans.
+Our commitment to these areas is evidenced
+by our most recent employee survey, in which
+93% of employees indicated that they were
+pleased with the benefits offered.
+Centennial consistently monitors market
+compensation and benefits in order to recruit
+and retain the best talent. We benchmark
+our employees’ salaries against peer survey
+data and conduct a detailed pay analysis
+each year to ensure our compensation is
+competitive with industry peers and to ensure
+gender equity. In addition, all employees are
+eligible for an annual bonus that is
+determined by both individual and company
+performance. Centennial also provides a
+generous 401(k) matching program and an
+Employee Stock Purchase Plan (ESPP), which
+allow our employees to save and invest for
+the future in a materialway.An enjoyable and flexible work environment
+has been a hallmark of Centennial since its
+inception. Several years ago, Centennial
+formally adopted a modified 9/80 schedule
+for its corporate employees, further ensuring
+employees are able to balance their work
+and personal commitments.
+The COVID-19 pandemic has led to unique
+challenges, and we are determined to ensure
+the health, safety and mental well-being of all
+our employees. As a result of the pandemic,
+we implemented a remote work policy in
+early 2020 for office-based employees in
+order to keep our employees and their
+families safe. We anticipate that future
+remote work arrangements modeled in a
+variety of fashions tailored to individual
+employees’ needs will continue. We also
+encouraged the use of our confidential
+Employee Assistance Program (EAP) services
+in addition to mental health benefits offered
+by our medical provider. While our traditional
+employee events were put on hold during
+2020, Centennial’s Culture Committee hosted
+a variety of virtual events to help our
+employees feel connected during these
+difficulttimes.
+We believe these various plans, programs and
+events all positively contribute to our
+employees’ well-being, and we continue to
+look for ways to best support each and every
+one of our employees.
+
+Charitable Giving
+Centennial is dedicated to making a positive impact on the
+communities in which we live and work. Employees donate their
+time to a wide range of charities and community organizations
+and activities, such as food, school supply and toy drives as well
+as other local events. In addition, in 2018 Centennial officially
+launched a charitable giving program which provides donations
+to non-profitorganizationswhichserve our communities.
+Building on its corporate volunteering efforts, in April 2019
+Centennial hosted its inaugural Day of Service, providing the
+opportunity for all employees to give back to their communities.
+Employees of our Denver, Midland and Pecos offices spent time
+performingthe followingactivities:
+•Donated food and stocked pantry items for Metro Caring
+and the SantaRosa Food Bank
+•Assembled activity kits for nearly 2,500 students at RAFT
+Colorado
+•Supported Denver Parks & Recreation by planting ten trees
+at HallackPark
+•Served warmmealsat the MidlandSoup Kitchen
+In 2020, we modified our in-person volunteer events due to the
+global health pandemic and recommended social distancing
+guidelines. As a result, we adjusted our Day of Service and held
+a month-long virtual Health and Service event in which our
+employee teams participated in numerous events to raise money
+for Metro Caring, LyftUp, Midland Fair Haven and the Santa Rosa
+Food Bank.Corporate Sustainability | Social | Page 40
+
+Corporate Sustainability | Social | Page 41
+Additionally, in 2020 the Company
+made year-end contributions to
+Clothes to Kids Denver, The
+Permian Strategic Partnership, The
+Pecos Senior Center and The Boys
+and Girls Club of Hobbs, as well as
+other contributions to a variety of
+charitable organizations in the
+areas in whichwe operate.
+Other examples of recent
+charitable contributions and
+volunteer efforts by the Company
+and our employees include:
+•Built and donated 25 bicycles to Project reCYCLE, which provides bicycles to eager students
+in the Dream Bike Schoolsprogram
+•Participated in the Reeves County American Cancer Society Relay for Life, a cancer walk
+which helps fund and conduct research by sharing expert information, supporting patients
+and spreading the word aboutcancerprevention
+•Contributed to the Chris Davidson Opportunity Park, which is adjacent to the Bush Tennis
+Center in Midland, Texas and provides children of all ages a place to gather, socialize and
+play
+•Sponsored the Ward County Stock Show, which is supported by Texas A&M AgriLife and
+provides programs, tools and resources that teach people how to improve agriculture and
+foodproduction,advance healthpractices and enrichyouth
+•Contributed to the Bill & Gail Engvall’s Pumpjack Paradise event benefiting the Midland
+Children’s Rehabilitation Center, which provides neurological and orthopedic therapy
+regardless of a family’sabilityto pay
+•Sponsored the West of Pecos Rodeo Scholarship, benefiting Pecos High School students and
+families
+•Contributed to the Wine, Women and Shoes event benefiting the Midland Rape Crisis and
+Children’s Advocacy Center, whose mission is to ease and heal the emotional trauma of
+victims and families, guide the victim through medical and legal systems, provide support for
+makinginformed decisions and advocatefor victims’needs
+•Sponsored the Annual Luncheon for the Women’s Foundation Colorado, which maximizes
+opportunitiesfor all womento haveaccess to education,job trainingand career placement
+•Contributed to the East Texas Oil Museum to assist in their educational outreach efforts and
+programssupportingregional grade schools
+
+Governance & EthicsCorporate Sustainability | Governance & Ethics | Page 42
+Overall Governance
+Centennial has designed and implemented strong governance practices which are
+intended to broaden and deepen board and management’s accountability,
+transparency and communication to the Company’s stakeholders, including its
+shareholders, to strengthen our risk oversight and management practices, and to
+developthe Company’s long-term strategies.
+Board of Directors
+Centennial’s Board of Directors (the “Board”) is comprised of nine directors. Five of
+our nine directors are independent under the Nasdaq listing standards and the rules
+of the Securities and Exchange Commission (“SEC”), and one of our directors is
+female. Our Chief Executive Officer serves on the Board as a non-independent
+director. As of December 31, 2020, the average age of our Board members was 57,
+and the average tenure of the Company’s directors was approximately three years.
+Our directors are divided into three equal classes, and each of our directors is
+electedeverythree years undera majority vote standard.
+Following the retirement of our former Chairman and CEO in March 2020, the Board
+separated the roles of Chairman and Chief Executive Officer. Currently, Steven
+Shapiro holds our Chairman of the Board position and also serves as an Independent
+Director. The independent directors regularly meet in executive session, led by the
+independentChairman of the Board.
+4
+5Director Independence
+Non-Independent Independent1
+8Gender Diversity of Directors
+Female Male
+Centennial’s Board currently has three
+Committees (Audit, Compensation and
+Nominating, Environmental, Social and
+Governance), each of which is comprised
+entirely of independent directors.
+Centennial’s Audit Committee is responsible
+for monitoring and overseeing our financial
+reporting, auditing and accounting policies
+and practices, and for monitoring legal and
+regulatory compliance risk matters and
+internal control risks. The principal functions of
+the Committee are listed in the Committee’s
+charter which is posted on the Investor
+Relations portion of our website at
+www.cdevinc.com.
+The principal functions of our Compensation
+Committee are also identified in the
+Committee’s charter posted on our website,
+and include overseeing and administering our
+executive compensation policies, plans and
+practices, assessing the impact of such
+policies, plans and practices on Company risk
+and risk management, and reviewing and
+approving the compensation of the
+Company’s non-executive officers and other
+employees. The Compensation Committee
+solicits input and advice from an independent
+compensation consultant in carrying out its
+responsibilities.
+Our Nominating, Environmental, Social and
+Governance Committee assists the Board in
+identifying individuals qualified to become
+members of the Board and is responsible for
+monitoring the independence of Board
+members, overseeing and approving plans for
+Chief Executive Officer succession,
+recommending to the Board corporate
+governance principles and practices and
+overseeing annual performance evaluations
+of the Board and its Committees. Other
+functions of the Committee may be found in
+its charterposted on our website.As part of Centennial’s evolving commitment
+to ESG excellence, in November 2020 the
+Board amended the charter of the
+Nominating, Environmental, Social and
+Governance (“NESG”) Committee, previously
+the Nominating and Corporate Governance
+Committee, to include oversight of the
+Company’s strategies, policies, controls and
+systems relating to ESG matters in order to
+comply with ESG-related laws and to assist the
+Company in achieving its ESG goals and
+objectives, as well as monitoring broader ESG
+trends and developments, and to make
+recommendations to the Board and
+Company management on ESG matters. The
+Committee assists the Board in evaluating
+ESG-related risks to the execution of the
+Company’s long-term strategic plans, as well
+as in designing and implementing processes
+to identify, manage and mitigate such risks. In
+the spring of 2020, the Company formed a
+multi-disciplinary management team, which
+reports to the NESG Committee and senior
+management, to assess and manage risks
+related to ESG matters. The ESG team is
+charged with generating ideas for
+improvement in the Company’s ESG
+performance, developing and
+recommending strategies and tactics for
+management of ESG risks, and measuring the
+Company’s performance on various ESG
+metrics.
+Additionally, we recently amended the NESG
+Committee’s charter to promote a more
+diverse Board of Directors. The charter
+requires the NESG Committee to consider
+candidates for the Board irrespective of race,
+gender, ethnicity and national origin and to
+instruct any retained search firm to present a
+diverse pool of director candidates, including
+female and minority candidates for
+consideration.Corporate Sustainability | Governance & Ethics | Page 43
+Corporate Sustainability | Governance & Ethics | Page 44
+Director Qualifications, Skills and Attributes
+The members of the Board have a diversity of experience and a wide variety of backgrounds,
+skills, qualifications and viewpoints that strengthen their ability to carry out their oversight role
+on behalf of our stockholders. The below table highlights key qualifications, skills and attributes
+that we believe are important to our business, including the number of our directors that
+possess each. (A comprehensive matrix of our Board of Directors’ experience and
+demographics can be found in the Appendix of this report.) Each of our directors has high
+standards of personal and professional ethics, a proven track record of success and a deep
+knowledge of the oil and gas industrygenerallyand the Company specifically.
+Executive Compensation
+Our executive compensation program is designed to attract, motivate, reward and retain
+high caliber management with the skills and competencies that Centennial believes are
+essential to its success and to align executive compensation with our short- and long-term
+business objectives, business strategy and financial performance. As part of that program,
+Centennial’s executive officers are eligible to receive annual bonuses based on the
+achievement of operational, financial and strategic goals established by the Compensation
+Committee. The Committee believes that setting specific performance goals helps establish
+important performance benchmarks and educates executive management and other
+employees in the Company’s top priorities. For bonuses awarded in 2021 for 2020
+performance, the Compensation Committee included certain limited ESG-related
+performance goals, including the formation of a management ESG team, electrification of
+certain field facilities, mitigation of hydrogen sulfide issues, meeting certain safety standards
+relating to injuries and lost time (Total Reportable Incident Rate) and meeting certain oil and
+water spill standards. For bonuses to be awarded in 2022 for 2021 performance, the
+Company and its Compensation Committee anticipate expanding the breadth, specificity
+and rigor of ESG-related performance goals, including additional goals relating to flaring and
+GHG emissions,human capital matters and community and social matters.0 1 2 3 4 5 6 7 8 9Strategic Planning / Risk ManagementPublic Company BoardMarketing / MidstreamInvestor RelationsGeology / Reservoir EngineeringFinance / Capital MarketsExecutive LeadershipESG OversightBusiness Development / M&AAccounting / Financial Oversight
+Number of DirectorsDirector Qualifications, Skills and Attributes
+Security, Human Rights and Community Relations
+Centennial is committed to maintaining strong relationships with local communities and to
+treating all people with dignity and respect, in all areas of our operations. Our local teams in
+Midland and Pecos, Texas, and Hobbs, New Mexico, and our corporate team in Denver,
+Colorado, work diligently to assess and address any local community impacts relating to our
+operations, and engage with affected stakeholders in such communities, including local
+government and regulatory authorities, to ensure we meaningfully respond to any issues and
+concerns.
+We are fortunate that all of our field operations and oil and gas reserves are on fee, state and
+federal lands and none of our operations are on or affect tribal lands, indigenous peoples,
+vulnerable communities or conflict areas. Accordingly, we have the good fortune of facing
+few, if any, community-related risks and are able to avoid the possibility of meaningful
+compensation or settlement payments, write-downs in the values of our oil and gas reserves
+or regulatoryrisksassociatedwith operatingin such areasand communities.
+Business Ethics
+Centennial is committed to the highest business ethics in conducting our business and
+complying with all applicable local, state and federal laws, rules and regulations. Our
+corporate governance documents reflect our commitment to maintaining the trust and
+confidence of shareholders, employees, customers, vendors and other stakeholders and
+people with whom we do business, and to treating all such persons fairly and with respect.
+The governance documents listed below, together with our Committee charters, provide the
+frameworkfor such businessethics.
+Please visit our website at www.cdevinc.comto viewthe following documents:
+•Code of BusinessConduct and Ethics
+•Policy for Accounting-RelatedComplaints
+•Policy for RelatedPerson Transactions
+•Corporate Governance Guidelines
+Code of Business Conduct and Ethics
+The Code of Business Conduct and Ethics communicates our expectations and standards
+with respect to business conduct, as well as our ethical and legal responsibilities and
+standards for directors, officers, employees and business partners. The Code is intended to
+assist directors, officers and employees in recognizing, avoiding and resolving ethical issues
+and covers a number of topics, including the standards of honest, ethical and fair conduct,
+conflicts of interest, gifts and entertainment, use of Company assets, disclosure requirements,
+compliance, reporting and accountability, insider information and trading, issues relating to
+health, safety and the environment, confidentiality,anti-corruptionlaws and others.Corporate Sustainability | Governance & Ethics | Page 45
+Corporate Sustainability | Governance & Ethics | Page 46
+Accounting and Compliance 
+Whistleblower Hotline
+Our Board of Directors has adopted a Policy
+for Accounting-Related Complaints to
+encourage employees, independent
+contractors, vendors, customers and
+business partners to make us aware of any
+practices, procedures or circumstances that
+raise concerns about the integrity of our
+accounting practices, internal accounting
+controls or other accounting matters. Any
+employee, independent contractor, vendor
+or business partner may submit a concern
+regarding accounting matters, suspected
+violations of laws or our governance of other
+compliance matters to our management
+team through our Accounting and
+Compliance Whistleblower Hotline, which
+we review and investigate in coordination
+with the Audit Committee of our Board of
+Directors. We are committed to remaining in
+compliance with all applicable laws, rules,
+regulations, standards and policies,
+including securities laws and regulations,
+accounting standards, accounting controls
+and audit practices.
+Our Accounting and Compliance
+Whistleblower Hotline can be accessed on
+our website or by dialing (844) 418-4481. This
+website and telephone number are hosted
+by an independent third party to maintain
+confidentiality and anonymity when
+requested.
+Operational Concerns Hotline
+We also provide a general Operational
+Concerns Hotline to enable our employees,
+independent contractors, vendors,
+customers and business partners to make us
+aware of any concerns relating to our
+operations, working environment, course of
+dealing with contractors and other business
+partners, employee relations, security andother operational matters. We are
+committed to ensuring a safe, secure and
+ethical workplace and complying with all
+applicable laws, rules, regulations, standards
+and policies relating to our operations. Our
+Operational Concerns Hotline is a
+convenient and confidential way to report
+these concerns.
+Our Operational Concerns Hotline can be
+accessed on our website or by dialing (844)
+778-5868. This website and telephone
+number are hosted by an independent third
+party to maintain confidentiality and
+anonymity when requested.
+Policy for Related Person Transactions
+Our Related Person Transaction Policy
+addresses the reporting, review and
+approval or ratification by the Audit
+Committee of transactions meeting certain
+criteria or thresholds and involving directors
+and nominees for director, executive
+officers, shareholders owning more than 5%
+of the Company’s shares, immediate family
+members of the foregoing and other entities
+owned or controlled by any of the
+foregoing.
+Corporate Governance Guidelines
+Our Corporate Governance Guidelines are
+intended to assist the Board in the exercise
+of its responsibilities and to serve the interests
+of the Company and its shareholders, and
+address matters such as Board
+independence, independent director
+meetings, director qualification standards,
+director orientation and education, director
+responsibilities and compensation, Board
+access to senior management and outside
+advisors, director evaluation, director
+resignation, Board meeting processes and
+procedures, and succession planning
+among others.
+Corporate Sustainability | Governance & Ethics | Page 47
+Cybersecurity
+Centennial recognizes the need to maintain the confidentiality, integrity and availability of
+information that supports Centennial’s business activities which can impact our ability to
+achieve our corporate goals and implement the Company’s strategies. We also recognize
+that cybersecurity and information security practices will contribute to the sustainability of
+Centennial as information and communication technologies will increasingly support the
+Company’s sustainability activities. As a result, Centennial encourages a culture of security
+awareness at all levels of our organization and has implemented a series of cybersecurity and
+information security measures in order to protect the confidentiality, integrity and availability
+of such businessinformation.
+Some examples of Centennial’s efforts to build a cybersecurity and information security
+awareorganization include:
+•Issuing regular reports on cybersecurity and information security efforts and risks to the
+Audit Committee of our Board of Directors
+•Emphasizing end user training. Our users, both employees and contractors, are required
+to sign the Centennial Information Security Policy before system access is granted and
+receive mandatory, annual security training. Users also participate in monthly, online
+securitytraining and in phishing simulations.
+•Utilization of a virtual private network when remote workers connect to the Company’s
+network
+•Developmentof a SecurityIncidentResponsePolicy to respond to cyberattacks
+•Adhering to best practices, including password policy enforcement, multi-factor
+authenticationand currentpatches and anti-virussoftware on desktopsand servers
+•Conducting security assessments, including annual penetration tests, to identify high-risk
+areasand take steps to manage,mitigate and prioritizeany such risks
+•Regular vulnerabilityscanningby third party vendor
+•Offsite storage of backupinformation
+•Following guidance of the Securities and Exchange Commission’s Office of Compliance
+Inspectionsand Examinations staff on bestcybersecuritypractices
+In addition, Centennial is designing and plans to implement during 2021 a full Disaster
+Recovery solution in order to minimize business impact in the event of an unplanned incident,
+such as a natural disaster,power outage,cyberattackor other disruptiveevent.
+Corporate Sustainability | Governance & Ethics | Page 48
+Government Relations
+Centennial operates in a highly regulated industry. Much
+of our activity is guided by the laws, rules and policies
+created, administered and enforced at many levels of
+government including those at the local, state and
+federal levels. Because these actions can meaningfully
+affect our activities, Centennial’s Government Relations
+Team continually monitors legislative and regulatory
+bodies and seeks to understand and inform the
+development of reasonable public policy affecting our
+operations and industry, as well as to improve our ESG
+performance. To do so, Centennial is a member of
+several industry trade associations that represent the oil
+and gas industry that encourage public policy, legislative and regulatory approaches that
+promote responsible and reasonable operating environments for our company and our peers.
+While Centennial does not sponsor or administer any Political Action Committees, we have
+contributedto certain politicalcandidates in New Mexico.
+Centennial is a member of the Texas Oil & Gas Association, New Mexico Oil & Gas Association,
+Permian Basin Petroleum Association, Western Energy Alliance and the Independent Petroleum
+Association of America. Each of these trade associations, coalitions or other organizations have
+established committees to monitor policy, law, rulemaking and enforcement efforts, as well as
+groups that focus on operational best practices, such as The Environmental Partnership and the
+Texas Methane and Flaring Coalition. Centennial employees participate in these committees,
+coalitions and other organizations, including those focused on reducing flaring and other
+emissions, water reuse and safety issues, to provide expertise and experience, maintain up-to-
+date knowledge of activities that may impact our company, and take appropriate action when
+necessary. Additionally, we seek to build and cultivate strong relationships at various government
+levels. This allows us to educate and inform policy makers and guide toward reasonable and
+meaningful approachesto the lawsand regulationsgoverningour operationsand industry.
+– CASE STUDY –
+Partneringwith the Industry to ReduceEmissions
+In November 2020, Centennial joined The Environmental Partnership, a voluntary industry coalition focused
+on developing innovations in environmental best practices, particularly related to emission reductions,
+developing new technologies, increasing reporting transparency and fostering collaboration. More than
+seventy-five oil and gas companies participate in the Partnership which focuses on several sources of
+industry-related air emissions, including leak detection and repair, pneumatic controls, and manual liquids
+handling.
+In conjunction with The Environmental Partnership, Centennial has been able to exchange technical
+knowledge with industry peers and engage with stakeholders on environmental best practices and
+emissions reduction strategies. Participation in the Partnership has meant joining an oil and gas industry
+commitment to certain emissions reduction initiatives including repairing leaking equipment, monitoring
+and altering onsite liquids handling processes, closing wellhead vents and installing no- or low-bleed
+pneumatic controls.
+
+Corporate Sustainability | Appendix | Page 49
+Board Matrix
+The table belowprovidesdetail on the Board of Directors’experienceand other information:
+ Maire A. 
+Baldwin  Karl E. 
+Bandtel  Matthew 
+G. Hyde  Pierre F. 
+Lapeyre, Jr.  David M. 
+Leuschen  Steven J. 
+Shapiro  Sean R. 
+Smith  Jeffrey H. 
+Tepper  Robert 
+M. Tichio 
+Knowledge, Skills and Experience
+Accounting / Financial 
+Oversight      
+Business Development / 
+M&A      
+ESG Oversight  
+Executive Leadership    
+Finance / Capital 
+Markets     
+Geology / Reservoir 
+Engineering 
+Investor Relations  
+Marketing / Midstream    
+Public Company Board     
+Strategic Planning / Risk 
+Management      
+Other
+Gender (male / female) F M M M M M M M M
+Age in Years 55 54 65 58 69 69 48 55 43
+Director Since 2016 2016 2018 2016 2016 2019 2020 2016 2016
+Corporate Sustainability | Appendix | Page 50
+Content Index to Reporting Standards
+This Report was informed by key frameworks and reporting guidance to ensure disclosures are
+objective and transparent. As described on page 10, Centennial conducted a materiality
+assessment to determine the topics most significant to our business and stakeholders, which
+included a comprehensive review of key ESG reporting frameworks, standards, and guidance
+that are relevant to our industry and to public companies more broadly. Our choice of the
+SASB materiality profile for independent oil and gas exploration and production companies
+and select GRI Standards have guided our disclosure of the information in this Report and the
+tables below reflect those topics and metrics deemed by to be relevant to our business, as
+well as metrics for which we currently collect data and are therefore able to publicly disclose.
+The disclosures provided in the following indices may be reported in part or in full against
+each framework or standard, and do not indicate a level or adherence or comprehensive
+reporting or disclosure of all the topics included in either framework. Centennial is committed
+to the continued evolution of our sustainability reporting and practices and endeavors to
+inform our stakeholdersof materialESG topics in a clear, transparentand measurableway.
+Documents incorporatedby reference:
+"SR" refersto this Corporate SustainabilityReport.
+“Form 10-K” refersto our Annual Report on Form 10-K for the year ended December31, 2020.
+“2021 Proxy Statement” refers to our Definitive Proxy Statement, which was filed with the SEC
+on March 18, 2021.
+Some disclosures may direct the reader to Centennial’s website for more detail or additional
+materialsthat will satisfy the disclosureand can be found at www.cdevinc.com.
+
+SASB Topic and 
+Reporting ElementCode Accounting Metric / Activity Metric Location of Disclosure Page 
+EM-EP-000.A Production VolumesSR - Data Tear Sheet: Net Production BOE
+Form 10-K: Net Production7
+12
+EM-EP-000.B Number of offshore sites Not Applicable
+EM-EP-000.C Number of terrestrial sitesSR - Data Tear Sheet
+Form 10-K7
+12
+EM-EP-110a.1Gross global Scope 1 emissions; percentage 
+methaneSR - Data Tear Sheet 7
+EM-EP-110a.2Global Scope 1 emissions from: (1) flared 
+hydrocarbons, (2) other combustion, (3) process 
+emissions, (4) other vented emissionsSR - Data Tear Sheet 7
+EM-EP-110a.3Discussion of long-term and short-term 
+strategy or plan to manage Scope 1 emissions,
+emissions reduction targets, and an analysis of
+performance against those targetsSR - Environment - Air Quality Management
+Specific targets not disclosed15-20
+-
+Air Quality EM-EP-120a.1Air emissions of the following pollutants: (1) NOx 
+(Excluding N20), (2) SOx, (3) volatile organic 
+compounds (VOC's), and (4) particulate matter (PM)SR - Data Tear Sheet (NOx)
+SR - Environment - Air Quality Management (NOx)
+Other emissions not disclosed7
+17
+-
+EM-EP-140a.11) Total fresh water withdrawn, (2) total fresh water 
+consumed, percentage of each in regions with High 
+or Extremely High Baseline Water StressSR - Data Tear Sheet
+SR - Environment - Water Management7
+21
+EM-EP-140a.2Volume of produced water and flowback 
+generated; percentage (1) discharged, (2) injected, 
+(3) recycled; hydrocarbon content in discharged 
+waterSR - Data Tear Sheet
+Hydrocarbon content in discharged water not 
+disclosed7
+-
+EM-EP-140a.3Percentage of hydraulically fractured wells for 
+which there is public disclosure of all fracturing fluid 
+chemicals used SR - Environment - Hydraulic Fracturing and Fluid 
+Disclosure24
+EM-EP-140a.4Percentage of hydraulic fracturing sites where 
+ground or surface water quality deteriorated 
+compared to a baselineNot Disclosed -
+EM-EP-160a.1Description of environmental  management and 
+policies and practices on active sitesSR - Environment 15-30
+EM-EP-160a.2Number and aggregate of Hydrocarbon Spills, 
+volume in Arctic, and volumes recovered SR - Data Tear Sheet
+SR - Environment - Spill Management and 
+Prevention
+Metrics for volumes in the Artic are 
+inapplicable to CDEV8
+29
+-
+EM-EP-160a.3Percentage of (1) proved, and (2) probable 
+reserves in or near sites with protected 
+conservation status or endangered species habitatNot Disclosed -
+EM-EP-210a.1Percentage of (1) proved, and (2) probable 
+reserves in or near areas of conflictSR - Governance & Ethics - Security, Human 
+Rights and Community Relations ( not applicable)45
+EM-EP-210a.2Percentage of (1) proved, and (2) probable 
+reserves in or near indigenous landSR - Governance & Ethics - Security, Human 
+Rights and Community Relations ( not applicable)45
+EM-EP-210a.3Discussion of practices with respect to human rights, 
+indigenous rights and operation in areas of conflictSR - Governance & Ethics - Security, Human 
+Rights and Community Relations 45Activity Metrics
+Greenhouse Gas 
+Emissions
+Water Management 
+Biodiversity Impacts
+Security and Human 
+RightsSASB – Oil and Gas Exploration and Production Sustainability Accounting 
+Standard (version 2018-10)Corporate Sustainability | Appendix | Page 51
+SASB Topic and 
+Reporting ElementCode Accounting Metric / Activity Metric Location of Disclosure Page 
+EM-EP-210b.1Discussion of process to manage risks and 
+opportunities associated with community rights and 
+interestsSR - Environment - Land Stewardship and 
+Biodiversity
+SR - Governance & Ethics - Security, Human 
+Rights and Community Relations 
+SR - Government Relations25
+45
+48
+EM-EP-210b.2 Number and duration of non-technical delays Not Disclosed -
+EM-EP-320a.1(1) Total recordable incident rate (TRIR), (2) fatality 
+rate, (3) near miss frequency rate (NMFR), and (4) 
+average hours of health, safety, and emergency 
+response training for (a) full-time employees, (b) 
+contract employees, and (c) short-service 
+employeesSR - Data Tear Sheet
+SR - Health and Safety - Overview; Health Safety 
+and Environmental Performance; Emergency 
+Preparedness; Environmental Health and Safety 
+Training8
+32-34
+EM-EP-320a.2 Discussion of management systems used to integrate 
+a culture of safety and emergency preparedness 
+throughout the value chain and throughout the 
+exploration and production lifecycleSR - Health and Safety 31 - 34
+EM-EP-420a.1Sensitivity of hydrocarbon reserve levels to future 
+price projection scenarios that account for a price 
+on carbon emissionsNot Disclosed -
+EM-EP-420a.2Estimated carbon dioxide emissions embedded in 
+proved hydrocarbon reserves Not Disclosed -
+EM-EP-420a.3Amount invested in renewable energy, revenue 
+generated by renewable energy sales Not Applicable -
+EM-EP-420a.4Discussion of how price and demand for 
+hydrocarbons and/or climate regulation influence 
+the capital expenditure strategy for exploration, 
+acquisition, and development of assetsSR - Introduction - Climate Change
+Form 10-K14
+25, 36
+EM-EP-510a.1 International transparency corruption Not Applicable -
+EM-EP-510a.2 Description of corruption and bribery practicesSR - Government & Ethics - Business Ethics
+Website - Code of Business Conduct and Ethics45 - 46
+Management of the 
+Legal & Regulatory 
+EnvironmentEM-EP-530a.1Discussion of corporate positions related to 
+government regulations and/or policy proposals 
+that address environmental and social factors 
+affecting the industrySR - Government & Ethics - Government
+Relations48
+EM-EP-540a.1Process Safety Event (PSE) rates for Loss of Primary 
+Containment (LOPC)  of greater consequence Tier 1Not Disclosed -
+EM-EP-540a.2Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksNot Disclosed -Workforce Health 
+and Safety
+Business Ethics and 
+Transparency
+Critical Incident Risk 
+Management Community Relations
+Reserves Valuation 
+and Capital 
+ExpendituresSASB – Oil and Gas Exploration and Production Sustainability Accounting 
+Standard (version 2018-10), continuedCorporate Sustainability | Appendix | Page 52
+GRI Topic & Reporting Element Reporting Element Disclosure or Location of Disclosure Page
+102-1: Name of organization Centennial Resource Development, Inc. -
+102-2: Activities, brands, products, and 
+servicesOil and gas exploration and production -
+102-3: Location of headquarters Denver, Colorado, USA -
+102-4: Location of operationsUnited States
+SR - About Centennial -
+10
+102-5: Ownership and legal form Publicly traded company -
+102-6: Markets served Form 10-K, Item 1 14-15
+102-7: Scale of the organization Form 10-K, Item 1, Item 6 9-10, 12
+102-8: Information on employees and other 
+workersSR - Social 36-41
+102-10: Significant changes to the organization 
+and its supply chainForm 10-K, Item 1 9-15
+102-13: Membership of associations SR - Government & Ethics - Government Relations 48
+102-14: Statement from senior decision-maker SR - Letter from Our CEO 3
+102-15: Key impacts, risks, and opportunitiesSR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics
+Form 10-K, Item 1A12-13
+42-47
+25-39
+102-16: Values, principles, standards, and 
+norms of behaviorSR - Introduction
+SR - Environment 
+SR - Governance & Ethics - Business Ethics 
+Website - Code of Business Conduct and Ethics3-6 
+15
+45-46
+-
+102-17: Mechanisms for advice and concerns 
+about ethicsSR - Governance & Ethics - Business Ethics 
+Website - Code of Business Conduct and Ethics45-46
+-
+102-18: Governance structureSR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics - Board of Directors12-13
+42-43
+102-19: Delegating authoritySR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics - Board of Directors12-13
+42-43
+102-20: Executive-level responsibility for 
+economic, environmental, and social topicsSR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics - Board of Directors12-13
+42-43
+102-21: Consulting stakeholders on economic, 
+environmental, and social topics.SR - About This Report
+2021  Proxy Statement 10-11
+20
+102-22: Composition of the highest 
+governance body and its committees SR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics - Board of Directors12-13
+42-43
+102-23: Chair of the highest governance body SR - Governance & Ethics - Board of Directors 42-43
+102-24: Nominating and Selecting the highest 
+governance body 2021 Proxy Statement 8-9Organization Profile 
+Strategy
+Ethics and Integrity
+GovernanceGRI Reporting Standards (2016)Corporate Sustainability | Appendix | Page 53
+GRI Topic & Reporting Element Reporting Element Disclosure or Location of Disclosure Page
+102-25: Conflicts of interest 2021 Proxy Statement 14-15, 17, 44-45
+102-26: Role of highest governance body in 
+setting purpose, values and strategySR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics - Board of Directors12-13
+42-44
+102-27: Collective knowledge of highest 
+governance bodySR - Governance & Ethics - Board of Directors
+SR - Appendix 44
+49
+102-28: Evaluating the highest governance 
+body's performance 2021 Proxy Statement 20
+102-29: Identifying and managing economic, 
+environmental, and social impactsSR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics - Board of Directors12-13
+42-44
+102-31: Review of economic, environmental, 
+and social topicsSR - Introduction - About This Report, Board 
+Management and Oversight 
+SR - Governance & Ethics - Board of Directors10-13
+42-44
+102-32: Highest governance body's role in 
+sustainability reportingSR - Introduction - Board Management and Oversight 
+SR - Governance & Ethics - Board of Directors
+2021 Proxy Statement 12-13
+43
+18-19
+102-35: Renumeration policies 2021 Proxy Statement 20, 24-42
+102-36: Process for determining remuneration 2021 Proxy Statement 20, 24-35
+102-37: Stakeholders' involvement in 
+remuneration2021 Proxy Statement 20, 24-35
+102-38: Annual total compensation ratio 2021 Proxy Statement 37-42
+Employment and Labor 103: Management approach SR - Social - Human Capital 36
+103: Management approach SR - Social - Training and Development 37
+404-2: Programs for upgrading employee skills 
+and transition assistance programsSR - Social - Training and Development 37
+103: Management approach SR - Social - Diversity and Inclusion 36
+405-1: Diversity of governance bodies and 
+employeesSR - Social - Diversity and Inclusion
+SR - Governance & Ethics - Board of Directors36
+42
+Public Policy 103: Management approach SR - Governance & Ethics - Government Relations 48Training and Education
+Diversity, Equal Opportunity & 
+Non-DiscriminationGovernanceGRI Reporting Standards (2016), continuedCorporate Sustainability | Appendix | Page 54
+Forward Looking Statements and Disclosures
+The information in this report includes “forward-looking statements” within the meaning of
+Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities
+Exchange Act of 1934, as amended. All statements, other than statements of historical fact
+included in this report, regarding our strategy, future operations, financial position, estimated
+revenues and losses, projected costs, prospects, plans and objectives of management are
+forward-looking statements. When used in this report, the words “could,” “believe,”
+“anticipate,” “intend,” “estimate,” “expect,” “project,” “goal,” “plan,” “target” and similar
+expressions are intended to identify forward-looking statements, although not all forward-
+looking statements contain such identifying words. These forward-looking statements are
+based on management’s current expectations and assumptions about future events and are
+based on currently available information as to the outcome and timing of future events. We
+caution you that these forward-looking statements are subject to all of the risks and
+uncertainties, most of which are difficult to predict and many of which are beyond our
+control, incident to the development, production, gathering and sale of oil and natural gas.
+These risks include, but are not limited to, commodity price volatility, inflation, lack of
+availability of drilling and production equipment and services, environmental risks, drilling and
+other operating risks, regulatory changes, the uncertainty inherent in estimating reserves and
+in projecting future rates of production, cash flow and access to capital, the timing of
+development expenditures and the other risks described in our filings with the Securities and
+Exchange Commission. Except as otherwise required by applicable law, we disclaim any
+duty to update any forward-looking statements, all of which are expressly qualified by the
+statements in this section, to reflectevents or circumstancesafter the date of this report.Corporate Sustainability | Appendix | Page 55

@@ -1,0 +1,1101 @@
+2021 
+Listen Better 
+Report
+Environmental, Social and Governance at Sonos
+2S
+SuGEContents
+A Message From Patrick  3
+Taking Action on the Climate Crisis  5
+ Environmental  6 
+Our Carbon Footprint  7
+Product Sustainability  9
+Social  14 
+Diversity, Equity and Inclusion  15
+Supply Chain Responsibility  18 
+Giving Back  20 
+Privacy and Cybersecurity  22
+Governance  23 
+Corporate and ESG Governance  24 
+ESG Supplement  25
+UN Sustainable Development Goals  26
+Sustainability Accounting Standards  
+Board Index  28 ESG
+2021 Listen Better Report3A Message From Patrick  
+At Sonos, we’re continually inspired by music’s 
+unique ability to transcend boundaries and 
+bring people together. It’s that same cohesion 
+in our team that motivates us to make Sonos 
+the most responsible company possible. 
+Over the past year, we have experienced firsthand 
+the devastating effects of climate change, and like all 
+corporations, we know we must act now to protect our  
+planet for future generations. We answered this call with 
+ambitious action by establishing a Climate Action Plan.  
+We began by mapping the carbon footprint of our value  
+chain – from sourcing materials and packaging to our product 
+use and end-of-life. Based on the findings, we developed a 
+plan focusing on the areas of greatest impact – products, 
+supply chain and transportation. Implementing the plan 
+will drive down the carbon footprint across our value chain 
+towards our new FY40 net zero goal.
+In addition to climate change, we are also tackling the  
+growing problem of e-waste. We will continue to meet our 
+customers’ expectations for quality while at the same time 
+extending product longevity. When a product is eventually 
+in need of repair or disposal, our emerging design for 
+disassembly process seeks to enable refurbishment or 
+PHOTO CREDIT: DOUGLAS LEVY / SONOS / ZUMIX
+2021 Listen Better Report4A Message From Patrick  
+recycling where possible. We also continue to improve 
+software solutions that will keep older products in use  
+for longer.
+For our employees, communities and society as a whole, 
+we continued to fight for social justice and equity, including 
+strengthening our diversity, equity and inclusion (DEI) efforts. 
+In FY21, we appointed a fully dedicated Chief Diversity,  
+Equity and Inclusion Officer who reports directly to me. 
+Additionally, our recent initiatives in policy, training, HR 
+processes and development opportunities are already 
+showing results in the diversity of our teams. We’ve begun 
+to make progress in representation from historically 
+marginalized groups at every level of management,  
+creating teams with an invigorated vision and more 
+opportunities for innovation.
+We believe that nurturing all voices immeasurably benefits 
+the appeal and potential of our products and services. But we 
+still have a long way to go. That’s why we will continue to invite 
+feedback from both our internal employee resource groups 
+and our external partnerships, striving to create a culture of 
+inclusion companywide.Our DEI efforts are not limited to our own operations. 
+Our Supplier Diversity Program, launched in FY21, is 
+driving broader business and societal change through 
+new partnerships with companies owned by people from 
+historically marginalized communities.
+COVID-19 continues to be a global challenge, and while 
+vaccine programs and public-health efforts are gradually 
+establishing a “new normal,” we are laser focused on keeping 
+our employees, their families and broader communities 
+healthy and safe. We will continue to support our employees 
+as they work from home, and I’m truly humbled by their 
+resilience, resourcefulness and positivity throughout  
+the pandemic.
+Safety precautions forced us to scale back elements of the 
+in-person interactions that traditionally power our work with 
+nonprofits. Our teams were quick to find new ways to give 
+back and supported our Sonos Soundwaves partners in 
+delivering over 16,000 hours of music education during  
+FY21 alone, putting us well on track to meet our goal of 
+100,000 hours of music education by FY25. With a hopeful, post-pandemic world coming into view,  
+I am reenergized at the opportunity to keep building on our 
+progress, and to take action upon exciting new plans for  
+the future. I look forward to sharing what more we have 
+achieved together in a year’s time. We won’t always get it  
+right, but we will strive to listen better, and we hope you’ll join 
+us on our journey.
+Patrick Spence  
+Chief Executive Officer, Sonos
+2021 Listen Better Report5Taking Action on the Climate Crisis   
+Our planet is facing a climate crisis that is already severely disrupting ecosystems and 
+livelihoods. As a global company with our own environmental impacts, we must do our part  
+to address climate change. 
+In FY21, we partnered with a leading third party to take the initial and significant step of 
+measuring the carbon footprint of our value chain. This assessment revealed that 99.9% of our 
+emissions are outside of our direct operations , or what are known as Scope 3 emissions, with 
+most emissions related to the use of our products, supply chain manufacturing and distribution. 
+Based on our carbon footprint, we developed a Climate Action Plan to guide year-over-year 
+progress to reduce our greenhouse gas emissions across those three focus areas. The plan, 
+shown here, prioritizes reducing emissions as our first and preferred step to minimizing our 
+impact and achieving our newly established goals to be carbon neutral in our value chain 
+by FY30 and net zero by FY40. In support of these broader goals, we set FY30 and FY40 
+performance targets across each focus area.  
+We recognize that as a growing company, we will not be able to achieve carbon neutral and  
+net zero through reductions alone. As needed, we will use offsets and carbon removal to  
+meet our FY30 and FY40 targets, respectively. In doing so, we will support natural ecosystems 
+and embrace the latest advances in removal technology.    
+While we are inspired by this plan as a new way forward, we know we have a long way to go.  
+We are committed to remaining transparent throughout our journey and will report on the  
+plan’s progress in our future Listen Better Reports. Additionally, in our FY22 report, we will 
+provide a disclosure of our climate risks by reporting to the Task Force on Climate-Related 
+Financial Disclosures (TCFD).  
+More detail on our carbon footprint and Climate Action Plan is included in Our Carbon  
+Footprint . Sonos Climate Action Plan  MT CO 2e (projected)
+  Reduced GHG emissions       Carbon offset       Carbon removal
+2021 2030 20401,000,000
+500,000
+0
+–500,000
+–1,000,000GHG emissions (MT CO 2e)
+Continue 
+reducing and 
+go net zeroContinue 
+reducing and go 
+carbon neutralMap and begin 
+reducing our 
+carbon footprint
+ 
+Environmental
+We integrate sustainability across every aspect  
+of our company, from how we design and 
+manufacture products to the way we operate 
+our facilities. The climate crisis makes our 
+sustainability initiatives all the more urgent,  
+and we’re stepping up our efforts across the  
+board to reduce our impact.  
+ESG
+6
+2021 Listen Better Report7Our Carbon Footprint
+APPROACH 
+Minimizing our impact on the planet means being more 
+efficient across our operations and supply chain. 
+To better understand our climate effects and how we can 
+reduce our environmental impact, in FY21 we measured 
+the FY20 carbon footprint of our value chain – from product 
+manufacture to our daily operations to product end-of-life. 
+This heightened visibility into our impact informed our first 
+Climate Action Plan, prioritizing viable and cost-effective 
+approaches to begin addressing our largest sources of 
+greenhouse gas (GHG) emissions.  
+Moving forward, this plan will evolve and guide our efforts 
+to reduce the energy, emissions, water and waste from all 
+aspects of our business. 
+PROGRESS
+Our FY20 carbon footprint was 1,231,430 metric tons of 
+carbon dioxide equivalent. Of those emissions, 99.9% were 
+Scope 3, 0.1% were Scope 2 and near zero were Scope 1.  
+Of our Scope 3 emissions, product use is the most significant 
+GHG contributor (75%), followed by product manufacturing  
+in the supply chain (20%) and distribution (4%). See the chart 
+on the next page for more detail.  Based on this footprint, we developed a four-step Climate 
+Action Plan focused on our three high emission areas.
+Our initial plans to reduce emissions will focus on lowering 
+product energy consumption, pursuing low carbon 
+opportunities and partnering with suppliers on energy 
+conservation. Emissions reduction will remain our top priority 
+for mitigating our impact. In order to achieve our goals to be carbon neutral and net zero, we will invest in offsets and 
+carbon removal technology, respectively, for emissions not 
+mitigated through our reduction efforts. 
+In FY22, we will begin implementation of our Climate Action 
+Plan. We will also continue to refine our calculations and 
+improve our data year over year to inform our approach 
+moving forward, including exploring the adoption of science 
+based targets. 
+Peformance TargetsAt a Glance: Sonos Climate Action Plan
+Step 1
+3Map and disclose our 
+carbon footprint
+Step 2
+FY22Begin reducing our 
+carbon footprint
+Step 3
+FY30Continue reducing and 
+go carbon neutral 
+Step 4
+FY40Continue reducing and 
+go net zero FY30Achieve carbon neutrality in our value 
+chain through reduction and offsets 
+FY40Achieve net zero emissions in our value 
+chain through reduction and carbon 
+removal technology
+2021 Listen Better Report8Our Scope 3 Carbon Footprint
+Business travel   
+0.3%
+Capital goods   
+0.5%Product end-of-life   
+0.4%Other   0.2%
+Our Scope 3 carbon footprint 
+was 1,230,126 metric tons of 
+CO 22e in FY20. Equivalent to:138,418,589 gallons of 
+gasoline consumed148,136 homes’ energy  
+use for one year267,528 passenger vehicles 
+driven for one yearHow our
+products 
+are used
+75.2%Supply 
+chain
+19.5%Distribution
+3.9%
+2021 Listen Better Report9Product Sustainability 
+APPROACH 
+Our customers expect environmentally responsible 
+products – made, enjoyed and retired – sustainably. By 
+reducing the environmental footprint of our products, we can 
+meet customer expectations, stay ahead of ever-evolving 
+regulations and do what’s right for the planet.  
+In FY21, we launched our Product Sustainability Program to 
+drive down the carbon footprint and environmental impact 
+of our products. We empowered an internal “green team” to 
+oversee and progress our work across four key areas: 
+n		Energy Efficiency:  Product energy use is the most 
+significant contributor to our carbon footprint.  We’re 
+improving the energy efficiency of our product portfolio, 
+with a focus on idle and sleep states.
+n		Materials:  Electronic waste (e-waste) is one of the fastest-
+growing waste streams in the world. We’re reducing our 
+use of virgin materials and envision a future where all our 
+products can be recycled to make new products and are 
+free from hazardous materials. 
+n		Product Longevity:  Guided by our Product Life Cycle 
+Principles, we are striving to design our hardware and 
+software in a manner that extends the useful lives of our 
+products. When a product is eventually in need of repair or disposal, our emerging design for disassembly seeks to 
+enable refurbishment or recycling where possible.
+n	 Packaging: We’re designing our packaging to reflect our 
+responsibility to the planet. This means continuing to 
+move toward sustainable paper and away from plastics. 
+PROGRESS
+Energy Efficiency
+The overwhelming importance of climate change means we 
+must create products that use less energy than the models 
+they replace. We are doing this at a time when technology 
+continues to drive an expansion in functionality that often 
+requires more power.  
+As reflected in our Climate Action Plan, product efficiency 
+is a strong focus for us. Our work aims to reduce the energy 
+consumption of our products when they are not in use – the 
+idle or sleep state – because this represents the majority of 
+energy consumption during a product’s life. Our ambition is to 
+achieve idle energy usage under 2 watts across our portfolio. 
+We've established a team dedicated to product energy 
+efficiency and we will report on their progress and establish 
+targets in the coming year.  Average Idle Power Across Our  
+Product Portfolio   watts
+Energy Use of Roam  watts
+Playing music5.0
+Idle1.0
+Sleep0.1FY193.83
+FY203.78
+FY213.22
+2021 Listen Better Report10Product Sustainability 
+In FY21, the average idle power across our product portfolio 
+was 3.22 watts, a 15% decrease compared to FY20. During 
+this year, we developed more efficient hardware and software 
+to create the most energy efficient speaker in our portfolio, 
+Roam – our battery-powered ultraportable. For Roam, we 
+included two levels of power savings when not in use: the idle 
+state, when a product is available on command, and the sleep 
+state, which the product enters after 30 minutes in idle.
+Roam is our first product to achieve just 1 watt at idle and  
+0.1 watt at sleep. 
+We are now applying the energy efficiency knowledge 
+gained with Roam to our wider product portfolio. We 
+also implemented a new power monitoring software that 
+enables us to track how software updates impact energy 
+consumption before we introduce them.   Materials
+We are working to make our products more circular by 
+transitioning to post-consumer recycled (PCR) plastics 
+and reducing the use of hazardous materials. Our Product 
+Sustainability Program taps into the latest innovations to 
+identify alternative materials, which we then rigorously test 
+to ensure they meet our quality standards. In FY21, we tested 
+and validated color matches for PCR material that can be 
+incorporated into new products beginning in FY23. 
+We also implemented a solution to give batteries used in our 
+Move and Roam speakers a second life. We send batteries 
+returned to Sonos in the United States to our third-party 
+partner that recycles the material so it can be used in cathode 
+development. We are exploring the potential for expanding 
+this process for our batteries in Europe.  
+In FY21, we also focused on defining the requirements, 
+which will lead to the removal of halogen elements from our 
+products. Halogen elements can be harmful to people and 
+the environment during product manufacturing and disposal  
+if not handled responsibly.  We will work to make new  
+products halogen-free by FY23.Performance Target 
+FY23100% of new products will begin 
+incorporating PCR plastics in place  
+of some or all virgin plastics
+FY23All new products will be 100%  
+halogen-free
+
+2021 Listen Better Report11Product Sustainability 
+Product Longevity
+We strive to keep our products in use, longer. Designing for 
+longevity of internet-connected devices means focusing on 
+both hardware and software. We use quality components and 
+materials to make our products robust and durable so they 
+stay in use longer. 
+In FY21, we began our design for disassembly exploration, 
+which we plan to incorporate into all new products launching 
+in FY23. This approach builds in features – such as fasteners 
+instead of adhesives – that make it easier to repair, refurbish and recycle when a product is returned under warranty, or at 
+the end of its life. We are also introducing a repairability index 
+to our product development process that will launch internally 
+by FY23. At the same time, we will conduct more research  
+to determine when it is environmentally preferable to upgrade 
+to a new, more energy efficient and sustainable product.
+In addition to physical longevity, we keep product software 
+updated with bug fixes and security patches many years 
+after the product is no longer made. Sonos maintains two 
+operating systems specifically so that we can continue 
+supporting older products.For information on how to recycle Sonos products, please  
+see our website . 
+Performance Target
+FY23100% of new speakers will incorporate 
+design for disassembly through a 
+repairability index for easy repair, refurbish 
+and recycling 
+Product 
+life cycle 
+principlesWe innovate so that  
+our products can be enjoyed  
+for a long time.
+Innovation not only minimizes  
+our environmental impact, but  
+also maximizes the value that  
+we bring to our listeners.We take responsibility  
+for our products when they  
+can no longer be used.
+Every piece of hardware we  
+put out into the world includes  
+a responsible plan for return  
+and recycling.  We communicate  
+openly and honestly about  
+key dates in our product  
+life cycle.
+We commit to being transparent 
+regarding software updates  
+and plans for support.We continually  
+seek new perspectives  
+and ways to improve.  
+Collaborating with other 
+companies, governments and 
+nonprofits, we will work toward 
+leading the industry to a more 
+sustainable future.
+2021 Listen Better Report12Product Sustainability 
+Packaging
+A comprehensive approach to product circularity must 
+include packaging. And to us, premium packaging also means 
+responsible packaging, so we always aim to use more paper 
+and less plastic. 
+Our goal is to use 100% responsibly sourced paper for our 
+packaging by FY25. This means the paper is either PCR 
+(post consumer recycled), FSC-certified (Forest Stewardship 
+Council) or made from recyclable plant-based fibers. In FY21, 
+we achieved 94% responsibly sourced packaging paper 
+compared to 92% in FY20. 
+In FY21, we undertook a major packaging design update 
+to better align with our brand identity and sustainability 
+objectives. Our solution is based on FSC-certified proprietary 
+Sonos Custom Kraft paper. This paper was first used for our 
+Roam speakers, and will continue to be used for new products 
+launching between FY22 and FY25.
+We have been moving away from single use plastics since 
+FY12 due to their impact on the environment. According 
+to the Ellen MacArthur Foundation, only 14% of plastic 
+packaging is collected for recycling globally, while more 
+than half is landfilled and a staggering 33.3% ends up in the environment.1 In FY21, we continued our efforts to develop 
+cushions with wood or plant based fibers in place of foam, 
+reducing our use of plastic and increasing the potential for 
+recycling. We also removed single use plastic laminate for 
+new and existing products with our Sonos Custom Kraft 
+paper, enabling us to eliminate approximately 144,000  
+pounds of plastic in FY21. 
+To enhance our insights and expertise on sustainable 
+packaging, we are members of the Sustainable Packaging 
+Coalition and contribute data to ensure our How2Recycle 
+labeling is accurate. We also started an environmental life 
+cycle assessment and will use the findings to track our 
+sustainability goals while analyzing the environmental 
+footprint of our packaging. We will share the results of that 
+assessment in FY22. 
+Performance Target
+FY25100% of paper in packaging will be 
+responsibly sourced, including paper 
+that is either PCR, FSC-certified or 
+plant based fibersFY25 targetPackaging Paper That is Responsibly Sourced  
+%
+100%
+FY1983%
+FY2092%
+FY2194%
+1  Extended Producer Responsibility , Ellen MacArthur Foundation, June 2021
+
+2021 Listen Better Report
+13Product Sustainability 
+A Premium, Sustainable Packaging 
+System Sets a New Standard for Sonos
+Sonos new packaging system, which launched with our 
+Roam portable speaker, points the way to future sustainable 
+packaging across the company’s product portfolio. 
+Michelle Enright, Head of Packaging Experience, describes 
+the Sonos approach to sustainable packaging: “We wanted 
+the unboxing to feel like it’s your birthday. The beauty 
+of Roam’s packaging is that we didn’t need to sacrifice 
+sustainability priorities to achieve that.”
+For Roam, our team maximized the proportion of packaging 
+made from paper in line with our goal to phase out plastic. 
+This solution was achieved using Sonos Custom Kraft paper, 
+which is uncoated and FSC-certified.
+“Most packaging that you’ll see in stores will have a plastic 
+coating to prevent scuffs and fingerprints. It also makes 
+those materials far less recyclable,” says Michelle. “One of 
+the challenges with uncoated papers is that they all react 
+differently to ink, so the visual system we created had to 
+cater to the specific qualities of this new paper.”
+The finished packaging uses 100% responsibly sourced 
+paper for Roam’s box, and even the hanging loop on the top 
+is made from paper fibers – negating the need for plastic. 
+Overall, the packaging system is 97% paper, exceeding the 
+design team’s initial goal of 85%.
+Social
+At Sonos, we aim to have a positive impact on 
+society – both within our company and outside 
+it – supporting not only our employees, but our 
+customers, partners and wider communities. We 
+have been focusing our efforts on improving our 
+diversity, equity and inclusion initiatives, as well as 
+our approach to responsible supply chain practices, 
+philanthropic giving and privacy and cybersecurity. 
+ESG
+14
+2021 Listen Better Report15Diversity, Equity and Inclusion 
+APPROACH 
+Music has the unique ability to transcend cultural boundaries 
+and bring people together, and we aim to make Sonos’ company 
+culture just as inclusive and unifying. By embracing diversity and 
+championing equity and inclusion, we are creating more engaged 
+and fulfilled team members, and harnessing broader influences 
+for innovation. All of this enables us to design products that are 
+relevant to more people in more places.
+Our approach to diversity, equity and inclusion (DEI) is  
+focused on:
+n		Diversity:  Talent acquisition and retention
+n			Equity:  Policies, transparency and accountability 
+n	  I n c l u s i o n :  Community, awareness and development 
+We're prioritizing DEI across Sonos, from our inclusive 
+recruitment practices to the companywide impact of our 
+employee resource groups (ERGs), which build a sense 
+of belonging among employees from underrepresented 
+communities, fostering allyship companywide and helping to 
+drive growth opportunities for individuals within Sonos, as  
+well as the company at large.
+And our efforts aren’t limited to our own operations, with 
+initiatives such as our new Supplier Diversity Program, we’re 
+driving broader business and societal change. Global workforce
+New hires All other roles3Global Workforce Gender Diversity2  %
+  Female       Male
+FY19
+FY19 FY19FY20
+FY20 FY20FY21
+FY21 FY2127.3%
+40.6%
+27.9%29.6%
+40.6%
+30.8%31.3%
+40.3%
+32.2%72.7%
+59.4%72.1%70.4%
+59.4%69.2%68.7%
+59.7%67. 8%Director and above roles3
+FY19 FY20 FY2123.0% 21.5%25.3%77.0% 78.5%74.7%
+2  FY21 DEI data represents our workforce as of September 30, 2021.    
+3  Director and above roles include the highest level individual contributors and managers, VPs and CXOs. All other roles include positions not included in director and above.
+2021 Listen Better Report16Diversity, Equity and Inclusion 
+PROGRESS
+Our Inclusive by Design initiative, launched in FY20, is already 
+delivering encouraging results, and continuing to inspire more. 
+The number of women across our global teams increased by 
+nearly 2% in FY21. During that same time period, more than 
+40% of our new hires were women. Women now account 
+for 31% of total employees and 25% of director and above 
+positions.  
+Our racial and ethnic diversity also continues to improve, with 
+employees from historically underrepresented groups up 
+by 3% in FY21 compared to FY20, and now accounting for 
+35% of our total workforce and 19% of director and above positions. In FY21, 44% of our new hires were from historically 
+underrepresented groups, up 4% from FY20. We remain 
+committed to transparency and share an in-depth diversity 
+breakdown twice a year with our entire workforce to engage 
+and inform employees on our progress. 
+We continue to use hiring tools and training to address  
+unconscious bias and increase DEI of underrepresented 
+communities. In early FY22, we appointed a Chief Diversity, 
+Equity and Inclusion Officer who will set new diversity hiring 
+goals for the coming year, and ensure that we continue to 
+attract, develop and retain diverse and inclusive teams.
+Our commitment to improving DEI within our company saw 
+significant progress in FY21, notably through our ERGs. For example, the group Black@, an ERG for employees who 
+identify as Black or African American, has been instrumental 
+in making our complaint and escalation process more 
+inclusive and equitable. With their help, we introduced 
+AllVoices – a tool for anyone to share feedback about their 
+lived experiences, DEI at Sonos or how we can improve our 
+organizational culture. We also created an advisor program to 
+support employees who raise issues through the process.  
+We are also driving DEI through comprehensive 
+training, which in FY21 covered topics like allyship and 
+intersectionality, inclusive hiring, interviewing and leadership 
+and LGBTQIA+ awareness. All training was supported by 
+additional media and materials on our intranet.
+U.S. Workforce Representation from Historically Underrepresented Groups4,5  %
+Directors and above
+FY20 FY2115%19%All other roles
+FY20 FY2135%37%Board members
+FY20 FY2125%
+12.5%New hires
+FY20 FY2140%44%Total U.S. workforce
+FY20 FY2132%35%
+4   FY21 DEI data represents our workforce as of 
+September 30, 2021.    
+5   This data represents the percent of U.S. 
+employees that shared their race and 
+ethnicity information. This was 70% of our 
+U.S. workforce in FY20, and 77% in FY21. 
+2021 Listen Better Report17Diversity, Equity and Inclusion 
+To ensure ongoing pay equity, we conduct comprehensive 
+wage assessments for our global workforce. Our most recent 
+assessment, in early FY21, showed no statistically significant 
+negative impact on any demographic group. We’ll conduct our 
+next assessment in FY23. 
+In FY21, we launched our new Supplier Diversity Program to 
+improve representation across our vendor base. Through this 
+program, we will proactively identify and engage suppliers 
+owned by members of underrepresented groups including women, members of the LGBTQIA+ community, diverse 
+racial and ethnic backgrounds, persons with disabilities and 
+veterans. Our near-term goals for the program include: 
+n		By FY23 increase spend with diverse suppliers and  
+the percent they make up of our total vendors to  
+3% compared to a FY20 baseline.6
+n		By FY25 increase spend with diverse suppliers and  
+the percent they make up of our total vendors to  
+5% compared to a FY20 baseline.6In FY21, we also expanded the benefits of improved DEI 
+directly with our customers by committing to feature at  
+least 50% of music by artists from diverse communities  
+on Sonos Radio’s original programming.
+U.S. Workforce Representation7
+Asian Black or African American Hispanic or Latino White Other9
+FY20 FY21 FY20 FY21 FY20 FY21 FY20 FY21 FY20 FY21
+% of U.S. workforce 19% 20%  3% 4% 7% 7%  68% 66%  4% 4%  
+% of director and above roles89% 10%  2% 2%  3% 5%  85% 81% 1% 3%  
+% of all other roles 21% 22%  4% 4%  7% 7%  65% 63%  4% 4%  
+% of new hires 25% 28% 3% 4%  7% 9%  60% 55% 5% 4% 
+6  Our FY20 baseline for spend with diverse suppliers is 2% and our FY20 baseline for percent of our total vendors is 1%. 
+7  Percentages are based on the 70% and 77% of our U.S. workforce that disclosed their race and ethnicity information in FY20 and FY21, respectively. We do not include non-disclosed persons in the analysis population.  Percentages may not add up to 100 due to rounding.   
+8  Director and above roles include the highest level individual contributors and managers, VPs and CXOs. All other roles include positions not included in director and above. 
+9  Other includes the classifications: Native American or Alaska Native, Native Hawaiian or Pacific Islander, and “Two or More Races.”  
+2021 Listen Better Report18Supply Chain Responsibility   
+APPROACH 
+Building productive and long-term relationships with suppliers 
+is essential to our business growth and success. Prioritizing 
+these partnerships not only helps to strengthen social and 
+environmental practices, but also reduces risk across the 
+technology supply chain. 
+We aim to respect the human rights of all people making 
+Sonos products and remain dedicated to following the 
+UN Guiding Principles on Business and Human Rights, 
+including transparent and accountable labor practices. We 
+communicate our social and environmental standards to 
+suppliers through our Supplier Code of Conduct , which 
+covers issues including fair wages, forced and child labor, 
+human trafficking, environmental management systems, 
+hazardous waste generation and conflict minerals. 
+We focus our efforts on our key suppliers, who represent 
+80% of our supply chain spend. We conduct in-person 
+audits of these suppliers to confirm their compliance with our 
+Code. If a noncompliance is identified, we will work with our 
+suppliers to take corrective action. In rare instances where 
+a noncompliance is not corrected, we will terminate our 
+business with that supplier. In FY21, we became an affiliate member of the Responsible 
+Business Alliance (RBA) – the world's largest industry coalition 
+dedicated to corporate social responsibility in global supply 
+chains. Our existing Sonos Supplier Code of Conduct is 
+already based on standards set by the RBA. As official 
+members, we will further align our supply chain responsibility 
+approach to RBA guidance, including incorporating the use  
+of shared audits and other crucial transparency tools 
+beginning in FY22. 
+FY25 targetCritical and Major Issues Closed Within 
+Target Time  %
+95%
+FY1983%
+FY2085%
+FY2189%FY25 targetKey Suppliers Audited  %
+100%
+FY1987%
+FY2040%
+FY2174%
+
+2021 Listen Better Report19Supply Chain Responsibility   
+PROGRESS
+As with many companies, our in-person auditing process  
+was impacted by ongoing COVID-19 restrictions. In FY21,  
+we conducted in-person audits for 73.5% of our key  
+suppliers, up 33.5% from the previous year. To increase the 
+number of audits and reach our goal of 100% by FY25, we 
+have commissioned a third-party auditing partner to assist 
+us. In FY22, we will utilize this partner, as well as the shared 
+audits through the RBA, to reach more of our key suppliers. 
+By FY22, our aim is to conduct in-person audits of 50% of key 
+suppliers with critical issues in coordination with the RBA.
+We categorize issues identified in our audits as critical, major 
+and minor. In our FY21 audits, a total of 254 issues were identified, including 14 critical, 139 major and 101 minor.  
+Of the critical and major issues, 89% were closed within  
+the target time, nearing our target of 95% by FY25. The  
+most common issues identified included emergency 
+preparedness followed by work hours. 
+Performance Target
+FY2250% of suppliers with critical issues 
+audited in person, in coordination  
+with the RBA
+FY25100% of key suppliers audited annually 
+FY2595% of critical and major issues closed 
+within target time Top nonconformance 
+categories in FY213733
+10
+9755Emergency 
+Preparedness and 
+Response
+Wages and 
+Benefits
+Occupational 
+SafetyFood, 
+Sanitation and 
+Housing 
+Chemical  
+and Hazardous 
+Materials Occupational 
+Injury and 
+Illness  
+Working  
+Hours 
+Audits
+FY19 FY20 FY21
+% of key suppliers audited 87% 40% 74%
+Number of issues identified 400 297 254
+Critical 0 2 14
+Major 233 124 139
+Minor 167 153 101
+Critical and major issues closed within target time 83% 85% 89%
+2021 Listen Better Report20Giving Back    
+APPROACH 
+By giving back, we build stronger relationships with our 
+communities, engage our employees and inspire the next 
+generation of artists and innovators. 
+Our social impact program, Sonos Soundwaves, had a dual 
+focus in FY21: music education for underserved youth, and 
+the power of music for healing and resilience. We supported 
+partner organizations across those focus areas by providing 
+grants, product donations and employee volunteering. In late 
+FY21, we restructured our Soundwaves program to focus on 
+three core initiatives moving forward: 
+n		Sound Education: Nurturing musical talent and technical 
+skills for the next generation to create thoughtful and 
+brilliant sound, across every genre. 
+n		Inclusive Sound:  Provides mentorship to women, people 
+of color and underserved communities. 
+n		Regenerative Sound: Protects forests and restores 
+biodiversity through the use of bioacoustics, which 
+combines acoustic devices with artificial intelligence to 
+leave a positive impact. 
+We continue to encourage and support our people in their 
+efforts to give back. Every year, employees receive 16 hours 
+of paid time to volunteer with organizations and causes that 
+matter to them.PROGRESS
+COVID-19 pushed us to rethink our approach to community 
+partnerships. Despite the restrictions, we continued to 
+support the causes we care about in a remote capacity, 
+and in-person where possible. For example, in FY21, 
+we sponsored the Girls Rock Summer Camp, providing 
+scholarships to 20 underserved girls and young women so 
+they could experience a multi-day art and music camp. We 
+also partnered with Residency – a nonprofit that, with our 
+help, provided over 1,500 hours of virtual arts enrichment 
+programming to children in the greater Seattle area.
+As part of our music for healing and resilience focus, in 
+FY21 we supported the Vital Sounds Initiative and Project: 
+Music Heals Us – a nonprofit that provides education and 
+healing by bringing live music performances to marginalized 
+communities, with a focus on elderly, persons with disabilities, 
+rehabilitating, incarcerated and homeless populations. As part 
+of the partnership, virtual bedside concerts and interactive 
+experiences were introduced in 20 hospitals across the 
+United States. 
+In total, our Soundwave partners contributed 16,455 hours 
+to music education in FY21, bringing our total from FY19 to 
+73,490 – on track to meet our FY25 goal of 100,000 hours. FY25 targetHours of Music Education  cumulative
+100,000
+FY1919,000
+FY2057,035
+FY2173,490
+PHOTO COURTESY OF ZUMIX
+2021 Listen Better Report21
+Giving Back    
+In FY21, we expanded our social impact efforts by using 
+Sonos Radio to amplify and spread awareness of the vital 
+work of multiple nonprofit organizations. We donated more 
+than 19.4 million  advertising slots to support causes such 
+as Pride, crisis relief and Black History month. In fact, during 
+Black History month alone, we donated over 60,000 hours 
+of advertising, which led to 7 million impressions to Black led 
+organizations like the NAACP.
+In FY21, we also provided support to Music Declares 
+Emergency, for their No Music on a Dead Planet’s climate 
+conference. This one-day conference was held in London 
+in October 2021 and brought together key music industry 
+leaders to discuss how they can support the fight against 
+climate change. 
+Performance Target
+FY25I00,000 hours of music educationSharing Skills to Strengthen 
+Our Community
+Skills-based volunteering is a meaningful 
+way for our employees to use their 
+expertise to have a positive impact within 
+our communities. 
+For more than six years, Erika Abbas (top 
+image) has excelled as a Distinguished 
+Program Manager at Sonos. Her eye for 
+detail and distinctive ability to organize 
+and inspire colleagues made her a perfect 
+candidate to sit on the Board of our 
+Soundwaves partner, Zumix.
+Zumix is a nonprofit dedicated to building 
+community through music and creative 
+technology. Erika helps guide the 
+organization’s approach on everything 
+from live events to fundraising. As well 
+as serving as a general advisor, Erika 
+also connects Sonos colleagues with 
+opportunities to volunteer their skills  
+with Zumix.
+“The ability to positively impact the lives 
+of hundreds of young people is the aspect 
+of the role I find most fulfilling,” says Erika. As our Director of Content and 
+Brand Platforms, Joe Dawson 
+(bottom image) has thrived at 
+building initiatives with creators, 
+artists and organizations that tell 
+a story and deliver a real impact. 
+It’s this experience that made 
+him well-suited for the Board of 
+the Urban Arts Partnership (UAP) 
+–  a Soundwaves partner creating 
+innovative arts and tech programs 
+for the youth.
+“The opportunity to work with 
+students in the space where 
+technology and creativity intersect 
+brings me the most joy,” says Joe.
+Joe helps to evolve and shape 
+the curriculum of UAP's largest 
+program – School of Interactive 
+Arts. Most recently, he helped 
+design a master class curriculum 
+with UAP, focusing on ways to 
+approach creative projects, 
+collaborate effectively and 
+introduce students to new ways 
+to think about music and sound 
+design. 
+2021 Listen Better Report22Privacy and Cybersecurity   
+APPROACH 
+We deeply respect our customers’ privacy, and only use 
+their data to enhance their sound experience – that’s it. Our 
+approach to privacy protects our reputation with customers 
+and investors, reduces security risks and helps us stay in  
+front of changing privacy regulations. 
+Privacy protection continues to evolve as technology 
+and cybersecurity threats become more sophisticated. 
+For cybersecurity, our approach includes technical and 
+organizational measures to protect customer information.  
+For example, we store data on computers with limited 
+personnel access in controlled facilities, and we vet our third-
+party data center vendors against our security standards. 
+More on our approach to privacy and cybersecurity is 
+described in our Privacy Statement , which builds on our 
+Privacy Principles (right).
+We cannot tackle the issues of privacy and cybersecurity 
+alone. We work with third-party privacy organizations for 
+feedback on our approach and we are active members of 
+the International Association of Privacy Professionals – the 
+world’s largest global information privacy community. 
+We also welcome and encourage feedback on our security 
+practices. Through our Security Researcher Recognition  
+Program , we recognize individuals who have discovered a 
+vulnerability in our website, services, apps or players. PROGRESS
+We take every vulnerability concern reported to us seriously 
+and each concern is thoroughly investigated and addressed 
+by our Privacy team. Recent concerns included two industry-
+wide vulnerabilities on network protocol standards and 
+Bluetooth. We quickly assessed these vulnerabilities for their 
+impact on Sonos products and addressed them through 
+enhanced authentication mechanisms and improved 
+software, respectively. 
+Our approach to privacy also applies when we receive 
+requests from government authorities for customer 
+information for use in civil or criminal proceedings or following 
+the theft of a product. When an authority requests data, we 
+require them to submit a formal written request, such as a 
+warrant, before we determine if we will share information.  
+In FY21, we received 16 lawful requests for information from 
+law enforcement agencies in the U.S. and Europe, 1 1 of  
+which provided sufficient information and were granted.  
+Every request was initiated by customers trying to recover 
+stolen products.SONOS PRIVACY PRINCIPLES 
+We use data to serve our listeners.
+We put the listener first, using data to provide 
+incredible sound experiences. Nothing more.  
+Nothing less.
+We provide meaningful choices that are easy  
+to understand.
+We clearly present information to listeners at the right 
+moment, allowing them to make effective choices.
+We collect only what we need.
+We believe data decays and loses value over time,  
+so we delete it once it is no longer useful.
+We protect the data of our listeners as if it were  
+our own.
+We continually seek to improve the security of  
+listener data.
+Governance
+Strong governance and a culture of  
+ethics ensure we deliver a premium  
+sound experience, responsibly. 
+ESG
+23
+2021 Listen Better Report24Corporate and ESG Governance  
+APPROACH 
+The continued success of our company is dependent on us 
+doing business the right way. 
+Our Board of Directors is key to the sound governance of 
+Sonos, ensuring that our actions are aligned with our high 
+ethical standards. Our Board is currently comprised of eight 
+individuals, seven of whom are independent. Our strong 
+corporate governance starts with the diverse perspectives  
+of our Board members. As of FY21, three of our Board 
+members are female, and one Board member is a person of 
+color. The unique experiences and skills of our Board helps  
+us stay responsive to the diverse needs of our customers  
+and employees.
+Our Board of Directors has three standing committees:
+n	Audit
+n	Compensation, People and Diversity & Inclusion
+n	Nominating and Corporate Governance 
+The Nominating and Corporate Governance Committee 
+has oversight of our Corporate Social Responsibility and 
+Sustainability Program. Our Director of Policy and  
+Corporate Social Responsibility reports to this committee  
+at least annually.We determine our priority environmental, social and 
+governance (ESG) issues and how to address them by 
+seeking regular feedback from internal and external 
+stakeholders. We believe that an open dialogue with our 
+partners and investors is vital to the growth and evolution  
+of our ESG approach. We welcome and encourage input  
+on our approach and this report. Please send feedback to  
+csr@sonos.com . 
+PROGRESS
+In FY21, our Director of Policy and Corporate Social 
+Responsibility engaged the Nominating and Corporate 
+Governance Committee on the ESG topics of environmental 
+sustainability and social impact, including COVID-19 relief 
+efforts and human rights in the supply chain. 
+The full Board was engaged during the development of our 
+2021 Listen Better Report and were provided the opportunity 
+to give direct feedback on our content. OUR ESG POLICIES 
+n	Anti-Corruption Policy  
+n	Code of Conduct and Ethics  
+n	Conflict Minerals Statement
+n	Privacy Statement
+n	 Student and Dispatch Worker Standard for  
+Supplier Facilities in China
+n	Supplier Code of Conduct 
+n		UK Modern Slavery Act/California Transparency  
+in Supply Chains Act Transparency Statement
+You can access these policies at sustainability.sonos.
+com/reports .
+2021 ESG 
+Supplement
+ESG
+25
+2021 Listen Better Report26UN Sustainable Development Goals (SDGs)  
+SDG Indicator Relevant SDG Targets Sonos Action
+Ensure inclusive and equitable quality 
+education and promote lifelong 
+learning opportunities for all4.5      By 2030, eliminate gender disparities in education and ensure equal access to all levels 
+of education and vocational training for the vulnerable, including persons with disabilities, 
+indigenous peoples and children in vulnerable situationsn					 Soundwaves philanthropic STEM efforts and 
+music education for underserved youth
+Achieve gender equality and 
+empower all women and girls5.5      Ensure women’s full and effective participation and equal opportunities for leadership at all 
+levels of decision-making in political, economic and public lifen					 Women representation in leadership 
+n				Approach to diverse recruitment and promotion
+n				Global gender wage assessment 
+Ensure access to affordable, reliable, 
+sustainable and modern energy for all7.3      By 2030, double the global rate of improvement in energy efficiency n					 FY30 energy efficiency target 
+Promote sustained, inclusive and 
+sustainable economic growth, full and 
+productive employment and decent 
+work for all8.3      Promote development-oriented policies that support productive activities, decent job 
+creation, entrepreneurship, creativity and innovation, and encourage the formalization 
+and growth of micro-, small- and medium-sized enterprises, including through access to 
+financial servicesn					 Supplier Diversity Program
+8.5      By 2030, achieve full and productive employment and decent work for all women and men, 
+including for young people and persons with disabilities, and equal pay for work of equal 
+valuen					 Global gender and U.S. ethnically diverse employee 
+wage assessments
+8.8      Protect labor rights and promote safe and secure working environments for all workers, 
+including migrant workers, in particular women migrants, and those in precarious 
+employmentn					 Code of Conduct and supply chain auditing 
+program
+n					 Affiliate member of the Responsible Business 
+Alliance 
+Reduce inequality within and among 
+countries10.2    By 2030, empower and promote the social, economic and political inclusion of all, 
+irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other statusn					 Hiring and promoting talent from 
+underrepresented groups 
+n					 Inclusion and equity work led by Sonos employee 
+resource groups 
+2021 Listen Better Report27UN Sustainable Development Goals (SDGs)  
+SDG Indicator Relevant SDG Targets Sonos Action
+10.4    Adopt policies, especially fiscal, wage and social protection policies, and progressively 
+achieve greater equalityn					 U.S. ethnically diverse employee wage 
+assessments
+Ensure sustainable consumption and 
+production patterns12.2    By 2030, achieve the sustainable management and efficient use of natural resources n					 FY23 target for postconsumer recycled material in 
+place of virgin plastic 
+12.4    By 2020, achieve the environmentally sound management of chemicals and all wastes 
+throughout their life cycle, in accordance with agreed international frameworks, and 
+significantly reduce their release to air, water and soil in order to minimize their adverse 
+impacts on human health and the environmentn					 Focus on safer chemicals, including making Sonos 
+products halogen free by FY23
+n				Reducing waste through sustainable packaging
+12.6    Encourage companies, especially large and transnational companies, to adopt sustainable 
+practices and to integrate sustainability information into their reporting cyclen				Sonos Annual Listen Better Report
+T ake urgent action to combat climate 
+change and its impacts13.2    Integrate climate change measures into national policies, strategies and planning n					 Climate Action Plan 
+Conserve and sustainably use the 
+oceans, seas and marine resources 
+for sustainable development14.2    By 2020, sustainably manage and protect marine and coastal ecosystems to avoid 
+significant adverse impacts, including by strengthening their resilience, and take action for 
+their restoration in order to achieve healthy and productive oceansn					 Soundwaves focus on bioacoustics 
+Protect, restore and promote 
+sustainable use of terrestrial 
+ecosystems, sustainably manage 
+forests, combat desertification, and 
+halt and reverse land degradation and 
+halt biodiversity loss15.1    By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland 
+freshwater ecosystems and their services, in particular forests, wetlands, mountains and 
+drylands, in line with obligations under international agreementsn					 Soundwaves focus on bioacoustics
+2021 Listen Better Report28Sustainability Accounting Standards Board (SASB) Index 
+Technology & Communications – Hardware
+Product Security 
+SASB Code Metric Response
+TC-HW-230a.1 Description of approach to identifying and addressing data security risks in products The Sonos Product Security team works with development teams to enable adoption of best 
+practices for building secure products. The team pursues this goal by shepherding Sonos 
+products through the security development life cycle (which includes data security best 
+practices), building components to solve harder security problems, deploying tools to detect 
+coding and configuration failures.
+Employee Diversity & Inclusion
+SASB Code Metric Response
+TC-HW-330a.1 Percentage of gender and racial/ethnic group representation for (1) management,  
+(2) technical staff and (3) all other employeesFY21 U.S. Workforce Racial and Ethnic Diversity*
+AsianBlack or 
+African 
+AmericanHispanic 
+or LatinoWhite Other**
+% of total U.S. workforce 20%  4% 7%  66%  4%  
+% of director and above roles 10%  2%  5%  81% 3%  
+% of all other roles 22%  4%  7%  63%  4%  
+% of new hires 28% 4%  9%  55% 4% 
+*  Percentages are based on the more than 77% of our U.S. workforce that disclosed their ethnicity information. We do not include non-disclosed 
+persons in the analysis population. Director and above roles include the highest level individual contributors and managers, VPs and CXOs. All 
+other roles include positions not included in director and above. Percentages may not add up to100 due to rounding. FY21 data represents our 
+workforce as of September 30, 2021.  
+** Other includes the classifications: Native American or Alaska Native, Native Hawaiian or Pacific Islander, and “Two or More Races.”  
+2021 Listen Better Report29Employee Diversity & Inclusion
+SASB Code Metric Response
+TC-HW-330a.1 Percentage of gender and racial/ethnic group representation for (1) management,  
+(2) technical staff and (3) all other employeesGlobal Workforce Gender Diversity
+FY19 FY20 FY21*
+Female Male Female Male Female Male
+% of our global workforce 27.3% 72.7% 29.6% 70.4% 31.3% 68.7%
+% of director and above roles** 23.0% 77.0% 21.5% 78.5% 25.3% 74.7%
+% of all other roles*** 27.9% 72.1% 30.8% 69.2% 32.2% 67.8%
+% of new hires 40.6% 59.4% 40.6% 59.4% 40.3% 59.7%
+* FY21 data represents our workforce as of September 30, 2021.
+** Director and above roles include the highest level individual contributors and managers, VPs and CXOs.
+*** All other roles include positions not included in director and above. 
+Product Life Cycle Management 
+SASB Code Metric Response
+TC-HW-410a.1 Percentage of products by revenue that contain IEC 62474 declarable substances All Sonos brand products contain IEC 62474 declarable substances.  
+TC-HW-410a.2 Percentage of eligible products, by revenue, meeting the requirements for EPEAT registration 
+or equivalentNot applicable.
+TC-HW-410a.3 Percentage of eligible products, by revenue, meeting ENERGY STAR criteria Not applicable.
+TC-HW-410a.4 Weight of end-of-life products and e-waste recovered, percentage recycled We recovered 440 metric tons of end-of-life products in FY21 across our North America; Asia 
+Pacific; and European, Middle East and Africa regions. 
+Supply Chain Management
+SASB Code Metric Response
+TC-HW-430a.1 Percentage of Tier 1 supplier facilities audited in the RBA Validated Audit Process (VAP) or 
+equivalent, by (a) all facilities and (b) high-risk facilitiesIn FY21, we conducted in-person audits for 73.5% of our key suppliers, up 33.5% from the 
+previous year.    Sustainability Accounting Standards Board (SASB) Index  
+2021 Listen Better Report30Sustainability Accounting Standards Board (SASB) Index  
+Supply Chain Management
+SASB Code Metric Response
+TC-HW-430a.1 Tier 1 suppliers’ (1) non-conformance rate with the RBA Validated Audit Process (VAP) or 
+equivalent, and (2) associated corrective action rate for (a) priority non-conformances and  
+(b) other non- conformancesIn our FY21 audits, a total of 254 issues were identified, including 14 critical, 139 major and 
+101 minor. Of the critical and major issues, 89% were closed within the target time, nearing our 
+target of 95% by FY25.  
+Nonconformance Category T op 7 Instances Identified in FY21
+Emergency Preparedness and Response 37
+Working Hours 33
+Wages and Benefits 10
+Occupational Safety 9
+Chemical and Hazardous Materials 7
+Occupational Injury and Illness 5
+Food, Sanitation and Housing 5
+Materials Sourcing
+SASB Code Metric Response
+TC-HW-440a.1 Description of the management of risks associated with the use of critical materials Sonos relies on third-party platforms and partners to identify and manage risks associated 
+with the use of critical materials. As risks are identified, Sonos works with our supply chain to 
+reformulate raw materials, or to identify alternative materials, parts or suppliers as needed. 
+Activity Metric
+SASB Code Metric Response
+TC-HW-000.A Number of units produced by product category Sonos sold 6.5 million products in FY21.
+TC-HW-000.B Area of manufacturing facilities (square feet) Sonos does not currently track this information. 
+TC-HW-000.C Percentage of production from owned facilities Sonos does not own any production facilities.
+2021 Listen Better Report31Household & Personal Products 
+Water Management  
+SASB Code Metric Response
+CG-HP-140a.1 (1) T otal water withdrawn, (2) total water consumed, percentage of each in regions with  
+High or Extremely High Baseline Water StressNot reported.  
+CG-HP-140a.2 Description of water management risks and discussion of strategies and practices to  
+mitigate those risksAlthough our business is not water intensive, we aim to conserve water whenever possible, 
+including at our offices.
+Product Environmental, Health and Safety Performance 
+SASB Code Metric Response
+CG-HP-250a.1 Revenue from products that contain Registration, Evaluation, Authorisation and Restriction  
+of Chemicals (REACH) substances of very high concern Not reported. As part of Sonos Product Sustainability Program, there is ongoing work to 
+address changes in: REACH, the Restriction of Certain Hazardous Substances (RoHS), 
+Department of T oxic Substances Control and the Environmental Protection Agency. Sonos is 
+also working toward the migration to halogen-free products.  
+CG-HP-250a.2 Revenue from products that contain substances on the California DTSC Candidate  
+Chemicals ListNot reported. As part of Sonos Product Sustainability Program, there is ongoing work to 
+address changes in: REACH, the Restriction of Certain Hazardous Substances (RoHS), 
+Department of T oxic Substances Control and the Environmental Protection Agency. Sonos is 
+also working toward the migration to halogen-free products.  
+CG-HP-250a.3 Discussion of process to identify and manage emerging materials and chemicals of concern Sonos relies on third-party platforms and partners to monitor emerging global regulations, 
+standards and requirements. As new materials and chemicals of concern are identified, we 
+work with our supply chain to ensure substitutions are made where necessary.  
+CG-HP-250a.4 Revenue from products designed with green chemistry principles Sonos does not track its product revenue against green chemistry principles.  Sustainability Accounting Standards Board (SASB) Index  
+2021 Listen Better Report32Sustainability Accounting Standards Board (SASB) Index  
+Packaging Life Cycle Management 
+SASB Code Metric Response
+CG-HP-410a.1 (1) T otal weight of packaging, (2) percentage made from recycled and/or renewable materials 
+and (3) percentage that is recyclable, reusable and/or compostableIn FY21, we achieved 94%  responsibly sourced packaging paper, which is made from either 
+post consumer recycled, FSC-certified or plant based fiber paper. Our total weight of paper in 
+our packaging was 9,788.1 metric tons, with 9,191.6 metric tons responsibly sourced.   
+CG-HP-410a.2 Discussion of strategies to reduce the environmental impact of packaging throughout its  
+life cycleWe’re designing our packaging to reflect our responsibility to the planet. This means continuing 
+to move toward sustainable paper and away from plastics. Our goal is to use 100% responsibly 
+sourced paper for our packaging by FY25. This means the paper is either PCR (post consumer 
+recycled), FSC-certified (Forest Stewardship Council) or recycled plant-based fibers.
+Environmental & Social Impacts of Palm Oil Supply Chain
+SASB Code Metric Response
+CG-HP-430a.1 Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable  
+Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance or  
+(d) Book & ClaimNot applicable. 
+Activity Metric
+SASB Code Metric Response
+CG-HP-000.A Units of products sold, total weight of products sold Sonos sold 6.5 million products in FY21.
+CG-HP-000.B Number of manufacturing facilities Not reported.

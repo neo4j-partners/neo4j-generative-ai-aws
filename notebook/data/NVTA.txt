@@ -1,0 +1,788 @@
+ESG Report
+March 2021
+1INTRODUCTION  2
+From Our CEO 2
+Our Approach to ESG 4
+Governance of ESG 5
+Board Diversity and Independence  5
+OUR COMMITMENT TO THE ENVIRONMENT 6
+Waste Management 6
+Energy Management 6
+OUR PEOPLE AND CULTURE 7
+Diversity, Equity and Inclusion 7
+Employee Engagement, Training and Development  9
+Employee Benefits, Health and Safety 10
+COVID-19 Response 11
+SOCIAL CAPITAL 12
+Corporate Philanthropy and Volunteering  12
+Patient Privacy and Data Security 13
+Access and Affordability 14
+Quality of Care and Patient Satisfaction 15
+Management of Controlled Substances  16
+Product Safety and Quality Management 17
+Open-Source Data and Intellectual Property 18
+GOVERNANCE  19
+Ethical Business Practices 19
+Supply Chain Management 20
+SASB INDEX 21
+ALIGNMENT WITH UNITED NATIONS’ SUSTAINABLE 
+DEVELOPMENT GOALS 22
+METHODOLOGY  22Table of Contents
+1
+2Invitae was founded with a singular mission: to bring genetics 
+into mainstream medicine to improve healthcare for billions 
+of people on the planet. Decoding the human genome is one 
+of humankind’s seminal scientific accomplishments. Using that 
+knowledge to improve health for all of humanity is one of our 
+greatest responsibilities. 
+Our customers — the patients and clinicians who rely on the 
+information we provide to make life-changing decisions — are 
+our central focus in everything we do. From our earliest days 
+we have believed that focusing on our customers as our top 
+priority, rather than short-term financial goals, is the best way 
+to build and operate an organization for maximum long-term 
+value creation for all stakeholders. In our decision-making, 
+we prioritize: (1) the needs of our customers, with patients 
+preeminent; (2) motivating our employees to serve our 
+patients and clinicians; and (3) building long-term stockholder 
+value. 
+It is with this sense of mission that we embark on our journey 
+to strengthen our Environmental, Social and Governance 
+(ESG) efforts. As anyone who works in healthcare knows, the 
+impacts of climate change, social inequity and the actions of 
+corporations have a direct impact on the health of individu -
+als. Making progress on ESG efforts is not a symbolic gesture 
+for us — it is central to our mission.
+While many of our efforts to further our mission and focus on 
+ESG issues have been underway for years, we have never 
+before presented them in one place. We view this, our first 
+sustainability report, as a starting point — a foundation on 
+which to build. 
+Our board of directors and I have committed significant 
+resources and talent to this journey, with leaders at both the 
+board and corporate levels focused on guiding and directing 
+our efforts to achieve progress in all these areas:From Our CEO and Co-Founder
+2
+3Environmental  issues are top of mind as we develop, assess 
+and improve our operations. As we continue to expand our 
+facilities and scale our business, we are committed to doing 
+so in a way that minimizes the environmental impact that 
+comes with it.
+Our commitment to help address Social  issues is a natural 
+outgrowth of our work to democratize genetic information. 
+Our efforts to address these issues have strengthened as 
+we’ve grown, expressed not only through affordability but 
+also through research, the services we provide and how we 
+provide them. We also believe it is essential that our team 
+reflects those we hope to serve and we prize having a com -
+pany culture of inclusion and belonging that attracts the 
+brightest minds who can help us achieve our mission. This 
+year we are further strengthening our efforts on both fronts. 
+Finally, our approach to Governance  is rooted in the idea 
+that we are here to serve patients and in so doing will benefit 
+our team and our long-term shareholders. We believe that 
+focusing on what is best for patients, rather than on short-
+term financial goals, is the best way to build and operate 
+an organization that provides benefits for society and deliv -
+ers maximum long-term value creation. We will continue to 
+prioritize governance that is aligned to and holds our team 
+accountable for progress on our commitments.
+As you read through the pages that follow, we hope you will 
+come away with a rich understanding of the many ways we 
+have infused these values into our daily operations. Our com -
+pany is growing quickly, and we expect progress on our ESG 
+efforts to keep pace. We appreciate your interest in learning 
+about our work on these issues and look forward to sharing 
+more in the years to come.
+Best,
+Sean E. George, Ph.D. 
+CEO and Co-Founder 
+3
+Our Approach to ESG
+We were founded on four core values. Threaded through these values is a commitment to democratizing 
+genetic information so that all can benefit from it and, in so doing, improve health for all. This commitment to 
+being a force for good, dedicated to benefitting both the individual and society as a whole through our work, 
+is a touchstone as we advance and formalize our ESG efforts. 
+These core values above directly impact our ESG efforts:1
+Driving down the 
+cost of genetic 
+information 
+will increase its 
+personal and 
+clinical utility2
+Healthcare 
+professionals 
+are fundamental 
+in ordering and 
+interpreting 
+genetic 
+information3
+People should 
+own and control 
+their own genetic 
+information4
+Genetic 
+information is 
+more valuable 
+when shared
+We believe that the driving down of cost of obtaining genetic information will increase its 
+personal and clinical utility.  This is particularly true when it comes to populations and individuals 
+who have historically been left out due to the high cost of genetic testing, lack of access to a qualified 
+clinician, and often missing or insufficient health care coverage. Through a combination of dramatically 
+lowering the costs of our testing, advocacy with our partners who subsidize testing in specific patient 
+populations, and a generous patient assistance program, we have been able to expand access and 
+pledge to continue such efforts. 
+We view clinicians as critical partners in using genetic information to inform healthcare deci -
+sions for individual patients.  We have, over the years, invested heavily in streamlining our workflows, 
+standardizing the information we deliver, and offering clinical support tailored to the needs of the indi -
+vidual. For example, we provide genetic counseling services where they are not readily available, which 
+has historically affected access to genetic testing, especially for underserved populations. 
+We believe in the individual’s fundamental right to own and control their genetic information.  
+In the United States, there is a history of mistrust of the medical community by underserved populations. 
+We place a heavy emphasis on both transparency and only sharing patient data with their permission to 
+engender long-term trust in our approach. 
+And lastly,  we strongly believe that genetic information is more valuable when it’s shared (with 
+the patient’s permission) within the academic and medical community.  In our scientific and clinical col -
+laborations, we emphasize a mix of self-identified population groups in the study populations. In doing 
+so, we are generating important data that has systematically been left out of research. 
+4
+In this inaugural sustainability report we are discussing our approach to ESG as it relates to managing risks 
+and identifying opportunities in areas important to the long-term financial sustainability of our business. You 
+will find Environmental, Social and Governance factors addressed in the content areas the Sustainability 
+Accounting Standards Board (SASB) has identified as most relevant to our industry. We have also included 
+other areas that we consider important for a broader set of stakeholders, such as our patients, physicians, 
+payers, employees and the broader community.
+To address our impact on the wider world and shared global sustainability priorities, we have identified 
+the United Nations Sustainable Development Goals (SDGs) that are most closely aligned with our business 
+activities. 
+Governance of ESG
+The governance of sustainability starts with our Board of Directors. The Nominating and Governance 
+Committee of the board reviews the overall adequacy of our CSR (Corporate Social Responsibility) and 
+ESG (Environmental, Social and Governance) strategy, initiatives and policies, including communications 
+with employees, investors and other stakeholders.
+The responsibility for implementing our ESG strategy and the day-to-day management has been dele -
+gated by the board to the ESG Steering Committee, a cross-functional group that meets monthly and 
+reports to the board quarterly. The functions represented on the ESG Steering Committee are:
+• Talent Operations
+• Facilities
+• Finance
+• Legal, and 
+• Communications
+One of our directors with a background in environmental sustainability serves on the Nominating and 
+Governance Committee and acts as the liaison between the board and the ESG Steering Committee.
+Board Diversity and Independence
+We believe it’s important that our leadership reflects our social values, including the diversity of our 
+board. Out of our seven directors, three are female and two are from ethnic minorities. We also believe 
+in a largely independent board. Five of our seven directors are independent, as defined under the NYSE 
+rules, and our board chair is one of the independent directors.
+For additional information, please see our Proxy Statement  and Governance documents .
+5
+We are committed to protecting the environment and reducing the footprint of our business operations 
+through proper waste management and increased energy efficiency. We understand the impact of our 
+operations and recognize that our environmental commitment dovetails with our vision of improving 
+healthcare affordability and accessibility. Our Commitment to the Environment
+Waste Management
+Our waste management initiatives are centered on 
+our desire to take sustainable actions and prevent 
+harmful waste from entering the environment. 
+We are committed to responsibly disposing of 
+hazardous and medical waste and diverting 
+recyclable waste, including plastics, from landfills. 
+All hazardous and medical waste produced by 
+our lab operations are subject to strict regulations, 
+which we comply with carefully. We have policies 
+and standard operating procedures (SOPs) for 
+Medical and Hazardous Waste Management. 
+We track and categorize our hazardous waste by 
+type, volume and how it’s disposed. Additionally, 
+over 80 percent of our plastic waste that is not 
+hazardous or medical is directly recycled and 
+diverted from landfills. 
+We encourage our employees to responsibly 
+sort their waste by labeling waste bins and 
+posting recycling signage, further supported by 
+janitorial sorting efforts. At our largest office and 
+production facility in San Francisco, a waste audit 
+conducted by a third-party concluded that we 
+are in compliance with the City of San Francisco’s 
+mandatory recycling and composting law. Our 
+San Francisco facility on average diverts over 
+60 percent of our waste from landfills through 
+recycling and composting. We are building on the 
+success of this effort to expand recycling in our 
+other facilities in 2021.Energy Management
+We are continually improving our energy efficiency 
+and reducing our electricity usage. Our facilities 
+in California are equipped with high-efficiency 
+equipment to minimize our electricity usage. We 
+monitor our energy usage to continuously upgrade 
+our systems and stay up to date on energy-saving 
+measures.
+Our largest office and production facility in San 
+Francisco is a leased building that has a LEED 
+Gold certification and several significant energy 
+reduction features, including energy efficient 
+lighting fixtures, sophisticated lighting control 
+systems and occupancy sensors throughout the 
+office space. We also prioritize purchasing 
+high-efficiency equipment for our facilities, IT 
+systems and laboratories. Our HVAC technology 
+is equipped with energy saving features such as 
+monitorable and adjustable units, night setback 
+controls and economizers. We have daily and 
+weekly energy reporting for our California 
+production facilities which enables us to revise 
+energy management plans and implement system 
+upgrades. 
+6
+The strength of our team and the culture in which we work is essential to our ability to achieve our broader 
+mission. Attracting, developing and retaining exceptional employees is vitally important to us, and we also 
+invest deeply in creating a differentiated culture for our team that enables continuous innovation at scale.
+ 
+See our career  webpage for more information about our culture.
+Diversity, Equity and Inclusion
+We want to be a force for good, a team that is helping make genetics and healthcare equally accessible to 
+all. Ensuring we are doing what we can to address inequality is not separate from our mission, it is essential 
+to it. 
+In 2020 we established a new Diversity, Equity and Inclusion (DEI) roadmap. Our vision is to cultivate a place 
+where we all belong. Our DEI mission is to engage, develop and retain talent from diverse backgrounds by 
+fostering community, providing education and support, and advancing inclusive research and health equity 
+globally.Our People and Culture
+7AMPLIFYING DEI AT INVITAE
+DIVERSITY
+All the ways in which 
+people differ.EQUITY
+Equal treatment, 
+acces s, opportunit y, and 
+advancement for all 
+people.INCLUSION
+Organizational efforts 
+and practices in which 
+all individuals are 
+valued and accepted.
+BELONGING
+Diversity, Equity, and Inclusion culminate in a sense of belonging. Belonging is 
+when we feel connected to each other and can empathize with others such that we 
+are all able to be our full selves.OUR CULTURE IS BUILT ON SIX CORE TENETS  
+1| 2| 3|
+4| 5| 6| Team above the 
+ individual
+ Grit Radically honest 
+ communication
+ Transparency and 
+ data-informed action Freedom with 
+ accountability
+ A sense of urgency
+We are weaving the fabric of a diverse and inclusive culture with rich DEI programs, tools and resources, 
+driving involvement and accountability with a focus on metrics-driven decision-making and action.
+The roadmap starts with our current baseline and we’re looking to build on our progress to date and achieve 
+a more equitable representation throughout our entire team — at all levels and in all functions and in all 
+offices. 
+*Invitae and legacy Archer combined  *Does not include legacy Archer2020 INVITAE TURNOVER RATE* 
+14%
+Male 50%|Female 50%
+2020  INVITAE SELF-IDENTIFIED EMPLOYEE ETHNIC/DIVERSITY BREAKDOWN**
+White 58.7%
+Hispanic or Latino 8.2%
+Asian 20.3%
+*Native Hawaiian or other Paciﬁc Islander 0.3%, American Indian or Alaska Native 0.3%, Not Hispanic or Latino 0.1%
+**Does not include legacy ArcherTwo or more races
+(not Hispanic or Latino) 4.7%Black or 
+African American 3.8%Not known 3.6%Other 0.7%*2020 INVITAE TOTAL NUMBER OF EMPLOYEES* 
+Approximately 2,100
+Male 45%|Female 55%
+8
+We are collecting and analyzing our data and plan to roll out programs in 2021 to improve upon our 
+diversity — in hiring, in promotions, in pay, especially in our engineering and management ranks. 
+Our hiring process has been designed to provide an equitable candidate experience, facilitate the inclusion 
+of new perspectives, foster innovation and creativity, and leverage technology and data analytics to address 
+gaps in representation.
+Our talent management toolkit includes resources to address challenges arising from underrepresentation, 
+inequality and exclusion. We’ve introduced several programs that offer practical support to our team:
+Our efforts are aimed at creating a workplace where it is safe and natural for employees to stretch, rebuild, 
+and evolve professionally and personally.
+Employee Engagement, Training and Development
+We empower our employees to own their career path and seek out training programs to take them to the next 
+level. We are currently in the process of developing a structure of growth opportunities and ways to under -
+stand and communicate development pathways. We have also invested in our training and development 
+programs and infrastructure covering three primary areas:• Unconscious Bias Training  for our entire team, with the first training sessions held in 
+ the fall of 2020. Our plan is to have all of our employees complete this training by the 
+ end of 2021.
+• Employee Resource Groups (ERGs)  are affinity groups in which employees join 
+ together in the workplace based on shared identities or life experiences. 
+• Community Table Talks  are a series of informal conversations to encourage 
+ authentic discussion on topics of concern, such as mental health and allyship. These 
+ sessions are attended by teammates from throughout the company, including active 
+ participation from members of our management and extended leadership teams.
+1. Compliance training, including Environmental Health and Safety, Privacy and HIPAA,
+ Medicare Compliance, Sexual Harassment, Foreign Corrupt Practices Act, Fraud 
+ and Abuse.
+2. Information Security Training.
+3. Learning and Development training designed to create a cohesive, connected, 
+ inspired workforce and to create an environment where every person has the support 
+ and tools to show up ego-free with our mission and patients in mind. The programs 
+ offered include Leadership, Mentorship and Coaching programs.
+9
+We host monthly panels where our leaders discuss a variety of challenges faced by all leads (managers). The 
+format is less prescriptive and theoretical and relies heavily on experience and real scenarios.
+We also offer each individual team the opportunity to identify training required for technical skills and 
+arrange for that training through outside certification programs, boot camps and conferences.
+Performance Management
+In keeping with our commitment to creating a differentiated, equitable place to work, we have developed our 
+own performance management system unique to our culture. Everyone, including the management team, can 
+give and receive continuous feedback regardless of seniority, experience or level. 
+Our system was designed to create a more egalitarian workplace creating more opportunities for “quiet lead -
+ers” in key positions and an incentive to be the best teammate possible cross-functionally. 
+Ultimately, it allows us to make data-informed decisions about how we operate as individuals, as teams, and 
+as an organization, and we believe it contributes to low attrition.
+Employee Engagement
+As part of our commitment to data-driven decision making, we conduct an ongoing monthly survey that asks 
+our teammates three key questions: how they feel about the company’s direction, what’s going well, and 
+what’s not going well. We’ve been asking these questions consistently for several years so we can quickly 
+identify trends as they emerge.
+This combination of ongoing pulse surveys to help detect timely changes in team morale and engagement, 
+and occasional deep dives for a more complete picture, allows our management and the Talent Operations 
+function to better understand team dynamics and make changes to policies, benefits and organizational struc -
+ture to respond to current challenges. It allows us to quickly gather feedback on what’s working and what’s 
+not. 
+Employee Benefits, Health and Safety
+We have a remote-first organization that enables our non-lab-based employees to work from anywhere. Even 
+prior to the COVID pandemic, a large portion of our team, including several members of our management 
+team, worked remotely. 
+We invest in our people and promote a balance of flexibility with accountability and generally offer flexible 
+working hours, opportunities to work remotely to the majority of our employees, flexible time-off with no set 
+limits and an excellent family leave policy. 
+10
+We have a culture of freedom with accountability, which includes trusting our employees and not setting limits 
+for paid time off and parental leave (maternity and paternity). These policies, along with part-time and flexi -
+ble schedules, have resulted in an over 95 percent return rate after parental leave.
+Generous mental health benefits are offered as part of our employee benefits package. We treat all mental 
+health providers as in-network for our self-insured plan, removing the barrier to actually getting help. In 2020 
+we implemented “Recharge Days” to encourage employees to regularly take time to unplug and disconnect. 
+As we work to better integrate regular “recharging” (companywide recharge days) into our culture, for now 
+we are asking employees to take the time they need, whether that’s a few days, one day or an afternoon.
+We rely primarily upon full-time workers but allow employees to determine if a part-time schedule is more 
+appropriate for them. We engage temporary workers as appropriate, most often to support groups when 
+employees are on leave, to augment existing staff during busy periods, or on a temp-to-perm basis to assess 
+workers for a probationary period. 
+COVID-19 Response
+We are committed to maintaining and improving the health and safety of our employees throughout the 
+pandemic. We established a Crisis Management Team that, along with the EH&S Administrator, comprise 
+the Steering Committee for pandemic response. 
+All our production facilities have remained fully operational during COVID-19 as we are considered an essen -
+tial healthcare provider. When the pandemic hit, we reviewed practices in our laboratories and offices to 
+ensure we took the steps necessary to keep our team healthy and to continue delivering for the patients who 
+rely on our diagnostic testing. Our response has evolved as the situation has evolved. Among the steps we 
+have taken:Employee Health and Safety
+We are a College of American Pathologists (CAP)-accredited and Clinical Laboratory Improvement 
+Amendments (CLIA)-certified clinical diagnostic laboratory. As a leader in advanced medical genetics 
+we are compliant with all local, state and federal regulations. Our San Francisco site is our primary 
+clinical laboratory facility for processing patient samples. 
+As per our Code of Business Conduct and Ethics , all employees have responsibility for maintaining a 
+safe and healthy workplace for all other employees by following our safety and health rules, policies 
+and practices and reporting accidents, injuries and unsafe equipment, practices or conditions. 
+We also have a number of policies and Standard Operating Procedures (SOPs) relating to health and 
+safety, including injury and illness prevention, emergency action, chemical hazard identification and 
+ergonomics. The SOPs are controlled by our Quality Group, reviewed annually and signed off by 
+Quality, Facilities and the Laboratory directors and personnel. Our health and safety program also 
+includes consent forms, employee safety reports, incident investigations and injury logs. 
+We provide extensive training both when employees join and then at regular intervals to educate and 
+protect our employees and ensure compliance. We require annual laboratory and all-hands training, 
+general Employee Health and Safety (EH&S) courses for all employees and contractors, and custom 
+EH&S courses for laboratory personnel. 
+11
+In August 2020 we partnered with the Kellogg Business School at Northwestern University for a survey to 
+better understand the impact of the COVID-19 pandemic on how we work together, including trying to quan -
+tify burnout and disengagement. The responses informed our actions and continued response to the pandemic 
+throughout the fall.
+We operate in the healthcare industry, so public trust is paramount to our business. We build this trust through 
+community involvement and philanthropy, being ethical and transparent in our business practices, protecting 
+our patients’ privacy, and delivering safe, accessible and affordable products and services.
+Corporate Philanthropy and Volunteering
+We encourage our employees to be involved in non-profit organizations in their local communities, and to 
+support philanthropic efforts at work as well. 
+We primarily leverage our Employee Resource Groups (ERGs) for our community involvement and volunteer 
+efforts. One of the purposes of an ERG is to be in service of others as an extension of the community. For 
+example, our veterans group joined to rebuild a veteran’s house and our African-American ERG hosted a 
+Genetic Counselor workshop for Hampton University’s freshman biology students. This group is also organiz -
+ing a research lab mentorship program with Hampton University students, augmenting Hampton’s research on 
+breast and prostate cancers in minority communities.
+Local community efforts have focused on supporting the homeless and public education through activities 
+such as volunteering at local shelters and schools, food and clothing drives, and raising funds for non-profit 
+groups. We’ve also introduced students to genetics through lab tours and genetic counseling educational 
+sessions. 
+Team members also participate in events and conferences that promote and support science, technology, 
+engineering and mathematics (STEM) careers in underrepresented communities. We participate annually in 
+several events including: Grace Hopper, the world’s largest gathering of women technologists; AfroTech, one Social Capital• Early in the pandemic we staggered employees’ schedules when possible. We reimbursed for local
+ accommodations and transportation to minimize travel for employees.
+•  We instituted a health questionnaire which all persons must complete satisfactorily before entering 
+ our buildings. 
+•  We changed our workstation set up and distancing to ensure space and erected physical barriers 
+ as needed. 
+•  We provided face masks and personal protective equipment and have a “masks required” policy in 
+ our facilities.
+• We increased cleaning schedules and followed CDC protocols for healthcare facilities that were 
+ established for the Ebola crisis as a model.
+• We created our own in-house COVID testing to ensure high-quality, rapid-turnaround testing and 
+ results for all employees who must come on site. 
+12
+of the largest multicultural tech conferences in the United States; Lesbians Who Tech & Allies Summit, sup -
+porting LGBTQ, non-binary and trans individuals in and around tech; 100 Black Men, the nation’s top African 
+American-led mentoring organization; and Nova12SF supporting breast cancer care for the underserved at 
+Chan Zuckerberg SF General Hospital.
+Additionally, we have donated to several hospitals and health systems and participated in various grants 
+to support the growing field of genetic counseling, which is largely made up of women pursuing a career in 
+science and medicine. We are particularly proud of the Heart of Genetic Counseling Awar d that we present 
+in partnership with the National Society of Genetic Counselors (NSGC) at their Annual Meeting. This award 
+honors excellence in patient care and pays tribute to distinguished genetic counselors who provide excep -
+tional and irreplaceable care to families dealing with major health challenges. 
+Patient Privacy and Data Security
+Ensuring that people own and control their genetic data has been one of our core principles from the very 
+beginning. We are committed to the privacy and security of all Protected Health Information (PHI) we create, 
+receive, use, disclose and transmit. Our privacy practices  are explained within our Notice of Privacy Practices 
+and Privacy Policy  on our website.
+As part of risk oversight, our board oversees patient privacy and data security and receives a quarterly 
+update from the Chief Digital Officer and the Data Privacy Officer.
+Our Data Privacy Officer reports to the General Counsel and Chief Compliance Officer and is also part of 
+our Data Use Committee (DUC), working closely with our Head of Security and Compliance on data secu -
+rity and privacy breach responses. The committee’s work is focused on data usage and sharing activities 
+with the lens on privacy and regulatory compliance based on HIPAA, CLIA, GDPR (General Data Protection 
+Regulation), Common Rule and other such domestic and foreign rules. 
+As a provider of clinical genetic testing services, we are a “covered entity” subject to the HIPAA Privacy 
+Rule, Security Rule and Breach Notification Rule. Our Privacy and Security Compliance Program is subject to 
+inspection by the Secretary of Health and Human Services (HHS) and the Office of Civil Rights (OCR) for the 
+purpose of complaint investigation and monitoring of our compliance with the three rules. We experienced 
+two “security incidents” in 2020 which we are required by law to report and for which we sent out breach 
+notification letters to potentially impacted individuals (fewer than 50). While the risk of harm to individuals 
+(e.g., identify theft risk) in both incidents was deemed to be low, we determined it was appropriate to notify 
+these individuals. No legal proceedings have resulted or are anticipated to result from these incidents.
+13
+We take a holistic approach towards information security with an equal focus on both its critical components 
+— the people and the computing environment — to safeguard and protect customer data. Our Privacy and 
+Security Compliance Program is reviewed and updated annually.
+We have a HITRUST  Certification for our core applications and facilities and we are planning to expand the 
+certification for the various acquired companies/applications and peripheral capabilities. 
+Cybersecurity Training and Awareness
+Employees receive privacy and security training when they join the company and annually thereafter. Topics 
+covered include the regulatory landscape, an in-depth HIPAA review, privacy principles, Ransomware, Clean 
+Desk Policy and using multi factor authentication, amongst others. 
+We conduct separate and regular Phishing training and exercises, and we update the Security Training and 
+Phishing program on an ongoing basis.
+Employees, independent contractors and business associates are required to follow policies and procedures 
+and report any process failures or disclosures. Any employee who fails to follow the policies or procedures 
+will receive a warning, retraining and/or disciplinary action up to and including termination of employment 
+and the notification of authorities. 
+Access and Affordability
+One of our founding principles is accessible, affordable genetic testing, so we work to drive down the price 
+of quality testing to increase its clinical and personal utility. We aim to make high-quality genetic testing 
+affordable and accessible to everyone. We have helped improve care for more than one million patients and 
+their providers by driving down the cost of reliable, comprehensive and actionable genetic testing.
+We accept insurance payments from most providers and we are in network for over 315 million people. We 
+have a financial assistance program for individuals in the United States who meet certain financial and clin -
+ical criteria. We have affordable patient pay prices, reduced out of pocket charges for insured patients by 
+charging insurers lower prices, price transparency that our competitors do not provide, and have advocated 
+with legislators and regulators for lower, more consistent and more transparent pricing. 
+14
+We have pioneered unique, multi-company collaborations to expand access to genetic testing for patients. 
+Our sponsored testing programs provide genetic testing at no charge to the patient with the cost of the testing 
+sponsored by a number of healthcare companies. The largest initiative is our Behind the Seizure epilepsy test -
+ing program which provides no-charge testing for any child under the age of eight who has one unprovoked 
+seizure. This is just one of more than 140 sponsored, no-charge testing programs we offer in various clinical 
+areas, including nephrology, neurology, oncology, ophthalmology, skeletal and urology, to make genetic 
+testing more accessible to everyone who can benefit from it.
+We also collaborate on clinical trial research that addresses well-documented disparities in the availability 
+and use of genetic information by underserved minorities in the United States. We are part of the Electronic 
+Medical Records and Genomics ( eMERGE ) Network, a National Institutes of Health (NIH)-organized and 
+funded consortium of U.S. medical research institutions, that includes ten clinical sites that will recruit and 
+genotype up to 25,000 individuals. eMERGE is committed to include 35% or more of patients from racial or 
+ethnic minority populations, underserved populations, or populations who experience poorer medical out -
+comes at half the sites and 75% or more at the other half. We are a clinical affiliate member and will provide 
+high-quality genetic screening for hereditary disease risk, access to digital and print educational materials, 
+clinical support, and access to a clinical consult service. Through our participation, we aim to generate data 
+to help guide appropriate and preventive medical care for participants and elucidate the clinical utility of cer -
+tain variants in the practice of genomic medicine.
+We are active advocates of remote access and telehealth generally, especially during the COVID-19 pan -
+demic. In 2020 we introduced expanded services and support for the transition to telehealth across customer 
+types, including new capabilities for our advanced clinical chatbot, increased support for the use of at-home 
+testing, and professional education and support for clinicians transitioning to telehealth. These services reach 
+underserved and remote populations who have been disproportionately impacted by the pandemic and are 
+many of the same populations who have a hard time getting access to healthcare. We support making the 
+Medicare rules that allow for reimbursement for remote consultation permanent, and we advocate for stream -
+lining licensing rules for professionals (like genetic counselors) to facilitate delivery of services to underserved 
+populations.
+Quality of Care and Patient Satisfaction
+Our industry-leading laboratories are equipped with highly advanced technology that delivers accurate and 
+reliable information — quickly and at an affordable price. 
+As examples of our focus on quality, we are a College of American Pathologists (CAP)-accredited  and 
+Clinical Laboratory Improvement Amendments (CLIA)-certified  clinical diagnostic laboratory. We meet or 
+exceed all the standards of CAP and CLIA. We comply with federal and local requirements for clinical The use of telemedicine is increasing in response to the 
+current public health climate. We are bringing solutions 
+to clinicians and patients that offer flexibility and allow 
+clinical care to continue. Gia, our virtual genetic infor -
+mation assistant, is a HIPAA-compliant clinical chatbot 
+designed in partnership with genetic counselors. She pro -
+vides the framework for a telemedicine-friendly genetic 
+testing workflow.
+15
+laboratories. Some states require specialized licensure, and we have approval from states requiring specific 
+licenses for testing, including California, Maryland, New York, Pennsylvania and Rhode Island. Copies of our 
+licenses are accessible on our website here.
+Our commitment to quality also includes testing backed by peer-reviewed studies  showing 100% analytic 
+sensitivity and specificity compared to historical hereditary cancer genetic testing laboratories.
+We believe that genetic counseling is important for patients considering genetic testing. Our team of experi -
+enced, board-certified  professionals trained in medical genetics is available to assist clinicians and patients. 
+Patients being tested for cancer and other diseases or accessing proactive health screens and reproductive 
+health testing also have the option to schedule a more comprehensive post-test genetic counseling session 
+specific to their own medical and family histories. There is no additional charge for patients to access our 
+services.
+We aspire to meet and exceed national standard-of-care guidelines. A link to a satisfaction survey is emailed 
+to all patients 24 hours after completing their genetic counseling session. In our last survey period in 2020, 
+we had a 22% response rate with 96% of respondents agreeing that the counselor helped them identify what 
+they needed to know to make decisions about what might happen based on the genetic test results. An analy -
+sis of patients’ free-text comments shows that 43% of patients provided a comment and 86% of the comments 
+were positive, with 7% negative and 7% neutral.
+We are transparent about what the benefits of genetic testing are, but we also disclose the detailed limita -
+tions of a genetic test and analysis. Our gene-specific results guides  make it easier for patients by providing 
+information about specific results, related conditions and next steps. The guides were developed by experts 
+and are based on standard medical management guidelines and published data. Several of our team mem -
+bers have received the “Champion of the Disability Community Group Award” from the NIH for their work 
+with the Down Syndrome Registry and improving the patient experience. 
+We also have a patient helpline, where calls can be escalated to a genetic counselor all the way up to the 
+Chief Medical Officer.
+Management of Controlled Substances
+We do not handle any controlled medical substances or prescribe any medication to patients. On the 
+contrary, we advocate for increased use of pharmacogenetics to reduce the prescription of controlled 
+substances. Pharmacogenetics is a growing field that uses genetic markers to optimize drug and dose 
+selection for patients. 
+The use of pharmacogenetic testing improves the likelihood of pain relief, without the added risk of drug 
+dependency, by identifying how patients will respond to various drugs. Patients with unmanaged phar -
+macogenetic variations are up to three times more likely to die of an opioid overdose or end up in opioid 
+dependency treatment. 
+We fully support pharmacogenetics and will continue advocating for genetic testing to become more 
+widely adopted in order to decrease unnecessary controlled substance use.
+To learn more about this field and the work being done in our divisions YouScript and Genelex, an over -
+view of our pharmacogenetic services for healthcare providers can be found here along with a list of 
+impacted medications, including opioids prescribed for pain management, available here.
+16
+Product Safety and Quality Management
+We are committed to providing products and services that are safe, medically relevant, and have the appro -
+priate controls to prevent a false positive or false negative or any clinically relevant errors that could have an 
+impact on patient care.
+The foundation is our robust Quality Management System built on ISO quality principles and continuous 
+improvement. There are four aspects to our quality system: Quality Leadership, Quality Control, Quality 
+Assurance and Quality Improvement.
+To complement our Quality Management System, we have a comprehensive incident reporting framework 
+which includes investigation, documentation, review and escalation, and monitoring. This program is overseen 
+by our Medical Affairs team and incorporates incident data, patient complaints, and audit results. 
+Our response to deviations, incidents, complaints and escalated issues focuses on our service to our clients 
+and their patients. A team of cross functional leaders, including Operations, Medical and Quality, are 
+involved in the review. Negative trends or significant events feed into our Process Improvement Pipeline.
+Our reporting system allows us to address immediate problems and also analyze data and trends over time, 
+including frequency and where in the process it occurred, in order to identify any systemic issues as well as 
+root causes. Each incident is categorized based upon severity and we follow guidelines and regulations from 
+the U.S. Food and Drug Administration and other agencies regarding incident reporting.
+If the root cause analysis from the incident report system points to a quality issue in the supply chain, we 
+launch an investigation and our supplier corrective actions (SCAR) protocol is deployed. We are proactive 
+with upfront raw material testing and lot control, as well as additional quality controls (QC) throughout the 
+process.
+17LeadershipImprovem
+entControlAssuranceINVITAE’S QUALITY SYSTEM DESIGN
+Adherence to ISO quality principles prepares Invitae to embrace the future of 
+the FDA and International requirements
+Quality Leadership
+• Supported by Leaders
+• Medical Director 
+ Oversight
+• Independent Quality
+ Team
+Quality Improvement
+• Incident Management
+• Corrective & Preventive 
+ Actions
+• Complaint Management
+• Process ImprovementQuality Control
+• Document Controls
+• Training & Competency
+• Equipment Controls
+• Verification & Control 
+ of Materials
+• Change Control
+• Design Control
+Quality Assurance
+• Internal Audits
+• Management Review
+• Performance Monitoring
+Employee Training and Awareness
+All of our employees are required to identify, document and report any incident or complaint which impacts 
+or potentially impacts (near miss) the quality of test results or a negative impact on client satisfaction. This 
+includes any non-conformance that involves a violation of privacy (HIPAA or international privacy) regula -
+tions. They are also required to assist in the investigation and resolution as required.
+We provide a number of different types of training for our employees and our regulatory agencies have spe -
+cific requirements for both training and competency assessment. Training is often linked to a specific approved 
+procedure. For employees performing regulated tasks within the Quality Management System, there is a 
+mandatory competence assessment within the first six months of employment and annually thereafter. 
+Open-Source Data and Intellectual Property
+One of the core principles that we were founded upon is that genetic information is more valuable when 
+shared. We believe that the practice of patenting individual genes, along with patenting tools and methods 
+specific to individual genes, has impeded the progress of the genetic testing industry beyond single gene tests 
+and is antithetical to our core principle that patients should own and control their own genomic information.
+We continue to educate legislators and regulators about these issues ( testimony , answers ). 
+We do not currently have any patents or patent applications directed to the sequences of specific genes or 
+variants of such genes, nor do we rely on any such in-licensed patent rights of any third party. Unlike pat -
+ents directed to specific genes, we do rely upon, in part, patent protection to protect technology that is not 
+gene-specific and that provides us with a potential competitive advantage as we focus on making comprehen -
+sive genetic information less expensive and more broadly available to our customers.
+We believe data is more valuable when shared, which is why we are the largest provider of genetic informa -
+tion to ClinVar, an NIH-funded, freely accessible, public archive of reports of the relationships among human 
+variations and phenotypes. The American Medical Association House of Delegates passed a resolution in 
+2013 explaining that making this data available is a public health need. We concur. The ClinVar database is 
+designed to centralize genetic code information and, as of August 2020, we have submitted nearly 400,000 
+of the 1.3 million records. We contribute variants to the database approximately every six months. Once 
+variants are in the database, ClinVar laboratories can collaborate and share the evidence—a critical part of Recall Management and Reporting
+Our preparedness includes risk monitoring and emergency action plans to respond to incidents. 
+Our escalation team is comprised of senior management, functional leaders including the head of 
+Operations, Clinical Laboratory, Customer Service and Quality Management. Any incident that falls into 
+the category of patient safety goes to our emergency response team, the team responsible for coordinat -
+ing the response with the investigation team, Legal and Customer Service.
+Our team for customer communication and contact process determines the appropriate outreach and 
+message, including whether there is a need for an individual response from our medical director or if 
+there’s a need for a broader customer service notification. 
+We monitor and track any incidents as required by regulations, including corrected reports (for exam -
+ple, where the name was misspelled) and amended reports (where the clinical result was updated). We 
+monitor this at each of our facilities and review the information monthly with the leadership team. Senior 
+Management reports on incidents and the response to the Board of Directors quarterly.
+18
+Ethical Business Practices
+Our Board of Directors has adopted a Code of Business Conduct and Ethics  that applies to each of our direc -
+tors, officers and employees. The code addresses various topics, including compliance, conflicts of interest, 
+insider trading, competition and fair dealings, and payments or gifts from others. The code also includes how 
+to report matters and procedures to deal with concerns, including via an anonymous whistleblower hotline.
+We provide the following annual education and training to employees related to compliance, fraud preven -
+tion and anti-corruption:
+This training is in addition to HIPAA, Medicare fraud and employee safety training for regulatory compliance 
+overseen by our compliance training group, as noted above.
+Fraud Prevention
+We are subject to specialized fraud and abuse laws that govern how we deal with our customers (patients 
+and clinicians). The board through its general risk oversight is ultimately responsible for adhering to these reg -
+ulations. The Chief Compliance Officer and Compliance Committee handle a variety of topics such as fraud 
+and abuse. Internal Audit also is responsible for risk oversight and reports to the chair of the Audit Committee 
+and regularly to the full board.
+We comply with various U.S. and international fraud and abuse laws, including the U.S. FCPA, as well as 
+other regulations by various federal, state and local authorities. As noted above, we do extensive training for 
+our employees on these issues, especially the salesforce. Governance
+• General healthcare compliance training module taken by all employees upon hire and then annually, 
+ covering billing concepts, fraud and abuse laws, and lab compliance, among other topics
+• Fraud and abuse education session provided live to the sales team annually, with a modified session 
+ for the enterprise software, collaborations and marketing teams
+• Foreign Corrupt Practices Act (FCPA) online education required for team members who work on 
+ ex-U.S. matters, including the ex-U.S. sales team, client services, partnerships, quality/regulatory, lab, 
+ finance and legal
+• One-off trainings throughout the year educating the commercial and other teams about relevant 
+ regulatory agency advice, agency settlements and litigation outcomes laboratory control, and, by sharing data, the science of genetics is propelled forward. We have consistently 
+been ranked as a top performer on the ClinVar data site . 
+Finally, we are major collaborators with researchers across the world in the Multiplex assays of variant effect 
+(MAVE ) and Impact of Genomic Variation on Function ( IGVF) Consortium efforts designed to characterize 
+variants through powerful new functional assays and make the results freely available to researchers, clinical 
+laboratories and clinicians.
+19
+Pricing and Billing Transparency
+We aim to be transparent to health providers and patients about pricing and billing practices. Our patient 
+self-pay price is generally lower than what we charge health providers and insurance companies.
+We have taken a public policy approach to advocate for coding simplification and the elimination of what 
+we see as abusive billing practices in the industry.
+We ensure our coding and billing is correct, adheres to the U.S. Centers for Medicare & Medicaid Services’ 
+(CMS) National Correct Coding Initiative program manual and reflects the services provided at the most 
+appropriate reimbursement rate, rather than stack codes for individual genes to charge a higher rate as many 
+of our competitors do. We have offered to partner with CMS in mitigating wasteful Medicare spending in the 
+genetic testing industry and have submitted several letters with suggestions on how to eliminate fraud and 
+abuse ( The Future of Program Integrity , Cures 2.0 Comment Letter , FDA Comment Letter on Use of Codeine ).
+Ethical Selling Practices
+Our company prides itself on building a better product as the overarching means of competing and we focus 
+on doing the right thing for patients and clinicians. Our company maintains high ethical standards for our staff 
+and transparency is a key factor in our marketing and sales efforts.
+We receive reimbursement by Medicare and Medicaid for some of our tests. We follow applicable laws and 
+regulations on vendor relationships with healthcare professionals and maintain a company policy on how 
+to communicate and interact with them. This includes policies and processes for legal and ethical review of 
+marketing materials, as well as rules for our employees regarding entertainment and engaging with clinicians 
+for speaking events.
+Our sales team participates in regular training on ethical marketing and sales.
+Supply Chain Management
+The Quality Systems team oversees our Vendor Quality Management program, with the aim of ensuring 
+vendor quality via policies and procedures, contracts, performance monitoring and problem escalation. 
+Our supplier qualification program incorporates a risk assessment and quality agreements, with a selec -
+tion of companies on our approved supplier list (ASL). The vendor questionnaire includes areas such as 
+ISO certification, Quality Management System, change notification and complaints management, and 
+management review and audits. 
+For critical vendors we have identified alternatives and contingencies wherever possible, and we have a 
+process for supplier corrective actions (SCAR). 
+In 2020 our key focus areas have been managing vendor expectations, the process of escalating 
+complaints and the notification of changes to critical products and services. We have also focused on 
+employee training and fostering a culture of effective supplier management.
+In 2021 we plan to implement a supplier scorecard which will include key performance indices in three 
+areas — quality, speed and cost — and we are working towards ISO 15189 and 9001 certifications in 
+2021.
+20
+In developing this report, we have referenced the SASB Frameworks for the Healthcare Delivery industry. 
+According to the SASB Industry Level Materiality Map, the following categories are most relevant to compa -
+nies in our industry. In the table below, aligned with the SASB areas, are sections of our report where more 
+information can be found about our efforts in each specific area. SASB Index
+21Energy Management
+Waste Management
+Patient Privacy & Electronic Health Records
+Access for Low-Income Patients
+Quality of Care & Patient Satisfaction
+Management of Controlled Substances
+Pricing & Billing Transparency
+Fraud & Unnecessary Procedures
+Employee Health & Safety
+Employee Recruitment, Development & Retention
+Climate Change Impacts on Human Health & 
+InfrastructureEnergy Management
+Waste Management
+Patient Privacy and Data Security
+Access and Affordability, Quality of Care and 
+Patient Satisfaction
+Access and Affordability, Quality of Care and 
+Patient Satisfaction
+Management of Controlled Substances, Product 
+Safety and Quality Management
+Pricing and Billing Transparency
+Fraud Prevention
+Employee Benefits, Health and Safety
+Employee Engagement, Training and Development
+Our Commitment to the Environment HEALTHCARE DELIVERY  SECTION
+We are aligning our activities with the United Nations Sustainable Development Goals (SDGs). The goals 
+were established in 2015 by world leaders to end poverty, protect the planet and seek to ensure prosperity 
+for all. We have determined that our current activities most closely align with the following goals where we 
+are particularly well -positioned to drive progress based on our core business and corporate social responsi -
+bility initiatives:
+Health for All Humanity:  We were founded with a singular mission: to bring genetics into 
+mainstream medicine to improve healthcare for billions of people on the planet. Decoding 
+the human genome is one of humankind’s seminal scientific accomplishments. Using that 
+knowledge to improve health for all of humanity is one of our greatest responsibilities.
+Diversity, Equity and Inclusion:  Our vision is to cultivate a place where we all belong. 
+Our DEI mission is to engage, develop and retain talent from diverse backgrounds by fos -
+tering community, providing education and support, and advancing inclusive research and 
+health equity globally.
+Access and Affordability : One of our founding principles is accessible, affordable 
+genetic testing, so we work to drive down the price of quality testing to increase its clinical 
+and personal utility. Through a combination of dramatically lowering the costs of our test -
+ing, advocacy with our partners who subsidize testing in specific patient populations, and 
+a generous patient assistance program, we have been able to expand access and pledge 
+to continue such efforts. 
+Our Commitment to the Environment:  We understand the impact of our operations 
+and recognize that our environmental commitment is paramount to supporting our vision 
+of improving healthcare affordability and accessibility. We take steps to reduce the foot -
+print of our business operations through proper waste management and increased energy 
+efficiency.  Alignment with United Nations Sustainable Development Goals
+Methodology
+To help inform our decision-making for this, our first sustainability report, we performed  a benchmarking anal -
+ysis to help us understand what other firms in our sector were reporting. We relied upon the Sustainability 
+Accounting Standards Board (SASB) to help us understand the areas that may be most relevant to our U.S. 
+investors and we referred broadly to the Global Reporting Initiative (GRI) to help us identify areas that we 
+may have missed. We drew upon the subject matter expertise of our colleagues throughout the company 
+to collect and organize the content relative to the areas we identified in our benchmarking. Lastly, we com -
+pared our activities to the United Nations ’ Sustainable Development Goals (SDGs) to assess how we may 
+be contributing to these important goals. Inquiries about our ESG practices and policies can be directed to 
+sustainability@invitae.com .
+22
