@@ -1,0 +1,443 @@
+<SEC-DOCUMENT>0001172661-23-002245.txt : 20230515
+<SEC-HEADER>0001172661-23-002245.hdr.sgml : 20230515
+<ACCEPTANCE-DATETIME>20230515132040
+ACCESSION NUMBER:		0001172661-23-002245
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230515
+DATE AS OF CHANGE:		20230515
+EFFECTIVENESS DATE:		20230515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Brahman Capital Corp.
+		CENTRAL INDEX KEY:			0001014894
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-05444
+		FILM NUMBER:		23920532
+
+	BUSINESS ADDRESS:	
+		STREET 1:		655 THIRD AVENUE
+		STREET 2:		11TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(212) 681-9797
+
+	MAIL ADDRESS:	
+		STREET 1:		655 THIRD AVENUE
+		STREET 2:		11TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRAHMAN CAPITAL CORP
+		DATE OF NAME CHANGE:	19990325
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001014894</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2023</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2023</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Brahman Capital Corp.</name>
+        <address>
+          <ns1:street1>655 Third Avenue</ns1:street1>
+          <ns1:street2>11th Floor</ns1:street2>
+          <ns1:city>New York</ns1:city>
+          <ns1:stateOrCountry>NY</ns1:stateOrCountry>
+          <ns1:zipCode>10017</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-05444</form13FFileNumber>
+      <crdNumber>000160081</crdNumber>
+      <secFileNumber>801-73436</secFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Louis Sultan</name>
+      <title>CFO / COO</title>
+      <phone>212-681-9797</phone>
+      <signature>/s/ Louis Sultan</signature>
+      <city>New York</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>05-15-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>20</tableEntryTotal>
+      <tableValueTotal>813803710</tableValueTotal>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>ARAMARK</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>03852U106</cusip>
+    <value>54494724</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1522199</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1522199</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ARDAGH METAL PACKAGING S A</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>L02235106</cusip>
+    <value>17346308</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>4251546</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>4251546</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ARDAGH METAL PACKAGING S A</nameOfIssuer>
+    <titleOfClass>*W EXP 08/04/202</titleOfClass>
+    <cusip>L02235114</cusip>
+    <value>248726</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>957005</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>957005</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>BLUESCAPE OPPORTUNITIES ACQU</nameOfIssuer>
+    <titleOfClass>*W EXP 10/28/202</titleOfClass>
+    <cusip>G1195N113</cusip>
+    <value>1591186</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>10607907</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>10607907</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CHARTER COMMUNICATIONS INC N</nameOfIssuer>
+    <titleOfClass>CL A</titleOfClass>
+    <cusip>16119P108</cusip>
+    <value>7524114</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>21040</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>21040</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CLARIVATE PLC</nameOfIssuer>
+    <titleOfClass>ORD SHS</titleOfClass>
+    <cusip>G21810109</cusip>
+    <value>131393284</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>13992895</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>13992895</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DOLLAR TREE INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>256746108</cusip>
+    <value>84376824</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>587787</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>587787</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>EVERBRIDGE INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>29978A104</cusip>
+    <value>33569713</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>968264</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>968264</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>GODADDY INC</nameOfIssuer>
+    <titleOfClass>CL A</titleOfClass>
+    <cusip>380237107</cusip>
+    <value>148261004</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1907630</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1907630</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>HARLEY DAVIDSON INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>412822108</cusip>
+    <value>30895885</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>813692</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>813692</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>INTERNATIONAL FLAVORS&amp;FRAGRA</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>459506101</cusip>
+    <value>16210801</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>176281</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>176281</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>IQVIA HLDGS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>46266C105</cusip>
+    <value>15513818</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>78002</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>78002</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>OPAL FUELS INC</nameOfIssuer>
+    <titleOfClass>CLASS A COM</titleOfClass>
+    <cusip>68347P103</cusip>
+    <value>2040893</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>292811</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>292811</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SKILLSOFT CORP</nameOfIssuer>
+    <titleOfClass>*W EXP 06/11/202</titleOfClass>
+    <cusip>83066P119</cusip>
+    <value>1456352</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>5825406</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>5825406</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>UNITED THERAPEUTICS CORP DEL</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>91307C102</cusip>
+    <value>4680988</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>20901</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>20901</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>US FOODS HLDG CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>912008109</cusip>
+    <value>51175235</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1385361</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1385361</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VERTIV HOLDINGS CO</nameOfIssuer>
+    <titleOfClass>COM CL A</titleOfClass>
+    <cusip>92537N108</cusip>
+    <value>40832154</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2853400</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2853400</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VISTRA CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>92840M102</cusip>
+    <value>36214536</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1508939</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1508939</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VOYA FINANCIAL INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>929089100</cusip>
+    <value>8887909</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>124376</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>124376</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WARNER BROS DISCOVERY INC</nameOfIssuer>
+    <titleOfClass>COM SER A</titleOfClass>
+    <cusip>934423104</cusip>
+    <value>127089256</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>8416507</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>8416507</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,121 @@
+<SEC-DOCUMENT>0000104889-23-000038.txt : 20230515
+<SEC-HEADER>0000104889-23-000038.hdr.sgml : 20230515
+<ACCEPTANCE-DATETIME>20230515164411
+ACCESSION NUMBER:		0000104889-23-000038
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230515
+DATE AS OF CHANGE:		20230515
+EFFECTIVENESS DATE:		20230515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Graham Holdings Co
+		CENTRAL INDEX KEY:			0000104889
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EDUCATIONAL SERVICES [8200]
+		IRS NUMBER:				530182885
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-22110
+		FILM NUMBER:		23923536
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1300 NORTH 17TH STREET
+		STREET 2:		SUITE 1700
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22209
+		BUSINESS PHONE:		7033456300
+
+	MAIL ADDRESS:	
+		STREET 1:		1300 NORTH 17TH STREET
+		STREET 2:		SUITE 1700
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WASHINGTON POST CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com="http://www.sec.gov/edgar/common" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000104889</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2023</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2023</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Graham Holdings Co</name>
+        <address>
+          <com:street1>1300 NORTH 17TH STREET</com:street1>
+          <com:city>ARLINGTON</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>22209</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-22110</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Wallace R. Cooney</name>
+      <title>Chief Financial Officer</title>
+      <phone>703-345-6470</phone>
+      <signature>Wallace R. Cooney</signature>
+      <city>Arlington</city>
+      <stateOrCountry>VA</stateOrCountry>
+      <signatureDate>05-15-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>5</tableEntryTotal>
+      <tableValueTotal>603543</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>information_table.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>ALPHABET INC</nameOfIssuer><titleOfClass>CAP STK CL C</titleOfClass><cusip>02079K107</cusip><value>159863</value><shrsOrPrnAmt><sshPrnamt>1537140</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>1537140</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>BERKSHIRE HATHAWAY INC DEL</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>084670108</cusip><value>196483</value><shrsOrPrnAmt><sshPrnamt>422</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>422</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>BERKSHIRE HATHAWAY INC DEL</nameOfIssuer><titleOfClass>CL B NEW</titleOfClass><cusip>084670702</cusip><value>149119</value><shrsOrPrnAmt><sshPrnamt>482945</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>482945</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MARKEL CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>570535104</cusip><value>70807</value><shrsOrPrnAmt><sshPrnamt>55430</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>55430</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PUBMATIC INC</nameOfIssuer><titleOfClass>COM CL A</titleOfClass><cusip>74467Q103</cusip><value>27271</value><shrsOrPrnAmt><sshPrnamt>1973314</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>1973314</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable></informationTable><!-- tableEntryCount=5 tableValueTotal=603543 -->
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
