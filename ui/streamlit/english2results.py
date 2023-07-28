@@ -6,6 +6,7 @@ from retry import retry
 from timeit import default_timer as timer
 import streamlit as st
 import ingestion.bedrock_util as bedrock_util
+import json
 
 host = st.secrets["NEO4J_HOST"]+":"+st.secrets["NEO4J_PORT"]
 user = st.secrets["NEO4J_USER"]
@@ -28,7 +29,7 @@ CYPHER_GENERATION_TEMPLATE = """Human: You are an expert Neo4j Cypher translator
 6. Always use aliases to refer the node in the query
 7. Cypher is NOT SQL. So, do not mix and match the syntaxes
 8. `OWNS` relationship is syonymous with `BUY`
-Schema:
+Strictly use this Schema for Cypher generation:
 {schema}
 Human: Which of the managers own Amazon?
 Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.nameOfIssuer) CONTAINS 'amazon' RETURN p;
@@ -51,26 +52,42 @@ def get_results(messages):
             username=user, 
             password=password
         )
+        bedrock_llm = Bedrock(
+            model_id=model_name,
+            client=bedrock,
+            model_kwargs = {
+                "temperature":0,
+                "top_k":1, "top_p":0.1,
+                "anthropic_version":"bedrock-2023-05-31",
+                "max_tokens_to_sample": 2048
+            }
+        )
         chain = GraphCypherQAChain.from_llm(
-            Bedrock(
-                model_id=model_name,
-                client=bedrock,
-                model_kwargs = {
-                    "temperature":0,
-                    "top_k":1, "top_p":0.999,
-                    "anthropic_version":"bedrock-2023-05-31",
-                    "max_tokens_to_sample": 2048
-                }
-            ), 
+            bedrock_llm, 
             graph=graph, verbose=True,
             return_intermediate_steps=True,
-            cypher_prompt=CYPHER_GENERATION_PROMPT
+            cypher_prompt=CYPHER_GENERATION_PROMPT,
+            return_direct=True
         )
         if messages:
             question = messages.pop()
         else: 
             question = 'Which of the managers own Amazon?'
-        return chain(question)
+        r = chain(question)
+        result = bedrock_llm(f"""Human: 
+            Fact: {r['result']}
+
+            * Summarise the above fact as if you are answering this question "{r['query']}"
+            * When the fact is not empty, assume the question is valid and the answer is true
+            * Do not return helpful or extra text or apologies
+            * Just return summary to the user. DO NOT start with Here is a summary
+            * List the results in rich text format if there are more than one results
+            * If the facts are empty, just respond None
+            Assistant:
+            """)
+        r['context'] = r['result']
+        r['result'] = result
+        return r
     # except Exception as ex:
     #     print(ex)
     #     return "LLM Quota Exceeded. Please try again"

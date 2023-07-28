@@ -156,10 +156,10 @@ st.markdown("""
   <tr>
     <td>Which of the managers own Amazon?</td>
     <td>If a manager owns Meta, do they also buy Amazon?</td>
-    <td></td>
+    <td>how many managers own more than 100 companies and who are they?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Which manager own all the FAANG stocks?</td>
     <td></td>
     <td></td>
   </tr>
