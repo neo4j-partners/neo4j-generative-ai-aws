@@ -4,7 +4,7 @@ mgr_info_tpl="""From the text below, extract the following as json. Do not miss 
 * "street1" - The manager's street1 address from the <com:street1> tag under <address> tag
 * "street2" - The manager's street2 address from the <com:street2> tag under <address> tag
 * "city" - The manager's city address from the <com:city> tag under <address> tag
-* "stateOrCounty" - The manager's stateOrCounty address from the <com:stateOrCountry> tag under <address> tag
+* "stateOrCountry" - The manager's stateOrCountry address from the <com:stateOrCountry> tag under <address> tag
 * "zipCode" - The manager's zipCode from the <com:zipCode> tag under <address> tag
 * "reportCalendarOrQuarter" - The reportCalendarOrQuarter from the <reportCalendarOrQuarter> tag under <address> tag
 * Just return me the JSON enclosed by 3 backticks. No other text in the response

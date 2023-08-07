@@ -94,7 +94,7 @@ def generate_cypher(manager, filings):
     ON CREATE SET addr.street1 = "{manager["street1"]}",
     addr.street2 = "{manager["street2"]}",
     addr.city = "{manager["city"]}",
-    addr.stateOrCounty = "{manager["stateOrCounty"]}",
+    addr.stateOrCountry = "{manager["stateOrCountry"]}",
     addr.zipCode = "{manager["zipCode"]}"
     '''
     cyphers.append(create_address)
