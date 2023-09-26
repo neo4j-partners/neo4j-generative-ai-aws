@@ -1,0 +1,58 @@
+{
+    "details": {
+        "bedrock:2023-04-20:paginators": {
+            "errors": {},
+            "md5": "d5ad5a3d7214ac5635fb4a5ac9e7b2ac",
+            "signoffs": {},
+            "validators": {
+                "P0001": "Ensures no paginators are removed from a pagination model",
+                "P0002": "\n    Ensures no paginators have members removed from\n    result_key in pagination model.\n    "
+            }
+        },
+        "bedrock:2023-04-20:service": {
+            "errors": {},
+            "md5": "c7209d1b88f8c4b0fa0c9c2b6daa3aff",
+            "signoffs": {},
+            "validators": {
+                "S0001": "Ensures no operations are removed from a service model",
+                "S0002": "Ensures no structure members get removed",
+                "S0003": "Ensures no documentation is removed from a structure member",
+                "S0004": "Ensures no new required members are introduced",
+                "S0005": "Ensures no internal shape reference types change",
+                "S0006": "Ensures no minimum value constraint is raised, or added",
+                "S0007": "Ensures no operation documentation is removed",
+                "S0008": "Ensures no error shapes are removed",
+                "S0010": "Ensures metadata fields uid does not get removed",
+                "S0011": "Ensures metadata fields serviceFullName and serviceAbbreviation do not get changed",
+                "S0012": "Ensures no shapes change type",
+                "S0013": "Ensures serviceId metadata does not change",
+                "S0014": "Ensures serviceId metadata does not get removed",
+                "S0015": "Ensures serviceId is of the expected value",
+                "S0016": "Ensures idempotencyToken trait is not changed",
+                "S0017": "Ensures no internal structure names change",
+                "S0018": "Ensures box trait is not added nor removed",
+                "S0020": "Ensures no string enums get removed",
+                "S0021": "Ensures endpointPrefix trait is not changed",
+                "S0022": "Ensures no operation hostPrefix is changed"
+            }
+        }
+    },
+    "fail": [],
+    "parameters": {
+        "cmd": "validate-patch",
+        "patch": "/tmp/tmpw_pd8y_8",
+        "report": "/codebuild/output/src2108/src/s3/00/stage/artifacts/models-starfort-report.json",
+        "sign_off": null,
+        "source_dir": "/codebuild/output/src2108/src/s3/00/stage/repos/botocore",
+        "use_previous_api_versions": true,
+        "verbose": true
+    },
+    "skipped": {
+        "botocore/data/bedrock/2023-04-20/endpoint-rule-set-1.json": "No support for that model."
+    },
+    "success": [
+        "bedrock:2023-04-20:paginators",
+        "bedrock:2023-04-20:service"
+    ],
+    "unused_suppression_rules": []
+}

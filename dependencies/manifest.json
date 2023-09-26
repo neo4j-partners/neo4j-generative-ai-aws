@@ -1,0 +1,113 @@
+{
+  "config": {
+    "AWS_DEFAULT_PROFILE": "prodrelease",
+    "BOTO3_VERSION": "1.28.21",
+    "BOTO3_UPSTREAM_REMOTE": "git@github.com:boto/boto3.git",
+    "BOTOCORE_VERSION": "1.31.21",
+    "BOTOCORE_UPSTREAM_REMOTE": "git@github.com:boto/botocore.git",
+    "AWSCLI_VERSION": "1.29.21",
+    "AWSCLI_UPSTREAM_REMOTE": "git@github.com:aws/aws-cli.git",
+    "CLI_ARTIFACT_BUCKET": "aws-cli"
+  },
+  "manifest": [
+    {
+      "cd_to": "scripts",
+      "run": [
+        "./preflight-checks"
+      ],
+      "on_failure": "exit"
+    },
+    {
+      "cd_to": "repos/botocore",
+      "run": [
+        "git remote add upstream $BOTOCORE_UPSTREAM_REMOTE",
+        "git push upstream master",
+        "git push upstream develop",
+        "git push upstream --tags"
+      ],
+      "on_failure": "exit"
+    },
+    {
+      "cd_to": "repos/boto3",
+      "run": [
+        "git remote add upstream $BOTO3_UPSTREAM_REMOTE",
+        "git push upstream master",
+        "git push upstream develop",
+        "git push upstream --tags"
+      ],
+      "on_failure": "exit"
+    },
+    {
+      "cd_to": "repos/awscli",
+      "run": [
+        "git remote add upstream $AWSCLI_UPSTREAM_REMOTE",
+        "git push upstream master",
+        "git push upstream develop",
+        "git push upstream --tags"
+      ],
+      "on_failure": "exit"
+    },
+    {
+      "cd_to": "artifacts",
+      "run": [
+        "twine upload botocore-$BOTOCORE_VERSION-py3-none-any.whl botocore-$BOTOCORE_VERSION.tar.gz",
+        "twine upload boto3-$BOTO3_VERSION-py3-none-any.whl boto3-$BOTO3_VERSION.tar.gz",
+        "twine upload awscli-$AWSCLI_VERSION-py3-none-any.whl awscli-$AWSCLI_VERSION.tar.gz"
+      ],
+      "on_failure": "exit"
+    },
+    {
+      "cd_to": "artifacts",
+      "transfer_files": [
+        {
+          "source": "./AWSCLI64.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI64.msi"
+        },
+        {
+          "source": "./AWSCLI32.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI32.msi"
+        },
+        {
+          "source": "./AWSCLI64PY3.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI64PY3.msi"
+        },
+        {
+          "source": "./AWSCLI32PY3.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI32PY3.msi"
+        },
+        {
+          "source": "./AWSCLISetup.exe",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLISetup.exe"
+        },
+        {
+          "source": "./awscli-bundle.zip",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/awscli-bundle.zip"
+        },
+        {
+          "source": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI64.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI64-$AWSCLI_VERSION.msi"
+        },
+        {
+          "source": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI32.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI32-$AWSCLI_VERSION.msi"
+        },
+        {
+          "source": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI32PY3.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI32PY3-$AWSCLI_VERSION.msi"
+        },
+        {
+          "source": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI64PY3.msi",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLI64PY3-$AWSCLI_VERSION.msi"
+        },
+        {
+          "source": "s3://$CLI_ARTIFACT_BUCKET/AWSCLISetup.exe",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/AWSCLISetup-$AWSCLI_VERSION.exe"
+        },
+        {
+          "source": "s3://$CLI_ARTIFACT_BUCKET/awscli-bundle.zip",
+          "destination": "s3://$CLI_ARTIFACT_BUCKET/awscli-bundle-$AWSCLI_VERSION.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+diff --git a/.changes/1.28.21.json b/.changes/1.28.21.json
+new file mode 100644
+index 00000000..50c1fd0b
+--- /dev/null
++++ b/.changes/1.28.21.json
+@@ -0,0 +1,7 @@
++[
++  {
++    "category": "``bedrock``",
++    "description": "[``botocore``] Update bedrock client to latest version",
++    "type": "api-change"
++  }
++]
+\ No newline at end of file
+diff --git a/CHANGELOG.rst b/CHANGELOG.rst
+index ebf6e093..42685a4e 100644
+--- a/CHANGELOG.rst
++++ b/CHANGELOG.rst
+@@ -2,6 +2,12 @@
+ CHANGELOG
+ =========
+ 
++1.28.21
++=======
++
++* api-change:``bedrock``: [``botocore``] Update bedrock client to latest version
++
++
+ 1.28.20
+ =======
+ 
+diff --git a/boto3/__init__.py b/boto3/__init__.py
+index 7d71df84..efe3853e 100644
+--- a/boto3/__init__.py
++++ b/boto3/__init__.py
+@@ -17,7 +17,7 @@ from boto3.compat import _warn_deprecated_python
+ from boto3.session import Session
+ 
+ __author__ = 'Amazon Web Services'
+-__version__ = '1.28.20'
++__version__ = '1.28.21'
+ 
+ 
+ # The default Boto3 session; autoloaded when needed.
+diff --git a/setup.cfg b/setup.cfg
+index bad9387c..1384564c 100644
+--- a/setup.cfg
++++ b/setup.cfg
+@@ -3,7 +3,7 @@ universal = 0
+ 
+ [metadata]
+ requires_dist =
+-    botocore>=1.31.20,<1.32.0
++    botocore>=1.31.21,<1.32.0
+     jmespath>=0.7.1,<2.0.0
+     s3transfer>=0.6.0,<0.7.0
+ 
+diff --git a/setup.py b/setup.py
+index c2b72b88..b11efd6d 100644
+--- a/setup.py
++++ b/setup.py
+@@ -13,7 +13,7 @@ VERSION_RE = re.compile(r'''__version__ = ['"]([0-9.]+)['"]''')
+ 
+ 
+ requires = [
+-    'botocore>=1.31.20,<1.32.0',
++    'botocore>=1.31.21,<1.32.0',
+     'jmespath>=0.7.1,<2.0.0',
+     's3transfer>=0.6.0,<0.7.0',
+ ]

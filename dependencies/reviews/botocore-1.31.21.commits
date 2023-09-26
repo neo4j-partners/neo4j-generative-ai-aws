@@ -1,0 +1,50 @@
+This is a review of all the changes from the last release to the current (staged) release. Below is a summary of the commits:
+
+commit c714ece23f2348e1152de2a8bd1444ab7b22d53c
+Merge: 2722b12a2 cd71e6049
+Author: aws-sdk-python-automation <github-aws-sdk-python-automation@amazon.com>
+Date:   Sat Aug 5 02:56:49 2023 +0000
+
+    Merge branch 'release-1.31.21'
+    
+    * release-1.31.21:
+      Bumping version to 1.31.21
+      Update to latest models
+
+commit cd71e6049f0167c5aed506a1e3e309baa0bf6229
+Author: aws-sdk-python-automation <github-aws-sdk-python-automation@amazon.com>
+Date:   Sat Aug 5 02:56:49 2023 +0000
+
+    Bumping version to 1.31.21
+
+ .changes/1.31.21.json                               | 7 +++++++
+ .changes/next-release/api-change-bedrock-64957.json | 5 -----
+ CHANGELOG.rst                                       | 6 ++++++
+ botocore/__init__.py                                | 2 +-
+ docs/source/conf.py                                 | 2 +-
+ 5 files changed, 15 insertions(+), 7 deletions(-)
+
+commit 289a4f1fe79d80993d95b9b1ab5f23dffd1f862b
+Author: aws-sdk-python-automation <github-aws-sdk-python-automation@amazon.com>
+Date:   Sat Aug 5 02:56:45 2023 +0000
+
+    Update to latest models
+
+ .../next-release/api-change-bedrock-64957.json     |    5 +
+ .../bedrock/2023-04-20/endpoint-rule-set-1.json    |  350 +++++
+ botocore/data/bedrock/2023-04-20/paginators-1.json |   16 +
+ botocore/data/bedrock/2023-04-20/service-2.json    | 1362 ++++++++++++++++++++
+ .../endpoint-rules/bedrock/endpoint-tests-1.json   |  314 +++++
+ 5 files changed, 2047 insertions(+)
+
+commit f74b5bfd9427ef634ea00b9e61da9c27f21267a7
+Merge: 680ba3002 60288416d
+Author: aws-sdk-python-automation <github-aws-sdk-python-automation@amazon.com>
+Date:   Fri Aug 4 18:20:21 2023 +0000
+
+    Merge branch 'release-1.31.20' into develop
+    
+    * release-1.31.20:
+      Bumping version to 1.31.20
+      Update to latest partitions and endpoints
+      Update to latest models

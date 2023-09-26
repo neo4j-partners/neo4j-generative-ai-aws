@@ -1,0 +1,1647 @@
+diff --git a/.changes/1.31.21.json b/.changes/1.31.21.json
+new file mode 100644
+index 000000000..018b2e071
+--- /dev/null
++++ b/.changes/1.31.21.json
+@@ -0,0 +1,7 @@
++[
++  {
++    "category": "``bedrock``",
++    "description": "Update bedrock client to latest version",
++    "type": "api-change"
++  }
++]
+\ No newline at end of file
+diff --git a/CHANGELOG.rst b/CHANGELOG.rst
+index 811bdef8b..104ae78b2 100644
+--- a/CHANGELOG.rst
++++ b/CHANGELOG.rst
+@@ -2,6 +2,12 @@
+ CHANGELOG
+ =========
+ 
++1.31.21
++=======
++
++* api-change:``bedrock``: Update bedrock client to latest version
++
++
+ 1.31.20
+ =======
+ 
+diff --git a/botocore/__init__.py b/botocore/__init__.py
+index f667f97e4..5050ee970 100644
+--- a/botocore/__init__.py
++++ b/botocore/__init__.py
+@@ -16,7 +16,7 @@ import logging
+ import os
+ import re
+ 
+-__version__ = '1.31.20'
++__version__ = '1.31.21'
+ 
+ 
+ class NullHandler(logging.Handler):
+diff --git a/botocore/data/customer-profiles/2020-08-15/endpoint-rule-set-1.json b/botocore/data/bedrock/2023-04-20/endpoint-rule-set-1.json
+similarity index 98%
+copy from botocore/data/customer-profiles/2020-08-15/endpoint-rule-set-1.json
+copy to botocore/data/bedrock/2023-04-20/endpoint-rule-set-1.json
+index a70609892..51da5236e 100644
+--- a/botocore/data/customer-profiles/2020-08-15/endpoint-rule-set-1.json
++++ b/botocore/data/bedrock/2023-04-20/endpoint-rule-set-1.json
+@@ -187,7 +187,7 @@
+                                                         {
+                                                             "conditions": [],
+                                                             "endpoint": {
+-                                                                "url": "https://profile-fips.{Region}.{PartitionResult#dualStackDnsSuffix}",
++                                                                "url": "https://bedrock-fips.{Region}.{PartitionResult#dualStackDnsSuffix}",
+                                                                 "properties": {},
+                                                                 "headers": {}
+                                                             },
+@@ -245,7 +245,7 @@
+                                                         {
+                                                             "conditions": [],
+                                                             "endpoint": {
+-                                                                "url": "https://profile-fips.{Region}.{PartitionResult#dnsSuffix}",
++                                                                "url": "https://bedrock-fips.{Region}.{PartitionResult#dnsSuffix}",
+                                                                 "properties": {},
+                                                                 "headers": {}
+                                                             },
+@@ -303,7 +303,7 @@
+                                                         {
+                                                             "conditions": [],
+                                                             "endpoint": {
+-                                                                "url": "https://profile.{Region}.{PartitionResult#dualStackDnsSuffix}",
++                                                                "url": "https://bedrock.{Region}.{PartitionResult#dualStackDnsSuffix}",
+                                                                 "properties": {},
+                                                                 "headers": {}
+                                                             },
+@@ -327,7 +327,7 @@
+                                         {
+                                             "conditions": [],
+                                             "endpoint": {
+-                                                "url": "https://profile.{Region}.{PartitionResult#dnsSuffix}",
++                                                "url": "https://bedrock.{Region}.{PartitionResult#dnsSuffix}",
+                                                 "properties": {},
+                                                 "headers": {}
+                                             },
+diff --git a/botocore/data/connectcases/2022-10-03/paginators-1.json b/botocore/data/bedrock/2023-04-20/paginators-1.json
+similarity index 61%
+copy from botocore/data/connectcases/2022-10-03/paginators-1.json
+copy to botocore/data/bedrock/2023-04-20/paginators-1.json
+index 6ce244da4..6e21ec336 100644
+--- a/botocore/data/connectcases/2022-10-03/paginators-1.json
++++ b/botocore/data/bedrock/2023-04-20/paginators-1.json
+@@ -1,16 +1,16 @@
+ {
+   "pagination": {
+-    "SearchCases": {
++    "ListCustomModels": {
+       "input_token": "nextToken",
+       "output_token": "nextToken",
+       "limit_key": "maxResults",
+-      "result_key": "cases"
++      "result_key": "modelSummaries"
+     },
+-    "SearchRelatedItems": {
++    "ListModelCustomizationJobs": {
+       "input_token": "nextToken",
+       "output_token": "nextToken",
+       "limit_key": "maxResults",
+-      "result_key": "relatedItems"
++      "result_key": "modelCustomizationJobSummaries"
+     }
+   }
+ }
+diff --git a/botocore/data/bedrock/2023-04-20/service-2.json b/botocore/data/bedrock/2023-04-20/service-2.json
+new file mode 100644
+index 000000000..f590ce1e9
+--- /dev/null
++++ b/botocore/data/bedrock/2023-04-20/service-2.json
+@@ -0,0 +1,1362 @@
++{
++  "version":"2.0",
++  "metadata":{
++    "apiVersion":"2023-04-20",
++    "endpointPrefix":"bedrock",
++    "jsonVersion":"1.1",
++    "protocol":"rest-json",
++    "serviceFullName":"Amazon Bedrock",
++    "serviceId":"bedrock",
++    "signatureVersion":"v4",
++    "signingName":"bedrock",
++    "uid":"bedrock-2023-04-20"
++  },
++  "operations":{
++    "CreateModelCustomizationJob":{
++      "name":"CreateModelCustomizationJob",
++      "http":{
++        "method":"POST",
++        "requestUri":"/model-customization-jobs",
++        "responseCode":201
++      },
++      "input":{"shape":"CreateModelCustomizationJobRequest"},
++      "output":{"shape":"CreateModelCustomizationJobResponse"},
++      "errors":[
++        {"shape":"TooManyTagsException"},
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"},
++        {"shape":"ServiceQuotaExceededException"},
++        {"shape":"ConflictException"}
++      ],
++      "documentation":"<p>Create a job to model customize Bedrock foundation models or customized models with your custom training data.</p>",
++      "idempotent":true
++    },
++    "DeleteCustomModel":{
++      "name":"DeleteCustomModel",
++      "http":{
++        "method":"DELETE",
++        "requestUri":"/custom-models/{modelIdentifier}",
++        "responseCode":200
++      },
++      "input":{"shape":"DeleteCustomModelRequest"},
++      "output":{"shape":"DeleteCustomModelResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"},
++        {"shape":"ConflictException"}
++      ],
++      "documentation":"<p>Deletes a previously created Bedrock custom model.</p>",
++      "idempotent":true
++    },
++    "GetCustomModel":{
++      "name":"GetCustomModel",
++      "http":{
++        "method":"GET",
++        "requestUri":"/custom-models/{modelIdentifier}",
++        "responseCode":200
++      },
++      "input":{"shape":"GetCustomModelRequest"},
++      "output":{"shape":"GetCustomModelResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>Get the properties associated with a Bedrock custom model that you have created.</p>"
++    },
++    "GetModelCustomizationJob":{
++      "name":"GetModelCustomizationJob",
++      "http":{
++        "method":"GET",
++        "requestUri":"/model-customization-jobs/{jobIdentifier}",
++        "responseCode":200
++      },
++      "input":{"shape":"GetModelCustomizationJobRequest"},
++      "output":{"shape":"GetModelCustomizationJobResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>Gets the properties associated with a model-customization job. Use this operation to get the status of a model-customization job.</p>"
++    },
++    "InvokeModel":{
++      "name":"InvokeModel",
++      "http":{
++        "method":"POST",
++        "requestUri":"/model/{modelId}/invoke",
++        "responseCode":200
++      },
++      "input":{"shape":"InvokeModelRequest"},
++      "output":{"shape":"InvokeModelResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"ModelTimeoutException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"},
++        {"shape":"ModelNotReadyException"},
++        {"shape":"ServiceQuotaExceededException"},
++        {"shape":"ModelErrorException"}
++      ],
++      "documentation":"<p>Invokes the specified Bedrock model to run inference using the input provided in the request body.</p>"
++    },
++    "InvokeModelWithResponseStream":{
++      "name":"InvokeModelWithResponseStream",
++      "http":{
++        "method":"POST",
++        "requestUri":"/model/{modelId}/invoke-with-response-stream",
++        "responseCode":200
++      },
++      "input":{"shape":"InvokeModelWithResponseStreamRequest"},
++      "output":{"shape":"InvokeModelWithResponseStreamResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"ModelTimeoutException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"},
++        {"shape":"ModelNotReadyException"},
++        {"shape":"ServiceQuotaExceededException"},
++        {"shape":"ModelErrorException"}
++      ],
++      "documentation":"<p>generate a multimodal completion from a model with streaming response</p>"
++    },
++    "ListCustomModels":{
++      "name":"ListCustomModels",
++      "http":{
++        "method":"GET",
++        "requestUri":"/custom-models",
++        "responseCode":200
++      },
++      "input":{"shape":"ListCustomModelsRequest"},
++      "output":{"shape":"ListCustomModelsResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>Gets a list of Bedrock custom models that you have created.</p>"
++    },
++    "ListFoundationModels":{
++      "name":"ListFoundationModels",
++      "http":{
++        "method":"GET",
++        "requestUri":"/foundation-models",
++        "responseCode":200
++      },
++      "input":{"shape":"ListFoundationModelsRequest"},
++      "output":{"shape":"ListFoundationModelsResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>List of Bedrock foundation models that you can use.</p>"
++    },
++    "ListModelCustomizationJobs":{
++      "name":"ListModelCustomizationJobs",
++      "http":{
++        "method":"GET",
++        "requestUri":"/model-customization-jobs",
++        "responseCode":200
++      },
++      "input":{"shape":"ListModelCustomizationJobsRequest"},
++      "output":{"shape":"ListModelCustomizationJobsResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>Gets a list of model customization jobs that you have submitted.</p>"
++    },
++    "ListTagsForResource":{
++      "name":"ListTagsForResource",
++      "http":{
++        "method":"POST",
++        "requestUri":"/listTagsForResource",
++        "responseCode":200
++      },
++      "input":{"shape":"ListTagsForResourceRequest"},
++      "output":{"shape":"ListTagsForResourceResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>List tags for a Bedrock resource</p>"
++    },
++    "StopModelCustomizationJob":{
++      "name":"StopModelCustomizationJob",
++      "http":{
++        "method":"POST",
++        "requestUri":"/model-customization-jobs/{jobIdentifier}/stop",
++        "responseCode":200
++      },
++      "input":{"shape":"StopModelCustomizationJobRequest"},
++      "output":{"shape":"StopModelCustomizationJobResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"},
++        {"shape":"ConflictException"}
++      ],
++      "documentation":"<p>Stop a Bedrock model customization job while in progress. This is an asynchronous operation, you need to call GetModelCustomizationJob API to get the status of model-customization job. If the job state is IN_PROGRESS the job is marked for termination and put into the STOPPING state. If the job completes before it can be stopped, it is put into the COMPLETED state; otherwise the job is stopped and put into the STOPPED state.</p>",
++      "idempotent":true
++    },
++    "TagResource":{
++      "name":"TagResource",
++      "http":{
++        "method":"POST",
++        "requestUri":"/tagResource",
++        "responseCode":200
++      },
++      "input":{"shape":"TagResourceRequest"},
++      "output":{"shape":"TagResourceResponse"},
++      "errors":[
++        {"shape":"TooManyTagsException"},
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>Tag a Bedrock resource</p>"
++    },
++    "UntagResource":{
++      "name":"UntagResource",
++      "http":{
++        "method":"POST",
++        "requestUri":"/untagResource",
++        "responseCode":200
++      },
++      "input":{"shape":"UntagResourceRequest"},
++      "output":{"shape":"UntagResourceResponse"},
++      "errors":[
++        {"shape":"AccessDeniedException"},
++        {"shape":"ResourceNotFoundException"},
++        {"shape":"ThrottlingException"},
++        {"shape":"InternalServerException"},
++        {"shape":"ValidationException"}
++      ],
++      "documentation":"<p>Untag a Bedrock resource</p>"
++    }
++  },
++  "shapes":{
++    "AccessDeniedException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when a request is denied per access permissions</p>",
++      "error":{
++        "httpStatusCode":403,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "BedrockModelId":{
++      "type":"string",
++      "documentation":"<p>Identifier of the model</p>",
++      "max":140,
++      "min":0,
++      "pattern":"[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}(/[a-z0-9]{12}|)"
++    },
++    "Body":{
++      "type":"blob",
++      "documentation":"<p>Model input and output as a binary large object</p>",
++      "max":25000000,
++      "min":0,
++      "sensitive":true
++    },
++    "ConflictException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when there is a conflict performing an operation</p>",
++      "error":{
++        "httpStatusCode":400,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "CreateModelCustomizationJobRequest":{
++      "type":"structure",
++      "required":[
++        "jobName",
++        "customModelName",
++        "roleArn",
++        "baseModelIdentifier",
++        "trainingDataConfig",
++        "outputDataConfig",
++        "hyperParameters"
++      ],
++      "members":{
++        "jobName":{
++          "shape":"JobName",
++          "documentation":"<Undocumented>"
++        },
++        "customModelName":{
++          "shape":"CustomModelName",
++          "documentation":"<Undocumented>"
++        },
++        "roleArn":{
++          "shape":"RoleArn",
++          "documentation":"<Undocumented>"
++        },
++        "clientRequestToken":{
++          "shape":"IdempotencyToken",
++          "documentation":"<Undocumented>",
++          "idempotencyToken":true
++        },
++        "baseModelIdentifier":{
++          "shape":"FoundationModelIdentifier",
++          "documentation":"<Undocumented>"
++        },
++        "customModelKmsKeyId":{
++          "shape":"KmsKeyId",
++          "documentation":"<p>The KMS key with which the custom model will be encrypted at rest.</p>"
++        },
++        "jobTags":{
++          "shape":"TagList",
++          "documentation":"<Undocumented>"
++        },
++        "customModelTags":{
++          "shape":"TagList",
++          "documentation":"<Undocumented>"
++        },
++        "trainingDataConfig":{
++          "shape":"TrainingDataConfig",
++          "documentation":"<Undocumented>"
++        },
++        "validationDataConfig":{
++          "shape":"ValidationDataConfig",
++          "documentation":"<Undocumented>"
++        },
++        "outputDataConfig":{
++          "shape":"OutputDataConfig",
++          "documentation":"<Undocumented>"
++        },
++        "hyperParameters":{
++          "shape":"ModelCustomizationHyperParameters",
++          "documentation":"<Undocumented>"
++        },
++        "vpcConfig":{
++          "shape":"VpcConfig",
++          "documentation":"<p>Configuration parameters for an optional private Virtual Private Cloud (VPC) containing the resources you are using for the job.</p>"
++        }
++      },
++      "documentation":"<p>Create Model Customization Job Request</p>"
++    },
++    "CreateModelCustomizationJobResponse":{
++      "type":"structure",
++      "required":["jobArn"],
++      "members":{
++        "jobArn":{
++          "shape":"ModelCustomizationJobArn",
++          "documentation":"<Undocumented>"
++        }
++      },
++      "documentation":"<p>Create Model Customization Response</p>"
++    },
++    "CustomModelArn":{
++      "type":"string",
++      "documentation":"<p>ARN of a custom Bedrock model</p>",
++      "max":1011,
++      "min":20,
++      "pattern":"arn:aws(-[^:]+)?:bedrock:[a-z0-9-]{1,20}:[0-9]{12}:custom-model/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}/[a-z0-9]{12}"
++    },
++    "CustomModelName":{
++      "type":"string",
++      "documentation":"<p>Name of the Bedrock custom model.</p>",
++      "max":63,
++      "min":1,
++      "pattern":"([0-9a-zA-Z][_-]?)+"
++    },
++    "CustomModelSummary":{
++      "type":"structure",
++      "required":[
++        "modelArn",
++        "modelName",
++        "creationTime",
++        "baseModelArn",
++        "baseModelName"
++      ],
++      "members":{
++        "modelArn":{"shape":"CustomModelArn"},
++        "modelName":{"shape":"CustomModelName"},
++        "creationTime":{"shape":"Timestamp"},
++        "baseModelArn":{"shape":"FoundationModelArn"},
++        "baseModelName":{"shape":"ModelName"}
++      },
++      "documentation":"<Undocumented>"
++    },
++    "CustomModelSummaryList":{
++      "type":"list",
++      "member":{"shape":"CustomModelSummary"},
++      "documentation":"<Undocumented>"
++    },
++    "DeleteCustomModelRequest":{
++      "type":"structure",
++      "required":["modelIdentifier"],
++      "members":{
++        "modelIdentifier":{
++          "shape":"ModelIdentifier",
++          "documentation":"<p>Identifier accepts either custom model ARN or custom model name</p>",
++          "location":"uri",
++          "locationName":"modelIdentifier"
++        }
++      },
++      "documentation":"<p>Delete Model Request</p>"
++    },
++    "DeleteCustomModelResponse":{
++      "type":"structure",
++      "members":{
++      },
++      "documentation":"<p>Delete Model Response</p>"
++    },
++    "ErrorMessage":{
++      "type":"string",
++      "documentation":"<p>Detailed message for InError state</p>",
++      "max":2048,
++      "min":0
++    },
++    "FineTuningJobStatus":{
++      "type":"string",
++      "documentation":"<Undocumented>",
++      "enum":[
++        "InProgress",
++        "Completed",
++        "Failed",
++        "Stopping",
++        "Stopped"
++      ]
++    },
++    "FoundationModelArn":{
++      "type":"string",
++      "documentation":"<p>ARN for Foundation Models in Bedrock. These models can be used as base models for model customization jobs</p>",
++      "pattern":"arn:aws(-[^:]+)?:bedrock:[a-z0-9-]{1,20}::foundation-model/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}"
++    },
++    "FoundationModelIdentifier":{
++      "type":"string",
++      "documentation":"<p>ARN for Foundation Models in Bedrock. These models can be used as base models for model customization jobs</p>",
++      "pattern":"(arn:aws(-[^:]+)?:bedrock:[a-z0-9-]{1,20}::foundation-model/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63})|([a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63})"
++    },
++    "FoundationModelSummary":{
++      "type":"structure",
++      "required":[
++        "modelArn",
++        "modelId"
++      ],
++      "members":{
++        "modelArn":{"shape":"FoundationModelArn"},
++        "modelId":{"shape":"BedrockModelId"}
++      },
++      "documentation":"<p>Summary of a foundation model</p>"
++    },
++    "FoundationModelSummaryList":{
++      "type":"list",
++      "member":{"shape":"FoundationModelSummary"},
++      "documentation":"<p>List of bedrock foundation models</p>"
++    },
++    "GetCustomModelRequest":{
++      "type":"structure",
++      "required":["modelIdentifier"],
++      "members":{
++        "modelIdentifier":{
++          "shape":"ModelIdentifier",
++          "location":"uri",
++          "locationName":"modelIdentifier"
++        }
++      },
++      "documentation":"<p>Get Custom Model Request</p>"
++    },
++    "GetCustomModelResponse":{
++      "type":"structure",
++      "required":[
++        "modelArn",
++        "modelName",
++        "jobArn",
++        "baseModelArn",
++        "trainingDataConfig",
++        "outputDataConfig",
++        "creationTime"
++      ],
++      "members":{
++        "modelArn":{"shape":"ModelArn"},
++        "modelName":{"shape":"CustomModelName"},
++        "jobName":{"shape":"JobName"},
++        "jobArn":{"shape":"ModelCustomizationJobArn"},
++        "baseModelArn":{"shape":"ModelArn"},
++        "modelKmsKeyArn":{
++          "shape":"KmsKeyArn",
++          "documentation":"<p>The KMS key with which the custom model is encrypted at rest.</p>"
++        },
++        "hyperParameters":{"shape":"ModelCustomizationHyperParameters"},
++        "trainingDataConfig":{"shape":"TrainingDataConfig"},
++        "validationDataConfig":{"shape":"ValidationDataConfig"},
++        "outputDataConfig":{"shape":"OutputDataConfig"},
++        "trainingMetrics":{"shape":"TrainingMetrics"},
++        "validationMetrics":{"shape":"ValidationMetrics"},
++        "realTimeInferenceStatus":{"shape":"RealTimeInferenceStatus"},
++        "creationTime":{"shape":"Timestamp"}
++      },
++      "documentation":"<p>Get Custom Model Response</p>"
++    },
++    "GetModelCustomizationJobRequest":{
++      "type":"structure",
++      "required":["jobIdentifier"],
++      "members":{
++        "jobIdentifier":{
++          "shape":"ModelCustomizationJobIdentifier",
++          "location":"uri",
++          "locationName":"jobIdentifier"
++        }
++      },
++      "documentation":"<p>Get Model Customization Request</p>"
++    },
++    "GetModelCustomizationJobResponse":{
++      "type":"structure",
++      "required":[
++        "jobArn",
++        "jobName",
++        "outputModelName",
++        "roleArn",
++        "creationTime",
++        "baseModelArn",
++        "hyperParameters",
++        "trainingDataConfig",
++        "validationDataConfig",
++        "outputDataConfig"
++      ],
++      "members":{
++        "jobArn":{"shape":"ModelCustomizationJobArn"},
++        "jobName":{"shape":"JobName"},
++        "outputModelName":{"shape":"CustomModelName"},
++        "outputModelArn":{"shape":"CustomModelArn"},
++        "clientRequestToken":{"shape":"IdempotencyToken"},
++        "roleArn":{"shape":"RoleArn"},
++        "status":{"shape":"ModelCustomizationJobStatus"},
++        "failureMessage":{"shape":"ErrorMessage"},
++        "creationTime":{"shape":"Timestamp"},
++        "lastModifiedTime":{"shape":"Timestamp"},
++        "endTime":{"shape":"Timestamp"},
++        "baseModelArn":{"shape":"FoundationModelArn"},
++        "hyperParameters":{"shape":"ModelCustomizationHyperParameters"},
++        "trainingDataConfig":{"shape":"TrainingDataConfig"},
++        "validationDataConfig":{"shape":"ValidationDataConfig"},
++        "outputDataConfig":{"shape":"OutputDataConfig"},
++        "outputModelKmsKeyArn":{
++          "shape":"KmsKeyArn",
++          "documentation":"<p>The KMS key with which the custom model will be encrypted at rest.</p>"
++        },
++        "trainingMetrics":{"shape":"TrainingMetrics"},
++        "validationMetrics":{"shape":"ValidationMetrics"},
++        "vpcConfig":{
++          "shape":"VpcConfig",
++          "documentation":"<p>Configuration parameters for an optional private Virtual Private Cloud (VPC) containing the resources you are using for the job.</p>"
++        }
++      },
++      "documentation":"<p>Get Model Customization Response</p>"
++    },
++    "IdempotencyToken":{
++      "type":"string",
++      "documentation":"<p>Client specified token used for idempotency checks</p>",
++      "max":256,
++      "min":1,
++      "pattern":"[a-zA-Z0-9](-*[a-zA-Z0-9])*"
++    },
++    "InternalServerException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown if there was an unexpected error during processing of request</p>",
++      "error":{"httpStatusCode":500},
++      "exception":true,
++      "fault":true
++    },
++    "InvokeModelRequest":{
++      "type":"structure",
++      "required":[
++        "body",
++        "modelId"
++      ],
++      "members":{
++        "body":{
++          "shape":"Body",
++          "documentation":"<p>Input data in the format specified in the Content-Type request header.</p>"
++        },
++        "contentType":{
++          "shape":"MimeType",
++          "documentation":"<p>The MIME type of the input data in the request body.</p>",
++          "location":"header",
++          "locationName":"Content-Type"
++        },
++        "accept":{
++          "shape":"MimeType",
++          "documentation":"<p>The desired MIME type of the inference body in the response.</p>",
++          "location":"header",
++          "locationName":"Accept"
++        },
++        "modelId":{
++          "shape":"ModelIdentifier",
++          "location":"uri",
++          "locationName":"modelId"
++        }
++      },
++      "documentation":"<p>InvokeModel Request</p>",
++      "payload":"body"
++    },
++    "InvokeModelResponse":{
++      "type":"structure",
++      "required":[
++        "body",
++        "contentType"
++      ],
++      "members":{
++        "body":{
++          "shape":"Body",
++          "documentation":"<p>Inference response from the model in the format specified in the Content-Type response header.</p>"
++        },
++        "contentType":{
++          "shape":"MimeType",
++          "documentation":"<p>The MIME type of the inference returned in the response body.</p>",
++          "location":"header",
++          "locationName":"Content-Type"
++        }
++      },
++      "documentation":"<p>InvokeModel Response</p>",
++      "payload":"body"
++    },
++    "InvokeModelWithResponseStreamRequest":{
++      "type":"structure",
++      "required":[
++        "body",
++        "modelId"
++      ],
++      "members":{
++        "body":{"shape":"Body"},
++        "contentType":{
++          "shape":"MimeType",
++          "location":"header",
++          "locationName":"Content-Type"
++        },
++        "accept":{
++          "shape":"MimeType",
++          "documentation":"<p>streaming response mimetype to accept</p>",
++          "location":"header",
++          "locationName":"X-Amzn-Bedrock-Accept"
++        },
++        "modelId":{
++          "shape":"ModelIdentifier",
++          "location":"uri",
++          "locationName":"modelId"
++        }
++      },
++      "documentation":"<p>prompt or input to invoke the model</p>",
++      "payload":"body"
++    },
++    "InvokeModelWithResponseStreamResponse":{
++      "type":"structure",
++      "required":[
++        "body",
++        "contentType"
++      ],
++      "members":{
++        "body":{"shape":"ResponseStream"},
++        "contentType":{
++          "shape":"MimeType",
++          "documentation":"<p>streaming response mimetype of the model</p>",
++          "location":"header",
++          "locationName":"X-Amzn-Bedrock-Content-Type"
++        }
++      },
++      "documentation":"<p>completion or output from the model</p>",
++      "payload":"body"
++    },
++    "JobName":{
++      "type":"string",
++      "documentation":"<p>Name of the Bedrock job.</p>",
++      "max":63,
++      "min":1,
++      "pattern":"[a-zA-Z0-9](-*[a-zA-Z0-9\\+\\-\\.])*"
++    },
++    "KmsKeyArn":{
++      "type":"string",
++      "documentation":"<p>A KMS key ARN</p>",
++      "max":2048,
++      "min":1,
++      "pattern":"arn:aws(-[^:]+)?:kms:[a-zA-Z0-9-]*:[0-9]{12}:key/[a-zA-Z0-9-]{36}"
++    },
++    "KmsKeyId":{
++      "type":"string",
++      "documentation":"<p>A KMS key identifier</p>",
++      "max":2048,
++      "min":1,
++      "pattern":"arn:aws(-[^:]+)?:kms:[a-zA-Z0-9-]*:[0-9]{12}:((key/[a-zA-Z0-9-]{36})|(alias/[a-zA-Z0-9-_/]+))"
++    },
++    "ListCustomModelsRequest":{
++      "type":"structure",
++      "members":{
++        "creationTimeBefore":{
++          "shape":"Timestamp",
++          "location":"querystring",
++          "locationName":"creationTimeBefore"
++        },
++        "creationTimeAfter":{
++          "shape":"Timestamp",
++          "location":"querystring",
++          "locationName":"creationTimeAfter"
++        },
++        "nameContains":{
++          "shape":"CustomModelName",
++          "location":"querystring",
++          "locationName":"nameContains"
++        },
++        "maxResults":{
++          "shape":"MaxResults",
++          "location":"querystring",
++          "locationName":"maxResults"
++        },
++        "nextToken":{
++          "shape":"PaginationToken",
++          "location":"querystring",
++          "locationName":"nextToken"
++        },
++        "sortBy":{
++          "shape":"SortModelsBy",
++          "location":"querystring",
++          "locationName":"sortBy"
++        },
++        "sortOrder":{
++          "shape":"SortOrder",
++          "location":"querystring",
++          "locationName":"sortOrder"
++        }
++      },
++      "documentation":"<p>List Custom Models Request</p>"
++    },
++    "ListCustomModelsResponse":{
++      "type":"structure",
++      "members":{
++        "nextToken":{"shape":"PaginationToken"},
++        "modelSummaries":{"shape":"CustomModelSummaryList"}
++      },
++      "documentation":"<p>List Custom Models Response</p>"
++    },
++    "ListFoundationModelsRequest":{
++      "type":"structure",
++      "members":{
++        "byProvider":{
++          "shape":"Provider",
++          "location":"querystring",
++          "locationName":"byProvider"
++        }
++      },
++      "documentation":"<p>ListFoundationModels Request</p>"
++    },
++    "ListFoundationModelsResponse":{
++      "type":"structure",
++      "members":{
++        "modelSummaries":{"shape":"FoundationModelSummaryList"}
++      },
++      "documentation":"<p>ListFoundationModels Response</p>"
++    },
++    "ListModelCustomizationJobsRequest":{
++      "type":"structure",
++      "members":{
++        "creationTimeAfter":{
++          "shape":"Timestamp",
++          "location":"querystring",
++          "locationName":"creationTimeAfter"
++        },
++        "creationTimeBefore":{
++          "shape":"Timestamp",
++          "location":"querystring",
++          "locationName":"creationTimeBefore"
++        },
++        "statusEquals":{
++          "shape":"FineTuningJobStatus",
++          "location":"querystring",
++          "locationName":"statusEquals"
++        },
++        "nameContains":{
++          "shape":"JobName",
++          "location":"querystring",
++          "locationName":"nameContains"
++        },
++        "maxResults":{
++          "shape":"MaxResults",
++          "location":"querystring",
++          "locationName":"maxResults"
++        },
++        "nextToken":{
++          "shape":"PaginationToken",
++          "location":"querystring",
++          "locationName":"nextToken"
++        },
++        "sortBy":{
++          "shape":"SortJobsBy",
++          "location":"querystring",
++          "locationName":"sortBy"
++        },
++        "sortOrder":{
++          "shape":"SortOrder",
++          "location":"querystring",
++          "locationName":"sortOrder"
++        }
++      },
++      "documentation":"<p>List Model Customization Jobs Request</p>"
++    },
++    "ListModelCustomizationJobsResponse":{
++      "type":"structure",
++      "members":{
++        "nextToken":{"shape":"PaginationToken"},
++        "modelCustomizationJobSummaries":{"shape":"ModelCustomizationJobSummaries"}
++      },
++      "documentation":"<p>List Model Customization Jobs Response</p>"
++    },
++    "ListTagsForResourceRequest":{
++      "type":"structure",
++      "required":["resourceARN"],
++      "members":{
++        "resourceARN":{"shape":"TaggableResourcesArn"}
++      }
++    },
++    "ListTagsForResourceResponse":{
++      "type":"structure",
++      "members":{
++        "tags":{"shape":"TagList"}
++      }
++    },
++    "MaxResults":{
++      "type":"integer",
++      "documentation":"<p>Max Results</p>",
++      "box":true,
++      "max":1000,
++      "min":1
++    },
++    "MetricFloat":{
++      "type":"float",
++      "documentation":"<Undocumented>",
++      "box":true
++    },
++    "MimeType":{
++      "type":"string",
++      "documentation":"<p>Content type of the request</p>"
++    },
++    "ModelArn":{
++      "type":"string",
++      "documentation":"<p>ARN of a Bedrock model</p>",
++      "max":1011,
++      "min":20,
++      "pattern":"arn:aws(-[^:]+)?:bedrock:[a-z0-9-]{1,20}:(([0-9]{12}:custom-model/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}/[a-z0-9]{12})|(:foundation-model/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}))"
++    },
++    "ModelCustomizationHyperParameters":{
++      "type":"map",
++      "key":{"shape":"String"},
++      "value":{"shape":"String"},
++      "documentation":"<Undocumented>"
++    },
++    "ModelCustomizationJobArn":{
++      "type":"string",
++      "documentation":"<p>ARN of the Bedrock model customization job</p>",
++      "max":1011,
++      "min":0,
++      "pattern":"arn:aws(-[^:]+)?:bedrock:[a-z0-9-]{1,20}:[0-9]{12}:model-customization-job/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}/[a-z0-9]{12}.*"
++    },
++    "ModelCustomizationJobIdentifier":{
++      "type":"string",
++      "documentation":"<p>ARN or name of the Bedrock model customization job</p>",
++      "max":1011,
++      "min":0,
++      "pattern":"(arn:aws(-[^:]+)?:bedrock:[a-z0-9-]{1,20}:[0-9]{12}:model-customization-job/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}/[a-z0-9]{12})|([a-zA-Z0-9](-*[a-zA-Z0-9\\+\\-\\.])*)"
++    },
++    "ModelCustomizationJobStatus":{
++      "type":"string",
++      "documentation":"<Undocumented>",
++      "enum":[
++        "InProgress",
++        "Completed",
++        "Failed",
++        "Stopping",
++        "Stopped"
++      ]
++    },
++    "ModelCustomizationJobSummaries":{
++      "type":"list",
++      "member":{"shape":"ModelCustomizationJobSummary"},
++      "documentation":"<Undocumented>"
++    },
++    "ModelCustomizationJobSummary":{
++      "type":"structure",
++      "required":[
++        "jobArn",
++        "baseModelArn",
++        "jobName",
++        "status",
++        "creationTime"
++      ],
++      "members":{
++        "jobArn":{"shape":"ModelCustomizationJobArn"},
++        "baseModelArn":{"shape":"FoundationModelArn"},
++        "jobName":{"shape":"JobName"},
++        "status":{"shape":"ModelCustomizationJobStatus"},
++        "lastModifiedTime":{"shape":"Timestamp"},
++        "creationTime":{"shape":"Timestamp"},
++        "endTime":{"shape":"Timestamp"},
++        "customModelArn":{"shape":"CustomModelArn"},
++        "customModelName":{"shape":"CustomModelName"}
++      },
++      "documentation":"<Undocumented>"
++    },
++    "ModelErrorException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"},
++        "originalStatusCode":{"shape":"StatusCode"},
++        "resourceName":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when a request fails in the model container</p>",
++      "error":{
++        "httpStatusCode":424,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "ModelIdentifier":{
++      "type":"string",
++      "documentation":"<p>ARN or name of a Bedrock model</p>",
++      "max":2048,
++      "min":1,
++      "pattern":"(arn:aws(-[^:]+)?:amazon-bedrock:[a-zA-Z0-9-]*:(([0-9]{12})|(aws))?:(custom|built-in)-model/.+)|(arn:aws(-[^:]+)?:bedrock:[a-z0-9-]{1,20}:(([0-9]{12}:custom-model/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}/[a-z0-9]{12})|(:foundation-model/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63})))|(([0-9a-zA-Z][_-]?)+)|([a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63})"
++    },
++    "ModelName":{
++      "type":"string",
++      "documentation":"<p>Name of the Bedrock custom or built-in model.</p>",
++      "max":63,
++      "min":1,
++      "pattern":"([a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63})"
++    },
++    "ModelNotReadyException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when the ML model is not ready to serve inference requests</p>",
++      "error":{
++        "httpStatusCode":429,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "ModelStreamErrorException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"},
++        "originalStatusCode":{"shape":"StatusCode"},
++        "originalMessage":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when a request fails in the model container</p>",
++      "error":{
++        "httpStatusCode":424,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "ModelTimeoutException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when the request takes too long to process</p>",
++      "error":{
++        "httpStatusCode":408,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "NonBlankString":{
++      "type":"string",
++      "documentation":"<p>Non Blank String</p>",
++      "pattern":"[\\s\\S]*"
++    },
++    "OutputDataConfig":{
++      "type":"structure",
++      "required":["s3Uri"],
++      "members":{
++        "s3Uri":{
++          "shape":"S3Uri",
++          "documentation":"<p>Output files structure in the Customer's S3 folder - training_job_id/</p> <ul> <li>training_artifacts <ul> <li>step_wise_training_metrics.csv</li> </ul> </li> <li>validation_artifacts <ul> <li>post_training_validation <ul> <li>validation_metrics.csv</li> </ul> </li> </ul> </li> </ul> <p>Output files format and structure</p> <ol> <li> <p>step_wise_training_metrics.csv step_number,epoch_number,training_loss 1,1,0.2 2,1,0.18 ...</p> </li> <li> <p>validation_metrics.csv step_number,epoch_number,validation_loss 1, 1, 0.12 2, 1, 0.09 3, 2, 0.06 .....</p> </li> </ol>"
++        }
++      },
++      "documentation":"<p>Specifies the Amazon S3 path where you want Bedrock to store the results of your model customization job</p>"
++    },
++    "PaginationToken":{
++      "type":"string",
++      "documentation":"<p>Opaque continuation token of previous paginated response</p>",
++      "max":2048,
++      "min":1,
++      "pattern":"\\S*"
++    },
++    "PartBody":{
++      "type":"blob",
++      "documentation":"<Undocumented>",
++      "max":1000000,
++      "min":0,
++      "sensitive":true
++    },
++    "PayloadPart":{
++      "type":"structure",
++      "members":{
++        "bytes":{"shape":"PartBody"}
++      },
++      "documentation":"<Undocumented>",
++      "event":true,
++      "sensitive":true
++    },
++    "Provider":{
++      "type":"string",
++      "documentation":"<p>A model provider of Bedrock</p>",
++      "pattern":"[a-z0-9-]{1,63}"
++    },
++    "RealTimeInferenceStatus":{
++      "type":"string",
++      "documentation":"<p>Real Time Inference Status</p>",
++      "enum":[
++        "ACTIVE",
++        "INACTIVE",
++        "ACTIVATING"
++      ]
++    },
++    "ResourceNotFoundException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when a resource referenced by the operation does not exist</p>",
++      "error":{
++        "httpStatusCode":404,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "ResponseStream":{
++      "type":"structure",
++      "members":{
++        "chunk":{"shape":"PayloadPart"},
++        "internalServerException":{"shape":"InternalServerException"},
++        "modelStreamErrorException":{"shape":"ModelStreamErrorException"}
++      },
++      "documentation":"<Undocumented>",
++      "eventstream":true
++    },
++    "RoleArn":{
++      "type":"string",
++      "documentation":"<p>ARN of a IAM role</p>",
++      "max":2048,
++      "min":0,
++      "pattern":"arn:aws(-[^:]+)?:iam::([0-9]{12})?:role/.+"
++    },
++    "S3Uri":{
++      "type":"string",
++      "documentation":"<p>A path in S3</p>",
++      "max":1024,
++      "min":1,
++      "pattern":"s3://[a-z0-9][\\.\\-a-z0-9]{1,61}[a-z0-9](/.*)?"
++    },
++    "SecurityGroupId":{
++      "type":"string",
++      "max":32,
++      "min":0,
++      "pattern":"[-0-9a-zA-Z]+"
++    },
++    "SecurityGroupIds":{
++      "type":"list",
++      "member":{"shape":"SecurityGroupId"},
++      "documentation":"<p>The VPC security group IDs, in the form sg-xxxxxxxx. Specify the security groups for the VPC that is specified in the Subnets field.</p>",
++      "max":5,
++      "min":1
++    },
++    "ServiceQuotaExceededException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when a request is made beyond the service quota</p>",
++      "error":{
++        "httpStatusCode":400,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "SortJobsBy":{
++      "type":"string",
++      "documentation":"<p>Field to sort jobs by</p>",
++      "enum":["CreationTime"]
++    },
++    "SortModelsBy":{
++      "type":"string",
++      "documentation":"<p>Field to sort models by</p>",
++      "enum":["CreationTime"]
++    },
++    "SortOrder":{
++      "type":"string",
++      "documentation":"<p>Order to sort results by</p>",
++      "enum":[
++        "Ascending",
++        "Descending"
++      ]
++    },
++    "StatusCode":{
++      "type":"integer",
++      "documentation":"<p>Status Code</p>",
++      "box":true,
++      "max":599,
++      "min":100
++    },
++    "StopModelCustomizationJobRequest":{
++      "type":"structure",
++      "required":["jobIdentifier"],
++      "members":{
++        "jobIdentifier":{
++          "shape":"ModelCustomizationJobIdentifier",
++          "location":"uri",
++          "locationName":"jobIdentifier"
++        }
++      },
++      "documentation":"<p>Stop Model Customization Job Request</p>"
++    },
++    "StopModelCustomizationJobResponse":{
++      "type":"structure",
++      "members":{
++      },
++      "documentation":"<p>Stop Model Customization Job Response</p>"
++    },
++    "String":{"type":"string"},
++    "SubnetId":{
++      "type":"string",
++      "max":32,
++      "min":0,
++      "pattern":"[-0-9a-zA-Z]+"
++    },
++    "SubnetIds":{
++      "type":"list",
++      "member":{"shape":"SubnetId"},
++      "documentation":"<p>The ID of the subnets in the VPC to which you want to connect your model customization job.</p>",
++      "max":16,
++      "min":1
++    },
++    "Tag":{
++      "type":"structure",
++      "required":[
++        "key",
++        "value"
++      ],
++      "members":{
++        "key":{"shape":"TagKey"},
++        "value":{"shape":"TagValue"}
++      },
++      "documentation":"<Undocumented>"
++    },
++    "TagKey":{
++      "type":"string",
++      "documentation":"<p>Tag Key</p>",
++      "max":128,
++      "min":1,
++      "pattern":"[a-zA-Z0-9\\s._:/=+@-]*"
++    },
++    "TagKeyList":{
++      "type":"list",
++      "member":{"shape":"TagKey"},
++      "documentation":"<p>List of Tag Keys</p>",
++      "max":200,
++      "min":0
++    },
++    "TagList":{
++      "type":"list",
++      "member":{"shape":"Tag"},
++      "documentation":"<p>List of Tags</p>",
++      "max":200,
++      "min":0
++    },
++    "TagResourceRequest":{
++      "type":"structure",
++      "required":[
++        "resourceARN",
++        "tags"
++      ],
++      "members":{
++        "resourceARN":{"shape":"TaggableResourcesArn"},
++        "tags":{"shape":"TagList"}
++      }
++    },
++    "TagResourceResponse":{
++      "type":"structure",
++      "members":{
++      }
++    },
++    "TagValue":{
++      "type":"string",
++      "documentation":"<p>Tag Value</p>",
++      "max":256,
++      "min":0,
++      "pattern":"[a-zA-Z0-9\\s._:/=+@-]*"
++    },
++    "TaggableResourcesArn":{
++      "type":"string",
++      "documentation":"<p>ARN of Taggable resources: [Custom model, fine tuning job]</p>",
++      "max":1011,
++      "min":20,
++      "pattern":".*(^arn:aws(-[^:]+)?:amazon-bedrock:[a-zA-Z0-9-]*:[0-9]{12}:(fine-tuning-job|custom-model)/.+$)|([a-zA-Z0-9][a-zA-Z0-9\\-]*$)|(^arn:aws(|-cn|-us-gov):bedrock:[a-z0-9-]{1,20}:([0-9]{12}|):(fine-tuning-job|model-customization-job|custom-model)/[a-z0-9-]{1,63}[.]{1}[a-z0-9-]{1,63}(/[a-z0-9]{12})$).*"
++    },
++    "ThrottlingException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when the number of requests exceeds the limit</p>",
++      "error":{
++        "httpStatusCode":429,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "Timestamp":{
++      "type":"timestamp",
++      "documentation":"<p>Time Stamp</p>",
++      "timestampFormat":"iso8601"
++    },
++    "TooManyTagsException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"},
++        "resourceName":{"shape":"TaggableResourcesArn"}
++      },
++      "documentation":"<p>This exception is thrown when a resource has more than 50 tags</p>",
++      "error":{
++        "httpStatusCode":400,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "TrainingDataConfig":{
++      "type":"structure",
++      "required":["s3Uri"],
++      "members":{
++        "s3Uri":{
++          "shape":"S3Uri",
++          "documentation":"<p>Only JSONL format will be supported for gated preview Example - {&quot;input&quot;: &quot;<prompt text>&quot;, &quot;output&quot;: &quot;<expected generated text>&quot;} {&quot;input&quot;: &quot;<prompt text>&quot;, &quot;output&quot;: &quot;<expected generated text>&quot;}</p>"
++        }
++      },
++      "documentation":"<Undocumented>"
++    },
++    "TrainingMetrics":{
++      "type":"structure",
++      "members":{
++        "trainingLoss":{"shape":"MetricFloat"}
++      },
++      "documentation":"<Undocumented>"
++    },
++    "UntagResourceRequest":{
++      "type":"structure",
++      "required":[
++        "resourceARN",
++        "tagKeys"
++      ],
++      "members":{
++        "resourceARN":{"shape":"TaggableResourcesArn"},
++        "tagKeys":{"shape":"TagKeyList"}
++      }
++    },
++    "UntagResourceResponse":{
++      "type":"structure",
++      "members":{
++      }
++    },
++    "ValidationDataConfig":{
++      "type":"structure",
++      "required":["validators"],
++      "members":{
++        "validators":{"shape":"Validators"}
++      },
++      "documentation":"<Undocumented>"
++    },
++    "ValidationException":{
++      "type":"structure",
++      "members":{
++        "message":{"shape":"NonBlankString"}
++      },
++      "documentation":"<p>This exception is thrown when the request's input validation fails</p>",
++      "error":{
++        "httpStatusCode":400,
++        "senderFault":true
++      },
++      "exception":true
++    },
++    "ValidationMetrics":{
++      "type":"list",
++      "member":{"shape":"ValidatorMetric"},
++      "documentation":"<Undocumented>"
++    },
++    "Validator":{
++      "type":"structure",
++      "required":["s3Uri"],
++      "members":{
++        "s3Uri":{
++          "shape":"S3Uri",
++          "documentation":"<p>Only JSONL format will be supported for gated preview Example - {&quot;input&quot;: &quot;<prompt text>&quot;, &quot;output&quot;: &quot;<expected generated text>&quot;} {&quot;input&quot;: &quot;<prompt text>&quot;, &quot;output&quot;: &quot;<expected generated text>&quot;}</p>"
++        }
++      },
++      "documentation":"<Undocumented>"
++    },
++    "ValidatorMetric":{
++      "type":"structure",
++      "members":{
++        "validationLoss":{"shape":"MetricFloat"}
++      },
++      "documentation":"<Undocumented>"
++    },
++    "Validators":{
++      "type":"list",
++      "member":{"shape":"Validator"},
++      "documentation":"<Undocumented>",
++      "max":10,
++      "min":0
++    },
++    "VpcConfig":{
++      "type":"structure",
++      "required":[
++        "subnetIds",
++        "securityGroupIds"
++      ],
++      "members":{
++        "subnetIds":{"shape":"SubnetIds"},
++        "securityGroupIds":{"shape":"SecurityGroupIds"}
++      },
++      "documentation":"<p>Configuration parameters for an optional private Virtual Private Cloud (VPC) containing the resources you are using for the job.</p>"
++    }
++  },
++  "documentation":"<p>Amazon Bedrock</p>"
++}
+diff --git a/docs/source/conf.py b/docs/source/conf.py
+index 8fcc3abf2..5957ba741 100644
+--- a/docs/source/conf.py
++++ b/docs/source/conf.py
+@@ -59,7 +59,7 @@ copyright = f'{current_year}, Amazon Web Services, Inc'
+ # The short X.Y version.
+ version = '1.31.'
+ # The full version, including alpha/beta/rc tags.
+-release = '1.31.20'
++release = '1.31.21'
+ 
+ # The language for content autogenerated by Sphinx. Refer to documentation
+ # for a list of supported languages.
+diff --git a/tests/functional/endpoint-rules/location/endpoint-tests-1.json b/tests/functional/endpoint-rules/bedrock/endpoint-tests-1.json
+similarity index 88%
+copy from tests/functional/endpoint-rules/location/endpoint-tests-1.json
+copy to tests/functional/endpoint-rules/bedrock/endpoint-tests-1.json
+index 2281499b4..1b22fd55b 100644
+--- a/tests/functional/endpoint-rules/location/endpoint-tests-1.json
++++ b/tests/functional/endpoint-rules/bedrock/endpoint-tests-1.json
+@@ -4,7 +4,7 @@
+             "documentation": "For region us-east-1 with FIPS enabled and DualStack enabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.us-east-1.api.aws"
++                    "url": "https://bedrock-fips.us-east-1.api.aws"
+                 }
+             },
+             "params": {
+@@ -17,7 +17,7 @@
+             "documentation": "For region us-east-1 with FIPS enabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.us-east-1.amazonaws.com"
++                    "url": "https://bedrock-fips.us-east-1.amazonaws.com"
+                 }
+             },
+             "params": {
+@@ -30,7 +30,7 @@
+             "documentation": "For region us-east-1 with FIPS disabled and DualStack enabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.us-east-1.api.aws"
++                    "url": "https://bedrock.us-east-1.api.aws"
+                 }
+             },
+             "params": {
+@@ -43,7 +43,7 @@
+             "documentation": "For region us-east-1 with FIPS disabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.us-east-1.amazonaws.com"
++                    "url": "https://bedrock.us-east-1.amazonaws.com"
+                 }
+             },
+             "params": {
+@@ -56,7 +56,7 @@
+             "documentation": "For region cn-north-1 with FIPS enabled and DualStack enabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.cn-north-1.api.amazonwebservices.com.cn"
++                    "url": "https://bedrock-fips.cn-north-1.api.amazonwebservices.com.cn"
+                 }
+             },
+             "params": {
+@@ -69,7 +69,7 @@
+             "documentation": "For region cn-north-1 with FIPS enabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.cn-north-1.amazonaws.com.cn"
++                    "url": "https://bedrock-fips.cn-north-1.amazonaws.com.cn"
+                 }
+             },
+             "params": {
+@@ -82,7 +82,7 @@
+             "documentation": "For region cn-north-1 with FIPS disabled and DualStack enabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.cn-north-1.api.amazonwebservices.com.cn"
++                    "url": "https://bedrock.cn-north-1.api.amazonwebservices.com.cn"
+                 }
+             },
+             "params": {
+@@ -95,7 +95,7 @@
+             "documentation": "For region cn-north-1 with FIPS disabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.cn-north-1.amazonaws.com.cn"
++                    "url": "https://bedrock.cn-north-1.amazonaws.com.cn"
+                 }
+             },
+             "params": {
+@@ -108,7 +108,7 @@
+             "documentation": "For region us-gov-east-1 with FIPS enabled and DualStack enabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.us-gov-east-1.api.aws"
++                    "url": "https://bedrock-fips.us-gov-east-1.api.aws"
+                 }
+             },
+             "params": {
+@@ -121,7 +121,7 @@
+             "documentation": "For region us-gov-east-1 with FIPS enabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.us-gov-east-1.amazonaws.com"
++                    "url": "https://bedrock-fips.us-gov-east-1.amazonaws.com"
+                 }
+             },
+             "params": {
+@@ -134,7 +134,7 @@
+             "documentation": "For region us-gov-east-1 with FIPS disabled and DualStack enabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.us-gov-east-1.api.aws"
++                    "url": "https://bedrock.us-gov-east-1.api.aws"
+                 }
+             },
+             "params": {
+@@ -147,7 +147,7 @@
+             "documentation": "For region us-gov-east-1 with FIPS disabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.us-gov-east-1.amazonaws.com"
++                    "url": "https://bedrock.us-gov-east-1.amazonaws.com"
+                 }
+             },
+             "params": {
+@@ -171,7 +171,7 @@
+             "documentation": "For region us-iso-east-1 with FIPS enabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.us-iso-east-1.c2s.ic.gov"
++                    "url": "https://bedrock-fips.us-iso-east-1.c2s.ic.gov"
+                 }
+             },
+             "params": {
+@@ -195,7 +195,7 @@
+             "documentation": "For region us-iso-east-1 with FIPS disabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.us-iso-east-1.c2s.ic.gov"
++                    "url": "https://bedrock.us-iso-east-1.c2s.ic.gov"
+                 }
+             },
+             "params": {
+@@ -219,7 +219,7 @@
+             "documentation": "For region us-isob-east-1 with FIPS enabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo-fips.us-isob-east-1.sc2s.sgov.gov"
++                    "url": "https://bedrock-fips.us-isob-east-1.sc2s.sgov.gov"
+                 }
+             },
+             "params": {
+@@ -243,7 +243,7 @@
+             "documentation": "For region us-isob-east-1 with FIPS disabled and DualStack disabled",
+             "expect": {
+                 "endpoint": {
+-                    "url": "https://geo.us-isob-east-1.sc2s.sgov.gov"
++                    "url": "https://bedrock.us-isob-east-1.sc2s.sgov.gov"
+                 }
+             },
+             "params": {
