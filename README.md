@@ -98,7 +98,7 @@ Next up you'll need to create a secrets file for the app to use.  Open the file 
 
 You will now need to edit that file to reflect your credentials. The file has the following variables:
 
-    SERVICE_NAME = "" #e.g. bedorock
+    SERVICE_NAME = "" #e.g. bedrock
     REGION_NAME = "" #e.g. us-west-2
     CYPHER_MODEL = "" #e.g. anthropic.claude-v2
     ACCESS_KEY = "AWS ACCESS KEY" #provide the access key with bedrock access
