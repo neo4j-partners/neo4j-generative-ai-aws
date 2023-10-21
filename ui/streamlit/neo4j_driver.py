@@ -15,5 +15,5 @@ gds = GraphDataScience(
 
 gds.set_database("neo4j")
 
-def run_query(query):
-    return gds.run_cypher(query)
+def run_query(query, params = {}):
+    return gds.run_cypher(query, params)

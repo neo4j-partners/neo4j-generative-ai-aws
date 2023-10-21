@@ -3,10 +3,10 @@ from PIL import Image
 
 st.set_page_config(page_icon="🧠", layout="wide")
 st.markdown("""
-This is a Proof of Concept application which shows how AWS Bedrock can be used with Neo4j to build and consume Knowledge Graphs using text data.
-Using AWS Bedrock's models, SEC EDGAR filings are converted to Knowledge Graph.
+This is a Proof of Concept application which shows how GenAI can be used with Neo4j to build and consume Knowledge Graphs using text data.
+Using LLM, SEC EDGAR filings are converted to Knowledge Graph.
 
-### Why Neo4j is a great addition to AWS Bedrock:
+### Why Neo4j is a great addition to GenAI:
 - *Fine-grained access control of your data* : You can control who can and cannot access parts of your data
 - Greater reliability with factual data
 - More Explainability
