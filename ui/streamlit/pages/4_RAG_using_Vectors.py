@@ -117,6 +117,7 @@ st.markdown("""
   <tr>
     <td>Which company makes Procore Analytics?</td>
     <td>Which asset managers are vulnerable to lithium shortage?</td>
+    <td>Which company sells bicycles?</td>
   </tr>
   <tr>
     <td></td>
