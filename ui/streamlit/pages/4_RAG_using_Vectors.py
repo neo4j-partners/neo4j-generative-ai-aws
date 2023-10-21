@@ -38,6 +38,7 @@ def rag_v(question):
   res = rag_vector_only.get_results(question)
   st.markdown(res['result'])
 
+
 def rag_vg(question):
   res = rag_vector_graph.get_results(question)
   st.markdown(res['result'])
@@ -66,9 +67,13 @@ with col2:
 
 if question:
   with col1:
-    rag_v(question)
+    with st.spinner('Running RAG using Vectors ...'):
+      rag_v(question)
+      st.success('Done!')
   with col2:
-    rag_vg(question)
+    with st.spinner('Running RAG using Vectors & Graphs ...'):
+      rag_vg(question)
+      st.success('Done!')
 
 st.markdown("---")
 
