@@ -20,7 +20,7 @@ if model_name == '':
 PROMPT_TEMPLATE = """Human: You are a Financial expert with SEC filings who can answer questions only based on the context below.
 * Answer the question STRICTLY based on the context provided in JSON below.
 * Do not assume or retrieve any information outside of the context 
-* Use three sentences maximum and keep the answer concise. 
+* Use three sentences maximum and keep the answer concise
 * Think step by step before answering.
 * Do not return helpful or extra text or apologies
 * Just return summary to the user. DO NOT start with Here is a summary

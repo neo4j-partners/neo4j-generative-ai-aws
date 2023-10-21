@@ -5,6 +5,7 @@ from streamlit.components.v1 import html
 import rag_vector_only
 import rag_vector_graph
 from timeit import default_timer as timer
+from PIL import Image
 
 
 st.set_page_config(page_icon="🧠", layout="wide")
@@ -43,13 +44,30 @@ def rag_vg(question):
 
 question = st.text_input("Ask question on the SEC Filings", value="")
 
+col1, col2 = st.columns(2)
+with col1:
+  st.markdown("### Vector Only approach")
+  with st.expander("Vector Only Search does not have context and it is something like this:"):
+    vec_only = Image.open('./images/vector-only.png')
+    st.markdown("#### Relationships are ignored. So, lesser context")
+    st.image(vec_only)
+    v = Image.open('./images/vector-only1.png')
+    st.markdown("#### Sample Doc Chunk")
+    st.image(v)
+with col2:
+  st.markdown("### Vector + Graph approach")
+  with st.expander("Vector+Graph has full context like this:"):
+    schema = Image.open('./images/schema.png')
+    st.markdown("#### Relationships make this context-rich")
+    st.image(schema)
+    vg = Image.open('./images/vector-graph.png')
+    st.markdown("#### Sample Doc Chunk")
+    st.image(vg)
+
 if question:
-  col1, col2 = st.columns(2)
   with col1:
-    st.markdown("### Vector Only approach")
     rag_v(question)
   with col2:
-    st.markdown("### Vector + Graph approach")
     rag_vg(question)
 
 st.markdown("---")
