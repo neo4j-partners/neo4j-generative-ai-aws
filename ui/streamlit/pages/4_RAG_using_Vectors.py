@@ -115,7 +115,7 @@ st.markdown("""
     <td>Which asset managers own all the FAANG stocks?</td>
   </tr>
   <tr>
-    <td>Which company makes Procore Analytics?</td>
+    <td>Which company makes the product Procore Analytics?</td>
     <td>Which asset managers are vulnerable to lithium shortage?</td>
     <td>Which company sells bicycle?</td>
   </tr>
