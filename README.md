@@ -114,6 +114,14 @@ Now we can run the app with the commands:
     cd ..
     streamlit run Home.py --server.port=80
 
+Optionally, you can run the app in another screen session to ensure the app continues to run even if you disconnect from the ec2 instance:
+
+    screen -S run_app
+    cd ..
+    streamlit run Home.py --server.port=80    
+
+You can use `Ctrl+a` `d` to exit the screen with the app still running and enter back into the screen with `screen -r`. To kill the screen session, use the command `screen -XS run_app quit`.
+
 On the VM to run on port 80:
 - Ensure you are a root or has access to run on port 80
 - Ensure that the VM has port 80 open for HTTP access. You might need to open that port or any other via firewall rules as mentioned [here](https://repost.aws/knowledge-center/connect-http-https-ec2). 
@@ -128,3 +136,4 @@ From the Chat UI, you can ask questions like:
 1. Which of the managers own Amazon?
 2. How many managers own more than 100 companies and who are they?
 3. Which manager own all the FAANG stocks?
+
