@@ -59,7 +59,7 @@ We're going to be running the application on port 80.  That requires root access
 
 Then you'll need to install git and clone this repo:
 
-    apt install -y git
+    yum install -y git
     mkdir -p /app
     cd /app
     git clone https://github.com/neo4j-partners/neo4j-generative-ai-aws.git
@@ -67,12 +67,12 @@ Then you'll need to install git and clone this repo:
 
 Let's install python & pip first:
 
-    apt install -y python
-    apt install -y pip
+    yum install -y python
+    yum install -y pip
 
 Now, let's create a Virtual Environment to isolate our Python environment and activate it
 
-    apt-get install -y python3-venv
+    yum install -y virtualenv
     python3 -m venv /app/venv/genai
     source /app/venv/genai/bin/activate
 
