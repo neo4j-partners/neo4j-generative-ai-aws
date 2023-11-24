@@ -5,6 +5,11 @@ from streamlit.components.v1 import html
 from english2results import get_results
 from timeit import default_timer as timer
 
+from langchain.globals import set_llm_cache
+from langchain.cache import InMemoryCache
+
+set_llm_cache(InMemoryCache())
+
 
 # Hardcoded UserID
 USER_ID = "bot"

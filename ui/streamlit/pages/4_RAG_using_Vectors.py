@@ -7,6 +7,11 @@ import rag_vector_graph
 from timeit import default_timer as timer
 from PIL import Image
 
+from langchain.globals import set_llm_cache
+from langchain.cache import InMemoryCache
+
+set_llm_cache(InMemoryCache())
+
 
 st.set_page_config(page_icon="🧠", layout="wide")
 gen_ai = """| 
