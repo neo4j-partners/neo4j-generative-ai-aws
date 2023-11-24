@@ -162,7 +162,7 @@ st.markdown("""
     <td>how many managers own more than 100 companies and who are they?</td>
   </tr>
   <tr>
-    <td>Which manager own all the FAANG stocks?</td>
+    <td>Which manager own any FAANG stocks?</td>
     <td></td>
     <td></td>
   </tr>
