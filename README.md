@@ -10,6 +10,9 @@ The dataflow in this demo consists of two parts:
 ## Setup Sagemaker Studio Environment
 To get started setting up the demo, clone this repo into a [SageMaker Studio](https://aws.amazon.com/sagemaker/studio/) environment and then follow the instructions in [notebook.ipynb](notebook.ipynb).
 
+## Deploy Neo4j AuraDS Professional
+This demo requires a Neo4j instance.  You can deploy that using the AWS Marketplace listing [here](https://aws.amazon.com/marketplace/pp/prodview-2t3o7mnw5ypee).
+
 ## Enable AWS IAM permissions for Bedrock
 The AWS identity you assume from your notebook environment (which is the [*Studio/notebook Execution Role*](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html) from SageMaker, or could be a role or IAM User for self-managed notebooks), must have sufficient [AWS IAM permissions](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) to call the Amazon Bedrock service.
 
