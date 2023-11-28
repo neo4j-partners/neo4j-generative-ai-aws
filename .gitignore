@@ -1,6 +1,14 @@
+# Notebook output
+failed_files.json
+
 # Jupyter Notebook
 .ipynb_checkpoints
 __pycache__
-.env
+
+# Mac System file
 .DS_STORE
+
+# UI file
+.env
 secrets.toml
+
