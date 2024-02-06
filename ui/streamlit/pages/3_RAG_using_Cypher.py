@@ -1,11 +1,13 @@
 import streamlit as st
 from streamlit_chat import message
 from streamlit.components.v1 import html
-
 from english2results import get_results
 from timeit import default_timer as timer
-
 from ui_utils import render_header_svg
+from langchain.globals import set_llm_cache
+from langchain.cache import InMemoryCache
+
+set_llm_cache(InMemoryCache())
 
 # Hardcoded UserID
 USER_ID = "bot"
@@ -143,7 +145,7 @@ st.markdown("""
     <td>how many managers own more than 100 companies and who are they?</td>
   </tr>
   <tr>
-    <td>Which manager own all the FAANG stocks?</td>
+    <td>Which manager own any FAANG stocks?</td>
     <td></td>
     <td></td>
   </tr>

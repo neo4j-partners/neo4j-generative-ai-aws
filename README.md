@@ -8,10 +8,12 @@ The dataflow in this demo consists of two parts:
 2. Consumption - A user inputs natural language into a chat UI.  Bedrock converts that to Neo4j Cypher which is run against the database.  This flow allows non technical users to query the database.
 
 ## Setup Sagemaker Studio Environment
-To get started setting up the demo, clone this repo into a [SageMaker Studio](https://aws.amazon.com/sagemaker/studio/) environment and then follow the instructions in [notebook.ipynb](notebook.ipynb).
+To get started setting up the demo, clone this repo into a [SageMaker Studio](https://aws.amazon.com/sagemaker/studio/) environment and then run through the notebooks numbered 0 through 4.
 
-### Enable AWS IAM permissions for Bedrock
+## Deploy Neo4j AuraDS Professional
+This demo requires a Neo4j instance.  You can deploy that using the AWS Marketplace listing [here](https://aws.amazon.com/marketplace/pp/prodview-2t3o7mnw5ypee).
 
+## Enable AWS IAM permissions for Bedrock
 The AWS identity you assume from your notebook environment (which is the [*Studio/notebook Execution Role*](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html) from SageMaker, or could be a role or IAM User for self-managed notebooks), must have sufficient [AWS IAM permissions](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) to call the Amazon Bedrock service.
 
 To grant Bedrock access to your identity, you can:
@@ -127,9 +129,10 @@ On the VM to run on port 80:
 - Ensure that the VM has port 80 open for HTTP access. You might need to open that port or any other via firewall rules as mentioned [here](https://repost.aws/knowledge-center/connect-http-https-ec2). 
 
 Once deployed, you will be able to see the Dashboard and Chat UI:
-### Dashboard
+
+## Dashboard
 ![Dashboard](images/dash.png)
-### Chat UI
+## Chat UI
 ![Chat](images/chat.png)
 
 From the Chat UI, you can ask questions like:

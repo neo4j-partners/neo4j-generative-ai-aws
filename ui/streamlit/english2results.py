@@ -20,7 +20,8 @@ if model_name == '':
     model_name = 'anthropic.claude-v2'
     
 
-CYPHER_GENERATION_TEMPLATE = """Human: You are an expert Neo4j Cypher translator who understands the question in english and convert to Cypher strictly based on the Neo4j Schema provided and following the instructions below:
+CYPHER_GENERATION_TEMPLATE = """Human: 
+You are an expert Neo4j Cypher translator who understands the question in english and convert to Cypher strictly based on the Neo4j Schema provided and following the instructions below:
 1. Generate Cypher query compatible ONLY for Neo4j Version 5
 2. Do not use EXISTS, SIZE keywords in the cypher. Use alias when using the WITH keyword
 3. Use only Nodes and relationships mentioned in the schema
@@ -31,6 +32,10 @@ CYPHER_GENERATION_TEMPLATE = """Human: You are an expert Neo4j Cypher translator
 8. `OWNS` relationship is syonymous with `BUY`
 Strictly use this Schema for Cypher generation:
 {schema}
+
+Assistant:
+Understood. I will convert the following question to Cypher strictly based on the Neo4j schema and instructions provided.
+
 Human: Which of the managers own Amazon?
 Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.nameOfIssuer) CONTAINS 'amazon' RETURN p;
 Human: If a manager owns Meta, do they also own Amazon?
