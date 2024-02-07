@@ -1,3 +1,6 @@
+# IDE
+.idea
+
 # Notebook output
 failed_files.json
 
@@ -11,4 +14,3 @@ __pycache__
 # UI file
 .env
 secrets.toml
-

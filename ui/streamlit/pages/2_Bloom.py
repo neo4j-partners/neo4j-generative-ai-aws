@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="SEC EDGAR Filings - Neo4j Bloom",
-    page_icon="🧠",
+    page_icon="images/logo-mark-fullcolor-RGB-transBG.svg",
     layout="wide",
 )
 
