@@ -95,12 +95,11 @@ st.markdown("""
   </tr>
   <tr>
     <td>Name the asset managers exposed to investments in regulated companies?</td>
-    <td>Which companies are vulnerable to lithium shortage?</td>
+    <td>Which companies and asset managers are vulnerable to lithium shortage?</td>
     <td>Which asset managers own all the FAANG stocks?</td>
   </tr>
   <tr>
     <td>Which company makes the product Procore Analytics?</td>
-    <td>Which asset managers are vulnerable to lithium shortage?</td>
     <td>Which company sells bicycle?</td>
   </tr>
   <tr>
