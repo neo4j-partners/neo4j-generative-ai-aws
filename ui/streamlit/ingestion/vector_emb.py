@@ -1,4 +1,4 @@
-from langchain.embeddings import BedrockEmbeddings
+from langchain_community.embeddings import BedrockEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import ingestion.bedrock_util as bedrock_util
 import json
