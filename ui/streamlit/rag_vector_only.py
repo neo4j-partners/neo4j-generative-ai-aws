@@ -1,7 +1,7 @@
 from langchain.chains import GraphCypherQAChain
-from langchain.graphs import Neo4jGraph
+from langchain_community.graphs import Neo4jGraph
 from langchain.prompts.prompt import PromptTemplate
-from langchain.llms.bedrock import Bedrock
+from langchain_community.llms import Bedrock
 from retry import retry
 from timeit import default_timer as timer
 import streamlit as st

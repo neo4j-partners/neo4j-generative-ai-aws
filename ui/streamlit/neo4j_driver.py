@@ -1,4 +1,3 @@
-import os
 from graphdatascience import GraphDataScience
 
 import streamlit as st

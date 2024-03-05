@@ -6,7 +6,6 @@ import pandas as pd
 import streamlit as st
 from graphdatascience import GraphDataScience
 import traceback
-from tqdm import tqdm
 
 bedrock = bedrock_util.get_client()
 EMBEDDING_MODEL = BedrockEmbeddings(model_id="amazon.titan-embed-text-v1", client=bedrock)
