@@ -15,20 +15,23 @@ bedrock = boto3.client(
 def get_client():
     return bedrock
 
+model_name = st.secrets["MULTIMODAL_MODEL"]
+if model_name == '':
+    model_name = 'anthropic.claude-3-sonnet-20240229-v1:0'
+
 def call_language_model(prompt_data):
     try:
-        body = json.dumps({"prompt": f"Human: {prompt_data} \n Assistant:",
+        body = json.dumps({"messages": [{"role": "user", "content": f"{prompt_data}"}],
                            "temperature":0,
                            "top_k":1, "top_p":0.88,
                            "anthropic_version":"bedrock-2023-05-31",
-                           "max_tokens_to_sample": 2048})
-        modelId = 'anthropic.claude-v2' # change this to use a different version from the model provider
+                           "max_tokens": 50000})
+        modelId = model_name # change this to use a different version from the model provider
         accept = 'application/json'
         contentType = 'application/json'
 
         response = bedrock.invoke_model(body=body, modelId=modelId, accept=accept, contentType=contentType)
         response_body = json.loads(response.get('body').read())
-
-        return response_body.get('completion')
+        return response_body.get('content')[0].get('text')
     except Exception as e:
         print(e)
