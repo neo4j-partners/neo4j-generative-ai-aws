@@ -86,7 +86,7 @@ def split_filing_info(s):
 
 def generate_cypher(manager, filings):
     cyphers = []
-    create_manager = f'MERGE (mgr:Manager{{name: "{manager["name"]}"}})'
+    create_manager = f'MERGE (mgr:Manager{{managerName: "{manager["name"]}"}})'
     cyphers.append(create_manager)
     
     addr_id = get_cypher_compliant_var(manager["name"])
@@ -99,14 +99,14 @@ def generate_cypher(manager, filings):
     '''
     cyphers.append(create_address)
     
-    relate_mgr_addr = f'''MATCH (mgr:Manager{{name: "{manager["name"]}"}})
+    relate_mgr_addr = f'''MATCH (mgr:Manager{{managerName: "{manager["name"]}"}})
       MATCH (addr:Address{{id: "{addr_id}"}})
       MERGE (mgr)-[:HAS_ADDRESS]->(addr)'''
     cyphers.append(relate_mgr_addr)
     
     for f in filings:
         create_company = f'''MERGE (co:Company{{cusip: "{f['cusip']}"}}) 
-        ON CREATE SET co.nameOfIssuer = "{f["nameOfIssuer"]}"'''
+        ON CREATE SET co.companyName = "{f["nameOfIssuer"]}"'''
         cyphers.append(create_company)
         
         on_create_set = f"""o.reportCalendarOrQuarter = "{manager['reportCalendarOrQuarter']}",
@@ -122,7 +122,7 @@ def generate_cypher(manager, filings):
                o.votingSole = o.votingSole + {int(f.get('votingSole', '0'))},
                o.votingShared = o.votingShared + {int(f.get('votingShared', '0'))},
                o.votingNone = o.votingNone + {int(f.get('votingNone', '0'))}"""
-        relate_mgr_co = f'''MATCH (mgr:Manager{{name: "{manager["name"]}"}})
+        relate_mgr_co = f'''MATCH (mgr:Manager{{managerName: "{manager["name"]}"}})
           MATCH (co:Company{{cusip: "{f['cusip']}"}})
           MERGE (mgr)-[o:OWNS]->(co)
           ON CREATE SET {on_create_set}

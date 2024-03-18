@@ -86,7 +86,8 @@ def get_results(question):
             model_kwargs = {
                 "temperature":0,
                 "top_k":1, "top_p":0.1,
-                "anthropic_version":"bedrock-2023-05-31"
+                "anthropic_version":"bedrock-2023-05-31",
+                "max_tokens": 50000
             }
         )
         df = vector_graph_qa(question)
