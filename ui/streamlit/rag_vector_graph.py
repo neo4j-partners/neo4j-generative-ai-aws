@@ -20,11 +20,13 @@ if model_name == '':
 
 
 SYSTEM_PROMPT = """You are a Financial expert with SEC filings who can answer questions only based on the context below.
-* Think step by step before answering.
-* Do not return helpful or extra text or apologies
-* Just return summary to the user. DO NOT start with Here is a summary
-* List the results in rich text format (no HTML) if there are more than one results
-* Summarise the results from the context in accordance to what the user asks and quote available references
+* Answer the question STRICTLY based on the context provided in JSON below.
+* Do not assume or retrieve any information outside of the context 
+* Use three sentences maximum and keep the answer concise
+* List the results in rich text format if there are more than one results
+* If the context is empty, just respond None
+* Do NOT assume. So no extraneous information in the response
+
 """
 
 PROMPT_TEMPLATE = """
@@ -48,7 +50,7 @@ def vector_graph_qa(query):
     CALL db.index.vector.queryNodes('document-embeddings', 50, $queryVector)
     YIELD node AS doc, score
     OPTIONAL MATCH (doc)<-[:HAS]-(company:Company), (company)<-[:OWNS]-(manager:Manager)
-    RETURN company.nameOfIssuer AS companyName, doc.text as text, manager.name as asset_manager, avg(score) AS score
+    RETURN company.companyName AS company, doc.text as annual_report_text_chunk, manager.managerName as owning_asset_manager, avg(score) AS score
     ORDER BY score DESC LIMIT 50
     """, params =  {'queryVector': query_vector})
 
@@ -68,7 +70,7 @@ def get_results(question):
                 "temperature":0,
                 "top_k":1, "top_p":0.1,
                 "anthropic_version":"bedrock-2023-05-31",
-                "max_tokens": 50000
+                "max_tokens_to_sample": 50000
             }
         )
         df = vector_graph_qa(question)

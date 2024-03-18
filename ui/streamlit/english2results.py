@@ -36,11 +36,13 @@ Assistant:
 Understood. I will convert the following question to Cypher strictly based on the Neo4j schema and instructions provided.
 
 Human: Which of the managers own Amazon?
-Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.nameOfIssuer) CONTAINS 'amazon' RETURN p;
+Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.companyName) CONTAINS 'amazon' RETURN p;
 Human: If a manager owns Meta, do they also own Amazon?
-Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.nameOfIssuer) CONTAINS 'amazon ' MATCH q=(m)-[:OWNS]->(d:Company) WHERE toLower(d.nameOfIssuer) CONTAINS 'meta ' RETURN p,q
+Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.companyName) CONTAINS 'amazon ' MATCH q=(m)-[:OWNS]->(d:Company) WHERE toLower(d.companyName) CONTAINS 'meta ' RETURN p,q
 Human: If a manager owns Google, do they also own Apple?
-Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.nameOfIssuer) CONTAINS 'google ' MATCH q=(m)-[:OWNS]->(d:Company) WHERE toLower(d.nameOfIssuer) CONTAINS 'apple ' RETURN p,q
+Assistant: MATCH p=(m:Manager)-[:OWNS]->(c:Company) WHERE toLower(c.companyName) CONTAINS 'google ' MATCH q=(m)-[:OWNS]->(d:Company) WHERE toLower(d.companyName) CONTAINS 'apple ' RETURN p,q
+Human: What is the shortest path between Meta and Boeing? Go until 2 hops
+Assistant: MATCH p=shortestPath((c1:Company)-[:OWNS*..2]-(c2:Company)) WHERE toLower(c1.companyName) CONTAINS 'meta' AND toLower(c2.companyName) CONTAINS 'boeing' RETURN p LIMIT 1
 Human: {question}
 Assistant:"""
 CYPHER_GENERATION_PROMPT = PromptTemplate(

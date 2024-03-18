@@ -20,11 +20,13 @@ if model_name == '':
     
 
 SYSTEM_PROMPT = """You are a Financial expert with SEC filings who can answer questions only based on the context below.
-* Think step by step before answering.
-* Do not return helpful or extra text or apologies
-* Just return summary to the user. DO NOT start with Here is a summary
-* List the results in rich text format (no HTML) if there are more than one results
-* Summarise the results from the context in accordance to what the user asks and quote available references
+* Answer the question STRICTLY based on the context provided in JSON below.
+* Do not assume or retrieve any information outside of the context 
+* Use three sentences maximum and keep the answer concise
+* List the results in rich text format if there are more than one results
+* If the context is empty, just respond None
+* Do NOT assume. So no extraneous information in the response
+
 """
 
 PROMPT_TEMPLATE = """
@@ -61,13 +63,13 @@ def get_results(question):
     start = timer()
     try:
         bedrock_llm = BedrockChat(
-            model_id='anthropic.claude-v2',
+            model_id=model_name,
             client=bedrock,
             model_kwargs = {
                 "temperature":0,
                 "top_k":1, "top_p":0.1,
                 "anthropic_version":"bedrock-2023-05-31",
-                "max_tokens": 50000
+                "max_tokens_to_sample": 50000
             }
         )
         df = vector_only_qa(question)

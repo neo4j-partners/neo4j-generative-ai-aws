@@ -141,13 +141,13 @@ st.markdown("""
   </tr>
   <tr>
     <td>Which of the managers own Nvidia?</td>
-    <td>If a manager owns Meta, do they also buy Amazon?</td>
+    <td>If a manager owns Apple, do they also buy Nvidia?</td>
     <td>how many managers own more than 100 companies and who are they?</td>
   </tr>
   <tr>
     <td>Which manager own any FAANG stocks?</td>
-    <td>What is the shortest path between Nvidia and Yum Brands?</td>
-    <td>What is the shortest path between Amazon and Pubmatic? Go until 2 hops</td>
+    <td>What is the shortest path between Nvidia and Lockheed Martin?</td>
+    <td>What is the shortest path between Apple and Boeing? Go until 2 hops</td>
   </tr>
   <tr>
     <td></td>
