@@ -69,7 +69,7 @@ def get_results(question):
                 "temperature":0,
                 "top_k":1, "top_p":0.1,
                 "anthropic_version":"bedrock-2023-05-31",
-                "max_tokens": 50000
+                "max_tokens": 20000
             }
         )
         df = vector_only_qa(question)
