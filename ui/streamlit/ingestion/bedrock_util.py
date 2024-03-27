@@ -25,7 +25,7 @@ def call_language_model(prompt_data):
                            "temperature":0,
                            "top_k":1, "top_p":0.88,
                            "anthropic_version":"bedrock-2023-05-31",
-                           "max_tokens": 50000})
+                           "max_tokens": 20000})
         modelId = model_name # change this to use a different version from the model provider
         accept = 'application/json'
         contentType = 'application/json'
