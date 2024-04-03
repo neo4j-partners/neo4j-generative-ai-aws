@@ -10,7 +10,8 @@ import streamlit as st
 import ingestion.bedrock_util as bedrock_util
 from langchain_community.embeddings import BedrockEmbeddings
 from neo4j_driver import run_query
-from json import loads, dumps
+from json import loads
+import yaml
 
 bedrock = bedrock_util.get_client()
 
@@ -34,7 +35,7 @@ PROMPT_TEMPLATE = """
 {input}
 </question>
 
-Here is the context:
+Here is the context in YAML format:
 <context>
 {context}
 </context>
@@ -57,7 +58,11 @@ def vector_graph_qa(query):
 def df_to_context(df):
     result = df.to_json(orient="records")
     parsed = loads(result)
-    return dumps(parsed)
+    text = yaml.dump(
+        parsed,
+        sort_keys=False, indent=1,
+        default_flow_style=None)
+    return text
 
 @retry(tries=5, delay=5)
 def get_results(question):
