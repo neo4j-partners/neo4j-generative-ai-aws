@@ -1,9 +1,6 @@
 import streamlit as st
-from streamlit_chat import message
-from streamlit.components.v1 import html
 import rag_vector_only
 import rag_vector_graph
-from timeit import default_timer as timer
 from PIL import Image
 from ui_utils import render_header_svg
 from langchain.globals import set_llm_cache
@@ -112,4 +109,25 @@ st.markdown("""
     <td></td>
   </tr>
 </table>
+<!--
+            <table>
+  <tr>
+    <th colspan="3">Sample Questions to try out</th>
+  </tr>
+  <tr>
+    <td>Which companies were affected during covid?</td>
+    <td>Which companies and asset managers are vulnerable to chip shortage?</td>
+    <td>Which companies and asset managers are vulnerable to lithium shortage?</td>
+  </tr>
+  <tr>
+    <td>Which asset managers have investments in regulated industries?</td>
+    <td>Which asset managers have investments in outside USA? Explain with evidence</td>
+    <td>Which asset managers own all the FAANG stocks?</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+            -->
 """, unsafe_allow_html=True)
