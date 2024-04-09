@@ -11,7 +11,7 @@ import ingestion.bedrock_util as bedrock_util
 from langchain_community.embeddings import BedrockEmbeddings
 from neo4j_driver import run_query
 from json import loads
-import yaml
+import json
 
 bedrock = bedrock_util.get_client()
 
@@ -35,7 +35,9 @@ PROMPT_TEMPLATE = """
 {input}
 </question>
 
-Here is the context in YAML format:
+Here is the context in JSON format. Note that company's are not considered asset managers in this dataset, 
+and form10ks don't include asset manager information. Where asset manager info is mode explicitly available, 
+you can assume the mentioned asset managers are impacted by the same things as the companies. 
 <context>
 {context}
 </context>
@@ -50,18 +52,23 @@ def vector_graph_qa(query):
     return run_query("""
     CALL db.index.vector.queryNodes('document-embeddings', 50, $queryVector)
     YIELD node AS doc, score
-    OPTIONAL MATCH (doc)<-[:HAS]-(company:Company), (company)<-[:OWNS]-(manager:Manager)
-    RETURN company.companyName AS company, doc.text as annual_report_text_chunk, manager.managerName as owning_asset_manager, avg(score) AS score
-    ORDER BY score DESC LIMIT 50
+    OPTIONAL MATCH (doc)<-[:HAS]-(c:Company)<-[o:OWNS]-(manager:Manager)
+    RETURN c.companyName AS company, 
+        collect('The asset manager ' + manager.managerName + ' owns ' + toString(o.shares) + 
+        ' shares of ' + c.companyName + ' as of ' + toString(o.reportCalendarOrQuarter)) AS assetManagerInfo, 
+        doc.text AS company10kInfo, 
+        score
+    ORDER BY score DESC LIMIT 10
     """, params =  {'queryVector': query_vector})
 
 def df_to_context(df):
     result = df.to_json(orient="records")
     parsed = loads(result)
-    text = yaml.dump(
-        parsed,
-        sort_keys=False, indent=1,
-        default_flow_style=None)
+    # text = yaml.dump(
+    #     parsed,
+    #     sort_keys=False, indent=1,
+    #     default_flow_style=None)
+    text = json.dumps(parsed, indent=1)
     return text
 
 @retry(tries=5, delay=5)
@@ -88,9 +95,7 @@ def get_results(question):
             )
         ]
         result = bedrock_llm(messages).content
-        r = {}
-        r['context'] = ans
-        r['result'] = result
+        r = {'context': ctx, 'result': result}
         return r
     finally:
         print('Cypher Generation Time : {}'.format(timer() - start))
